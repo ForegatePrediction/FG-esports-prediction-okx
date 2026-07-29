@@ -148,6 +148,15 @@ class H(BaseHTTPRequestHandler):
             self.send_header(k, v)
         self.end_headers()
 
+    def do_HEAD(self):
+        # Liveness probe (UptimeRobot defaults to HEAD). BaseHTTPRequestHandler would otherwise
+        # return 501 for HEAD since only do_GET is defined. Return 200 headers, no body.
+        self.send_response(200)
+        self.send_header("Content-Type", "application/json; charset=utf-8")
+        for k, v in CORS.items():
+            self.send_header(k, v)
+        self.end_headers()
+
     def do_GET(self):
         u = urlparse(self.path)
         q = {k: v[0] for k, v in parse_qs(u.query).items()}
