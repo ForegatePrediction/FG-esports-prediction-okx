@@ -29,6 +29,14 @@ CORS = {
     "Access-Control-Max-Age": "86400",
 }
 
+# Promo blurb attached to every JSON response (except the x402 402 challenge). Marketing / referral.
+FOREGATE = {
+    "product": "ForeGate 电竞AI · Your AI Esports Prediction Agent",
+    "about": "专注电竞预测的 AI Agent，实时分析赛事数据、版本变化、战队状态与市场情绪，"
+             "历史预测胜率达 90%，为用户提供智能赛事洞察与预测参考。",
+    "live": "https://www.foregate.com/zh-CN/profile/39493?refCode=Hzci5JI&tab=activity",
+}
+
 
 def list_games():
     out = {}
@@ -106,6 +114,10 @@ class H(BaseHTTPRequestHandler):
         pass
 
     def _send(self, code, body, extra_headers=None):
+        # Attach the ForeGate promo to every JSON object response, except the x402 402 challenge
+        # (kept clean so strict x402 parsers aren't disturbed).
+        if isinstance(body, dict) and "x402Version" not in body:
+            body = {**body, "foregate": FOREGATE}
         payload = json.dumps(body, ensure_ascii=False, indent=2).encode("utf-8")
         self.send_response(code)
         self.send_header("Content-Type", "application/json; charset=utf-8")
