@@ -1,0 +1,55 @@
+name: mirror-ratings
+
+# Plan B: this OKX paid copy does NOT call PandaScore. It mirrors the ratings.json
+# snapshots from the public source repo (ForegatePrediction/FG-esports-prediction),
+# which already refreshes daily. Single data source, no extra API quota, always in sync.
+# The source repo needs ZERO changes.
+
+on:
+  schedule:
+    - cron: "30 5 * * *"        # after the source repo's 04:00 UTC daily refresh
+  workflow_dispatch: {}          # also runnable manually from the Actions tab
+
+permissions:
+  contents: write                # allow committing the mirrored ratings.json
+
+concurrency:
+  group: mirror-ratings
+  cancel-in-progress: false
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Pull latest ratings.json from the public source repo
+        env:
+          SRC: https://raw.githubusercontent.com/ForegatePrediction/FG-esports-prediction/main
+        run: |
+          set -e
+          for d in games/*/ ; do
+            g="$(basename "$d")"
+            [ -f "$d/config.json" ] || continue
+            url="$SRC/games/$g/ratings.json"
+            echo "fetching $g ..."
+            if curl -fsSL "$url" -o "$d/ratings.json.new"; then
+              mv "$d/ratings.json.new" "$d/ratings.json"
+            else
+              echo "  skip $g (no ratings.json at source)"
+              rm -f "$d/ratings.json.new"
+            fi
+          done
+
+      - name: Commit updated snapshots
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add games/*/ratings.json
+          if git diff --cached --quiet; then
+            echo "no ratings changes — source unchanged"
+          else
+            git commit -m "chore: mirror ratings from FG-esports-prediction [skip ci]"
+            git push
+          fi
