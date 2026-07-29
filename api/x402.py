@@ -123,7 +123,8 @@ def get_facilitator_address():
         ok, j = _okx_get(PATHS["supported"], timeout=6.0)
         kinds = j.get("kinds") or (j.get("data") or {}).get("kinds") or []
         for k in kinds:
-            f = (k or {}).get("extra", {}).get("facilitatorAddress")
+            ex = (k or {}).get("extra") or {}
+            f = ex.get("facilitatorAddress")
             if f:
                 _fac["addr"] = f
                 _fac["at"] = time.time()
@@ -164,7 +165,8 @@ def selftest():
         kinds = []
     facilitator = ""
     for k in kinds:
-        f = (k or {}).get("extra", {}).get("facilitatorAddress")
+        ex = (k or {}).get("extra") or {}
+        f = ex.get("facilitatorAddress")
         if f:
             facilitator = f
             break
