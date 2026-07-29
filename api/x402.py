@@ -134,56 +134,6 @@ def get_facilitator_address():
     return _fac["addr"] or ""
 
 
-def _probe_supported(timeout=8.0):
-    """Raw diagnostic call to /supported that captures the exact failure (status / error class / body snippet)."""
-    path = PATHS["supported"]
-    req = urllib.request.Request(f"{BASE}{path}", method="GET", headers=_okx_headers("GET", path, ""))
-    try:
-        with urllib.request.urlopen(req, timeout=timeout) as r:
-            body = r.read().decode("utf-8", "replace")
-            return {"httpStatus": r.status, "bodySnippet": body[:200]}
-    except urllib.error.HTTPError as e:
-        try:
-            body = e.read().decode("utf-8", "replace")
-        except Exception:
-            body = ""
-        return {"httpStatus": e.code, "error": "HTTPError", "bodySnippet": body[:200]}
-    except Exception as e:
-        return {"httpStatus": None, "error": type(e).__name__, "detail": str(e)[:200]}
-
-
-def selftest():
-    """Temporary diagnostic: shows whether OKX creds are wired and what /supported returns.
-    Exposes NO secret values — only booleans + OKX's own response code/msg + the public facilitator."""
-    creds_present = bool(CFG["apiKey"] and CFG["secretKey"] and CFG["passphrase"])
-    probe = _probe_supported()
-    ok, j = _okx_get(PATHS["supported"], timeout=8.0)
-    j = j if isinstance(j, dict) else {}
-    data = j.get("data") if isinstance(j.get("data"), dict) else {}
-    kinds = j.get("kinds") or data.get("kinds") or []
-    if not isinstance(kinds, list):
-        kinds = []
-    facilitator = ""
-    for k in kinds:
-        ex = (k or {}).get("extra") or {}
-        f = ex.get("facilitatorAddress")
-        if f:
-            facilitator = f
-            break
-    return {
-        "paywallEnabled": CFG["enabled"],
-        "okxBaseUrl": BASE,
-        "credsPresent": creds_present,
-        "apiKeyLen": len(CFG["apiKey"]),           # length only, not the value
-        "secretKeyLen": len(CFG["secretKey"]),
-        "passphraseLen": len(CFG["passphrase"]),
-        "supported": {"httpOk": ok, "code": j.get("code"), "msg": j.get("msg"),
-                      "kindsCount": len(kinds), "facilitatorAddress": facilitator},
-        "probe": probe,
-        "facilitatorOverride": CFG["facilitatorOverride"],
-    }
-
-
 def build_challenge(resource_url, description="Esports Match Predictions"):
     """HTTP 402 body: x402 v2 challenge with both accepts (exact=EIP-3009, upto=Permit2)."""
     facilitator_address = get_facilitator_address()
