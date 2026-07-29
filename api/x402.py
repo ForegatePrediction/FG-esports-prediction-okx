@@ -87,13 +87,15 @@ def _http(method, path, obj=None, timeout=10.0):
         with urllib.request.urlopen(req, timeout=timeout) as r:
             raw = r.read().decode("utf-8", "replace")
             try:
-                return True, json.loads(raw)
+                obj = json.loads(raw)
             except Exception:
-                return True, {}
+                obj = {}
+            return True, (obj if isinstance(obj, dict) else {"_raw": obj})
     except urllib.error.HTTPError as e:  # non-2xx: still try to read the JSON error body
         try:
             raw = e.read().decode("utf-8", "replace")
-            return False, json.loads(raw)
+            obj = json.loads(raw)
+            return False, (obj if isinstance(obj, dict) else {"_raw": obj})
         except Exception:
             return False, {}
     except Exception:
@@ -155,7 +157,11 @@ def selftest():
     creds_present = bool(CFG["apiKey"] and CFG["secretKey"] and CFG["passphrase"])
     probe = _probe_supported()
     ok, j = _okx_get(PATHS["supported"], timeout=8.0)
-    kinds = j.get("kinds") or (j.get("data") or {}).get("kinds") or []
+    j = j if isinstance(j, dict) else {}
+    data = j.get("data") if isinstance(j.get("data"), dict) else {}
+    kinds = j.get("kinds") or data.get("kinds") or []
+    if not isinstance(kinds, list):
+        kinds = []
     facilitator = ""
     for k in kinds:
         f = (k or {}).get("extra", {}).get("facilitatorAddress")
