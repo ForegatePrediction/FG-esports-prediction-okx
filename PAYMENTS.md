@@ -21,8 +21,14 @@ stays a separate, always-free deployment; this repo powers the paid ASP only.
 Only `/predict` is gated. `/health`, `/games`, `/teams`, `/stats` stay free.
 
 ## Pricing
-Default **0.01 USDT / call** (`PAY_AMOUNT=10000`, 6-decimals). Change `PAY_AMOUNT` to reprice.
-(Pricing/tier decisions are still open — this is the intro default, matching the World Cup ASP.)
+**0.5 USDT / call** (`PAY_AMOUNT=500000`, 6-decimals). Change `PAY_AMOUNT` to reprice
+(e.g. 0.01 USDT = 10000, 1 USDT = 1000000).
+
+## Payment methods (both advertised in the 402 challenge)
+- `exact` = **EIP-3009** (transferWithAuthorization; no Permit2 approval; single fixed-price call)
+- `upto`  = **Permit2** (cap authorization / metered; needs facilitatorAddress)
+
+So both EIP-3009-only buyers and Permit2 buyers can pay — no buyer is locked out.
 
 ## Go-live steps (on Render)
 1. Create a NEW web service from this repo (`render.yaml` included). Name it e.g. `foregate-esports-paid`.

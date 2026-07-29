@@ -159,6 +159,8 @@ class H(BaseHTTPRequestHandler):
                                         "games": list(list_games().keys())})
             if path == "/games":
                 return self._send(200, list_games())
+            if path == "/x402-selftest":            # TEMP diagnostic (no secrets); remove after debugging
+                return self._send(200, x402.selftest())
             if path == "/stats":
                 gl = list_games()
                 if any(q.get(k) for k in ("game", "categoryId", "category_id", "catId", "name", "categoryName", "category_name")):

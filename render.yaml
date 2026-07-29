@@ -14,7 +14,7 @@ services:
       - key: PAY_NETWORK
         value: "eip155:196"                 # X Layer
       - key: PAY_AMOUNT
-        value: "10000"                      # 0.01 USDT (6 decimals)
+        value: "500000"                     # 0.5 USDT (6 decimals)
       - key: PAY_ASSET_CONTRACT
         value: "0x779ded0c9e1022225f8e0630b35a9b54be713736"  # USD₮0
       - key: PAY_EIP712_NAME

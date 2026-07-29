@@ -130,6 +130,31 @@ def get_facilitator_address():
     return _fac["addr"] or ""
 
 
+def selftest():
+    """Temporary diagnostic: shows whether OKX creds are wired and what /supported returns.
+    Exposes NO secret values — only booleans + OKX's own response code/msg + the public facilitator."""
+    creds_present = bool(CFG["apiKey"] and CFG["secretKey"] and CFG["passphrase"])
+    ok, j = _okx_get(PATHS["supported"], timeout=8.0)
+    kinds = j.get("kinds") or (j.get("data") or {}).get("kinds") or []
+    facilitator = ""
+    for k in kinds:
+        f = (k or {}).get("extra", {}).get("facilitatorAddress")
+        if f:
+            facilitator = f
+            break
+    return {
+        "paywallEnabled": CFG["enabled"],
+        "okxBaseUrl": BASE,
+        "credsPresent": creds_present,
+        "apiKeyLen": len(CFG["apiKey"]),           # length only, not the value
+        "secretKeyLen": len(CFG["secretKey"]),
+        "passphraseLen": len(CFG["passphrase"]),
+        "supported": {"httpOk": ok, "code": j.get("code"), "msg": j.get("msg"),
+                      "kindsCount": len(kinds), "facilitatorAddress": facilitator},
+        "facilitatorOverride": CFG["facilitatorOverride"],
+    }
+
+
 def build_challenge(resource_url, description="Esports Match Predictions"):
     """HTTP 402 body: x402 v2 challenge with both accepts (exact=EIP-3009, upto=Permit2)."""
     facilitator_address = get_facilitator_address()
