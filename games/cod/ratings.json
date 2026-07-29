@@ -1,0 +1,141 @@
+{
+ "game": "cod",
+ "updated": "2026-07-23",
+ "scale": 400,
+ "shrink": 1.0,
+ "n_teams": 22,
+ "teams": {
+  "Boston Breach": {
+   "rating": 1466.3,
+   "w": 139,
+   "l": 187,
+   "last_date": "2026-06-26"
+  },
+  "Carolina Royal Ravens": {
+   "rating": 1485.4,
+   "w": 141,
+   "l": 169,
+   "last_date": "2026-06-26"
+  },
+  "Cloud9 New York": {
+   "rating": 1348.9,
+   "w": 95,
+   "l": 177,
+   "last_date": "2026-06-26"
+  },
+  "Death By Cabal": {
+   "rating": 1501.2,
+   "w": 5,
+   "l": 6,
+   "last_date": "2026-03-18"
+  },
+  "FaZe Falcons": {
+   "rating": 1446.6,
+   "w": 6,
+   "l": 9,
+   "last_date": "2026-05-07"
+  },
+  "FaZe Vegas": {
+   "rating": 1743.0,
+   "w": 134,
+   "l": 98,
+   "last_date": "2026-07-19"
+  },
+  "Falcons Academy Green": {
+   "rating": 1495.8,
+   "w": 6,
+   "l": 8,
+   "last_date": "2026-03-19"
+  },
+  "For Fun Esports": {
+   "rating": 1374.6,
+   "w": 3,
+   "l": 12,
+   "last_date": "2026-05-06"
+  },
+  "For Fun and FeLo": {
+   "rating": 1438.3,
+   "w": 3,
+   "l": 6,
+   "last_date": "2026-03-18"
+  },
+  "G2 Minnesota": {
+   "rating": 1534.0,
+   "w": 93,
+   "l": 102,
+   "last_date": "2026-07-18"
+  },
+  "Huntsmen": {
+   "rating": 1473.3,
+   "w": 10,
+   "l": 14,
+   "last_date": "2026-05-15"
+  },
+  "Los Angeles Thieves": {
+   "rating": 1634.8,
+   "w": 270,
+   "l": 146,
+   "last_date": "2026-07-17"
+  },
+  "Miami Heretics": {
+   "rating": 1459.2,
+   "w": 183,
+   "l": 184,
+   "last_date": "2026-07-18"
+  },
+  "OMiT": {
+   "rating": 1478.9,
+   "w": 11,
+   "l": 14,
+   "last_date": "2026-05-15"
+  },
+  "OMiT Brooklyn": {
+   "rating": 1534.5,
+   "w": 14,
+   "l": 10,
+   "last_date": "2026-05-07"
+  },
+  "OpTic Texas": {
+   "rating": 1704.1,
+   "w": 242,
+   "l": 163,
+   "last_date": "2026-07-19"
+  },
+  "Paris Gentle Mates": {
+   "rating": 1618.1,
+   "w": 118,
+   "l": 107,
+   "last_date": "2026-07-18"
+  },
+  "Project Notorious": {
+   "rating": 1550.3,
+   "w": 31,
+   "l": 21,
+   "last_date": "2026-05-15"
+  },
+  "Riyadh Falcons": {
+   "rating": 1589.1,
+   "w": 98,
+   "l": 91,
+   "last_date": "2026-07-19"
+  },
+  "Telluride Bush Gaming": {
+   "rating": 1593.2,
+   "w": 13,
+   "l": 6,
+   "last_date": "2026-03-20"
+  },
+  "Toronto KOI": {
+   "rating": 1510.6,
+   "w": 100,
+   "l": 91,
+   "last_date": "2026-07-17"
+  },
+  "Vancouver Surge": {
+   "rating": 1452.0,
+   "w": 166,
+   "l": 196,
+   "last_date": "2026-06-26"
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "王者荣耀 King of Glory",
+  "category_id": 20147,
+  "category_name": "Honor of Kings",
+  "source": "PandaScore (免费档,需 token)",
+  "scale": 400,
+  "shrink": 1.0,
+  "side_adv": 0,
+  "default_bo": 5,
+  "hcap": 1.5,
+  "backtest": {
+    "mode": "frac",
+    "frac": 0.55
+  },
+  "accuracy": "样本外 赛事胜负 ~65%(约1.5年数据)"
+}

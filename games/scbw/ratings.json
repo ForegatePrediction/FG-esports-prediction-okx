@@ -1,0 +1,111 @@
+{
+ "game": "scbw",
+ "updated": "2026-07-23",
+ "scale": 400,
+ "shrink": 1.0,
+ "n_teams": 17,
+ "teams": {
+  "BTS": {
+   "rating": 1527.4,
+   "w": 6,
+   "l": 6,
+   "last_date": "2025-09-09"
+  },
+  "BarrackS": {
+   "rating": 1530.7,
+   "w": 14,
+   "l": 12,
+   "last_date": "2025-10-13"
+  },
+  "Best": {
+   "rating": 1591.5,
+   "w": 23,
+   "l": 19,
+   "last_date": "2025-09-29"
+  },
+  "Bisu": {
+   "rating": 1597.6,
+   "w": 14,
+   "l": 10,
+   "last_date": "2025-10-14"
+  },
+  "EffOrt": {
+   "rating": 1577.5,
+   "w": 7,
+   "l": 5,
+   "last_date": "2025-09-23"
+  },
+  "Jaedong": {
+   "rating": 1549.0,
+   "w": 10,
+   "l": 8,
+   "last_date": "2025-09-15"
+  },
+  "Larva": {
+   "rating": 1558.3,
+   "w": 7,
+   "l": 5,
+   "last_date": "2025-09-30"
+  },
+  "Light": {
+   "rating": 1585.9,
+   "w": 15,
+   "l": 11,
+   "last_date": "2025-09-16"
+  },
+  "Mini": {
+   "rating": 1550.7,
+   "w": 12,
+   "l": 11,
+   "last_date": "2025-09-22"
+  },
+  "Queen": {
+   "rating": 1575.3,
+   "w": 11,
+   "l": 8,
+   "last_date": "2025-09-09"
+  },
+  "Rush": {
+   "rating": 1518.6,
+   "w": 11,
+   "l": 12,
+   "last_date": "2025-09-08"
+  },
+  "Sharp": {
+   "rating": 1429.6,
+   "w": 2,
+   "l": 7,
+   "last_date": "2025-09-15"
+  },
+  "Snow": {
+   "rating": 1616.0,
+   "w": 23,
+   "l": 13,
+   "last_date": "2025-10-26"
+  },
+  "Soulkey": {
+   "rating": 1596.1,
+   "w": 15,
+   "l": 11,
+   "last_date": "2025-09-08"
+  },
+  "Speed": {
+   "rating": 1452.1,
+   "w": 5,
+   "l": 8,
+   "last_date": "2025-09-16"
+  },
+  "hero": {
+   "rating": 1451.6,
+   "w": 3,
+   "l": 5,
+   "last_date": "2025-08-27"
+  },
+  "soma": {
+   "rating": 1662.1,
+   "w": 17,
+   "l": 8,
+   "last_date": "2025-10-26"
+  }
+ }
+}

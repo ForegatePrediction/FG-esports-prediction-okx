@@ -1,0 +1,16 @@
+{
+  "name": "决胜巅峰 Mobile Legends",
+  "category_id": 20144,
+  "category_name": "Mobile Legends: Bang Bang",
+  "source": "PandaScore (免费档,需 token)",
+  "scale": 400,
+  "shrink": 1.0,
+  "side_adv": 0,
+  "default_bo": 3,
+  "hcap": 1.5,
+  "backtest": {
+    "mode": "frac",
+    "frac": 0.55
+  },
+  "accuracy": "样本外 赛事胜负 ~68%(约2.5年数据)"
+}

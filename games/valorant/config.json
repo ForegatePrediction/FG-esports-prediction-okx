@@ -1,0 +1,16 @@
+{
+  "name": "无畏契约 Valorant",
+  "category_id": 20143,
+  "category_name": "Valorant",
+  "source": "PandaScore (免费档,需 token)",
+  "scale": 400,
+  "shrink": 1.0,
+  "side_adv": 0,
+  "default_bo": 3,
+  "hcap": 1.5,
+  "backtest": {
+    "mode": "frac",
+    "frac": 0.55
+  },
+  "accuracy": "样本外 赛事胜负 ~61.8%(一年数据)"
+}

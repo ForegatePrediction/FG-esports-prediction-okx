@@ -1,0 +1,31 @@
+services:
+  - type: web
+    name: foregate-esports-paid            # separate PAID instance for OKX (free one stays untouched)
+    runtime: python
+    plan: starter
+    buildCommand: "python3 --version"
+    startCommand: "python3 server.py"
+    envVars:
+      - key: PYTHON_VERSION
+        value: "3.11.9"
+      # --- x402 paywall (set the secret ones in the Render dashboard, NOT here) ---
+      - key: PAYWALL_ENABLED
+        value: "false"                      # flip to "true" to charge; default free
+      - key: PAY_NETWORK
+        value: "eip155:196"                 # X Layer
+      - key: PAY_AMOUNT
+        value: "10000"                      # 0.01 USDT (6 decimals)
+      - key: PAY_ASSET_CONTRACT
+        value: "0x779ded0c9e1022225f8e0630b35a9b54be713736"  # USD₮0
+      - key: PAY_EIP712_NAME
+        value: "USD₮0"
+      - key: PAY_EIP712_VERSION
+        value: "2"
+      - key: PAY_TO_ADDRESS
+        sync: false                         # your Agentic Wallet receiving address (set in dashboard)
+      - key: OKX_API_KEY
+        sync: false                         # OKX API key (dashboard only — never commit)
+      - key: OKX_SECRET_KEY
+        sync: false
+      - key: OKX_PASSPHRASE
+        sync: false

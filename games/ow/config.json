@@ -1,0 +1,16 @@
+{
+  "name": "斗阵特攻 Overwatch",
+  "category_id": 20146,
+  "category_name": "Overwatch",
+  "source": "PandaScore (免费档,需 token)",
+  "scale": 400,
+  "shrink": 1.0,
+  "side_adv": 0,
+  "default_bo": 3,
+  "hcap": 1.5,
+  "backtest": {
+    "mode": "frac",
+    "frac": 0.55
+  },
+  "accuracy": "样本外 赛事胜负 ~75%(6年数据,强弱分层清晰)"
+}

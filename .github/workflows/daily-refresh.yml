@@ -1,0 +1,41 @@
+name: daily-refresh
+
+on:
+  schedule:
+    - cron: "0 4 * * *"        # 每天 04:00 UTC(约北京中午 12:00)刷新
+  workflow_dispatch: {}         # 也可在 Actions 页手动触发
+
+permissions:
+  contents: write               # 允许提交更新后的 ratings.json
+
+concurrency:
+  group: daily-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Refresh all games' ratings
+        env:
+          PANDASCORE_TOKEN: ${{ secrets.PANDASCORE_TOKEN }}
+        run: python3 refresh.py
+
+      - name: Commit updated snapshots
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add games/*/ratings.json
+          if git diff --cached --quiet; then
+            echo "没有评级更新,跳过提交"
+          else
+            git commit -m "chore: daily ratings refresh [skip ci]"
+            git push
+          fi

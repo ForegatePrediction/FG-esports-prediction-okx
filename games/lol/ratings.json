@@ -1,0 +1,1857 @@
+{
+ "game": "lol",
+ "updated": "2026-07-21",
+ "scale": 400,
+ "shrink": 1.0,
+ "n_teams": 308,
+ "teams": {
+  "3BL Esports": {
+   "rating": 1498.7,
+   "w": 29,
+   "l": 46,
+   "last_date": "2026-05-08"
+  },
+  "4 Employed e 1 Budino": {
+   "rating": 1586.4,
+   "w": 9,
+   "l": 3,
+   "last_date": "2026-02-21"
+  },
+  "7REX": {
+   "rating": 1488.3,
+   "w": 12,
+   "l": 12,
+   "last_date": "2026-05-12"
+  },
+  "9Gaming Esports": {
+   "rating": 1403.8,
+   "w": 11,
+   "l": 19,
+   "last_date": "2026-05-27"
+  },
+  "9z Globant": {
+   "rating": 1598.8,
+   "w": 23,
+   "l": 17,
+   "last_date": "2026-07-09"
+  },
+  "A One Man Army Prime": {
+   "rating": 1509.8,
+   "w": 7,
+   "l": 12,
+   "last_date": "2026-02-20"
+  },
+  "ALMO Players": {
+   "rating": 1391.9,
+   "w": 13,
+   "l": 28,
+   "last_date": "2026-07-08"
+  },
+  "Aeterna Esports": {
+   "rating": 1398.2,
+   "w": 7,
+   "l": 9,
+   "last_date": "2026-05-01"
+  },
+  "Andromeda Gaming": {
+   "rating": 1466.0,
+   "w": 24,
+   "l": 34,
+   "last_date": "2026-06-07"
+  },
+  "Anonymo Esports": {
+   "rating": 1511.1,
+   "w": 55,
+   "l": 73,
+   "last_date": "2026-05-26"
+  },
+  "Anubis Gaming": {
+   "rating": 1772.7,
+   "w": 90,
+   "l": 81,
+   "last_date": "2026-06-12"
+  },
+  "Anyone's Legend": {
+   "rating": 1628.0,
+   "w": 212,
+   "l": 146,
+   "last_date": "2026-06-08"
+  },
+  "Apex Mission Impossible": {
+   "rating": 1333.1,
+   "w": 23,
+   "l": 53,
+   "last_date": "2026-06-18"
+  },
+  "Arctic Pandas": {
+   "rating": 1585.7,
+   "w": 21,
+   "l": 14,
+   "last_date": "2026-06-01"
+  },
+  "Arneb": {
+   "rating": 1578.0,
+   "w": 30,
+   "l": 21,
+   "last_date": "2026-06-13"
+  },
+  "Axolotl": {
+   "rating": 1390.2,
+   "w": 38,
+   "l": 63,
+   "last_date": "2026-02-21"
+  },
+  "BAAM Esports": {
+   "rating": 1526.1,
+   "w": 67,
+   "l": 84,
+   "last_date": "2026-05-20"
+  },
+  "BK ROG Esports": {
+   "rating": 1641.7,
+   "w": 107,
+   "l": 80,
+   "last_date": "2026-02-19"
+  },
+  "BNK FEARX": {
+   "rating": 1582.6,
+   "w": 137,
+   "l": 175,
+   "last_date": "2026-05-30"
+  },
+  "BNK FEARX Youth": {
+   "rating": 1491.0,
+   "w": 153,
+   "l": 163,
+   "last_date": "2026-05-28"
+  },
+  "BRUTE": {
+   "rating": 1357.4,
+   "w": 45,
+   "l": 77,
+   "last_date": "2026-05-17"
+  },
+  "Bamboo Juice": {
+   "rating": 1386.8,
+   "w": 18,
+   "l": 26,
+   "last_date": "2026-04-19"
+  },
+  "Barcząca Esports": {
+   "rating": 1600.4,
+   "w": 39,
+   "l": 33,
+   "last_date": "2026-05-30"
+  },
+  "Barulhinhos": {
+   "rating": 1479.9,
+   "w": 10,
+   "l": 9,
+   "last_date": "2026-06-05"
+  },
+  "Barça eSports": {
+   "rating": 1628.1,
+   "w": 122,
+   "l": 114,
+   "last_date": "2026-06-05"
+  },
+  "BeFive": {
+   "rating": 1470.9,
+   "w": 67,
+   "l": 66,
+   "last_date": "2026-03-03"
+  },
+  "Berlin International Gaming": {
+   "rating": 1796.7,
+   "w": 168,
+   "l": 90,
+   "last_date": "2026-07-09"
+  },
+  "Bilibili Gaming": {
+   "rating": 1974.5,
+   "w": 307,
+   "l": 148,
+   "last_date": "2026-07-09"
+  },
+  "Bilibili Gaming Junior": {
+   "rating": 1495.1,
+   "w": 37,
+   "l": 50,
+   "last_date": "2026-06-11"
+  },
+  "Blue Otter": {
+   "rating": 1488.9,
+   "w": 62,
+   "l": 73,
+   "last_date": "2026-06-20"
+  },
+  "Bohemian Guardians": {
+   "rating": 1354.2,
+   "w": 3,
+   "l": 15,
+   "last_date": "2026-05-29"
+  },
+  "Bomba Team": {
+   "rating": 1699.8,
+   "w": 36,
+   "l": 21,
+   "last_date": "2026-06-11"
+  },
+  "BoostGate Esports": {
+   "rating": 1475.8,
+   "w": 100,
+   "l": 90,
+   "last_date": "2026-05-19"
+  },
+  "Bubliki": {
+   "rating": 1489.4,
+   "w": 10,
+   "l": 11,
+   "last_date": "2026-06-08"
+  },
+  "Bulldog Esports": {
+   "rating": 1488.6,
+   "w": 32,
+   "l": 37,
+   "last_date": "2026-05-29"
+  },
+  "Bushido Wildcats": {
+   "rating": 1487.3,
+   "w": 61,
+   "l": 58,
+   "last_date": "2026-05-20"
+  },
+  "CAG OSAKA": {
+   "rating": 1361.4,
+   "w": 8,
+   "l": 18,
+   "last_date": "2026-04-19"
+  },
+  "CCG Esports": {
+   "rating": 1565.3,
+   "w": 61,
+   "l": 54,
+   "last_date": "2026-06-05"
+  },
+  "CITA Kaizen": {
+   "rating": 1798.4,
+   "w": 62,
+   "l": 37,
+   "last_date": "2026-06-09"
+  },
+  "CITA Kaizen Academy": {
+   "rating": 1484.1,
+   "w": 12,
+   "l": 13,
+   "last_date": "2026-06-03"
+  },
+  "CTBC Flying Oyster": {
+   "rating": 1522.1,
+   "w": 144,
+   "l": 98,
+   "last_date": "2026-05-23"
+  },
+  "CTBC Flying Oyster Academy": {
+   "rating": 1619.3,
+   "w": 99,
+   "l": 48,
+   "last_date": "2026-06-11"
+  },
+  "Caldya Esport": {
+   "rating": 1509.3,
+   "w": 18,
+   "l": 22,
+   "last_date": "2026-06-06"
+  },
+  "Citadel Gaming": {
+   "rating": 1469.6,
+   "w": 19,
+   "l": 21,
+   "last_date": "2026-05-15"
+  },
+  "Cloud9": {
+   "rating": 1586.5,
+   "w": 112,
+   "l": 76,
+   "last_date": "2026-06-13"
+  },
+  "Colossal Gaming": {
+   "rating": 1547.6,
+   "w": 49,
+   "l": 41,
+   "last_date": "2026-05-15"
+  },
+  "Contingent Esports": {
+   "rating": 1550.9,
+   "w": 8,
+   "l": 10,
+   "last_date": "2026-06-18"
+  },
+  "Conviction": {
+   "rating": 1703.8,
+   "w": 57,
+   "l": 38,
+   "last_date": "2026-06-05"
+  },
+  "Croatian Flair": {
+   "rating": 1484.0,
+   "w": 9,
+   "l": 12,
+   "last_date": "2026-04-28"
+  },
+  "Crusaders": {
+   "rating": 1475.5,
+   "w": 21,
+   "l": 22,
+   "last_date": "2026-06-02"
+  },
+  "Crvena zvezda Esports": {
+   "rating": 1351.9,
+   "w": 85,
+   "l": 62,
+   "last_date": "2026-02-11"
+  },
+  "Crystal Rose": {
+   "rating": 1327.0,
+   "w": 1,
+   "l": 13,
+   "last_date": "2026-05-24"
+  },
+  "DECOY 21": {
+   "rating": 1532.9,
+   "w": 7,
+   "l": 3,
+   "last_date": "2026-05-21"
+  },
+  "DMG Esports": {
+   "rating": 1439.8,
+   "w": 48,
+   "l": 72,
+   "last_date": "2026-05-27"
+  },
+  "DN SOOPers": {
+   "rating": 1387.1,
+   "w": 83,
+   "l": 185,
+   "last_date": "2026-05-30"
+  },
+  "DN SOOPers Academy": {
+   "rating": 1456.6,
+   "w": 100,
+   "l": 138,
+   "last_date": "2026-05-09"
+  },
+  "DN SOOPers Challengers": {
+   "rating": 1617.2,
+   "w": 162,
+   "l": 148,
+   "last_date": "2026-05-29"
+  },
+  "DOCISK": {
+   "rating": 1430.1,
+   "w": 22,
+   "l": 38,
+   "last_date": "2026-05-21"
+  },
+  "Dark Passage": {
+   "rating": 1361.7,
+   "w": 45,
+   "l": 56,
+   "last_date": "2026-05-12"
+  },
+  "Deacoy": {
+   "rating": 1444.6,
+   "w": 6,
+   "l": 9,
+   "last_date": "2026-02-11"
+  },
+  "DeathMark E-Sports": {
+   "rating": 1434.8,
+   "w": 6,
+   "l": 7,
+   "last_date": "2026-06-20"
+  },
+  "Deep Cross Gaming": {
+   "rating": 1617.5,
+   "w": 174,
+   "l": 116,
+   "last_date": "2026-06-29"
+  },
+  "Deer Gaming": {
+   "rating": 1483.2,
+   "w": 13,
+   "l": 13,
+   "last_date": "2026-06-03"
+  },
+  "DetonatioN FocusMe": {
+   "rating": 1379.5,
+   "w": 75,
+   "l": 96,
+   "last_date": "2026-05-17"
+  },
+  "DetonatioN FocusMe Academy": {
+   "rating": 1401.0,
+   "w": 34,
+   "l": 83,
+   "last_date": "2026-06-03"
+  },
+  "Dignitas": {
+   "rating": 1356.9,
+   "w": 35,
+   "l": 80,
+   "last_date": "2026-05-17"
+  },
+  "Disguised": {
+   "rating": 1452.3,
+   "w": 61,
+   "l": 92,
+   "last_date": "2026-05-16"
+  },
+  "Diversion Gaming": {
+   "rating": 1342.6,
+   "w": 58,
+   "l": 57,
+   "last_date": "2026-06-04"
+  },
+  "Docta Esports": {
+   "rating": 1534.6,
+   "w": 6,
+   "l": 6,
+   "last_date": "2026-07-09"
+  },
+  "Dorado Gaming": {
+   "rating": 1397.7,
+   "w": 18,
+   "l": 27,
+   "last_date": "2026-05-15"
+  },
+  "Dplus Kia": {
+   "rating": 1684.3,
+   "w": 219,
+   "l": 181,
+   "last_date": "2026-06-07"
+  },
+  "Dplus Kia Academy": {
+   "rating": 1740.7,
+   "w": 169,
+   "l": 103,
+   "last_date": "2026-05-17"
+  },
+  "Dplus Kia Challengers": {
+   "rating": 1757.6,
+   "w": 171,
+   "l": 134,
+   "last_date": "2026-06-21"
+  },
+  "Dragons Esports": {
+   "rating": 1554.8,
+   "w": 59,
+   "l": 38,
+   "last_date": "2026-05-13"
+  },
+  "Dynasty": {
+   "rating": 1474.0,
+   "w": 24,
+   "l": 44,
+   "last_date": "2026-05-21"
+  },
+  "E WIE EINFACH E-SPORTS": {
+   "rating": 1738.5,
+   "w": 97,
+   "l": 95,
+   "last_date": "2026-07-09"
+  },
+  "EDG Youth Team": {
+   "rating": 1473.5,
+   "w": 52,
+   "l": 33,
+   "last_date": "2026-06-10"
+  },
+  "EDward Gaming": {
+   "rating": 1479.1,
+   "w": 89,
+   "l": 106,
+   "last_date": "2026-06-03"
+  },
+  "EKO Esports": {
+   "rating": 1408.5,
+   "w": 33,
+   "l": 65,
+   "last_date": "2026-05-14"
+  },
+  "EXILE esports": {
+   "rating": 1461.0,
+   "w": 48,
+   "l": 65,
+   "last_date": "2026-05-26"
+  },
+  "EXILE esports Academy": {
+   "rating": 1513.6,
+   "w": 17,
+   "l": 18,
+   "last_date": "2026-06-13"
+  },
+  "Ei Nerd Esports": {
+   "rating": 1446.9,
+   "w": 5,
+   "l": 9,
+   "last_date": "2026-05-11"
+  },
+  "Eintracht Frankfurt": {
+   "rating": 1496.9,
+   "w": 54,
+   "l": 89,
+   "last_date": "2026-07-09"
+  },
+  "Eintracht Spandau": {
+   "rating": 1746.1,
+   "w": 128,
+   "l": 94,
+   "last_date": "2026-07-09"
+  },
+  "Epitomy Esports": {
+   "rating": 1510.6,
+   "w": 11,
+   "l": 9,
+   "last_date": "2026-05-24"
+  },
+  "Epitomy Masters": {
+   "rating": 1460.6,
+   "w": 5,
+   "l": 5,
+   "last_date": "2026-02-14"
+  },
+  "Esprit Shōnen": {
+   "rating": 1525.0,
+   "w": 72,
+   "l": 56,
+   "last_date": "2026-05-21"
+  },
+  "Estral Esports": {
+   "rating": 1605.8,
+   "w": 86,
+   "l": 47,
+   "last_date": "2026-05-26"
+  },
+  "Ethereal Enigmas": {
+   "rating": 1677.1,
+   "w": 56,
+   "l": 50,
+   "last_date": "2026-06-14"
+  },
+  "FENNEL": {
+   "rating": 1730.1,
+   "w": 33,
+   "l": 8,
+   "last_date": "2026-06-14"
+  },
+  "FN Esports": {
+   "rating": 1593.2,
+   "w": 60,
+   "l": 36,
+   "last_date": "2026-06-08"
+  },
+  "FURIA": {
+   "rating": 1737.1,
+   "w": 99,
+   "l": 85,
+   "last_date": "2026-07-06"
+  },
+  "Falke Esports": {
+   "rating": 1406.5,
+   "w": 32,
+   "l": 39,
+   "last_date": "2026-05-21"
+  },
+  "Fast8": {
+   "rating": 1469.4,
+   "w": 14,
+   "l": 17,
+   "last_date": "2026-04-19"
+  },
+  "Fluxo W7M": {
+   "rating": 1512.0,
+   "w": 23,
+   "l": 53,
+   "last_date": "2026-06-10"
+  },
+  "FlyQuest": {
+   "rating": 1630.6,
+   "w": 146,
+   "l": 93,
+   "last_date": "2026-06-06"
+  },
+  "Fnatic": {
+   "rating": 1596.9,
+   "w": 125,
+   "l": 112,
+   "last_date": "2026-05-04"
+  },
+  "Forsaken": {
+   "rating": 1677.8,
+   "w": 112,
+   "l": 94,
+   "last_date": "2026-06-12"
+  },
+  "Francesinhas": {
+   "rating": 1517.3,
+   "w": 6,
+   "l": 7,
+   "last_date": "2026-05-22"
+  },
+  "Frank Esports": {
+   "rating": 1652.2,
+   "w": 135,
+   "l": 85,
+   "last_date": "2026-06-03"
+  },
+  "French Flair": {
+   "rating": 1803.0,
+   "w": 28,
+   "l": 12,
+   "last_date": "2026-04-07"
+  },
+  "Frites Esports Club": {
+   "rating": 1813.9,
+   "w": 43,
+   "l": 8,
+   "last_date": "2026-06-09"
+  },
+  "Fuego": {
+   "rating": 1654.3,
+   "w": 87,
+   "l": 32,
+   "last_date": "2026-07-05"
+  },
+  "Fukuoka SoftBank HAWKS gaming": {
+   "rating": 1536.1,
+   "w": 111,
+   "l": 98,
+   "last_date": "2026-05-24"
+  },
+  "G2 Esports": {
+   "rating": 1873.1,
+   "w": 209,
+   "l": 114,
+   "last_date": "2026-07-10"
+  },
+  "G2 NORD": {
+   "rating": 1793.6,
+   "w": 58,
+   "l": 34,
+   "last_date": "2026-07-08"
+  },
+  "G3V E-sports": {
+   "rating": 1588.7,
+   "w": 15,
+   "l": 16,
+   "last_date": "2026-06-09"
+  },
+  "GAM Esports": {
+   "rating": 1687.8,
+   "w": 152,
+   "l": 112,
+   "last_date": "2026-06-06"
+  },
+  "GIANTX iTero": {
+   "rating": 1565.8,
+   "w": 112,
+   "l": 67,
+   "last_date": "2026-05-21"
+  },
+  "GLORE": {
+   "rating": 1320.9,
+   "w": 50,
+   "l": 82,
+   "last_date": "2026-05-20"
+  },
+  "GMBLERS Esports": {
+   "rating": 1555.8,
+   "w": 64,
+   "l": 62,
+   "last_date": "2026-06-08"
+  },
+  "GOAL": {
+   "rating": 1626.4,
+   "w": 43,
+   "l": 35,
+   "last_date": "2026-06-09"
+  },
+  "GTZ Esports": {
+   "rating": 1437.8,
+   "w": 58,
+   "l": 56,
+   "last_date": "2026-05-22"
+  },
+  "Galions": {
+   "rating": 1996.3,
+   "w": 116,
+   "l": 64,
+   "last_date": "2026-06-15"
+  },
+  "Galions Sharks": {
+   "rating": 1488.0,
+   "w": 6,
+   "l": 10,
+   "last_date": "2026-05-24"
+  },
+  "Gamespace Mediterranean College Esports": {
+   "rating": 1572.2,
+   "w": 98,
+   "l": 103,
+   "last_date": "2026-07-09"
+  },
+  "Gen.G": {
+   "rating": 1881.9,
+   "w": 291,
+   "l": 100,
+   "last_date": "2026-06-14"
+  },
+  "Gen.G Global Academy": {
+   "rating": 1302.8,
+   "w": 90,
+   "l": 182,
+   "last_date": "2026-05-29"
+  },
+  "Gen.G Scholars": {
+   "rating": 1491.8,
+   "w": 90,
+   "l": 108,
+   "last_date": "2026-05-17"
+  },
+  "GiantX": {
+   "rating": 1694.9,
+   "w": 71,
+   "l": 92,
+   "last_date": "2026-06-01"
+  },
+  "GnG Amazigh": {
+   "rating": 1428.3,
+   "w": 82,
+   "l": 101,
+   "last_date": "2026-06-05"
+  },
+  "Golden Lions": {
+   "rating": 1538.8,
+   "w": 36,
+   "l": 23,
+   "last_date": "2026-07-10"
+  },
+  "Ground Zero Gaming": {
+   "rating": 1416.0,
+   "w": 82,
+   "l": 90,
+   "last_date": "2026-05-16"
+  },
+  "HANJIN BRION": {
+   "rating": 1541.2,
+   "w": 89,
+   "l": 180,
+   "last_date": "2026-06-06"
+  },
+  "HANJIN BRION Academy": {
+   "rating": 1318.6,
+   "w": 86,
+   "l": 87,
+   "last_date": "2026-05-03"
+  },
+  "HANJIN BRION Challengers": {
+   "rating": 1361.9,
+   "w": 93,
+   "l": 155,
+   "last_date": "2026-05-28"
+  },
+  "HMBLE": {
+   "rating": 1725.7,
+   "w": 35,
+   "l": 11,
+   "last_date": "2026-06-11"
+  },
+  "Hanwha Life Esports": {
+   "rating": 1934.1,
+   "w": 257,
+   "l": 131,
+   "last_date": "2026-07-09"
+  },
+  "Hanwha Life Esports Academy": {
+   "rating": 1626.1,
+   "w": 137,
+   "l": 87,
+   "last_date": "2026-05-16"
+  },
+  "Hanwha Life Esports Challengers": {
+   "rating": 1448.9,
+   "w": 130,
+   "l": 149,
+   "last_date": "2026-05-28"
+  },
+  "Howl Esports": {
+   "rating": 1379.5,
+   "w": 7,
+   "l": 14,
+   "last_date": "2026-02-18"
+  },
+  "Huskies Esports": {
+   "rating": 1449.9,
+   "w": 8,
+   "l": 7,
+   "last_date": "2026-05-22"
+  },
+  "INTZ": {
+   "rating": 1542.4,
+   "w": 21,
+   "l": 35,
+   "last_date": "2026-05-19"
+  },
+  "Ici Japon Corp. Esport": {
+   "rating": 1535.0,
+   "w": 89,
+   "l": 64,
+   "last_date": "2026-05-13"
+  },
+  "Icon Esports": {
+   "rating": 1375.3,
+   "w": 9,
+   "l": 20,
+   "last_date": "2026-03-31"
+  },
+  "Inferno Drive Tokyo": {
+   "rating": 1605.7,
+   "w": 28,
+   "l": 12,
+   "last_date": "2026-04-19"
+  },
+  "Invictus Gaming": {
+   "rating": 1515.4,
+   "w": 156,
+   "l": 159,
+   "last_date": "2026-05-23"
+  },
+  "Invokers": {
+   "rating": 1550.0,
+   "w": 11,
+   "l": 8,
+   "last_date": "2026-06-09"
+  },
+  "JD Gaming": {
+   "rating": 1643.5,
+   "w": 213,
+   "l": 172,
+   "last_date": "2026-06-06"
+  },
+  "JSK Esports": {
+   "rating": 1483.8,
+   "w": 17,
+   "l": 23,
+   "last_date": "2026-06-04"
+  },
+  "Joblife": {
+   "rating": 1538.7,
+   "w": 50,
+   "l": 65,
+   "last_date": "2026-05-01"
+  },
+  "KIA.eSuba Academy": {
+   "rating": 1370.0,
+   "w": 62,
+   "l": 49,
+   "last_date": "2026-05-15"
+  },
+  "KT Rolster": {
+   "rating": 1646.8,
+   "w": 161,
+   "l": 156,
+   "last_date": "2026-06-13"
+  },
+  "KT Rolster Academy": {
+   "rating": 1382.2,
+   "w": 89,
+   "l": 98,
+   "last_date": "2026-05-09"
+  },
+  "KT Rolster Challengers": {
+   "rating": 1680.5,
+   "w": 228,
+   "l": 111,
+   "last_date": "2026-06-19"
+  },
+  "KaBuM! Ilha das Lendas": {
+   "rating": 1638.3,
+   "w": 44,
+   "l": 35,
+   "last_date": "2026-06-01"
+  },
+  "Karmine Corp": {
+   "rating": 1779.5,
+   "w": 134,
+   "l": 104,
+   "last_date": "2026-06-30"
+  },
+  "Karmine Corp Blue": {
+   "rating": 1766.9,
+   "w": 174,
+   "l": 99,
+   "last_date": "2026-06-13"
+  },
+  "Karmine Corp Blue Stars": {
+   "rating": 1677.8,
+   "w": 36,
+   "l": 32,
+   "last_date": "2026-06-07"
+  },
+  "Kaufland Hangry Knights": {
+   "rating": 1632.7,
+   "w": 60,
+   "l": 68,
+   "last_date": "2026-07-09"
+  },
+  "Keypulse Esports": {
+   "rating": 1431.2,
+   "w": 19,
+   "l": 32,
+   "last_date": "2026-02-19"
+  },
+  "Kiwoom DRX": {
+   "rating": 1558.5,
+   "w": 95,
+   "l": 174,
+   "last_date": "2026-05-29"
+  },
+  "Kiwoom DRX Challengers": {
+   "rating": 1587.4,
+   "w": 159,
+   "l": 148,
+   "last_date": "2026-05-28"
+  },
+  "Kuma e-Sports": {
+   "rating": 1305.2,
+   "w": 3,
+   "l": 11,
+   "last_date": "2026-06-04"
+  },
+  "L Guide Gaming": {
+   "rating": 1468.3,
+   "w": 22,
+   "l": 20,
+   "last_date": "2026-06-04"
+  },
+  "LGD Gaming": {
+   "rating": 1471.1,
+   "w": 93,
+   "l": 115,
+   "last_date": "2026-06-05"
+  },
+  "LNG Esports": {
+   "rating": 1535.4,
+   "w": 111,
+   "l": 101,
+   "last_date": "2026-05-23"
+  },
+  "LODIS": {
+   "rating": 1488.9,
+   "w": 26,
+   "l": 56,
+   "last_date": "2026-05-20"
+  },
+  "LOUD": {
+   "rating": 1605.0,
+   "w": 101,
+   "l": 89,
+   "last_date": "2026-06-11"
+  },
+  "LUA Gaming": {
+   "rating": 1504.4,
+   "w": 49,
+   "l": 53,
+   "last_date": "2026-05-20"
+  },
+  "LYON": {
+   "rating": 1881.9,
+   "w": 63,
+   "l": 52,
+   "last_date": "2026-07-10"
+  },
+  "LYON Academy": {
+   "rating": 1407.1,
+   "w": 18,
+   "l": 34,
+   "last_date": "2026-07-05"
+  },
+  "La BOMBAS": {
+   "rating": 1379.5,
+   "w": 2,
+   "l": 7,
+   "last_date": "2026-02-26"
+  },
+  "Lausanne-Sport Esports": {
+   "rating": 1392.9,
+   "w": 6,
+   "l": 11,
+   "last_date": "2026-05-24"
+  },
+  "Lenovo Legion Honvéd": {
+   "rating": 1490.9,
+   "w": 20,
+   "l": 33,
+   "last_date": "2026-05-21"
+  },
+  "Leviatan": {
+   "rating": 1390.4,
+   "w": 47,
+   "l": 89,
+   "last_date": "2026-06-08"
+  },
+  "Lille Esport": {
+   "rating": 1488.4,
+   "w": 41,
+   "l": 56,
+   "last_date": "2026-05-31"
+  },
+  "Lotus": {
+   "rating": 1467.2,
+   "w": 25,
+   "l": 19,
+   "last_date": "2026-06-19"
+  },
+  "Lund Esports Organization": {
+   "rating": 1446.7,
+   "w": 20,
+   "l": 12,
+   "last_date": "2026-05-27"
+  },
+  "Lundqvist Lightside": {
+   "rating": 1399.7,
+   "w": 36,
+   "l": 54,
+   "last_date": "2026-05-27"
+  },
+  "Lupus Esports": {
+   "rating": 1499.3,
+   "w": 38,
+   "l": 64,
+   "last_date": "2026-04-28"
+  },
+  "LØS": {
+   "rating": 1735.8,
+   "w": 79,
+   "l": 81,
+   "last_date": "2026-06-14"
+  },
+  "MVK Esports": {
+   "rating": 1539.3,
+   "w": 24,
+   "l": 29,
+   "last_date": "2026-06-05"
+  },
+  "MVK Esports Academy": {
+   "rating": 1469.0,
+   "w": 22,
+   "l": 10,
+   "last_date": "2026-05-28"
+  },
+  "Magaza Esports": {
+   "rating": 1562.0,
+   "w": 17,
+   "l": 24,
+   "last_date": "2026-06-08"
+  },
+  "Malvinas Gaming": {
+   "rating": 1468.6,
+   "w": 35,
+   "l": 35,
+   "last_date": "2026-07-09"
+  },
+  "Marere Invokers": {
+   "rating": 1656.2,
+   "w": 8,
+   "l": 1,
+   "last_date": "2026-05-23"
+  },
+  "Maryville University": {
+   "rating": 1600.0,
+   "w": 47,
+   "l": 23,
+   "last_date": "2026-05-21"
+  },
+  "Maze Gaming": {
+   "rating": 1533.3,
+   "w": 39,
+   "l": 31,
+   "last_date": "2026-07-09"
+  },
+  "Meavedron": {
+   "rating": 1487.7,
+   "w": 65,
+   "l": 61,
+   "last_date": "2026-05-31"
+  },
+  "Misa Esports": {
+   "rating": 1812.4,
+   "w": 148,
+   "l": 80,
+   "last_date": "2026-06-13"
+  },
+  "Movistar KOI": {
+   "rating": 1763.6,
+   "w": 132,
+   "l": 110,
+   "last_date": "2026-06-06"
+  },
+  "Movistar KOI Fénix": {
+   "rating": 1696.4,
+   "w": 49,
+   "l": 42,
+   "last_date": "2026-06-05"
+  },
+  "Myth Esports": {
+   "rating": 1401.8,
+   "w": 62,
+   "l": 69,
+   "last_date": "2026-05-14"
+  },
+  "NCG Esports": {
+   "rating": 1520.1,
+   "w": 10,
+   "l": 13,
+   "last_date": "2026-07-05"
+  },
+  "NOVEX": {
+   "rating": 1474.4,
+   "w": 21,
+   "l": 16,
+   "last_date": "2026-04-19"
+  },
+  "NRG": {
+   "rating": 1564.5,
+   "w": 34,
+   "l": 39,
+   "last_date": "2026-05-28"
+  },
+  "Natus Vincere": {
+   "rating": 1677.0,
+   "w": 29,
+   "l": 35,
+   "last_date": "2026-05-30"
+  },
+  "Nerd's Gangster's Carecas": {
+   "rating": 1466.1,
+   "w": 7,
+   "l": 5,
+   "last_date": "2026-03-01"
+  },
+  "New Meta": {
+   "rating": 1557.0,
+   "w": 34,
+   "l": 23,
+   "last_date": "2026-06-03"
+  },
+  "NextGeneration Esports": {
+   "rating": 1302.9,
+   "w": 13,
+   "l": 31,
+   "last_date": "2026-06-03"
+  },
+  "Ngựa Hí Esports": {
+   "rating": 1379.0,
+   "w": 3,
+   "l": 8,
+   "last_date": "2026-03-14"
+  },
+  "Nightbirds": {
+   "rating": 1720.6,
+   "w": 98,
+   "l": 41,
+   "last_date": "2026-06-08"
+  },
+  "Ninjas in Pyjamas": {
+   "rating": 1561.0,
+   "w": 151,
+   "l": 158,
+   "last_date": "2026-05-24"
+  },
+  "Nongshim Esports Academy": {
+   "rating": 1601.1,
+   "w": 152,
+   "l": 144,
+   "last_date": "2026-06-18"
+  },
+  "Nongshim RedForce": {
+   "rating": 1521.4,
+   "w": 115,
+   "l": 191,
+   "last_date": "2026-05-31"
+  },
+  "Nongshim RedForce Academy": {
+   "rating": 1329.9,
+   "w": 75,
+   "l": 137,
+   "last_date": "2026-05-03"
+  },
+  "Oh My God": {
+   "rating": 1379.6,
+   "w": 69,
+   "l": 93,
+   "last_date": "2026-05-15"
+  },
+  "Once Upon A Team": {
+   "rating": 1495.9,
+   "w": 50,
+   "l": 74,
+   "last_date": "2026-05-28"
+  },
+  "One More Esports": {
+   "rating": 1389.0,
+   "w": 51,
+   "l": 98,
+   "last_date": "2026-05-06"
+  },
+  "Onion Team": {
+   "rating": 1388.7,
+   "w": 7,
+   "l": 21,
+   "last_date": "2026-05-17"
+  },
+  "Otter Side": {
+   "rating": 1654.9,
+   "w": 39,
+   "l": 16,
+   "last_date": "2026-06-08"
+  },
+  "Ozarox Esports": {
+   "rating": 1542.8,
+   "w": 10,
+   "l": 10,
+   "last_date": "2026-05-26"
+  },
+  "P11 Esports": {
+   "rating": 1594.7,
+   "w": 18,
+   "l": 16,
+   "last_date": "2026-05-24"
+  },
+  "PCIFIC Esports": {
+   "rating": 1589.3,
+   "w": 24,
+   "l": 26,
+   "last_date": "2026-06-11"
+  },
+  "Partizan Sangal": {
+   "rating": 1810.2,
+   "w": 87,
+   "l": 34,
+   "last_date": "2026-06-11"
+  },
+  "Polar Squad Esports": {
+   "rating": 1408.1,
+   "w": 7,
+   "l": 16,
+   "last_date": "2026-07-05"
+  },
+  "Priority": {
+   "rating": 1577.7,
+   "w": 36,
+   "l": 35,
+   "last_date": "2026-06-14"
+  },
+  "Project Conquerors": {
+   "rating": 1589.8,
+   "w": 68,
+   "l": 63,
+   "last_date": "2026-06-07"
+  },
+  "Pyramid IV Esports": {
+   "rating": 1364.5,
+   "w": 4,
+   "l": 6,
+   "last_date": "2026-06-05"
+  },
+  "RAMPAGE": {
+   "rating": 1459.3,
+   "w": 3,
+   "l": 5,
+   "last_date": "2026-05-23"
+  },
+  "RAYN Clocks": {
+   "rating": 1534.0,
+   "w": 50,
+   "l": 44,
+   "last_date": "2026-06-04"
+  },
+  "RED Academy": {
+   "rating": 1453.2,
+   "w": 55,
+   "l": 40,
+   "last_date": "2026-05-18"
+  },
+  "RED Canids": {
+   "rating": 1651.6,
+   "w": 106,
+   "l": 83,
+   "last_date": "2026-06-14"
+  },
+  "REDPack Esports": {
+   "rating": 1376.2,
+   "w": 1,
+   "l": 8,
+   "last_date": "2026-02-25"
+  },
+  "RMD Gaming": {
+   "rating": 1378.6,
+   "w": 4,
+   "l": 11,
+   "last_date": "2026-04-28"
+  },
+  "ROSSMANN Centaurs": {
+   "rating": 1559.8,
+   "w": 60,
+   "l": 80,
+   "last_date": "2026-07-09"
+  },
+  "Rage Bait e-Sports": {
+   "rating": 1443.6,
+   "w": 4,
+   "l": 6,
+   "last_date": "2026-02-12"
+  },
+  "Rising Gaming": {
+   "rating": 1714.8,
+   "w": 37,
+   "l": 19,
+   "last_date": "2026-06-14"
+  },
+  "Ronaldo Team": {
+   "rating": 1487.0,
+   "w": 5,
+   "l": 6,
+   "last_date": "2026-05-29"
+  },
+  "Ruddy Corporation": {
+   "rating": 1540.3,
+   "w": 71,
+   "l": 78,
+   "last_date": "2026-06-08"
+  },
+  "Rugby Club Havířov": {
+   "rating": 1315.0,
+   "w": 3,
+   "l": 14,
+   "last_date": "2026-05-14"
+  },
+  "S2G Esports": {
+   "rating": 1707.1,
+   "w": 17,
+   "l": 12,
+   "last_date": "2026-03-15"
+  },
+  "SDM Tigres": {
+   "rating": 1489.2,
+   "w": 43,
+   "l": 31,
+   "last_date": "2026-07-05"
+  },
+  "SK Gaming": {
+   "rating": 1507.8,
+   "w": 45,
+   "l": 82,
+   "last_date": "2026-05-02"
+  },
+  "SN CyberCore Esports": {
+   "rating": 1450.6,
+   "w": 21,
+   "l": 39,
+   "last_date": "2026-06-14"
+  },
+  "SNOOZE Esports": {
+   "rating": 1456.4,
+   "w": 27,
+   "l": 27,
+   "last_date": "2026-06-11"
+  },
+  "SPAXFAMILY": {
+   "rating": 1420.1,
+   "w": 5,
+   "l": 9,
+   "last_date": "2026-02-19"
+  },
+  "SPIKE Syndicate": {
+   "rating": 1424.9,
+   "w": 72,
+   "l": 69,
+   "last_date": "2026-05-13"
+  },
+  "SU Esports": {
+   "rating": 1553.4,
+   "w": 23,
+   "l": 22,
+   "last_date": "2026-05-22"
+  },
+  "Saigon Dino": {
+   "rating": 1530.2,
+   "w": 60,
+   "l": 46,
+   "last_date": "2026-06-20"
+  },
+  "Saigon Warriors": {
+   "rating": 1663.0,
+   "w": 36,
+   "l": 20,
+   "last_date": "2026-06-20"
+  },
+  "Senshi eSports": {
+   "rating": 1519.7,
+   "w": 52,
+   "l": 50,
+   "last_date": "2026-05-21"
+  },
+  "Sentinels": {
+   "rating": 1616.5,
+   "w": 30,
+   "l": 31,
+   "last_date": "2026-05-30"
+  },
+  "Seven Dark": {
+   "rating": 1340.0,
+   "w": 18,
+   "l": 45,
+   "last_date": "2026-07-10"
+  },
+  "Shadow Keepers Esports": {
+   "rating": 1554.9,
+   "w": 6,
+   "l": 5,
+   "last_date": "2026-06-01"
+  },
+  "Shifters": {
+   "rating": 1568.4,
+   "w": 14,
+   "l": 26,
+   "last_date": "2026-05-14"
+  },
+  "Shopify Rebellion": {
+   "rating": 1421.0,
+   "w": 40,
+   "l": 81,
+   "last_date": "2026-05-31"
+  },
+  "SillySilly Gaming": {
+   "rating": 1563.3,
+   "w": 13,
+   "l": 8,
+   "last_date": "2026-06-05"
+  },
+  "Skillcamp": {
+   "rating": 1476.2,
+   "w": 24,
+   "l": 51,
+   "last_date": "2026-05-01"
+  },
+  "Solary": {
+   "rating": 1945.9,
+   "w": 115,
+   "l": 77,
+   "last_date": "2026-06-15"
+  },
+  "Spartans EU": {
+   "rating": 1443.4,
+   "w": 8,
+   "l": 14,
+   "last_date": "2026-07-09"
+  },
+  "StoneHenge Esports": {
+   "rating": 1423.0,
+   "w": 4,
+   "l": 14,
+   "last_date": "2026-05-23"
+  },
+  "Super Stars": {
+   "rating": 1503.0,
+   "w": 7,
+   "l": 3,
+   "last_date": "2026-04-01"
+  },
+  "Supernova": {
+   "rating": 1582.8,
+   "w": 74,
+   "l": 65,
+   "last_date": "2026-05-28"
+  },
+  "T1": {
+   "rating": 1917.5,
+   "w": 301,
+   "l": 168,
+   "last_date": "2026-07-08"
+  },
+  "T1 Esports Academy": {
+   "rating": 1680.5,
+   "w": 200,
+   "l": 153,
+   "last_date": "2026-06-21"
+  },
+  "T1 Esports Academy Rookies": {
+   "rating": 1725.7,
+   "w": 187,
+   "l": 72,
+   "last_date": "2026-05-17"
+  },
+  "TITANS": {
+   "rating": 1330.3,
+   "w": 2,
+   "l": 8,
+   "last_date": "2026-04-30"
+  },
+  "TLN Pirates": {
+   "rating": 1697.3,
+   "w": 24,
+   "l": 17,
+   "last_date": "2026-05-28"
+  },
+  "TQ DURPA KASHLQ": {
+   "rating": 1419.4,
+   "w": 2,
+   "l": 9,
+   "last_date": "2026-05-20"
+  },
+  "Team Heretics": {
+   "rating": 1464.5,
+   "w": 48,
+   "l": 91,
+   "last_date": "2026-05-03"
+  },
+  "Team Heretics Academy": {
+   "rating": 1852.4,
+   "w": 171,
+   "l": 86,
+   "last_date": "2026-06-13"
+  },
+  "Team Insidious": {
+   "rating": 1577.4,
+   "w": 56,
+   "l": 51,
+   "last_date": "2026-05-14"
+  },
+  "Team Liquid": {
+   "rating": 1740.3,
+   "w": 131,
+   "l": 101,
+   "last_date": "2026-07-01"
+  },
+  "Team Phantasma": {
+   "rating": 1655.4,
+   "w": 152,
+   "l": 71,
+   "last_date": "2026-07-09"
+  },
+  "Team Phoenix": {
+   "rating": 1414.8,
+   "w": 5,
+   "l": 18,
+   "last_date": "2026-05-15"
+  },
+  "Team Secret": {
+   "rating": 1715.2,
+   "w": 46,
+   "l": 28,
+   "last_date": "2026-05-20"
+  },
+  "Team Secret Whales": {
+   "rating": 1755.8,
+   "w": 97,
+   "l": 61,
+   "last_date": "2026-07-08"
+  },
+  "Team Solid": {
+   "rating": 1525.8,
+   "w": 9,
+   "l": 12,
+   "last_date": "2026-06-09"
+  },
+  "Team Vitality": {
+   "rating": 1617.1,
+   "w": 73,
+   "l": 81,
+   "last_date": "2026-05-31"
+  },
+  "Team WE": {
+   "rating": 1640.2,
+   "w": 120,
+   "l": 181,
+   "last_date": "2026-06-13"
+  },
+  "TeamOrangeGaming": {
+   "rating": 1606.8,
+   "w": 66,
+   "l": 62,
+   "last_date": "2026-07-09"
+  },
+  "The Bandits": {
+   "rating": 1583.1,
+   "w": 31,
+   "l": 25,
+   "last_date": "2026-06-02"
+  },
+  "The New Kings": {
+   "rating": 1432.0,
+   "w": 7,
+   "l": 14,
+   "last_date": "2026-05-12"
+  },
+  "The ParadOx Invaders": {
+   "rating": 1477.2,
+   "w": 42,
+   "l": 68,
+   "last_date": "2026-07-08"
+  },
+  "The Secret Club": {
+   "rating": 1539.6,
+   "w": 31,
+   "l": 37,
+   "last_date": "2026-05-27"
+  },
+  "ThunderTalk Gaming": {
+   "rating": 1470.4,
+   "w": 87,
+   "l": 134,
+   "last_date": "2026-06-02"
+  },
+  "Top Esports": {
+   "rating": 1718.7,
+   "w": 257,
+   "l": 157,
+   "last_date": "2026-07-05"
+  },
+  "Top Esports Challenger": {
+   "rating": 1588.6,
+   "w": 43,
+   "l": 41,
+   "last_date": "2026-06-15"
+  },
+  "Tu Papá Esports": {
+   "rating": 1355.7,
+   "w": 1,
+   "l": 12,
+   "last_date": "2026-04-14"
+  },
+  "UB Alma Mater": {
+   "rating": 1326.9,
+   "w": 2,
+   "l": 17,
+   "last_date": "2026-05-20"
+  },
+  "UCAM Esports": {
+   "rating": 1794.7,
+   "w": 94,
+   "l": 82,
+   "last_date": "2026-06-14"
+  },
+  "UTeSports": {
+   "rating": 1261.3,
+   "w": 1,
+   "l": 11,
+   "last_date": "2026-04-19"
+  },
+  "Ultra Prime": {
+   "rating": 1428.3,
+   "w": 61,
+   "l": 114,
+   "last_date": "2026-05-15"
+  },
+  "Unicorns of Love Sexy Edition": {
+   "rating": 1674.2,
+   "w": 148,
+   "l": 108,
+   "last_date": "2026-07-09"
+  },
+  "Uwinks": {
+   "rating": 1584.2,
+   "w": 29,
+   "l": 23,
+   "last_date": "2026-06-13"
+  },
+  "V3 Esports": {
+   "rating": 1201.8,
+   "w": 27,
+   "l": 80,
+   "last_date": "2026-04-19"
+  },
+  "VARREL YOUTH": {
+   "rating": 1551.1,
+   "w": 43,
+   "l": 33,
+   "last_date": "2026-04-19"
+  },
+  "Vantex Esports": {
+   "rating": 1524.5,
+   "w": 8,
+   "l": 8,
+   "last_date": "2026-03-12"
+  },
+  "Vasco E-Sports": {
+   "rating": 1560.6,
+   "w": 8,
+   "l": 4,
+   "last_date": "2026-05-22"
+  },
+  "VelbeliKaizokudan": {
+   "rating": 1372.5,
+   "w": 18,
+   "l": 46,
+   "last_date": "2026-04-19"
+  },
+  "Verdant": {
+   "rating": 1700.0,
+   "w": 95,
+   "l": 61,
+   "last_date": "2026-06-09"
+  },
+  "VfB eSports": {
+   "rating": 1422.8,
+   "w": 8,
+   "l": 25,
+   "last_date": "2026-07-09"
+  },
+  "Vitality.Bee": {
+   "rating": 1631.0,
+   "w": 118,
+   "l": 86,
+   "last_date": "2026-05-21"
+  },
+  "Vivo Keyd Stars": {
+   "rating": 1573.0,
+   "w": 102,
+   "l": 88,
+   "last_date": "2026-06-13"
+  },
+  "Vivo Keyd Stars Academy": {
+   "rating": 1690.6,
+   "w": 99,
+   "l": 51,
+   "last_date": "2026-06-01"
+  },
+  "Volticons": {
+   "rating": 1657.0,
+   "w": 30,
+   "l": 15,
+   "last_date": "2026-07-09"
+  },
+  "WLGaming Esports": {
+   "rating": 1653.7,
+   "w": 97,
+   "l": 82,
+   "last_date": "2026-07-08"
+  },
+  "Weibo Gaming": {
+   "rating": 1583.9,
+   "w": 180,
+   "l": 195,
+   "last_date": "2026-05-24"
+  },
+  "Weibo Gaming Youth Team": {
+   "rating": 1480.8,
+   "w": 38,
+   "l": 32,
+   "last_date": "2026-06-11"
+  },
+  "Winthrop University": {
+   "rating": 1590.7,
+   "w": 54,
+   "l": 70,
+   "last_date": "2026-06-05"
+  },
+  "Witchcraft": {
+   "rating": 1711.4,
+   "w": 6,
+   "l": 4,
+   "last_date": "2026-03-14"
+  },
+  "Yang Yang Gaming": {
+   "rating": 1448.9,
+   "w": 39,
+   "l": 34,
+   "last_date": "2026-04-19"
+  },
+  "ZEN Esports": {
+   "rating": 1433.8,
+   "w": 14,
+   "l": 22,
+   "last_date": "2026-07-09"
+  },
+  "ZYB Esport": {
+   "rating": 1518.9,
+   "w": 9,
+   "l": 17,
+   "last_date": "2026-05-13"
+  },
+  "Zena Esports": {
+   "rating": 1500.3,
+   "w": 38,
+   "l": 42,
+   "last_date": "2026-05-08"
+  },
+  "ZennIT": {
+   "rating": 1452.0,
+   "w": 97,
+   "l": 79,
+   "last_date": "2026-06-11"
+  },
+  "Zephyr Esport": {
+   "rating": 1391.7,
+   "w": 4,
+   "l": 12,
+   "last_date": "2026-05-24"
+  },
+  "ZeroZone Gaming": {
+   "rating": 1368.4,
+   "w": 7,
+   "l": 26,
+   "last_date": "2026-05-22"
+  },
+  "Zerolag Esports": {
+   "rating": 1327.7,
+   "w": 25,
+   "l": 59,
+   "last_date": "2026-07-08"
+  },
+  "Zeu5 Esports": {
+   "rating": 1579.3,
+   "w": 40,
+   "l": 36,
+   "last_date": "2026-07-05"
+  },
+  "devils.one inStreamly": {
+   "rating": 1439.8,
+   "w": 20,
+   "l": 45,
+   "last_date": "2026-05-21"
+  },
+  "eSuba": {
+   "rating": 1617.8,
+   "w": 118,
+   "l": 82,
+   "last_date": "2026-06-02"
+  },
+  "mCon esports": {
+   "rating": 1559.8,
+   "w": 99,
+   "l": 88,
+   "last_date": "2026-06-08"
+  },
+  "paiN Gaming": {
+   "rating": 1482.3,
+   "w": 95,
+   "l": 85,
+   "last_date": "2026-06-10"
+  },
+  "paiN Gaming Academy": {
+   "rating": 1615.8,
+   "w": 70,
+   "l": 32,
+   "last_date": "2026-05-27"
+  },
+  "wangting": {
+   "rating": 1566.8,
+   "w": 30,
+   "l": 35,
+   "last_date": "2026-05-27"
+  }
+ }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Dota2",
+  "category_id": 20142,
+  "category_name": "Dota 2",
+  "source": "PandaScore (免费档,需 token;覆盖更广)",
+  "scale": 400,
+  "shrink": 0.7,
+  "side_adv": 12,
+  "default_bo": 3,
+  "hcap": 1.5,
+  "backtest": {
+    "mode": "frac",
+    "frac": 0.6
+  },
+  "accuracy": "样本外 单局~57.6% / 系列~56%(高方差游戏)"
+}

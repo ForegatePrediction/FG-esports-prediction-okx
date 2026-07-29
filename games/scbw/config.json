@@ -1,0 +1,16 @@
+{
+  "name": "星际争霸:母巢之战 Brood War",
+  "category_id": 20149,
+  "category_name": "StarCraft: Brood War",
+  "source": "PandaScore (免费档;1v1;数据止 2025-10)",
+  "scale": 400,
+  "shrink": 1.0,
+  "side_adv": 0,
+  "default_bo": 5,
+  "hcap": 1.5,
+  "backtest": {
+    "mode": "frac",
+    "frac": 0.55
+  },
+  "accuracy": "样本外 赛事胜负 ~59.8%(1v1;PandaScore 覆盖到 2025-10)"
+}

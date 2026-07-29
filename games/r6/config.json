@@ -1,0 +1,16 @@
+{
+  "name": "彩虹六号围攻 R6 Siege",
+  "category_id": 20145,
+  "category_name": "Rainbow Six Siege",
+  "source": "PandaScore (免费档,slug=r6-siege / 路径 r6siege)",
+  "scale": 400,
+  "shrink": 1.0,
+  "side_adv": 0,
+  "default_bo": 3,
+  "hcap": 1.5,
+  "backtest": {
+    "mode": "frac",
+    "frac": 0.55
+  },
+  "accuracy": "样本外 赛事胜负 ~61.9%(约1.5年数据)"
+}

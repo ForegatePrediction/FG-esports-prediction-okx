@@ -1,0 +1,16 @@
+{
+  "name": "CS2",
+  "category_id": 20141,
+  "category_name": "CS2",
+  "source": "PandaScore (免费档,需 token;slug cs-go / 路径 csgo)",
+  "scale": 400,
+  "shrink": 1.0,
+  "side_adv": 0,
+  "default_bo": 3,
+  "hcap": 1.5,
+  "backtest": {
+    "mode": "frac",
+    "frac": 0.55
+  },
+  "accuracy": "样本外 赛事胜负 ~57-59%(3.5个月;历史越多越稳)"
+}

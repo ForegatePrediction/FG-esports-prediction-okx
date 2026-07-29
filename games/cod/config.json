@@ -1,0 +1,16 @@
+{
+  "name": "使命召唤 Call of Duty",
+  "category_id": 20148,
+  "category_name": "Call of Duty",
+  "source": "PandaScore (免费档,slug=cod-mw / 路径 codmw)",
+  "scale": 400,
+  "shrink": 1.0,
+  "side_adv": 0,
+  "default_bo": 5,
+  "hcap": 1.5,
+  "backtest": {
+    "mode": "frac",
+    "frac": 0.55
+  },
+  "accuracy": "样本外 赛事胜负 ~67.7%(约2年,CDL 12队闭环)"
+}
