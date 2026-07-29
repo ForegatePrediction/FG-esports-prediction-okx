@@ -57,7 +57,8 @@ def paywall_enabled():
 
 def _okx_headers(method, request_path, body=""):
     """Build signed OKX headers. request_path must include any query string; body is the exact JSON string."""
-    h = {"Content-Type": "application/json"}
+    # Explicit User-Agent: OKX's edge/WAF can reject the default "Python-urllib/x.y" UA.
+    h = {"Content-Type": "application/json", "User-Agent": "foregate-esports/1.0"}
     if not (CFG["apiKey"] and CFG["secretKey"] and CFG["passphrase"]):
         return h  # unsigned -> OKX rejects -> safe deny
     ts = datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%S.") + \
@@ -130,10 +131,29 @@ def get_facilitator_address():
     return _fac["addr"] or ""
 
 
+def _probe_supported(timeout=8.0):
+    """Raw diagnostic call to /supported that captures the exact failure (status / error class / body snippet)."""
+    path = PATHS["supported"]
+    req = urllib.request.Request(f"{BASE}{path}", method="GET", headers=_okx_headers("GET", path, ""))
+    try:
+        with urllib.request.urlopen(req, timeout=timeout) as r:
+            body = r.read().decode("utf-8", "replace")
+            return {"httpStatus": r.status, "bodySnippet": body[:200]}
+    except urllib.error.HTTPError as e:
+        try:
+            body = e.read().decode("utf-8", "replace")
+        except Exception:
+            body = ""
+        return {"httpStatus": e.code, "error": "HTTPError", "bodySnippet": body[:200]}
+    except Exception as e:
+        return {"httpStatus": None, "error": type(e).__name__, "detail": str(e)[:200]}
+
+
 def selftest():
     """Temporary diagnostic: shows whether OKX creds are wired and what /supported returns.
     Exposes NO secret values — only booleans + OKX's own response code/msg + the public facilitator."""
     creds_present = bool(CFG["apiKey"] and CFG["secretKey"] and CFG["passphrase"])
+    probe = _probe_supported()
     ok, j = _okx_get(PATHS["supported"], timeout=8.0)
     kinds = j.get("kinds") or (j.get("data") or {}).get("kinds") or []
     facilitator = ""
@@ -151,6 +171,7 @@ def selftest():
         "passphraseLen": len(CFG["passphrase"]),
         "supported": {"httpOk": ok, "code": j.get("code"), "msg": j.get("msg"),
                       "kindsCount": len(kinds), "facilitatorAddress": facilitator},
+        "probe": probe,
         "facilitatorOverride": CFG["facilitatorOverride"],
     }
 
