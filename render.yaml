@@ -1,8 +1,8 @@
 services:
   - type: web
-    name: foregate-esports-paid            # separate PAID instance for OKX (free one stays untouched)
+    name: foregate-esports-paid            # separate instance for OKX (free public one stays untouched)
     runtime: python
-    plan: starter
+    plan: free                             # free tier (sleeps after 15 min idle; keep warm via UptimeRobot)
     buildCommand: "python3 --version"
     startCommand: "python3 server.py"
     envVars:
