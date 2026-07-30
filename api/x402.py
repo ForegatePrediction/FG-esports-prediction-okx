@@ -135,30 +135,27 @@ def get_facilitator_address():
 
 
 def build_challenge(resource_url, description="Esports Match Predictions"):
-    """HTTP 402 body: x402 v2 challenge with both accepts (exact=EIP-3009, upto=Permit2).
-
-    Follows the x402 PaymentRequirements schema: each accepts entry carries the standard
-    fields (scheme, network, maxAmountRequired, resource, description, mimeType, payTo,
-    maxTimeoutSeconds, asset, extra). `amount`/`decimals`/`symbol` are kept as compatibility
-    aliases for the OKX facilitator/resolver."""
+    """x402 v2 challenge (OKX-required shape): top-level `resource` + `accepts` entries with
+    {scheme, network, asset, amount, payTo, maxTimeoutSeconds, extra}. Two schemes offered:
+    exact=EIP-3009, upto=Permit2. decimals/symbol/maxAmountRequired kept as harmless hints."""
     facilitator_address = get_facilitator_address()
     extra_common = {"name": CFG["eip712Name"], "version": CFG["eip712Version"],
                     "decimals": CFG["decimals"], "symbol": CFG["symbol"]}
     common = {
         "network": CFG["network"],
-        "maxAmountRequired": CFG["amount"],   # x402 standard field name
-        "amount": CFG["amount"],              # compatibility alias (OKX facilitator + our verify)
-        "resource": resource_url,             # x402: resource is a URL string on each accepts entry
-        "description": description,
-        "mimeType": "application/json",
-        "payTo": CFG["payTo"],
         "asset": CFG["asset"],
-        "decimals": CFG["decimals"],          # OKX resolver hint (kept)
-        "symbol": CFG["symbol"],
+        "amount": CFG["amount"],
+        "maxAmountRequired": CFG["amount"],   # alias (some validators use this name)
+        "payTo": CFG["payTo"],
         "maxTimeoutSeconds": 300,
+        "decimals": CFG["decimals"],          # OKX resolver hint
+        "symbol": CFG["symbol"],
     }
     return {
         "x402Version": 2,
+        "resource": resource_url,             # top-level resource (URL), per OKX review requirement
+        "description": description,
+        "mimeType": "application/json",
         "error": "PAYMENT-SIGNATURE header is required",
         "accepts": [
             # exact = EIP-3009 transferWithAuthorization (no Permit2 approval needed; single fixed-price call)

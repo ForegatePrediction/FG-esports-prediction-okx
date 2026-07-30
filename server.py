@@ -130,7 +130,9 @@ class H(BaseHTTPRequestHandler):
 
     def _x402_gate(self):
         """x402 pay-per-call gate for /predict (only when PAYWALL_ENABLED=true).
-        Returns (ok, extra_headers, challenge). If ok is False, send `challenge` as HTTP 402."""
+        Returns (ok, extra_headers, challenge). If ok is False, send `challenge` as HTTP 402.
+        Every 402 also carries a PAYMENT-REQUIRED header = base64(JSON challenge), per x402 v2
+        so callers can read the payment requirements from the header (OKX review requirement)."""
         if not x402.paywall_enabled():
             return True, {}, None
         resource_url = f"https://{self.headers.get('Host', '')}{urlparse(self.path).path}"
@@ -139,18 +141,24 @@ class H(BaseHTTPRequestHandler):
         print(f"[x402] GET /predict sigPresent={bool(raw_sig)} "
               f"sigLen={len(raw_sig) if raw_sig else 0} headers={list(self.headers.keys())}", flush=True)
         ch = x402.build_challenge(resource_url)
+
+        def challenge_headers(challenge):
+            b64 = base64.b64encode(json.dumps(challenge).encode("utf-8")).decode("ascii")
+            return {"PAYMENT-REQUIRED": b64,
+                    "Access-Control-Expose-Headers": "PAYMENT-REQUIRED, PAYMENT-RESPONSE"}
+
         if not raw_sig:
             ch["error"] = "PAYMENT-SIGNATURE header is required"
-            return False, {}, ch
+            return False, challenge_headers(ch), ch
         decoded = x402.decode_payment_signature(raw_sig)
         if not decoded:
             ch["error"] = "PAYMENT-SIGNATURE received but could not be decoded (expected base64-encoded JSON)"
-            return False, {}, ch
+            return False, challenge_headers(ch), ch
         v = x402.verify_and_settle(decoded)
         if not v.get("ok"):
             ch["error"] = f"payment present but verify/settle failed: {v.get('reason') or 'unknown'}"
             ch["x402Debug"] = {"reason": v.get("reason"), "okxResponse": v.get("info")}
-            return False, {}, ch
+            return False, challenge_headers(ch), ch
         resp_hdr = base64.b64encode(json.dumps(v.get("response") or {}).encode("utf-8")).decode("ascii")
         return True, {"PAYMENT-RESPONSE": resp_hdr}, None
 
@@ -206,7 +214,7 @@ class H(BaseHTTPRequestHandler):
                 # x402 pay-per-call gate (only when PAYWALL_ENABLED=true; free otherwise).
                 ok, pay_headers, challenge = self._x402_gate()
                 if not ok:
-                    return self._send(402, challenge)
+                    return self._send(402, challenge, pay_headers)
                 g, err = resolve_game(q)
                 if err:
                     return self._send(404 if ("categoryId" in err or "name" in err) else 400, err)
