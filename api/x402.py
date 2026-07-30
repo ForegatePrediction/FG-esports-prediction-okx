@@ -135,17 +135,31 @@ def get_facilitator_address():
 
 
 def build_challenge(resource_url, description="Esports Match Predictions"):
-    """HTTP 402 body: x402 v2 challenge with both accepts (exact=EIP-3009, upto=Permit2)."""
+    """HTTP 402 body: x402 v2 challenge with both accepts (exact=EIP-3009, upto=Permit2).
+
+    Follows the x402 PaymentRequirements schema: each accepts entry carries the standard
+    fields (scheme, network, maxAmountRequired, resource, description, mimeType, payTo,
+    maxTimeoutSeconds, asset, extra). `amount`/`decimals`/`symbol` are kept as compatibility
+    aliases for the OKX facilitator/resolver."""
     facilitator_address = get_facilitator_address()
     extra_common = {"name": CFG["eip712Name"], "version": CFG["eip712Version"],
                     "decimals": CFG["decimals"], "symbol": CFG["symbol"]}
-    common = {"network": CFG["network"], "amount": CFG["amount"], "payTo": CFG["payTo"],
-              "asset": CFG["asset"], "decimals": CFG["decimals"], "symbol": CFG["symbol"],
-              "maxTimeoutSeconds": 300}
+    common = {
+        "network": CFG["network"],
+        "maxAmountRequired": CFG["amount"],   # x402 standard field name
+        "amount": CFG["amount"],              # compatibility alias (OKX facilitator + our verify)
+        "resource": resource_url,             # x402: resource is a URL string on each accepts entry
+        "description": description,
+        "mimeType": "application/json",
+        "payTo": CFG["payTo"],
+        "asset": CFG["asset"],
+        "decimals": CFG["decimals"],          # OKX resolver hint (kept)
+        "symbol": CFG["symbol"],
+        "maxTimeoutSeconds": 300,
+    }
     return {
         "x402Version": 2,
         "error": "PAYMENT-SIGNATURE header is required",
-        "resource": {"url": resource_url, "description": description, "mimeType": "application/json"},
         "accepts": [
             # exact = EIP-3009 transferWithAuthorization (no Permit2 approval needed; single fixed-price call)
             {**common, "scheme": "exact", "extra": {**extra_common, "assetTransferMethod": "eip3009"}},
@@ -198,7 +212,8 @@ def _sane(decoded):
     if CFG["asset"] and str(a.get("asset", "")).lower() != CFG["asset"].lower():
         return False
     try:
-        if int(a.get("amount") or 0) < int(CFG["amount"]):
+        amt = a.get("maxAmountRequired") or a.get("amount") or 0
+        if int(amt) < int(CFG["amount"]):
             return False
     except Exception:
         return False
@@ -239,7 +254,8 @@ def verify_and_settle(decoded):
             "response": {
                 "status": "settled" if settled else "failed",
                 "transaction": d.get("transaction") or d.get("txHash") or d.get("txnHash") or d.get("transactionHash") or "",
-                "amount": (decoded.get("accepted") or {}).get("amount"),
+                "amount": (decoded.get("accepted") or {}).get("maxAmountRequired")
+                or (decoded.get("accepted") or {}).get("amount"),
                 "payer": p2.get("from") or d.get("payer") or "",
             },
         }
