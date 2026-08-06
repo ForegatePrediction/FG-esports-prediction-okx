@@ -1,24 +1,36 @@
 {
  "game": "cod",
- "updated": "2026-08-05",
+ "updated": "2026-08-06",
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 22,
+ "n_teams": 30,
  "teams": {
+  "100 Thieves": {
+   "rating": 1582.2,
+   "w": 12,
+   "l": 7,
+   "last_date": "2026-08-05"
+  },
   "Boston Breach": {
-   "rating": 1466.3,
-   "w": 139,
-   "l": 187,
-   "last_date": "2026-06-26"
+   "rating": 1434.1,
+   "w": 136,
+   "l": 188,
+   "last_date": "2026-08-05"
   },
   "Carolina Royal Ravens": {
-   "rating": 1485.4,
-   "w": 141,
-   "l": 169,
-   "last_date": "2026-06-26"
+   "rating": 1459.1,
+   "w": 138,
+   "l": 171,
+   "last_date": "2026-08-05"
+  },
+  "Cloud9": {
+   "rating": 1441.5,
+   "w": 5,
+   "l": 9,
+   "last_date": "2026-08-05"
   },
   "Cloud9 New York": {
-   "rating": 1348.9,
+   "rating": 1345.9,
    "w": 95,
    "l": 177,
    "last_date": "2026-06-26"
@@ -29,6 +41,12 @@
    "l": 6,
    "last_date": "2026-03-18"
   },
+  "FaZe Clan": {
+   "rating": 1498.3,
+   "w": 8,
+   "l": 8,
+   "last_date": "2026-08-05"
+  },
   "FaZe Falcons": {
    "rating": 1446.6,
    "w": 6,
@@ -36,7 +54,7 @@
    "last_date": "2026-05-07"
   },
   "FaZe Vegas": {
-   "rating": 1743.0,
+   "rating": 1740.0,
    "w": 134,
    "l": 98,
    "last_date": "2026-07-19"
@@ -59,35 +77,53 @@
    "l": 6,
    "last_date": "2026-03-18"
   },
+  "G2 Esports": {
+   "rating": 1479.5,
+   "w": 5,
+   "l": 6,
+   "last_date": "2026-08-05"
+  },
   "G2 Minnesota": {
-   "rating": 1534.0,
+   "rating": 1531.0,
    "w": 93,
    "l": 102,
    "last_date": "2026-07-18"
   },
+  "Gentle Mates": {
+   "rating": 1510.8,
+   "w": 7,
+   "l": 7,
+   "last_date": "2026-08-05"
+  },
   "Huntsmen": {
-   "rating": 1473.3,
+   "rating": 1472.4,
    "w": 10,
    "l": 14,
    "last_date": "2026-05-15"
   },
+  "KOI": {
+   "rating": 1656.2,
+   "w": 17,
+   "l": 6,
+   "last_date": "2026-08-05"
+  },
   "Los Angeles Thieves": {
-   "rating": 1634.8,
+   "rating": 1631.8,
    "w": 270,
    "l": 146,
    "last_date": "2026-07-17"
   },
   "Miami Heretics": {
-   "rating": 1459.2,
-   "w": 183,
+   "rating": 1456.1,
+   "w": 180,
    "l": 184,
    "last_date": "2026-07-18"
   },
   "OMiT": {
-   "rating": 1478.9,
+   "rating": 1438.5,
    "w": 11,
-   "l": 14,
-   "last_date": "2026-05-15"
+   "l": 17,
+   "last_date": "2026-08-05"
   },
   "OMiT Brooklyn": {
    "rating": 1534.5,
@@ -95,29 +131,41 @@
    "l": 10,
    "last_date": "2026-05-07"
   },
+  "OpTic Gaming": {
+   "rating": 1689.6,
+   "w": 19,
+   "l": 4,
+   "last_date": "2026-08-05"
+  },
   "OpTic Texas": {
-   "rating": 1704.1,
-   "w": 242,
-   "l": 163,
+   "rating": 1701.1,
+   "w": 240,
+   "l": 160,
    "last_date": "2026-07-19"
   },
   "Paris Gentle Mates": {
-   "rating": 1618.1,
+   "rating": 1615.1,
    "w": 118,
    "l": 107,
    "last_date": "2026-07-18"
   },
   "Project Notorious": {
-   "rating": 1550.3,
+   "rating": 1549.4,
    "w": 31,
    "l": 21,
    "last_date": "2026-05-15"
   },
   "Riyadh Falcons": {
-   "rating": 1589.1,
+   "rating": 1586.1,
    "w": 98,
    "l": 91,
    "last_date": "2026-07-19"
+  },
+  "Team WaR": {
+   "rating": 1412.2,
+   "w": 2,
+   "l": 9,
+   "last_date": "2026-08-05"
   },
   "Telluride Bush Gaming": {
    "rating": 1593.2,
@@ -126,13 +174,13 @@
    "last_date": "2026-03-20"
   },
   "Toronto KOI": {
-   "rating": 1510.6,
+   "rating": 1507.6,
    "w": 100,
    "l": 91,
    "last_date": "2026-07-17"
   },
   "Vancouver Surge": {
-   "rating": 1452.0,
+   "rating": 1449.0,
    "w": 166,
    "l": 196,
    "last_date": "2026-06-26"
