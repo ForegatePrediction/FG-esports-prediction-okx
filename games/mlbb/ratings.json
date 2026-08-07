@@ -1,12 +1,12 @@
 {
  "game": "mlbb",
- "updated": "2026-08-06",
+ "updated": "2026-08-07",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 74,
  "teams": {
   "AC Esports": {
-   "rating": 1492.0,
+   "rating": 1496.4,
    "w": 14,
    "l": 21,
    "last_date": "2026-05-24"
@@ -18,19 +18,19 @@
    "last_date": "2026-05-17"
   },
   "AP.Bren": {
-   "rating": 1416.9,
+   "rating": 1424.2,
    "w": 30,
    "l": 71,
    "last_date": "2026-05-17"
   },
   "Alpha7 North": {
-   "rating": 1500.4,
+   "rating": 1498.5,
    "w": 6,
    "l": 8,
    "last_date": "2026-08-05"
   },
   "Alter Ego": {
-   "rating": 1495.9,
+   "rating": 1505.1,
    "w": 103,
    "l": 99,
    "last_date": "2026-05-23"
@@ -42,21 +42,21 @@
    "last_date": "2026-06-16"
   },
   "Aura Farmers": {
-   "rating": 1387.6,
+   "rating": 1389.4,
    "w": 16,
    "l": 57,
    "last_date": "2026-06-18"
   },
   "Aurora Gaming": {
-   "rating": 1663.7,
-   "w": 46,
+   "rating": 1686.4,
+   "w": 48,
    "l": 40,
-   "last_date": "2026-08-05"
+   "last_date": "2026-08-06"
   },
   "Aurora Gaming PH": {
-   "rating": 1591.7,
-   "w": 115,
-   "l": 75,
+   "rating": 1600.9,
+   "w": 117,
+   "l": 79,
    "last_date": "2026-05-27"
   },
   "Bacon Time": {
@@ -66,13 +66,13 @@
    "last_date": "2026-05-17"
   },
   "Bigetron MY by VIT": {
-   "rating": 1546.6,
+   "rating": 1553.4,
    "w": 23,
    "l": 23,
    "last_date": "2026-06-05"
   },
   "Bigetron by Vitality": {
-   "rating": 1721.0,
+   "rating": 1728.5,
    "w": 65,
    "l": 48,
    "last_date": "2026-08-05"
@@ -84,52 +84,52 @@
    "last_date": "2026-05-17"
   },
   "Cyber Hero": {
-   "rating": 1478.0,
+   "rating": 1480.2,
    "w": 134,
    "l": 131,
    "last_date": "2026-06-19"
   },
   "Dark Phoenix": {
-   "rating": 1402.0,
-   "w": 17,
-   "l": 32,
+   "rating": 1400.6,
+   "w": 18,
+   "l": 35,
    "last_date": "2026-06-15"
   },
   "Dewa United Esports": {
-   "rating": 1496.2,
+   "rating": 1505.0,
    "w": 56,
    "l": 65,
    "last_date": "2026-06-10"
   },
   "DianFengYaoGuai": {
-   "rating": 1477.7,
-   "w": 11,
-   "l": 19,
-   "last_date": "2026-08-05"
+   "rating": 1510.2,
+   "w": 13,
+   "l": 20,
+   "last_date": "2026-08-06"
   },
   "EVOS": {
-   "rating": 1532.8,
+   "rating": 1541.4,
    "w": 49,
    "l": 48,
    "last_date": "2026-06-10"
   },
   "Entity7": {
-   "rating": 1460.7,
+   "rating": 1462.6,
    "w": 3,
    "l": 8,
    "last_date": "2026-08-05"
   },
   "FORZE Esports": {
-   "rating": 1667.1,
+   "rating": 1669.4,
    "w": 148,
    "l": 158,
    "last_date": "2026-06-21"
   },
   "FUT Esports": {
-   "rating": 1537.6,
-   "w": 6,
-   "l": 5,
-   "last_date": "2026-08-05"
+   "rating": 1577.5,
+   "w": 8,
+   "l": 6,
+   "last_date": "2026-08-06"
   },
   "Falcons Vega": {
    "rating": 1536.5,
@@ -156,16 +156,16 @@
    "last_date": "2026-07-18"
   },
   "Geek Fam ID": {
-   "rating": 1548.9,
+   "rating": 1557.7,
    "w": 68,
    "l": 74,
    "last_date": "2026-06-13"
   },
   "Geekay Esports": {
-   "rating": 1472.8,
-   "w": 4,
-   "l": 9,
-   "last_date": "2026-08-05"
+   "rating": 1450.9,
+   "w": 6,
+   "l": 16,
+   "last_date": "2026-08-06"
   },
   "Geltek Cyber Team": {
    "rating": 1593.7,
@@ -174,13 +174,13 @@
    "last_date": "2026-07-18"
   },
   "Guangzhou Gaming": {
-   "rating": 1564.0,
+   "rating": 1564.8,
    "w": 9,
    "l": 9,
    "last_date": "2026-07-26"
   },
   "HARD GRIND": {
-   "rating": 1470.0,
+   "rating": 1469.8,
    "w": 19,
    "l": 16,
    "last_date": "2026-06-16"
@@ -192,37 +192,37 @@
    "last_date": "2026-05-16"
   },
   "IGNITE Gaming": {
-   "rating": 1427.8,
+   "rating": 1428.8,
    "w": 5,
    "l": 11,
    "last_date": "2026-07-24"
   },
   "Invictus Gaming": {
-   "rating": 1514.3,
+   "rating": 1520.5,
    "w": 25,
    "l": 22,
    "last_date": "2026-06-06"
   },
   "King of Gamers Club": {
-   "rating": 1628.9,
+   "rating": 1627.8,
    "w": 22,
    "l": 7,
    "last_date": "2026-07-03"
   },
   "Kings Crown": {
-   "rating": 1452.2,
+   "rating": 1452.0,
    "w": 4,
    "l": 5,
    "last_date": "2026-05-01"
   },
   "Magic": {
-   "rating": 1420.1,
+   "rating": 1422.3,
    "w": 22,
    "l": 49,
    "last_date": "2026-06-16"
   },
   "Natus Vincere": {
-   "rating": 1503.2,
+   "rating": 1512.0,
    "w": 41,
    "l": 79,
    "last_date": "2026-05-24"
@@ -234,49 +234,49 @@
    "last_date": "2026-07-18"
   },
   "Niightmare Esports": {
-   "rating": 1396.9,
-   "w": 3,
-   "l": 10,
+   "rating": 1374.8,
+   "w": 5,
+   "l": 16,
    "last_date": "2026-07-03"
   },
   "ONIC": {
-   "rating": 1758.7,
+   "rating": 1766.0,
    "w": 178,
    "l": 98,
    "last_date": "2026-08-05"
   },
   "ONIC PH": {
-   "rating": 1651.7,
-   "w": 146,
-   "l": 74,
+   "rating": 1659.7,
+   "w": 158,
+   "l": 78,
    "last_date": "2026-05-30"
   },
   "Omega Esports": {
-   "rating": 1534.6,
+   "rating": 1542.2,
    "w": 41,
    "l": 72,
    "last_date": "2026-05-29"
   },
   "Omnix": {
-   "rating": 1571.3,
+   "rating": 1571.8,
    "w": 21,
    "l": 14,
    "last_date": "2026-06-18"
   },
   "PRO Esports": {
-   "rating": 1514.7,
-   "w": 31,
+   "rating": 1546.6,
+   "w": 33,
    "l": 35,
-   "last_date": "2026-08-05"
+   "last_date": "2026-08-06"
   },
   "RRQ Hoshi": {
-   "rating": 1399.0,
-   "w": 94,
-   "l": 95,
+   "rating": 1407.3,
+   "w": 106,
+   "l": 107,
    "last_date": "2026-05-24"
   },
   "RRQ Tora": {
-   "rating": 1424.8,
+   "rating": 1429.3,
    "w": 12,
    "l": 21,
    "last_date": "2026-06-03"
@@ -294,79 +294,79 @@
    "last_date": "2026-05-17"
   },
   "Selangor Red Giants": {
-   "rating": 1654.9,
-   "w": 58,
-   "l": 34,
+   "rating": 1663.8,
+   "w": 80,
+   "l": 45,
    "last_date": "2026-08-05"
   },
   "Suplex Team": {
-   "rating": 1313.6,
+   "rating": 1313.1,
    "w": 8,
    "l": 26,
    "last_date": "2026-06-15"
   },
   "TNC Pro Team": {
-   "rating": 1431.0,
+   "rating": 1438.5,
    "w": 49,
    "l": 78,
    "last_date": "2026-05-16"
   },
   "Team Falcons": {
-   "rating": 1522.4,
+   "rating": 1521.5,
    "w": 27,
    "l": 35,
    "last_date": "2026-07-26"
   },
   "Team Falcons PH": {
-   "rating": 1654.3,
+   "rating": 1659.8,
    "w": 111,
    "l": 94,
    "last_date": "2026-08-05"
   },
   "Team Flash": {
-   "rating": 1321.9,
+   "rating": 1327.7,
    "w": 29,
    "l": 51,
    "last_date": "2026-05-24"
   },
   "Team Liquid ID": {
-   "rating": 1518.6,
-   "w": 97,
-   "l": 94,
+   "rating": 1527.5,
+   "w": 112,
+   "l": 104,
    "last_date": "2026-06-12"
   },
   "Team Liquid PH": {
-   "rating": 1743.4,
+   "rating": 1751.5,
    "w": 141,
    "l": 64,
    "last_date": "2026-07-25"
   },
   "Team Rey": {
-   "rating": 1437.3,
+   "rating": 1442.0,
    "w": 32,
    "l": 48,
    "last_date": "2026-06-03"
   },
   "Team Spirit": {
-   "rating": 1849.4,
-   "w": 244,
-   "l": 85,
-   "last_date": "2026-08-05"
+   "rating": 1812.1,
+   "w": 262,
+   "l": 96,
+   "last_date": "2026-08-06"
   },
   "Team Spirit Academy White": {
-   "rating": 1501.8,
+   "rating": 1501.4,
    "w": 17,
    "l": 13,
    "last_date": "2026-06-15"
   },
   "Team Vamos": {
-   "rating": 1653.2,
-   "w": 73,
-   "l": 58,
-   "last_date": "2026-08-05"
+   "rating": 1628.8,
+   "w": 89,
+   "l": 73,
+   "last_date": "2026-08-06"
   },
   "Team Vitality": {
-   "rating": 1588.4,
+   "rating": 1590.5,
    "w": 5,
    "l": 3,
    "last_date": "2026-07-29"
@@ -378,7 +378,7 @@
    "last_date": "2026-07-18"
   },
   "Team Yandex": {
-   "rating": 1659.3,
+   "rating": 1661.7,
    "w": 50,
    "l": 43,
    "last_date": "2026-06-19"
@@ -390,31 +390,31 @@
    "last_date": "2026-05-15"
   },
   "The Huns Esports": {
-   "rating": 1549.4,
+   "rating": 1547.1,
    "w": 6,
    "l": 3,
    "last_date": "2026-07-04"
   },
   "The MongolZ": {
-   "rating": 1447.4,
-   "w": 10,
-   "l": 20,
+   "rating": 1425.7,
+   "w": 13,
+   "l": 25,
    "last_date": "2026-08-05"
   },
   "The Soulless Team": {
-   "rating": 1448.7,
+   "rating": 1448.5,
    "w": 18,
    "l": 17,
    "last_date": "2026-06-16"
   },
   "The World": {
-   "rating": 1493.6,
+   "rating": 1493.3,
    "w": 22,
    "l": 23,
    "last_date": "2026-06-05"
   },
   "Twisted Minds PH": {
-   "rating": 1477.2,
+   "rating": 1484.6,
    "w": 44,
    "l": 72,
    "last_date": "2026-05-27"
@@ -426,19 +426,19 @@
    "last_date": "2026-05-16"
   },
   "Verso Time": {
-   "rating": 1839.1,
+   "rating": 1842.0,
    "w": 201,
    "l": 126,
    "last_date": "2026-06-21"
   },
   "Virtus.pro": {
-   "rating": 1659.6,
+   "rating": 1662.2,
    "w": 179,
    "l": 132,
    "last_date": "2026-06-21"
   },
   "Yangon Galacticos": {
-   "rating": 1722.1,
+   "rating": 1725.7,
    "w": 44,
    "l": 23,
    "last_date": "2026-08-01"
