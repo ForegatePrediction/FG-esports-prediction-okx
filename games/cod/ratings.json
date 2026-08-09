@@ -1,26 +1,26 @@
 {
  "game": "cod",
- "updated": "2026-08-08",
+ "updated": "2026-08-09",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 33,
  "teams": {
   "100 Thieves": {
-   "rating": 1620.5,
-   "w": 15,
+   "rating": 1668.6,
+   "w": 19,
    "l": 9,
-   "last_date": "2026-08-06"
+   "last_date": "2026-08-08"
   },
   "Boston Breach": {
-   "rating": 1398.9,
-   "w": 131,
-   "l": 186,
+   "rating": 1398.1,
+   "w": 128,
+   "l": 184,
    "last_date": "2026-08-06"
   },
   "Carolina Royal Ravens": {
-   "rating": 1440.5,
-   "w": 134,
-   "l": 173,
+   "rating": 1439.8,
+   "w": 131,
+   "l": 171,
    "last_date": "2026-08-06"
   },
   "Cloud9": {
@@ -30,9 +30,9 @@
    "last_date": "2026-08-07"
   },
   "Cloud9 New York": {
-   "rating": 1352.6,
-   "w": 91,
-   "l": 170,
+   "rating": 1351.7,
+   "w": 89,
+   "l": 167,
    "last_date": "2026-06-26"
   },
   "Death By Cabal": {
@@ -42,10 +42,10 @@
    "last_date": "2026-03-18"
   },
   "FaZe Clan": {
-   "rating": 1547.9,
+   "rating": 1515.9,
    "w": 11,
-   "l": 9,
-   "last_date": "2026-08-06"
+   "l": 13,
+   "last_date": "2026-08-08"
   },
   "FaZe Falcons": {
    "rating": 1446.6,
@@ -54,7 +54,7 @@
    "last_date": "2026-05-07"
   },
   "FaZe Vegas": {
-   "rating": 1746.7,
+   "rating": 1745.7,
    "w": 134,
    "l": 98,
    "last_date": "2026-07-19"
@@ -78,49 +78,49 @@
    "last_date": "2026-03-18"
   },
   "G2 Esports": {
-   "rating": 1521.8,
-   "w": 8,
-   "l": 6,
-   "last_date": "2026-08-06"
+   "rating": 1517.5,
+   "w": 11,
+   "l": 10,
+   "last_date": "2026-08-08"
   },
   "G2 Minnesota": {
-   "rating": 1537.7,
+   "rating": 1536.8,
    "w": 93,
    "l": 102,
    "last_date": "2026-07-18"
   },
   "Gentle Mates": {
-   "rating": 1491.3,
-   "w": 10,
-   "l": 11,
-   "last_date": "2026-08-07"
+   "rating": 1509.7,
+   "w": 13,
+   "l": 15,
+   "last_date": "2026-08-08"
   },
   "Huntsmen": {
-   "rating": 1474.3,
+   "rating": 1474.1,
    "w": 10,
    "l": 14,
    "last_date": "2026-05-15"
   },
   "Los Angeles Thieves": {
-   "rating": 1638.4,
+   "rating": 1637.5,
    "w": 261,
    "l": 142,
    "last_date": "2026-07-17"
   },
   "Miami Heretics": {
-   "rating": 1462.9,
-   "w": 176,
-   "l": 178,
+   "rating": 1461.9,
+   "w": 174,
+   "l": 175,
    "last_date": "2026-07-18"
   },
   "Movistar KOI": {
-   "rating": 1612.2,
+   "rating": 1563.3,
    "w": 21,
-   "l": 10,
-   "last_date": "2026-08-07"
+   "l": 14,
+   "last_date": "2026-08-08"
   },
   "OMiT": {
-   "rating": 1419.0,
+   "rating": 1418.7,
    "w": 12,
    "l": 20,
    "last_date": "2026-08-06"
@@ -132,49 +132,49 @@
    "last_date": "2026-05-07"
   },
   "OpTic Gaming": {
-   "rating": 1682.4,
-   "w": 24,
+   "rating": 1714.1,
+   "w": 28,
    "l": 7,
-   "last_date": "2026-08-07"
+   "last_date": "2026-08-08"
   },
   "OpTic Texas": {
-   "rating": 1707.8,
+   "rating": 1706.8,
    "w": 231,
    "l": 157,
    "last_date": "2026-07-19"
   },
   "Paris Gentle Mates": {
-   "rating": 1621.8,
+   "rating": 1620.9,
    "w": 118,
    "l": 107,
    "last_date": "2026-07-18"
   },
   "Project Notorious": {
-   "rating": 1512.8,
+   "rating": 1512.4,
    "w": 35,
    "l": 28,
    "last_date": "2026-08-07"
   },
   "Riyadh Falcons": {
-   "rating": 1592.8,
+   "rating": 1591.9,
    "w": 98,
    "l": 91,
    "last_date": "2026-07-19"
   },
   "Team Falcons": {
-   "rating": 1579.3,
-   "w": 12,
-   "l": 8,
-   "last_date": "2026-08-06"
+   "rating": 1560.5,
+   "w": 16,
+   "l": 11,
+   "last_date": "2026-08-08"
   },
   "Team Heretics": {
-   "rating": 1601.6,
-   "w": 20,
-   "l": 11,
-   "last_date": "2026-08-07"
+   "rating": 1605.7,
+   "w": 24,
+   "l": 14,
+   "last_date": "2026-08-08"
   },
   "Team WaR": {
-   "rating": 1430.0,
+   "rating": 1429.6,
    "w": 5,
    "l": 12,
    "last_date": "2026-08-07"
@@ -186,21 +186,21 @@
    "last_date": "2026-03-20"
   },
   "The Pit": {
-   "rating": 1448.4,
+   "rating": 1448.1,
    "w": 4,
    "l": 8,
    "last_date": "2026-08-07"
   },
   "Toronto KOI": {
-   "rating": 1514.3,
+   "rating": 1513.3,
    "w": 100,
    "l": 91,
    "last_date": "2026-07-17"
   },
   "Vancouver Surge": {
-   "rating": 1416.1,
-   "w": 161,
-   "l": 194,
+   "rating": 1415.3,
+   "w": 159,
+   "l": 191,
    "last_date": "2026-08-06"
   }
  }
