@@ -1,6 +1,6 @@
 {
  "game": "mlbb",
- "updated": "2026-08-15",
+ "updated": "2026-08-16",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 74,
@@ -66,10 +66,10 @@
    "last_date": "2026-05-17"
   },
   "Bigetron MY by VIT": {
-   "rating": 1560.2,
-   "w": 25,
-   "l": 24,
-   "last_date": "2026-08-14"
+   "rating": 1553.0,
+   "w": 27,
+   "l": 25,
+   "last_date": "2026-08-15"
   },
   "Bigetron by Vitality": {
    "rating": 1769.9,
@@ -96,10 +96,10 @@
    "last_date": "2026-06-15"
   },
   "Dewa United Esports": {
-   "rating": 1505.4,
-   "w": 56,
-   "l": 65,
-   "last_date": "2026-06-10"
+   "rating": 1478.1,
+   "w": 57,
+   "l": 67,
+   "last_date": "2026-08-15"
   },
   "DianFengYaoGuai": {
    "rating": 1499.8,
@@ -108,10 +108,10 @@
    "last_date": "2026-08-07"
   },
   "EVOS": {
-   "rating": 1558.8,
-   "w": 51,
-   "l": 48,
-   "last_date": "2026-08-14"
+   "rating": 1535.7,
+   "w": 52,
+   "l": 50,
+   "last_date": "2026-08-15"
   },
   "Entity7": {
    "rating": 1462.2,
@@ -156,10 +156,10 @@
    "last_date": "2026-07-18"
   },
   "Geek Fam ID": {
-   "rating": 1558.1,
-   "w": 68,
-   "l": 74,
-   "last_date": "2026-06-13"
+   "rating": 1544.0,
+   "w": 69,
+   "l": 76,
+   "last_date": "2026-08-15"
   },
   "Geekay Esports": {
    "rating": 1450.4,
@@ -198,10 +198,10 @@
    "last_date": "2026-07-24"
   },
   "Invictus Gaming": {
-   "rating": 1518.7,
+   "rating": 1500.5,
    "w": 25,
-   "l": 22,
-   "last_date": "2026-06-06"
+   "l": 24,
+   "last_date": "2026-08-15"
   },
   "King of Gamers Club": {
    "rating": 1627.9,
@@ -222,10 +222,10 @@
    "last_date": "2026-06-16"
   },
   "Natus Vincere": {
-   "rating": 1485.0,
-   "w": 41,
-   "l": 81,
-   "last_date": "2026-08-14"
+   "rating": 1508.1,
+   "w": 43,
+   "l": 82,
+   "last_date": "2026-08-15"
   },
   "Natus Vincere FE PH": {
    "rating": 1577.6,
@@ -270,16 +270,16 @@
    "last_date": "2026-08-07"
   },
   "RRQ Hoshi": {
-   "rating": 1390.6,
-   "w": 103,
-   "l": 105,
-   "last_date": "2026-08-14"
+   "rating": 1418.0,
+   "w": 105,
+   "l": 106,
+   "last_date": "2026-08-15"
   },
   "RRQ Tora": {
-   "rating": 1428.0,
+   "rating": 1402.2,
    "w": 12,
-   "l": 21,
-   "last_date": "2026-06-03"
+   "l": 23,
+   "last_date": "2026-08-15"
   },
   "SAETA": {
    "rating": 1536.2,
@@ -294,10 +294,10 @@
    "last_date": "2026-05-17"
   },
   "Selangor Red Giants": {
-   "rating": 1636.5,
-   "w": 71,
+   "rating": 1654.7,
+   "w": 73,
    "l": 44,
-   "last_date": "2026-08-09"
+   "last_date": "2026-08-15"
   },
   "Suplex Team": {
    "rating": 1313.8,
@@ -324,16 +324,16 @@
    "last_date": "2026-08-07"
   },
   "Team Flash": {
-   "rating": 1342.3,
-   "w": 30,
-   "l": 53,
-   "last_date": "2026-08-14"
+   "rating": 1349.6,
+   "w": 31,
+   "l": 55,
+   "last_date": "2026-08-15"
   },
   "Team Liquid ID": {
-   "rating": 1528.0,
-   "w": 108,
-   "l": 101,
-   "last_date": "2026-06-12"
+   "rating": 1542.0,
+   "w": 110,
+   "l": 102,
+   "last_date": "2026-08-15"
   },
   "Team Liquid PH": {
    "rating": 1751.2,
@@ -342,10 +342,10 @@
    "last_date": "2026-07-25"
   },
   "Team Rey": {
-   "rating": 1440.9,
-   "w": 32,
+   "rating": 1466.8,
+   "w": 34,
    "l": 48,
-   "last_date": "2026-06-03"
+   "last_date": "2026-08-15"
   },
   "Team Spirit": {
    "rating": 1811.5,
