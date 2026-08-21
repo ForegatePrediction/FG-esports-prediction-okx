@@ -1,9 +1,9 @@
 {
  "game": "dota2",
- "updated": "2026-08-20",
+ "updated": "2026-08-21",
  "scale": 400,
  "shrink": 0.7,
- "n_teams": 182,
+ "n_teams": 179,
  "teams": {
   " Pipsqueak+4": {
    "rating": 1667.5,
@@ -41,12 +41,6 @@
    "l": 30,
    "last_date": "2026-04-30"
   },
-  "AVULUS": {
-   "rating": 1502.3,
-   "w": 132,
-   "l": 181,
-   "last_date": "2026-03-21"
-  },
   "Agressiv Style": {
    "rating": 1346.8,
    "w": 6,
@@ -54,7 +48,7 @@
    "last_date": "2026-04-10"
   },
   "Aim Possible": {
-   "rating": 1464.5,
+   "rating": 1464.4,
    "w": 26,
    "l": 59,
    "last_date": "2026-05-05"
@@ -70,12 +64,6 @@
    "w": 4,
    "l": 6,
    "last_date": "2026-07-01"
-  },
-  "Astini+5": {
-   "rating": 1530.9,
-   "w": 11,
-   "l": 10,
-   "last_date": "2026-03-21"
   },
   "Aurora": {
    "rating": 1843.5,
@@ -126,10 +114,10 @@
    "last_date": "2026-07-01"
   },
   "BoomBoys": {
-   "rating": 1611.2,
-   "w": 7,
-   "l": 7,
-   "last_date": "2026-08-16"
+   "rating": 1617.1,
+   "w": 8,
+   "l": 9,
+   "last_date": "2026-08-20"
   },
   "Breeki Cheeki": {
    "rating": 1640.8,
@@ -318,7 +306,7 @@
    "last_date": "2026-08-15"
   },
   "Habibis": {
-   "rating": 1375.5,
+   "rating": 1375.4,
    "w": 3,
    "l": 11,
    "last_date": "2026-07-04"
@@ -384,10 +372,10 @@
    "last_date": "2026-07-08"
   },
   "Iron Wing": {
-   "rating": 1716.4,
+   "rating": 1700.7,
    "w": 10,
-   "l": 6,
-   "last_date": "2026-08-16"
+   "l": 8,
+   "last_date": "2026-08-20"
   },
   "Israel": {
    "rating": 1490.7,
@@ -402,7 +390,7 @@
    "last_date": "2026-06-26"
   },
   "KINGS": {
-   "rating": 1423.5,
+   "rating": 1423.4,
    "w": 3,
    "l": 7,
    "last_date": "2026-04-10"
@@ -414,15 +402,15 @@
    "last_date": "2026-07-28"
   },
   "Kalmychata": {
-   "rating": 1597.5,
+   "rating": 1597.4,
    "w": 176,
    "l": 152,
    "last_date": "2026-04-08"
   },
   "L1ga Team": {
    "rating": 1594.5,
-   "w": 272,
-   "l": 236,
+   "w": 270,
+   "l": 235,
    "last_date": "2026-08-01"
   },
   "LGD Gaming": {
@@ -528,7 +516,7 @@
    "last_date": "2026-08-12"
   },
   "Nemiga Gaming": {
-   "rating": 1526.5,
+   "rating": 1526.4,
    "w": 188,
    "l": 228,
    "last_date": "2026-08-07"
@@ -540,10 +528,10 @@
    "last_date": "2026-05-30"
   },
   "Nigma Galaxy": {
-   "rating": 1856.1,
-   "w": 245,
-   "l": 209,
-   "last_date": "2026-08-15"
+   "rating": 1865.3,
+   "w": 247,
+   "l": 210,
+   "last_date": "2026-08-20"
   },
   "Nix Team": {
    "rating": 1484.4,
@@ -750,10 +738,10 @@
    "last_date": "2026-07-01"
   },
   "TEAM VISION": {
-   "rating": 1775.4,
-   "w": 14,
-   "l": 3,
-   "last_date": "2026-08-15"
+   "rating": 1769.4,
+   "w": 16,
+   "l": 4,
+   "last_date": "2026-08-20"
   },
   "TPaBoMaH Club": {
    "rating": 1560.3,
@@ -786,10 +774,10 @@
    "last_date": "2026-04-13"
   },
   "Team Falcons": {
-   "rating": 1841.7,
-   "w": 278,
-   "l": 180,
-   "last_date": "2026-08-16"
+   "rating": 1832.6,
+   "w": 279,
+   "l": 182,
+   "last_date": "2026-08-20"
   },
   "Team Jenz": {
    "rating": 1459.8,
@@ -798,10 +786,10 @@
    "last_date": "2026-08-08"
   },
   "Team Liquid": {
-   "rating": 1931.1,
+   "rating": 1903.2,
    "w": 301,
-   "l": 219,
-   "last_date": "2026-08-15"
+   "l": 221,
+   "last_date": "2026-08-20"
   },
   "Team Lynx": {
    "rating": 1500.2,
@@ -816,7 +804,7 @@
    "last_date": "2026-05-19"
   },
   "Team Nemesis": {
-   "rating": 1594.1,
+   "rating": 1594.2,
    "w": 136,
    "l": 120,
    "last_date": "2026-07-12"
@@ -833,12 +821,6 @@
    "l": 22,
    "last_date": "2026-08-16"
   },
-  "Team Shpilit": {
-   "rating": 1451.0,
-   "w": 6,
-   "l": 16,
-   "last_date": "2026-03-20"
-  },
   "Team Slayers": {
    "rating": 1462.1,
    "w": 8,
@@ -846,10 +828,10 @@
    "last_date": "2026-05-30"
   },
   "Team Spirit": {
-   "rating": 1871.1,
-   "w": 278,
+   "rating": 1886.9,
+   "w": 280,
    "l": 163,
-   "last_date": "2026-08-16"
+   "last_date": "2026-08-20"
   },
   "Team Stels": {
    "rating": 1391.4,
@@ -858,16 +840,16 @@
    "last_date": "2026-05-05"
   },
   "Team Syntax": {
-   "rating": 1518.6,
+   "rating": 1518.5,
    "w": 25,
    "l": 22,
    "last_date": "2026-08-08"
   },
   "Team Yandex": {
-   "rating": 1917.7,
-   "w": 180,
+   "rating": 1945.6,
+   "w": 182,
    "l": 117,
-   "last_date": "2026-08-16"
+   "last_date": "2026-08-20"
   },
   "TeamDk": {
    "rating": 1498.1,
@@ -888,7 +870,7 @@
    "last_date": "2026-07-01"
   },
   "The goal of all life is death": {
-   "rating": 1504.7,
+   "rating": 1504.5,
    "w": 11,
    "l": 12,
    "last_date": "2026-04-13"
@@ -918,7 +900,7 @@
    "last_date": "2026-06-11"
   },
   "Tundra Esports": {
-   "rating": 1755.8,
+   "rating": 1755.9,
    "w": 295,
    "l": 190,
    "last_date": "2026-05-30"
@@ -1015,7 +997,7 @@
   },
   "Zero Tenacity": {
    "rating": 1647.1,
-   "w": 384,
+   "w": 382,
    "l": 331,
    "last_date": "2026-08-11"
   },
@@ -1068,7 +1050,7 @@
    "last_date": "2026-04-12"
   },
   "sifr00": {
-   "rating": 1486.9,
+   "rating": 1487.0,
    "w": 7,
    "l": 11,
    "last_date": "2026-06-02"
