@@ -1,9 +1,9 @@
 {
  "game": "ow",
- "updated": "2026-08-23",
+ "updated": "2026-08-24",
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 71,
+ "n_teams": 77,
  "teams": {
   " ReturnZ": {
    "rating": 1350.9,
@@ -12,7 +12,7 @@
    "last_date": "2026-06-14"
   },
   "1234": {
-   "rating": 1606.3,
+   "rating": 1606.2,
    "w": 10,
    "l": 12,
    "last_date": "2026-06-28"
@@ -24,7 +24,7 @@
    "last_date": "2026-06-24"
   },
   "Al Qadsiah": {
-   "rating": 1659.1,
+   "rating": 1658.8,
    "w": 114,
    "l": 68,
    "last_date": "2026-07-04"
@@ -36,10 +36,16 @@
    "last_date": "2026-07-05"
   },
   "Anyone's Legend": {
-   "rating": 1482.0,
+   "rating": 1481.8,
    "w": 5,
    "l": 14,
    "last_date": "2026-04-05"
+  },
+  "Australia": {
+   "rating": 1489.6,
+   "w": 6,
+   "l": 6,
+   "last_date": "2026-08-23"
   },
   "Canada": {
    "rating": 1493.8,
@@ -59,8 +65,14 @@
    "l": 6,
    "last_date": "2026-08-22"
   },
+  "Colombia": {
+   "rating": 1356.0,
+   "w": 0,
+   "l": 9,
+   "last_date": "2026-08-23"
+  },
   "Crazy Raccoon": {
-   "rating": 1889.3,
+   "rating": 1889.2,
    "w": 191,
    "l": 77,
    "last_date": "2026-08-01"
@@ -72,7 +84,7 @@
    "last_date": "2026-03-29"
   },
   "Dallas Fuel": {
-   "rating": 1662.2,
+   "rating": 1662.3,
    "w": 40,
    "l": 21,
    "last_date": "2026-08-01"
@@ -102,7 +114,7 @@
    "last_date": "2026-06-24"
   },
   "Extinction": {
-   "rating": 1429.7,
+   "rating": 1429.8,
    "w": 32,
    "l": 56,
    "last_date": "2026-04-05"
@@ -126,22 +138,22 @@
    "last_date": "2026-06-27"
   },
   "France": {
-   "rating": 1575.6,
-   "w": 6,
+   "rating": 1595.0,
+   "w": 9,
    "l": 2,
-   "last_date": "2026-08-22"
+   "last_date": "2026-08-23"
   },
   "Geekay Esports": {
-   "rating": 1745.9,
+   "rating": 1745.7,
    "w": 91,
    "l": 69,
    "last_date": "2026-08-01"
   },
   "Germany": {
-   "rating": 1554.6,
-   "w": 5,
+   "rating": 1579.1,
+   "w": 8,
    "l": 4,
-   "last_date": "2026-08-22"
+   "last_date": "2026-08-23"
   },
   "HUNENG": {
    "rating": 1426.4,
@@ -180,7 +192,7 @@
    "last_date": "2026-06-24"
   },
   "LuneX Gaming": {
-   "rating": 1480.8,
+   "rating": 1480.9,
    "w": 17,
    "l": 31,
    "last_date": "2026-07-04"
@@ -202,6 +214,12 @@
    "w": 16,
    "l": 10,
    "last_date": "2026-06-24"
+  },
+  "Mexico": {
+   "rating": 1394.6,
+   "w": 2,
+   "l": 9,
+   "last_date": "2026-08-23"
   },
   "Milk Tea": {
    "rating": 1386.4,
@@ -240,7 +258,7 @@
    "last_date": "2026-07-05"
   },
   "ONSIDE Gaming": {
-   "rating": 1626.0,
+   "rating": 1625.9,
    "w": 55,
    "l": 65,
    "last_date": "2026-04-26"
@@ -281,6 +299,12 @@
    "l": 2,
    "last_date": "2026-07-09"
   },
+  "Saudi Arabia": {
+   "rating": 1645.0,
+   "w": 9,
+   "l": 0,
+   "last_date": "2026-08-23"
+  },
   "Solus Victorem": {
    "rating": 1507.6,
    "w": 31,
@@ -294,7 +318,7 @@
    "last_date": "2026-08-23"
   },
   "Spacestation Gaming": {
-   "rating": 1746.9,
+   "rating": 1747.0,
    "w": 122,
    "l": 66,
    "last_date": "2026-08-01"
@@ -330,7 +354,7 @@
    "last_date": "2026-07-05"
   },
   "Team Peps": {
-   "rating": 1485.2,
+   "rating": 1484.8,
    "w": 45,
    "l": 74,
    "last_date": "2026-04-04"
@@ -342,7 +366,7 @@
    "last_date": "2026-07-09"
   },
   "Telacy": {
-   "rating": 1473.5,
+   "rating": 1473.4,
    "w": 3,
    "l": 15,
    "last_date": "2026-06-28"
@@ -353,6 +377,12 @@
    "l": 37,
    "last_date": "2026-04-08"
   },
+  "Thailand": {
+   "rating": 1389.9,
+   "w": 1,
+   "l": 9,
+   "last_date": "2026-08-23"
+  },
   "The Gatos Guapos": {
    "rating": 1688.4,
    "w": 54,
@@ -360,7 +390,7 @@
    "last_date": "2026-04-30"
   },
   "The Kafe": {
-   "rating": 1411.2,
+   "rating": 1411.3,
    "w": 4,
    "l": 13,
    "last_date": "2026-06-28"
@@ -378,10 +408,16 @@
    "last_date": "2026-07-09"
   },
   "Twisted Minds": {
-   "rating": 1807.3,
+   "rating": 1807.1,
    "w": 151,
    "l": 71,
    "last_date": "2026-08-02"
+  },
+  "United Kingdom": {
+   "rating": 1470.8,
+   "w": 4,
+   "l": 6,
+   "last_date": "2026-08-23"
   },
   "United States": {
    "rating": 1603.5,
@@ -402,7 +438,7 @@
    "last_date": "2026-06-24"
   },
   "Virtus.pro": {
-   "rating": 1864.9,
+   "rating": 1864.7,
    "w": 137,
    "l": 61,
    "last_date": "2026-07-04"
@@ -426,7 +462,7 @@
    "last_date": "2026-07-03"
   },
   "ZETA DIVISION": {
-   "rating": 1895.2,
+   "rating": 1895.1,
    "w": 164,
    "l": 92,
    "last_date": "2026-08-02"
