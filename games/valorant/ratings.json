@@ -1,9 +1,9 @@
 {
  "game": "valorant",
- "updated": "2026-09-02",
+ "updated": "2026-09-03",
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 258,
+ "n_teams": 257,
  "teams": {
   " REBORN": {
    "rating": 1774.0,
@@ -12,7 +12,7 @@
    "last_date": "2026-07-05"
   },
   "100 Thieves": {
-   "rating": 1707.1,
+   "rating": 1707.0,
    "w": 64,
    "l": 48,
    "last_date": "2026-08-29"
@@ -30,7 +30,7 @@
    "last_date": "2026-07-10"
   },
   "9z Team": {
-   "rating": 1526.4,
+   "rating": 1525.1,
    "w": 40,
    "l": 46,
    "last_date": "2026-07-10"
@@ -42,9 +42,9 @@
    "last_date": "2026-08-18"
   },
   "AB3 Esports": {
-   "rating": 1327.5,
-   "w": 13,
-   "l": 36,
+   "rating": 1325.1,
+   "w": 11,
+   "l": 35,
    "last_date": "2026-06-02"
   },
   "AG.AL International": {
@@ -72,10 +72,10 @@
    "last_date": "2026-09-01"
   },
   "ALTERNATE aTTaX Ruby": {
-   "rating": 1424.3,
-   "w": 32,
-   "l": 53,
-   "last_date": "2026-08-31"
+   "rating": 1439.3,
+   "w": 34,
+   "l": 54,
+   "last_date": "2026-09-02"
   },
   "ARETE": {
    "rating": 1492.0,
@@ -84,13 +84,13 @@
    "last_date": "2026-07-15"
   },
   "Abacatudos": {
-   "rating": 1383.7,
+   "rating": 1384.4,
    "w": 3,
    "l": 10,
    "last_date": "2026-06-17"
   },
   "Akave Esports Black": {
-   "rating": 1811.9,
+   "rating": 1811.2,
    "w": 51,
    "l": 11,
    "last_date": "2026-08-25"
@@ -138,10 +138,10 @@
    "last_date": "2026-05-13"
   },
   "Axolotl": {
-   "rating": 1637.0,
-   "w": 11,
-   "l": 4,
-   "last_date": "2026-09-01"
+   "rating": 1633.9,
+   "w": 12,
+   "l": 6,
+   "last_date": "2026-09-02"
   },
   "Azure Dragon Gaming": {
    "rating": 1468.5,
@@ -162,7 +162,7 @@
    "last_date": "2026-08-23"
   },
   "BESTIA": {
-   "rating": 1638.0,
+   "rating": 1637.0,
    "w": 26,
    "l": 14,
    "last_date": "2026-08-22"
@@ -180,7 +180,7 @@
    "last_date": "2026-07-10"
   },
   "Barça eSports GC": {
-   "rating": 1430.1,
+   "rating": 1430.0,
    "w": 28,
    "l": 50,
    "last_date": "2026-08-10"
@@ -216,10 +216,10 @@
    "last_date": "2026-04-18"
   },
   "CGN Esports": {
-   "rating": 1635.6,
-   "w": 79,
+   "rating": 1654.0,
+   "w": 81,
    "l": 47,
-   "last_date": "2026-08-31"
+   "last_date": "2026-09-02"
   },
   "Caldya Esport": {
    "rating": 1418.3,
@@ -228,25 +228,25 @@
    "last_date": "2026-04-26"
   },
   "Chivas Esports": {
-   "rating": 1487.3,
-   "w": 27,
-   "l": 33,
+   "rating": 1483.1,
+   "w": 26,
+   "l": 31,
    "last_date": "2026-06-24"
   },
   "Cloud9": {
-   "rating": 1480.2,
+   "rating": 1480.1,
    "w": 40,
    "l": 47,
    "last_date": "2026-08-19"
   },
   "Cloud9 GC": {
-   "rating": 1509.0,
-   "w": 9,
-   "l": 9,
-   "last_date": "2026-09-01"
+   "rating": 1498.9,
+   "w": 10,
+   "l": 11,
+   "last_date": "2026-09-03"
   },
   "Contra": {
-   "rating": 1556.2,
+   "rating": 1554.7,
    "w": 50,
    "l": 50,
    "last_date": "2026-07-29"
@@ -318,9 +318,9 @@
    "last_date": "2026-05-18"
   },
   "EOTO": {
-   "rating": 1473.1,
+   "rating": 1490.4,
    "w": 10,
-   "l": 13,
+   "l": 11,
    "last_date": "2026-07-03"
   },
   "EVOPLAY": {
@@ -336,7 +336,7 @@
    "last_date": "2026-09-01"
   },
   "Elevate": {
-   "rating": 1453.1,
+   "rating": 1453.3,
    "w": 25,
    "l": 33,
    "last_date": "2026-06-25"
@@ -384,9 +384,9 @@
    "last_date": "2026-07-04"
   },
   "F4TALITY": {
-   "rating": 1427.6,
+   "rating": 1429.4,
    "w": 20,
-   "l": 38,
+   "l": 36,
    "last_date": "2026-06-28"
   },
   "F9 EICAR": {
@@ -402,8 +402,8 @@
    "last_date": "2026-05-04"
   },
   "FENNEL Female": {
-   "rating": 1718.0,
-   "w": 27,
+   "rating": 1716.2,
+   "w": 25,
    "l": 5,
    "last_date": "2026-07-04"
   },
@@ -414,7 +414,7 @@
    "last_date": "2026-07-10"
   },
   "FOKUS Sakura": {
-   "rating": 1587.9,
+   "rating": 1587.7,
    "w": 29,
    "l": 31,
    "last_date": "2026-08-18"
@@ -432,7 +432,7 @@
    "last_date": "2026-08-22"
   },
   "FURIA Academy": {
-   "rating": 1515.3,
+   "rating": 1515.8,
    "w": 27,
    "l": 29,
    "last_date": "2026-07-03"
@@ -444,13 +444,13 @@
    "last_date": "2026-08-29"
   },
   "FUSION": {
-   "rating": 1341.1,
+   "rating": 1339.2,
    "w": 14,
    "l": 31,
    "last_date": "2026-06-26"
   },
   "FUSION X": {
-   "rating": 1488.4,
+   "rating": 1488.2,
    "w": 26,
    "l": 33,
    "last_date": "2026-08-25"
@@ -492,10 +492,10 @@
    "last_date": "2026-06-24"
   },
   "FlyQuest RED": {
-   "rating": 1708.5,
-   "w": 42,
-   "l": 22,
-   "last_date": "2026-09-01"
+   "rating": 1711.4,
+   "w": 44,
+   "l": 23,
+   "last_date": "2026-09-02"
   },
   "Fnatic": {
    "rating": 1554.5,
@@ -522,7 +522,7 @@
    "last_date": "2026-05-18"
   },
   "Fuego": {
-   "rating": 1574.0,
+   "rating": 1572.4,
    "w": 35,
    "l": 31,
    "last_date": "2026-07-11"
@@ -534,13 +534,13 @@
    "last_date": "2026-08-09"
   },
   "G2 Esports": {
-   "rating": 1673.3,
+   "rating": 1673.2,
    "w": 97,
    "l": 55,
    "last_date": "2026-08-30"
   },
   "G2 Gozen": {
-   "rating": 1698.7,
+   "rating": 1698.5,
    "w": 95,
    "l": 48,
    "last_date": "2026-08-30"
@@ -552,7 +552,7 @@
    "last_date": "2026-08-13"
   },
   "GIANTX GC": {
-   "rating": 1506.4,
+   "rating": 1506.3,
    "w": 65,
    "l": 76,
    "last_date": "2026-08-17"
@@ -594,7 +594,7 @@
    "last_date": "2026-08-12"
   },
   "Gentle Mates GC": {
-   "rating": 1671.0,
+   "rating": 1670.8,
    "w": 67,
    "l": 29,
    "last_date": "2026-08-30"
@@ -636,13 +636,13 @@
    "last_date": "2026-05-03"
   },
   "HIMMERS": {
-   "rating": 1553.1,
-   "w": 8,
-   "l": 8,
-   "last_date": "2026-09-01"
+   "rating": 1563.2,
+   "w": 10,
+   "l": 9,
+   "last_date": "2026-09-03"
   },
   "Habos Babos": {
-   "rating": 1587.0,
+   "rating": 1586.9,
    "w": 15,
    "l": 12,
    "last_date": "2026-08-17"
@@ -696,7 +696,7 @@
    "last_date": "2026-08-16"
   },
   "Joblife Nanas": {
-   "rating": 1324.0,
+   "rating": 1323.9,
    "w": 2,
    "l": 20,
    "last_date": "2026-08-08"
@@ -708,19 +708,19 @@
    "last_date": "2026-05-04"
   },
   "KRÜ Blaze": {
-   "rating": 1555.1,
-   "w": 59,
+   "rating": 1551.7,
+   "w": 57,
    "l": 39,
    "last_date": "2026-08-24"
   },
   "KRÜ Esports": {
-   "rating": 1493.8,
+   "rating": 1493.7,
    "w": 34,
    "l": 47,
    "last_date": "2026-08-24"
   },
   "KRÜ Spark": {
-   "rating": 1631.5,
+   "rating": 1630.2,
    "w": 29,
    "l": 29,
    "last_date": "2026-07-12"
@@ -732,7 +732,7 @@
    "last_date": "2026-08-30"
   },
   "Karmine Corp GC": {
-   "rating": 1464.4,
+   "rating": 1464.2,
    "w": 57,
    "l": 60,
    "last_date": "2026-08-10"
@@ -756,7 +756,7 @@
    "last_date": "2026-07-01"
   },
   "LAZER": {
-   "rating": 1441.5,
+   "rating": 1439.8,
    "w": 13,
    "l": 21,
    "last_date": "2026-06-24"
@@ -774,7 +774,7 @@
    "last_date": "2026-08-31"
   },
   "LYON": {
-   "rating": 1691.7,
+   "rating": 1689.9,
    "w": 47,
    "l": 9,
    "last_date": "2026-07-09"
@@ -786,8 +786,8 @@
    "last_date": "2026-06-05"
   },
   "Leviatán Academy": {
-   "rating": 1569.2,
-   "w": 43,
+   "rating": 1566.8,
+   "w": 41,
    "l": 29,
    "last_date": "2026-06-24"
   },
@@ -804,7 +804,7 @@
    "last_date": "2026-06-11"
   },
   "Looking For Laburo": {
-   "rating": 1490.3,
+   "rating": 1487.6,
    "w": 15,
    "l": 22,
    "last_date": "2026-08-24"
@@ -834,13 +834,13 @@
    "last_date": "2026-08-31"
   },
   "MIBR Academy": {
-   "rating": 1518.6,
+   "rating": 1519.0,
    "w": 26,
    "l": 22,
    "last_date": "2026-07-03"
   },
   "MIBR GC": {
-   "rating": 1723.1,
+   "rating": 1722.3,
    "w": 42,
    "l": 19,
    "last_date": "2026-08-18"
@@ -858,19 +858,19 @@
    "last_date": "2026-07-09"
   },
   "MVSK Secret": {
-   "rating": 1495.6,
-   "w": 8,
-   "l": 9,
-   "last_date": "2026-09-01"
+   "rating": 1487.3,
+   "w": 9,
+   "l": 11,
+   "last_date": "2026-09-02"
   },
   "MVSK Treasure": {
-   "rating": 1457.2,
+   "rating": 1457.1,
    "w": 7,
    "l": 9,
    "last_date": "2026-05-21"
   },
   "MYVRA GC": {
-   "rating": 1533.9,
+   "rating": 1533.7,
    "w": 31,
    "l": 26,
    "last_date": "2026-08-13"
@@ -894,7 +894,7 @@
    "last_date": "2026-04-28"
   },
   "Melser Kindergarten": {
-   "rating": 1646.6,
+   "rating": 1645.4,
    "w": 12,
    "l": 5,
    "last_date": "2026-04-21"
@@ -930,7 +930,7 @@
    "last_date": "2026-04-28"
   },
   "NPC Team": {
-   "rating": 1488.0,
+   "rating": 1486.5,
    "w": 4,
    "l": 5,
    "last_date": "2026-08-17"
@@ -966,7 +966,7 @@
    "last_date": "2026-07-08"
   },
   "No Sweat Blossom": {
-   "rating": 1526.5,
+   "rating": 1526.3,
    "w": 25,
    "l": 29,
    "last_date": "2026-08-18"
@@ -1002,7 +1002,7 @@
    "last_date": "2026-08-12"
   },
   "OXEN": {
-   "rating": 1430.3,
+   "rating": 1429.1,
    "w": 27,
    "l": 37,
    "last_date": "2026-06-24"
@@ -1014,7 +1014,7 @@
    "last_date": "2026-06-18"
   },
   "Olimpo Gold": {
-   "rating": 1523.3,
+   "rating": 1519.7,
    "w": 19,
    "l": 20,
    "last_date": "2026-08-10"
@@ -1032,7 +1032,7 @@
    "last_date": "2026-05-11"
   },
   "PEEK": {
-   "rating": 1382.0,
+   "rating": 1383.0,
    "w": 16,
    "l": 31,
    "last_date": "2026-06-17"
@@ -1128,7 +1128,7 @@
    "last_date": "2026-06-02"
   },
   "Ramboot Club": {
-   "rating": 1495.9,
+   "rating": 1495.8,
    "w": 25,
    "l": 29,
    "last_date": "2026-05-05"
@@ -1170,19 +1170,19 @@
    "last_date": "2026-06-04"
   },
   "SK Nebula": {
-   "rating": 1625.8,
+   "rating": 1625.6,
    "w": 65,
    "l": 53,
    "last_date": "2026-08-19"
   },
   "STREAMER ARENA": {
-   "rating": 1485.6,
+   "rating": 1483.9,
    "w": 11,
    "l": 15,
    "last_date": "2026-07-05"
   },
   "SaD Esports": {
-   "rating": 1566.7,
+   "rating": 1566.6,
    "w": 42,
    "l": 36,
    "last_date": "2026-07-11"
@@ -1194,9 +1194,9 @@
    "last_date": "2026-08-12"
   },
   "Sasanqua": {
-   "rating": 1430.6,
+   "rating": 1462.8,
    "w": 4,
-   "l": 12,
+   "l": 10,
    "last_date": "2026-07-04"
   },
   "Sentinels": {
@@ -1212,34 +1212,28 @@
    "last_date": "2026-08-23"
   },
   "ShindeN": {
-   "rating": 1669.4,
+   "rating": 1667.7,
    "w": 55,
    "l": 34,
    "last_date": "2026-06-24"
   },
   "Shopify Rebellion Black": {
-   "rating": 1679.9,
+   "rating": 1679.8,
    "w": 69,
    "l": 48,
    "last_date": "2026-07-30"
   },
   "Shopify Rebellion Gold": {
-   "rating": 1698.8,
-   "w": 62,
+   "rating": 1730.5,
+   "w": 64,
    "l": 39,
-   "last_date": "2026-09-01"
+   "last_date": "2026-09-03"
   },
   "So:sweet": {
    "rating": 1383.4,
    "w": 4,
    "l": 13,
    "last_date": "2026-07-02"
-  },
-  "Soleil Gaming GC": {
-   "rating": 1406.0,
-   "w": 2,
-   "l": 7,
-   "last_date": "2026-07-03"
   },
   "Spire Esports": {
    "rating": 1489.4,
@@ -1254,10 +1248,10 @@
    "last_date": "2026-05-12"
   },
   "SwimTrek Blue": {
-   "rating": 1762.8,
+   "rating": 1730.9,
    "w": 28,
-   "l": 6,
-   "last_date": "2026-09-01"
+   "l": 8,
+   "last_date": "2026-09-03"
   },
   "T1": {
    "rating": 1654.0,
@@ -1272,7 +1266,7 @@
    "last_date": "2026-07-01"
   },
   "TBK Esports": {
-   "rating": 1491.4,
+   "rating": 1492.1,
    "w": 23,
    "l": 19,
    "last_date": "2026-06-25"
@@ -1320,7 +1314,7 @@
    "last_date": "2026-06-29"
   },
   "Team Liquid Brazil": {
-   "rating": 1564.9,
+   "rating": 1564.4,
    "w": 31,
    "l": 21,
    "last_date": "2026-08-18"
@@ -1338,7 +1332,7 @@
    "last_date": "2026-08-19"
   },
   "Team Solid": {
-   "rating": 1601.5,
+   "rating": 1601.8,
    "w": 65,
    "l": 42,
    "last_date": "2026-07-10"
@@ -1356,7 +1350,7 @@
    "last_date": "2026-05-13"
   },
   "Tezcat Gaming": {
-   "rating": 1516.9,
+   "rating": 1514.3,
    "w": 18,
    "l": 18,
    "last_date": "2026-04-28"
@@ -1368,10 +1362,10 @@
    "last_date": "2026-05-31"
   },
   "The Spiders": {
-   "rating": 1556.8,
-   "w": 10,
-   "l": 7,
-   "last_date": "2026-09-01"
+   "rating": 1565.0,
+   "w": 12,
+   "l": 8,
+   "last_date": "2026-09-02"
   },
   "Trace Esports": {
    "rating": 1458.5,
@@ -1386,7 +1380,7 @@
    "last_date": "2026-06-18"
   },
   "Twisted Minds Orchid": {
-   "rating": 1590.3,
+   "rating": 1590.1,
    "w": 68,
    "l": 52,
    "last_date": "2026-08-15"
@@ -1410,7 +1404,7 @@
    "last_date": "2026-04-14"
   },
   "University War": {
-   "rating": 1569.2,
+   "rating": 1567.8,
    "w": 21,
    "l": 14,
    "last_date": "2026-07-05"
@@ -1518,7 +1512,7 @@
    "last_date": "2026-08-22"
   },
   "ZennIT Orange GC": {
-   "rating": 1445.3,
+   "rating": 1445.1,
    "w": 30,
    "l": 44,
    "last_date": "2026-05-12"
@@ -1542,7 +1536,7 @@
    "last_date": "2026-04-18"
   },
   "la Masia": {
-   "rating": 1628.0,
+   "rating": 1628.2,
    "w": 24,
    "l": 15,
    "last_date": "2026-07-12"
