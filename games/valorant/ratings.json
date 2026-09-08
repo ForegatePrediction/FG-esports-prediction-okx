@@ -1,9 +1,9 @@
 {
  "game": "valorant",
- "updated": "2026-09-07",
+ "updated": "2026-09-08",
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 256,
+ "n_teams": 258,
  "teams": {
   " REBORN": {
    "rating": 1774.0,
@@ -239,6 +239,12 @@
    "l": 21,
    "last_date": "2026-04-26"
   },
+  "Catboys": {
+   "rating": 1476.3,
+   "w": 4,
+   "l": 5,
+   "last_date": "2026-09-07"
+  },
   "Chivas Esports": {
    "rating": 1480.5,
    "w": 24,
@@ -330,7 +336,7 @@
    "last_date": "2026-05-18"
   },
   "EOTO": {
-   "rating": 1479.1,
+   "rating": 1478.8,
    "w": 7,
    "l": 9,
    "last_date": "2026-07-03"
@@ -414,7 +420,7 @@
    "last_date": "2026-05-04"
   },
   "FENNEL Female": {
-   "rating": 1699.0,
+   "rating": 1698.3,
    "w": 23,
    "l": 4,
    "last_date": "2026-07-04"
@@ -658,6 +664,12 @@
    "w": 15,
    "l": 12,
    "last_date": "2026-08-17"
+  },
+  "HooK Esport": {
+   "rating": 1578.5,
+   "w": 6,
+   "l": 2,
+   "last_date": "2026-09-07"
   },
   "Howlers": {
    "rating": 1347.0,
@@ -1170,7 +1182,7 @@
    "last_date": "2026-06-04"
   },
   "SK Nebula": {
-   "rating": 1625.1,
+   "rating": 1625.0,
    "w": 65,
    "l": 53,
    "last_date": "2026-08-19"
@@ -1194,7 +1206,7 @@
    "last_date": "2026-08-12"
   },
   "Sasanqua": {
-   "rating": 1454.8,
+   "rating": 1454.5,
    "w": 4,
    "l": 10,
    "last_date": "2026-07-04"
