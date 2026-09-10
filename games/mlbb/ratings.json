@@ -1,9 +1,9 @@
 {
  "game": "mlbb",
- "updated": "2026-09-09",
+ "updated": "2026-09-10",
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 77,
+ "n_teams": 79,
  "teams": {
   "AC Esports": {
    "rating": 1388.0,
@@ -318,10 +318,10 @@
    "last_date": "2026-09-05"
   },
   "Team EvilKing": {
-   "rating": 1470.5,
-   "w": 3,
-   "l": 5,
-   "last_date": "2026-09-08"
+   "rating": 1458.1,
+   "w": 4,
+   "l": 8,
+   "last_date": "2026-09-09"
   },
   "Team Falcons": {
    "rating": 1521.8,
@@ -340,6 +340,12 @@
    "w": 37,
    "l": 59,
    "last_date": "2026-09-05"
+  },
+  "Team GEASS": {
+   "rating": 1562.9,
+   "w": 10,
+   "l": 8,
+   "last_date": "2026-09-09"
   },
   "Team Liquid ID": {
    "rating": 1617.1,
@@ -394,6 +400,12 @@
    "w": 13,
    "l": 4,
    "last_date": "2026-07-18"
+  },
+  "Team Wizer": {
+   "rating": 1591.9,
+   "w": 10,
+   "l": 4,
+   "last_date": "2026-09-09"
   },
   "Team Yandex": {
    "rating": 1674.8,
