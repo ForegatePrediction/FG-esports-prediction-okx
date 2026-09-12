@@ -1,15 +1,15 @@
 {
  "game": "mlbb",
- "updated": "2026-09-11",
+ "updated": "2026-09-12",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 79,
  "teams": {
   "AC Esports": {
-   "rating": 1388.0,
+   "rating": 1364.3,
    "w": 17,
-   "l": 34,
-   "last_date": "2026-09-06"
+   "l": 36,
+   "last_date": "2026-09-12"
   },
   "ACT Esports Club": {
    "rating": 1572.7,
@@ -18,10 +18,10 @@
    "last_date": "2026-05-17"
   },
   "AP.Bren": {
-   "rating": 1416.0,
+   "rating": 1401.1,
    "w": 34,
-   "l": 80,
-   "last_date": "2026-09-05"
+   "l": 82,
+   "last_date": "2026-09-11"
   },
   "Alpha7 North": {
    "rating": 1498.4,
@@ -54,10 +54,10 @@
    "last_date": "2026-08-09"
   },
   "Aurora Gaming PH": {
-   "rating": 1584.3,
-   "w": 122,
+   "rating": 1599.2,
+   "w": 124,
    "l": 85,
-   "last_date": "2026-09-06"
+   "last_date": "2026-09-11"
   },
   "Bacon Time": {
    "rating": 1547.1,
@@ -66,16 +66,16 @@
    "last_date": "2026-05-17"
   },
   "Bigetron MY by VIT": {
-   "rating": 1515.7,
+   "rating": 1499.9,
    "w": 33,
-   "l": 33,
-   "last_date": "2026-09-06"
+   "l": 35,
+   "last_date": "2026-09-11"
   },
   "Bigetron by Vitality": {
-   "rating": 1699.1,
+   "rating": 1666.0,
    "w": 83,
-   "l": 58,
-   "last_date": "2026-09-06"
+   "l": 60,
+   "last_date": "2026-09-12"
   },
   "Buriram United Esports": {
    "rating": 1593.7,
@@ -156,10 +156,10 @@
    "last_date": "2026-07-18"
   },
   "Geek Fam ID": {
-   "rating": 1428.2,
-   "w": 71,
-   "l": 88,
-   "last_date": "2026-09-05"
+   "rating": 1464.1,
+   "w": 73,
+   "l": 89,
+   "last_date": "2026-09-11"
   },
   "Geekay Esports": {
    "rating": 1450.4,
@@ -198,10 +198,10 @@
    "last_date": "2026-07-24"
   },
   "Invictus Gaming": {
-   "rating": 1508.2,
-   "w": 33,
+   "rating": 1538.1,
+   "w": 35,
    "l": 30,
-   "last_date": "2026-09-06"
+   "last_date": "2026-09-11"
   },
   "King of Gamers Club": {
    "rating": 1627.9,
@@ -240,10 +240,10 @@
    "last_date": "2026-07-03"
   },
   "ONIC": {
-   "rating": 1675.0,
-   "w": 192,
-   "l": 109,
-   "last_date": "2026-09-06"
+   "rating": 1639.1,
+   "w": 193,
+   "l": 111,
+   "last_date": "2026-09-11"
   },
   "ONIC PH": {
    "rating": 1674.2,
@@ -252,10 +252,10 @@
    "last_date": "2026-09-05"
   },
   "Omega Esports": {
-   "rating": 1529.1,
-   "w": 46,
-   "l": 80,
-   "last_date": "2026-09-06"
+   "rating": 1528.0,
+   "w": 48,
+   "l": 81,
+   "last_date": "2026-09-11"
   },
   "Omnix": {
    "rating": 1575.9,
@@ -300,10 +300,10 @@
    "last_date": "2026-05-17"
   },
   "Selangor Red Giants": {
-   "rating": 1670.4,
-   "w": 84,
+   "rating": 1686.2,
+   "w": 86,
    "l": 47,
-   "last_date": "2026-09-05"
+   "last_date": "2026-09-11"
   },
   "Suplex Team": {
    "rating": 1313.8,
@@ -312,10 +312,10 @@
    "last_date": "2026-06-15"
   },
   "TNC Pro Team": {
-   "rating": 1465.8,
-   "w": 54,
+   "rating": 1489.0,
+   "w": 56,
    "l": 86,
-   "last_date": "2026-09-05"
+   "last_date": "2026-09-12"
   },
   "Team EvilKing": {
    "rating": 1458.1,
@@ -336,10 +336,10 @@
    "last_date": "2026-09-05"
   },
   "Team Flash": {
-   "rating": 1429.5,
-   "w": 37,
+   "rating": 1453.2,
+   "w": 39,
    "l": 59,
-   "last_date": "2026-09-05"
+   "last_date": "2026-09-12"
   },
   "Team GEASS": {
    "rating": 1562.9,
@@ -348,10 +348,10 @@
    "last_date": "2026-09-09"
   },
   "Team Liquid ID": {
-   "rating": 1617.1,
-   "w": 120,
+   "rating": 1650.2,
+   "w": 122,
    "l": 106,
-   "last_date": "2026-09-04"
+   "last_date": "2026-09-12"
   },
   "Team Liquid PH": {
    "rating": 1775.8,
@@ -360,10 +360,10 @@
    "last_date": "2026-09-06"
   },
   "Team Rey": {
-   "rating": 1547.0,
+   "rating": 1517.1,
    "w": 43,
-   "l": 53,
-   "last_date": "2026-09-05"
+   "l": 55,
+   "last_date": "2026-09-11"
   },
   "Team Spirit": {
    "rating": 1808.7,
@@ -444,10 +444,10 @@
    "last_date": "2026-06-05"
   },
   "Twisted Minds PH": {
-   "rating": 1416.4,
-   "w": 45,
-   "l": 82,
-   "last_date": "2026-09-06"
+   "rating": 1394.4,
+   "w": 46,
+   "l": 86,
+   "last_date": "2026-09-12"
   },
   "Valee Thai Esports": {
    "rating": 1444.7,
