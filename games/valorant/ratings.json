@@ -1,9 +1,9 @@
 {
  "game": "valorant",
- "updated": "2026-09-20",
+ "updated": "2026-09-21",
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 256,
+ "n_teams": 257,
  "teams": {
   " REBORN": {
    "rating": 1774.0,
@@ -96,9 +96,9 @@
    "last_date": "2026-06-17"
   },
   "Akave Esports Black": {
-   "rating": 1754.6,
-   "w": 54,
-   "l": 15,
+   "rating": 1757.2,
+   "w": 52,
+   "l": 14,
    "last_date": "2026-09-13"
   },
   "AlQadsiah Esports": {
@@ -192,7 +192,7 @@
    "last_date": "2026-07-10"
   },
   "Barça eSports GC": {
-   "rating": 1430.1,
+   "rating": 1430.2,
    "w": 28,
    "l": 50,
    "last_date": "2026-08-10"
@@ -348,7 +348,7 @@
    "last_date": "2026-09-03"
   },
   "Elevate": {
-   "rating": 1455.0,
+   "rating": 1454.9,
    "w": 25,
    "l": 33,
    "last_date": "2026-06-25"
@@ -420,10 +420,10 @@
    "last_date": "2026-05-04"
   },
   "FENNEL Female": {
-   "rating": 1752.0,
-   "w": 35,
-   "l": 6,
-   "last_date": "2026-09-18"
+   "rating": 1708.6,
+   "w": 37,
+   "l": 9,
+   "last_date": "2026-09-20"
   },
   "FOKUS": {
    "rating": 1638.7,
@@ -468,7 +468,7 @@
    "last_date": "2026-06-26"
   },
   "FUSION X": {
-   "rating": 1494.3,
+   "rating": 1495.1,
    "w": 26,
    "l": 35,
    "last_date": "2026-08-25"
@@ -570,7 +570,7 @@
    "last_date": "2026-08-13"
   },
   "GIANTX GC": {
-   "rating": 1506.4,
+   "rating": 1506.5,
    "w": 65,
    "l": 76,
    "last_date": "2026-08-17"
@@ -606,10 +606,10 @@
    "last_date": "2026-08-29"
   },
   "Gen.G GC": {
-   "rating": 1592.2,
-   "w": 10,
-   "l": 6,
-   "last_date": "2026-09-19"
+   "rating": 1635.6,
+   "w": 13,
+   "l": 8,
+   "last_date": "2026-09-20"
   },
   "Gen.G Global Academy": {
    "rating": 1502.4,
@@ -670,6 +670,12 @@
    "w": 15,
    "l": 12,
    "last_date": "2026-08-17"
+  },
+  "Havoc & Yonder GC": {
+   "rating": 1527.1,
+   "w": 5,
+   "l": 4,
+   "last_date": "2026-09-20"
   },
   "HooK Esport": {
    "rating": 1548.6,
@@ -732,7 +738,7 @@
    "last_date": "2026-05-04"
   },
   "KRÜ Blaze": {
-   "rating": 1616.7,
+   "rating": 1617.1,
    "w": 62,
    "l": 40,
    "last_date": "2026-09-13"
@@ -744,7 +750,7 @@
    "last_date": "2026-08-24"
   },
   "KRÜ Spark": {
-   "rating": 1634.5,
+   "rating": 1634.6,
    "w": 29,
    "l": 29,
    "last_date": "2026-07-12"
@@ -756,7 +762,7 @@
    "last_date": "2026-08-30"
   },
   "Karmine Corp GC": {
-   "rating": 1464.4,
+   "rating": 1464.5,
    "w": 57,
    "l": 60,
    "last_date": "2026-08-10"
@@ -852,7 +858,7 @@
    "last_date": "2026-07-03"
   },
   "MIBR GC": {
-   "rating": 1656.4,
+   "rating": 1656.6,
    "w": 45,
    "l": 24,
    "last_date": "2026-09-10"
@@ -882,7 +888,7 @@
    "last_date": "2026-05-21"
   },
   "MYVRA GC": {
-   "rating": 1539.2,
+   "rating": 1540.7,
    "w": 33,
    "l": 26,
    "last_date": "2026-08-13"
@@ -930,7 +936,7 @@
    "last_date": "2026-04-28"
   },
   "NPC Team": {
-   "rating": 1488.1,
+   "rating": 1488.2,
    "w": 4,
    "l": 5,
    "last_date": "2026-08-17"
@@ -966,7 +972,7 @@
    "last_date": "2026-07-08"
   },
   "No Sweat Blossom": {
-   "rating": 1534.8,
+   "rating": 1535.9,
    "w": 27,
    "l": 29,
    "last_date": "2026-08-18"
@@ -984,10 +990,10 @@
    "last_date": "2026-09-10"
   },
   "Nova Esports GC": {
-   "rating": 1545.3,
-   "w": 10,
-   "l": 8,
-   "last_date": "2026-09-19"
+   "rating": 1576.5,
+   "w": 13,
+   "l": 9,
+   "last_date": "2026-09-20"
   },
   "Nuxeria Esport": {
    "rating": 1475.0,
@@ -1020,7 +1026,7 @@
    "last_date": "2026-06-18"
   },
   "Olimpo Gold": {
-   "rating": 1523.3,
+   "rating": 1523.4,
    "w": 19,
    "l": 20,
    "last_date": "2026-08-10"
@@ -1116,7 +1122,7 @@
    "last_date": "2026-06-24"
   },
   "ROSO GC": {
-   "rating": 1384.4,
+   "rating": 1384.5,
    "w": 2,
    "l": 9,
    "last_date": "2026-08-11"
@@ -1164,7 +1170,7 @@
    "last_date": "2026-06-28"
   },
   "SEN Otters": {
-   "rating": 1502.8,
+   "rating": 1502.9,
    "w": 18,
    "l": 18,
    "last_date": "2026-08-17"
@@ -1230,7 +1236,7 @@
    "last_date": "2026-07-30"
   },
   "Shopify Rebellion Gold": {
-   "rating": 1762.9,
+   "rating": 1763.0,
    "w": 69,
    "l": 41,
    "last_date": "2026-09-17"
@@ -1452,7 +1458,7 @@
    "last_date": "2026-05-22"
   },
   "Wadadaa": {
-   "rating": 1568.5,
+   "rating": 1568.8,
    "w": 34,
    "l": 27,
    "last_date": "2026-05-30"

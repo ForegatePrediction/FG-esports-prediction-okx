@@ -1,12 +1,12 @@
 {
  "game": "kog",
- "updated": "2026-09-20",
+ "updated": "2026-09-21",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 69,
  "teams": {
   " LIT Team": {
-   "rating": 1284.2,
+   "rating": 1278.8,
    "w": 16,
    "l": 51,
    "last_date": "2026-09-19"
@@ -24,45 +24,45 @@
    "last_date": "2026-08-08"
   },
   "ANK Gaming": {
-   "rating": 1592.5,
+   "rating": 1590.7,
    "w": 81,
-   "l": 84,
-   "last_date": "2026-09-13"
+   "l": 86,
+   "last_date": "2026-09-20"
   },
   "Aurora Gaming": {
-   "rating": 1533.4,
+   "rating": 1533.3,
    "w": 5,
    "l": 6,
    "last_date": "2026-08-06"
   },
   "BOOM Esports": {
-   "rating": 1418.6,
+   "rating": 1418.4,
    "w": 27,
    "l": 40,
    "last_date": "2026-08-03"
   },
   "BOOM Esports VN": {
-   "rating": 1513.9,
+   "rating": 1513.6,
    "w": 15,
    "l": 10,
    "last_date": "2026-09-19"
   },
   "BOX Gaming": {
-   "rating": 1437.8,
+   "rating": 1438.1,
    "w": 95,
    "l": 103,
    "last_date": "2026-09-19"
   },
   "Bacon Time": {
-   "rating": 1521.0,
+   "rating": 1516.2,
    "w": 139,
    "l": 116,
    "last_date": "2026-09-19"
   },
   "BanMei Gaming": {
-   "rating": 1479.3,
-   "w": 90,
-   "l": 95,
+   "rating": 1474.4,
+   "w": 88,
+   "l": 94,
    "last_date": "2026-09-18"
   },
   "Bigetron by Vitality": {
@@ -72,22 +72,22 @@
    "last_date": "2026-04-27"
   },
   "Blacklist International": {
-   "rating": 1561.1,
+   "rating": 1560.9,
    "w": 50,
    "l": 41,
    "last_date": "2026-08-04"
   },
   "Buriram United Esports": {
-   "rating": 1562.2,
-   "w": 139,
+   "rating": 1606.9,
+   "w": 142,
    "l": 93,
-   "last_date": "2026-09-19"
+   "last_date": "2026-09-20"
   },
   "Deep Cross Gaming": {
-   "rating": 1603.0,
-   "w": 98,
-   "l": 86,
-   "last_date": "2026-09-18"
+   "rating": 1605.6,
+   "w": 101,
+   "l": 88,
+   "last_date": "2026-09-20"
   },
   "Douyu Gaming": {
    "rating": 1376.1,
@@ -108,55 +108,55 @@
    "last_date": "2026-09-02"
   },
   "FPT Polytechnic": {
-   "rating": 1643.2,
-   "w": 92,
+   "rating": 1674.7,
+   "w": 95,
    "l": 112,
-   "last_date": "2026-09-19"
+   "last_date": "2026-09-20"
   },
   "FULL SENSE": {
-   "rating": 1658.8,
+   "rating": 1604.5,
    "w": 158,
-   "l": 80,
-   "last_date": "2026-09-19"
+   "l": 83,
+   "last_date": "2026-09-20"
   },
   "GAM Esports": {
-   "rating": 1485.1,
-   "w": 57,
-   "l": 65,
-   "last_date": "2026-09-18"
+   "rating": 1490.7,
+   "w": 60,
+   "l": 66,
+   "last_date": "2026-09-20"
   },
   "Geekay Esports": {
-   "rating": 1596.2,
+   "rating": 1595.9,
    "w": 11,
    "l": 8,
    "last_date": "2026-08-08"
   },
   "Godji Check": {
-   "rating": 1388.7,
+   "rating": 1383.6,
    "w": 33,
    "l": 64,
    "last_date": "2026-09-20"
   },
   "Hero JiuJing": {
-   "rating": 1567.6,
+   "rating": 1567.5,
    "w": 142,
    "l": 150,
    "last_date": "2026-08-28"
   },
   "Hong Kong Attitude": {
-   "rating": 1506.0,
+   "rating": 1497.9,
    "w": 66,
    "l": 86,
-   "last_date": "2026-09-19"
+   "last_date": "2026-09-20"
   },
   "Hydra Esports": {
-   "rating": 1355.4,
+   "rating": 1328.9,
    "w": 42,
-   "l": 106,
-   "last_date": "2026-09-12"
+   "l": 109,
+   "last_date": "2026-09-20"
   },
   "Influence Rage": {
-   "rating": 1537.0,
+   "rating": 1536.5,
    "w": 7,
    "l": 6,
    "last_date": "2026-08-03"
@@ -180,10 +180,10 @@
    "last_date": "2026-08-29"
   },
   "King of Gamers Club": {
-   "rating": 1530.5,
-   "w": 77,
+   "rating": 1546.6,
+   "w": 80,
    "l": 98,
-   "last_date": "2026-09-19"
+   "last_date": "2026-09-20"
   },
   "Koala Game": {
    "rating": 1436.7,
@@ -216,25 +216,25 @@
    "last_date": "2026-09-16"
   },
   "Nongshim RedForce": {
-   "rating": 1490.6,
+   "rating": 1490.4,
    "w": 38,
    "l": 43,
    "last_date": "2026-07-31"
   },
   "OG": {
-   "rating": 1512.0,
+   "rating": 1511.9,
    "w": 13,
    "l": 16,
    "last_date": "2026-07-31"
   },
   "ONE Team": {
-   "rating": 1540.9,
-   "w": 94,
-   "l": 90,
-   "last_date": "2026-09-19"
+   "rating": 1528.4,
+   "w": 96,
+   "l": 91,
+   "last_date": "2026-09-20"
   },
   "One Star Esports": {
-   "rating": 1462.3,
+   "rating": 1461.9,
    "w": 118,
    "l": 102,
    "last_date": "2026-09-19"
@@ -246,16 +246,16 @@
    "last_date": "2026-09-13"
   },
   "ROC Esports": {
-   "rating": 1539.4,
+   "rating": 1539.3,
    "w": 8,
    "l": 10,
    "last_date": "2026-08-08"
   },
   "Rex Regum Qeon VN": {
-   "rating": 1326.3,
-   "w": 4,
-   "l": 21,
-   "last_date": "2026-09-18"
+   "rating": 1319.8,
+   "w": 5,
+   "l": 24,
+   "last_date": "2026-09-20"
   },
   "Rogue Warriors": {
    "rating": 1640.6,
@@ -270,7 +270,7 @@
    "last_date": "2026-07-27"
   },
   "SOLYX ESPORTS": {
-   "rating": 1447.2,
+   "rating": 1442.1,
    "w": 49,
    "l": 63,
    "last_date": "2026-09-19"
@@ -282,8 +282,8 @@
    "last_date": "2026-09-19"
   },
   "Saigon Phantom": {
-   "rating": 1683.6,
-   "w": 153,
+   "rating": 1682.7,
+   "w": 151,
    "l": 114,
    "last_date": "2026-09-19"
   },
@@ -306,19 +306,19 @@
    "last_date": "2026-09-12"
   },
   "Team Flash": {
-   "rating": 1588.5,
-   "w": 169,
-   "l": 105,
-   "last_date": "2026-09-18"
+   "rating": 1554.8,
+   "w": 166,
+   "l": 106,
+   "last_date": "2026-09-20"
   },
   "Team Nemesis": {
-   "rating": 1485.9,
+   "rating": 1485.7,
    "w": 5,
    "l": 6,
    "last_date": "2026-08-05"
   },
   "Team Secret": {
-   "rating": 1314.8,
+   "rating": 1315.2,
    "w": 24,
    "l": 61,
    "last_date": "2026-09-19"
@@ -336,7 +336,7 @@
    "last_date": "2026-07-26"
   },
   "Tenacity": {
-   "rating": 1600.1,
+   "rating": 1595.0,
    "w": 53,
    "l": 41,
    "last_date": "2026-09-19"
@@ -360,13 +360,13 @@
    "last_date": "2026-09-19"
   },
   "Virtus.pro": {
-   "rating": 1538.7,
+   "rating": 1538.1,
    "w": 4,
    "l": 6,
    "last_date": "2026-08-06"
   },
   "WANIN Flash Wolves": {
-   "rating": 1510.7,
+   "rating": 1505.9,
    "w": 134,
    "l": 85,
    "last_date": "2026-09-19"
@@ -408,8 +408,8 @@
    "last_date": "2026-09-07"
   },
   "eArena": {
-   "rating": 1547.7,
-   "w": 104,
+   "rating": 1542.4,
+   "w": 102,
    "l": 98,
    "last_date": "2026-09-20"
   },

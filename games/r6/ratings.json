@@ -1,6 +1,6 @@
 {
  "game": "r6",
- "updated": "2026-09-20",
+ "updated": "2026-09-21",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 78,
@@ -12,121 +12,121 @@
    "last_date": "2026-09-17"
   },
   "1 of 30": {
-   "rating": 1481.3,
+   "rating": 1481.0,
    "w": 4,
    "l": 10,
    "last_date": "2026-04-27"
   },
   "100 Thieves": {
-   "rating": 1554.0,
+   "rating": 1553.4,
    "w": 11,
    "l": 13,
    "last_date": "2026-09-18"
   },
   "6Targets Esports": {
-   "rating": 1481.8,
+   "rating": 1481.4,
    "w": 16,
    "l": 18,
    "last_date": "2026-06-29"
   },
   "Al Ula": {
-   "rating": 1468.5,
+   "rating": 1468.3,
    "w": 7,
    "l": 11,
    "last_date": "2026-08-05"
   },
   "All Gamers": {
-   "rating": 1738.9,
+   "rating": 1692.5,
    "w": 62,
-   "l": 23,
-   "last_date": "2026-09-19"
+   "l": 25,
+   "last_date": "2026-09-20"
   },
   "Arcade Esports": {
-   "rating": 1331.4,
+   "rating": 1323.3,
    "w": 0,
-   "l": 12,
-   "last_date": "2026-09-15"
+   "l": 13,
+   "last_date": "2026-09-21"
   },
   "Barbie Boys": {
-   "rating": 1604.1,
+   "rating": 1603.5,
    "w": 16,
    "l": 8,
    "last_date": "2026-06-23"
   },
   "Black Dragons e-Sports": {
-   "rating": 1534.2,
+   "rating": 1527.6,
    "w": 32,
-   "l": 44,
-   "last_date": "2026-09-19"
+   "l": 45,
+   "last_date": "2026-09-20"
   },
   "CAG Osaka": {
-   "rating": 1639.8,
-   "w": 68,
+   "rating": 1638.0,
+   "w": 64,
    "l": 45,
    "last_date": "2026-07-01"
   },
   "CAG by VARREL": {
-   "rating": 1649.9,
+   "rating": 1649.4,
    "w": 20,
    "l": 10,
    "last_date": "2026-09-19"
   },
   "Can You Be My Enemy": {
-   "rating": 1335.3,
+   "rating": 1334.7,
    "w": 8,
    "l": 23,
    "last_date": "2026-09-19"
   },
   "Chiefs Esports Club": {
-   "rating": 1626.0,
+   "rating": 1624.5,
    "w": 54,
    "l": 39,
    "last_date": "2026-09-15"
   },
   "Circular Spheres": {
-   "rating": 1455.4,
-   "w": 7,
+   "rating": 1468.7,
+   "w": 8,
    "l": 12,
-   "last_date": "2026-09-15"
+   "last_date": "2026-09-21"
   },
   "Cloud9": {
-   "rating": 1514.1,
+   "rating": 1512.7,
    "w": 24,
    "l": 34,
    "last_date": "2026-09-18"
   },
   "DarkZero Esports": {
-   "rating": 1699.5,
+   "rating": 1698.8,
    "w": 82,
    "l": 58,
    "last_date": "2026-09-18"
   },
   "Daystar": {
-   "rating": 1570.2,
+   "rating": 1569.8,
    "w": 48,
    "l": 47,
    "last_date": "2026-09-17"
   },
   "Dplus": {
-   "rating": 1604.1,
+   "rating": 1603.0,
    "w": 57,
    "l": 40,
    "last_date": "2026-09-19"
   },
   "EDward Gaming": {
-   "rating": 1675.0,
+   "rating": 1674.8,
    "w": 42,
    "l": 16,
    "last_date": "2026-09-20"
   },
   "ENTERPRISE Esports": {
-   "rating": 1673.4,
+   "rating": 1672.1,
    "w": 63,
    "l": 45,
    "last_date": "2026-09-15"
   },
   "Elevate": {
-   "rating": 1497.6,
+   "rating": 1497.2,
    "w": 36,
    "l": 40,
    "last_date": "2026-09-17"
@@ -138,27 +138,27 @@
    "last_date": "2026-09-17"
   },
   "FURIA Esports": {
-   "rating": 1732.4,
+   "rating": 1739.1,
    "w": 112,
-   "l": 55,
-   "last_date": "2026-09-19"
+   "l": 53,
+   "last_date": "2026-09-20"
   },
   "FaZe Clan": {
-   "rating": 1823.3,
-   "w": 129,
-   "l": 62,
-   "last_date": "2026-09-19"
+   "rating": 1832.8,
+   "w": 128,
+   "l": 61,
+   "last_date": "2026-09-20"
   },
   "Falcons Esport": {
-   "rating": 1671.4,
+   "rating": 1671.0,
    "w": 97,
    "l": 66,
    "last_date": "2026-09-15"
   },
   "FearX": {
-   "rating": 1530.1,
+   "rating": 1528.7,
    "w": 44,
-   "l": 42,
+   "l": 40,
    "last_date": "2026-09-19"
   },
   "Fight Club 1": {
@@ -168,49 +168,49 @@
    "last_date": "2026-05-02"
   },
   "Five Fears": {
-   "rating": 1539.2,
+   "rating": 1538.4,
    "w": 16,
    "l": 15,
    "last_date": "2026-09-18"
   },
   "Fluxo W7M": {
-   "rating": 1516.5,
-   "w": 26,
+   "rating": 1528.7,
+   "w": 27,
    "l": 30,
-   "last_date": "2026-09-19"
+   "last_date": "2026-09-20"
   },
   "Fnatic": {
-   "rating": 1587.3,
+   "rating": 1587.0,
    "w": 43,
    "l": 45,
    "last_date": "2026-09-15"
   },
   "For Fun Esports": {
-   "rating": 1494.9,
+   "rating": 1494.0,
    "w": 7,
    "l": 11,
    "last_date": "2026-09-18"
   },
   "Four Angry Men": {
-   "rating": 1353.7,
+   "rating": 1353.6,
    "w": 25,
    "l": 41,
    "last_date": "2026-09-19"
   },
   "Fury": {
-   "rating": 1462.2,
+   "rating": 1462.0,
    "w": 20,
    "l": 26,
    "last_date": "2026-09-17"
   },
   "G2 Esports": {
-   "rating": 1682.3,
+   "rating": 1681.9,
    "w": 102,
    "l": 59,
    "last_date": "2026-09-15"
   },
   "Geekay Esports": {
-   "rating": 1651.2,
+   "rating": 1650.9,
    "w": 25,
    "l": 24,
    "last_date": "2026-09-15"
@@ -222,79 +222,79 @@
    "last_date": "2026-05-03"
   },
   "HL tauri Esports": {
-   "rating": 1333.7,
+   "rating": 1333.6,
    "w": 1,
    "l": 13,
    "last_date": "2026-06-30"
   },
   "Heretics": {
-   "rating": 1459.2,
+   "rating": 1458.9,
    "w": 21,
    "l": 30,
    "last_date": "2026-09-15"
   },
   "INTZ": {
-   "rating": 1472.2,
+   "rating": 1460.1,
    "w": 23,
-   "l": 26,
-   "last_date": "2026-09-19"
+   "l": 27,
+   "last_date": "2026-09-20"
   },
   "Imperial Esports": {
-   "rating": 1456.8,
-   "w": 15,
+   "rating": 1472.9,
+   "w": 16,
    "l": 20,
-   "last_date": "2026-09-19"
+   "last_date": "2026-09-20"
   },
   "KINGZERO eSports": {
-   "rating": 1525.7,
+   "rating": 1525.6,
    "w": 36,
    "l": 32,
    "last_date": "2026-09-20"
   },
   "KINOTROPE gaming": {
-   "rating": 1452.7,
+   "rating": 1451.2,
    "w": 20,
    "l": 28,
    "last_date": "2026-09-19"
   },
   "LFO No Name": {
-   "rating": 1455.0,
+   "rating": 1454.6,
    "w": 3,
    "l": 6,
    "last_date": "2026-04-27"
   },
   "LGD Gaming": {
-   "rating": 1501.9,
-   "w": 6,
+   "rating": 1515.4,
+   "w": 8,
    "l": 5,
-   "last_date": "2026-09-13"
+   "last_date": "2026-09-20"
   },
   "LOS": {
-   "rating": 1588.5,
+   "rating": 1569.4,
    "w": 28,
-   "l": 40,
-   "last_date": "2026-09-19"
+   "l": 41,
+   "last_date": "2026-09-20"
   },
   "LOUD": {
-   "rating": 1507.4,
+   "rating": 1491.8,
    "w": 26,
-   "l": 34,
-   "last_date": "2026-09-19"
+   "l": 35,
+   "last_date": "2026-09-20"
   },
   "Leviatán Esports": {
-   "rating": 1407.2,
+   "rating": 1407.1,
    "w": 14,
    "l": 24,
    "last_date": "2026-09-19"
   },
   "M80": {
-   "rating": 1574.6,
+   "rating": 1573.7,
    "w": 81,
    "l": 60,
    "last_date": "2026-09-18"
   },
   "Man eSports LFO": {
-   "rating": 1504.4,
+   "rating": 1502.4,
    "w": 19,
    "l": 22,
    "last_date": "2026-09-15"
@@ -306,28 +306,28 @@
    "last_date": "2026-07-04"
   },
   "Ninjas in Pyjamas": {
-   "rating": 1567.1,
+   "rating": 1567.2,
    "w": 54,
    "l": 53,
    "last_date": "2026-07-22"
   },
   "One Coin": {
-   "rating": 1442.4,
-   "w": 20,
+   "rating": 1488.7,
+   "w": 22,
    "l": 27,
-   "last_date": "2026-09-13"
+   "last_date": "2026-09-20"
   },
   "Outlast": {
-   "rating": 1371.8,
-   "w": 13,
+   "rating": 1365.4,
+   "w": 12,
    "l": 35,
    "last_date": "2026-09-18"
   },
   "POZY": {
-   "rating": 1309.7,
+   "rating": 1296.2,
    "w": 4,
-   "l": 26,
-   "last_date": "2026-09-19"
+   "l": 28,
+   "last_date": "2026-09-20"
   },
   "Pannuhuone": {
    "rating": 1488.3,
@@ -336,133 +336,133 @@
    "last_date": "2026-05-02"
   },
   "RRX": {
-   "rating": 1408.1,
+   "rating": 1407.5,
    "w": 3,
    "l": 9,
    "last_date": "2026-09-19"
   },
   "Rebels Gaming": {
-   "rating": 1455.5,
+   "rating": 1455.4,
    "w": 9,
    "l": 17,
    "last_date": "2026-09-15"
   },
   "Rival Esports": {
-   "rating": 1510.7,
+   "rating": 1509.9,
    "w": 6,
    "l": 8,
    "last_date": "2026-07-17"
   },
   "SCARZ": {
-   "rating": 1478.3,
+   "rating": 1477.2,
    "w": 29,
    "l": 43,
    "last_date": "2026-09-19"
   },
   "Shaiikademy": {
-   "rating": 1496.3,
+   "rating": 1480.0,
    "w": 18,
-   "l": 18,
-   "last_date": "2026-09-15"
+   "l": 19,
+   "last_date": "2026-09-21"
   },
   "Shifters": {
-   "rating": 1508.4,
+   "rating": 1508.2,
    "w": 17,
    "l": 18,
    "last_date": "2026-09-15"
   },
   "Shopify Rebellion": {
-   "rating": 1665.2,
+   "rating": 1664.5,
    "w": 81,
    "l": 66,
    "last_date": "2026-09-18"
   },
   "Soul's Heart Esport": {
-   "rating": 1541.2,
+   "rating": 1540.7,
    "w": 39,
    "l": 34,
    "last_date": "2026-07-15"
   },
   "Spacestation Gaming": {
-   "rating": 1594.1,
+   "rating": 1593.2,
    "w": 76,
    "l": 61,
    "last_date": "2026-09-18"
   },
   "TYLOO": {
-   "rating": 1556.7,
+   "rating": 1556.6,
    "w": 36,
    "l": 30,
    "last_date": "2026-09-19"
   },
   "Team Anios": {
-   "rating": 1505.2,
-   "w": 20,
+   "rating": 1512.0,
+   "w": 21,
    "l": 20,
-   "last_date": "2026-09-15"
+   "last_date": "2026-09-21"
   },
   "Team Liquid": {
-   "rating": 1707.4,
+   "rating": 1697.9,
    "w": 61,
-   "l": 54,
-   "last_date": "2026-09-19"
+   "l": 55,
+   "last_date": "2026-09-20"
   },
   "Team Orchid": {
-   "rating": 1544.2,
+   "rating": 1543.9,
    "w": 18,
    "l": 21,
    "last_date": "2026-07-18"
   },
   "Team Secret": {
-   "rating": 1530.7,
+   "rating": 1530.3,
    "w": 79,
    "l": 68,
    "last_date": "2026-09-15"
   },
   "Titan Esports Club": {
-   "rating": 1452.2,
+   "rating": 1452.1,
    "w": 19,
    "l": 25,
    "last_date": "2026-09-19"
   },
   "Trippy Main Telecom": {
-   "rating": 1347.9,
+   "rating": 1347.3,
    "w": 1,
    "l": 11,
    "last_date": "2026-09-19"
   },
   "Twisted Minds": {
-   "rating": 1586.3,
+   "rating": 1585.9,
    "w": 29,
    "l": 23,
    "last_date": "2026-09-15"
   },
   "Unreal Nightmare": {
-   "rating": 1408.1,
+   "rating": 1408.0,
    "w": 2,
    "l": 7,
    "last_date": "2026-05-01"
   },
   "Virtus.pro": {
-   "rating": 1680.0,
+   "rating": 1679.7,
    "w": 64,
    "l": 51,
    "last_date": "2026-09-15"
   },
   "Weibo Gaming": {
-   "rating": 1776.3,
+   "rating": 1775.8,
    "w": 89,
    "l": 39,
    "last_date": "2026-09-17"
   },
   "Wildcard Gaming": {
-   "rating": 1717.2,
+   "rating": 1716.4,
    "w": 80,
    "l": 61,
    "last_date": "2026-09-18"
   },
   "Wolves Esports": {
-   "rating": 1449.8,
+   "rating": 1449.7,
    "w": 21,
    "l": 37,
    "last_date": "2026-04-26"
