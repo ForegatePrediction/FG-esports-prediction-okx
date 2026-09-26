@@ -1,6 +1,6 @@
 {
  "game": "valorant",
- "updated": "2026-09-25",
+ "updated": "2026-09-26",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 247,
@@ -90,7 +90,7 @@
    "last_date": "2026-06-17"
   },
   "Akave Esports Black": {
-   "rating": 1753.1,
+   "rating": 1751.7,
    "w": 52,
    "l": 14,
    "last_date": "2026-09-13"
@@ -312,7 +312,7 @@
    "last_date": "2026-05-18"
   },
   "EOTO": {
-   "rating": 1483.3,
+   "rating": 1483.5,
    "w": 12,
    "l": 13,
    "last_date": "2026-07-03"
@@ -390,7 +390,7 @@
    "last_date": "2026-05-04"
   },
   "FENNEL Female": {
-   "rating": 1708.6,
+   "rating": 1708.5,
    "w": 37,
    "l": 9,
    "last_date": "2026-09-20"
@@ -438,7 +438,7 @@
    "last_date": "2026-06-26"
   },
   "FUSION X": {
-   "rating": 1490.2,
+   "rating": 1488.4,
    "w": 26,
    "l": 33,
    "last_date": "2026-08-25"
@@ -630,7 +630,7 @@
    "last_date": "2026-08-17"
   },
   "Havoc & Yonder GC": {
-   "rating": 1527.1,
+   "rating": 1527.0,
    "w": 5,
    "l": 4,
    "last_date": "2026-09-20"
@@ -696,7 +696,7 @@
    "last_date": "2026-05-04"
   },
   "KRÜ Blaze": {
-   "rating": 1616.6,
+   "rating": 1616.5,
    "w": 62,
    "l": 40,
    "last_date": "2026-09-13"
@@ -714,13 +714,13 @@
    "last_date": "2026-07-12"
   },
   "Karmine Corp": {
-   "rating": 1731.2,
-   "w": 54,
+   "rating": 1743.4,
+   "w": 56,
    "l": 53,
-   "last_date": "2026-08-30"
+   "last_date": "2026-09-25"
   },
   "Karmine Corp GC": {
-   "rating": 1464.5,
+   "rating": 1464.4,
    "w": 57,
    "l": 60,
    "last_date": "2026-08-10"
@@ -816,7 +816,7 @@
    "last_date": "2026-07-03"
   },
   "MIBR GC": {
-   "rating": 1656.6,
+   "rating": 1656.5,
    "w": 45,
    "l": 24,
    "last_date": "2026-09-10"
@@ -846,7 +846,7 @@
    "last_date": "2026-05-21"
   },
   "MYVRA GC": {
-   "rating": 1535.9,
+   "rating": 1533.9,
    "w": 31,
    "l": 26,
    "last_date": "2026-08-13"
@@ -894,10 +894,10 @@
    "last_date": "2026-08-17"
   },
   "NRG": {
-   "rating": 1654.2,
-   "w": 105,
+   "rating": 1682.1,
+   "w": 107,
    "l": 66,
-   "last_date": "2026-09-05"
+   "last_date": "2026-09-25"
   },
   "NRG Academy": {
    "rating": 1554.1,
@@ -924,16 +924,16 @@
    "last_date": "2026-07-08"
   },
   "No Sweat Blossom": {
-   "rating": 1528.1,
+   "rating": 1526.5,
    "w": 25,
    "l": 29,
    "last_date": "2026-08-18"
   },
   "Nongshim RedForce": {
-   "rating": 1667.4,
+   "rating": 1639.5,
    "w": 93,
-   "l": 53,
-   "last_date": "2026-09-06"
+   "l": 55,
+   "last_date": "2026-09-25"
   },
   "Nova Esports": {
    "rating": 1538.8,
@@ -1098,7 +1098,7 @@
    "last_date": "2026-07-05"
   },
   "Rising Esports GC": {
-   "rating": 1350.8,
+   "rating": 1351.0,
    "w": 0,
    "l": 8,
    "last_date": "2026-09-16"
@@ -1146,7 +1146,7 @@
    "last_date": "2026-08-12"
   },
   "Sasanqua": {
-   "rating": 1363.1,
+   "rating": 1363.2,
    "w": 4,
    "l": 18,
    "last_date": "2026-09-16"
@@ -1188,9 +1188,9 @@
    "last_date": "2026-07-02"
   },
   "Soleil Gaming GC": {
-   "rating": 1418.4,
-   "w": 3,
-   "l": 9,
+   "rating": 1410.9,
+   "w": 2,
+   "l": 7,
    "last_date": "2026-07-03"
   },
   "Spire Esports": {
@@ -1398,7 +1398,7 @@
    "last_date": "2026-05-22"
   },
   "Wadadaa": {
-   "rating": 1568.7,
+   "rating": 1568.6,
    "w": 34,
    "l": 27,
    "last_date": "2026-05-30"
@@ -1416,10 +1416,10 @@
    "last_date": "2026-07-09"
   },
   "XLG Gaming": {
-   "rating": 1516.0,
+   "rating": 1503.8,
    "w": 75,
-   "l": 66,
-   "last_date": "2026-09-03"
+   "l": 68,
+   "last_date": "2026-09-25"
   },
   "Xipto Esports": {
    "rating": 1389.5,
