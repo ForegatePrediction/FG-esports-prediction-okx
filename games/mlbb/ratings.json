@@ -1,9 +1,9 @@
 {
  "game": "mlbb",
- "updated": "2026-09-26",
+ "updated": "2026-09-27",
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 88,
+ "n_teams": 89,
  "teams": {
   " Vigor Apex": {
    "rating": 1561.7,
@@ -24,10 +24,10 @@
    "last_date": "2026-05-17"
   },
   "AP.Bren": {
-   "rating": 1458.2,
+   "rating": 1445.2,
    "w": 39,
-   "l": 86,
-   "last_date": "2026-09-25"
+   "l": 88,
+   "last_date": "2026-09-26"
   },
   "Alpha7 North": {
    "rating": 1498.4,
@@ -54,10 +54,10 @@
    "last_date": "2026-06-18"
   },
   "Aurevia Team": {
-   "rating": 1606.1,
-   "w": 9,
+   "rating": 1626.4,
+   "w": 11,
    "l": 4,
-   "last_date": "2026-09-20"
+   "last_date": "2026-09-26"
   },
   "Aurora Gaming": {
    "rating": 1709.4,
@@ -66,10 +66,10 @@
    "last_date": "2026-08-09"
   },
   "Aurora Gaming PH": {
-   "rating": 1659.6,
-   "w": 129,
+   "rating": 1672.6,
+   "w": 131,
    "l": 87,
-   "last_date": "2026-09-19"
+   "last_date": "2026-09-26"
   },
   "Bacon Time": {
    "rating": 1550.8,
@@ -96,10 +96,10 @@
    "last_date": "2026-09-19"
   },
   "Cyber Hero": {
-   "rating": 1440.1,
+   "rating": 1428.9,
    "w": 138,
-   "l": 143,
-   "last_date": "2026-09-20"
+   "l": 145,
+   "last_date": "2026-09-26"
   },
   "Dark Phoenix": {
    "rating": 1402.4,
@@ -162,10 +162,10 @@
    "last_date": "2026-09-25"
   },
   "Galaxy Legends": {
-   "rating": 1606.3,
-   "w": 45,
-   "l": 26,
-   "last_date": "2026-09-19"
+   "rating": 1585.6,
+   "w": 46,
+   "l": 28,
+   "last_date": "2026-09-26"
   },
   "Galaxy Phoenix FE": {
    "rating": 1428.0,
@@ -240,10 +240,10 @@
    "last_date": "2026-09-25"
   },
   "Level UP": {
-   "rating": 1458.4,
-   "w": 2,
-   "l": 10,
-   "last_date": "2026-09-20"
+   "rating": 1451.8,
+   "w": 3,
+   "l": 12,
+   "last_date": "2026-09-26"
   },
   "Magic": {
    "rating": 1422.1,
@@ -276,10 +276,10 @@
    "last_date": "2026-09-20"
   },
   "ONIC PH": {
-   "rating": 1663.4,
-   "w": 173,
-   "l": 85,
-   "last_date": "2026-09-25"
+   "rating": 1657.2,
+   "w": 174,
+   "l": 87,
+   "last_date": "2026-09-26"
   },
   "Omega Esports": {
    "rating": 1488.0,
@@ -288,16 +288,16 @@
    "last_date": "2026-09-25"
   },
   "Omnix": {
-   "rating": 1518.3,
+   "rating": 1498.0,
    "w": 25,
-   "l": 22,
-   "last_date": "2026-09-20"
+   "l": 24,
+   "last_date": "2026-09-26"
   },
   "PRO Esports": {
-   "rating": 1556.2,
-   "w": 38,
-   "l": 40,
-   "last_date": "2026-09-25"
+   "rating": 1554.8,
+   "w": 40,
+   "l": 41,
+   "last_date": "2026-09-27"
   },
   "RRQ Hoshi": {
    "rating": 1416.2,
@@ -312,16 +312,16 @@
    "last_date": "2026-09-19"
   },
   "Rakuzan": {
-   "rating": 1535.4,
-   "w": 6,
-   "l": 6,
-   "last_date": "2026-09-20"
+   "rating": 1541.9,
+   "w": 8,
+   "l": 7,
+   "last_date": "2026-09-26"
   },
   "Rune Eaters Esports": {
-   "rating": 1471.1,
+   "rating": 1465.3,
    "w": 9,
-   "l": 11,
-   "last_date": "2026-09-20"
+   "l": 13,
+   "last_date": "2026-09-26"
   },
   "SAETA": {
    "rating": 1536.2,
@@ -336,10 +336,10 @@
    "last_date": "2026-09-25"
   },
   "See You Soon": {
-   "rating": 1386.4,
-   "w": 19,
-   "l": 34,
-   "last_date": "2026-09-20"
+   "rating": 1362.0,
+   "w": 20,
+   "l": 38,
+   "last_date": "2026-09-27"
   },
   "Selangor Red Giants": {
    "rating": 1648.6,
@@ -372,10 +372,10 @@
    "last_date": "2026-07-26"
   },
   "Team Falcons PH": {
-   "rating": 1705.0,
-   "w": 127,
-   "l": 101,
-   "last_date": "2026-09-19"
+   "rating": 1711.2,
+   "w": 129,
+   "l": 102,
+   "last_date": "2026-09-26"
   },
   "Team Flash": {
    "rating": 1424.6,
@@ -407,6 +407,12 @@
    "l": 69,
    "last_date": "2026-09-20"
   },
+  "Team RVZ": {
+   "rating": 1538.6,
+   "w": 7,
+   "l": 3,
+   "last_date": "2026-09-26"
+  },
   "Team Rey": {
    "rating": 1575.6,
    "w": 49,
@@ -414,10 +420,10 @@
    "last_date": "2026-09-20"
   },
   "Team Spirit": {
-   "rating": 1840.3,
-   "w": 270,
+   "rating": 1846.1,
+   "w": 272,
    "l": 95,
-   "last_date": "2026-09-20"
+   "last_date": "2026-09-26"
   },
   "Team Spirit Academy White": {
    "rating": 1502.0,
@@ -456,10 +462,10 @@
    "last_date": "2026-09-09"
   },
   "Team Yandex": {
-   "rating": 1674.1,
-   "w": 60,
+   "rating": 1685.3,
+   "w": 62,
    "l": 50,
-   "last_date": "2026-09-20"
+   "last_date": "2026-09-26"
   },
   "Tenacity": {
    "rating": 1570.3,
@@ -504,10 +510,10 @@
    "last_date": "2026-09-25"
   },
   "Valhalla": {
-   "rating": 1441.0,
-   "w": 24,
-   "l": 35,
-   "last_date": "2026-09-26"
+   "rating": 1442.4,
+   "w": 25,
+   "l": 37,
+   "last_date": "2026-09-27"
   },
   "Verso Time": {
    "rating": 1841.6,

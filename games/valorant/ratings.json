@@ -1,9 +1,9 @@
 {
  "game": "valorant",
- "updated": "2026-09-26",
+ "updated": "2026-09-27",
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 247,
+ "n_teams": 242,
  "teams": {
   " REBORN": {
    "rating": 1774.0,
@@ -294,10 +294,10 @@
    "last_date": "2026-06-17"
   },
   "EDward Gaming": {
-   "rating": 1509.0,
+   "rating": 1491.4,
    "w": 77,
-   "l": 71,
-   "last_date": "2026-09-05"
+   "l": 73,
+   "last_date": "2026-09-26"
   },
   "EGO": {
    "rating": 1489.0,
@@ -312,16 +312,10 @@
    "last_date": "2026-05-18"
   },
   "EOTO": {
-   "rating": 1483.5,
-   "w": 12,
+   "rating": 1470.9,
+   "w": 10,
    "l": 13,
    "last_date": "2026-07-03"
-  },
-  "EVOPLAY": {
-   "rating": 1511.2,
-   "w": 27,
-   "l": 29,
-   "last_date": "2026-04-28"
   },
   "Eintracht Frankfurt": {
    "rating": 1694.3,
@@ -390,7 +384,7 @@
    "last_date": "2026-05-04"
   },
   "FENNEL Female": {
-   "rating": 1708.5,
+   "rating": 1705.5,
    "w": 37,
    "l": 9,
    "last_date": "2026-09-20"
@@ -414,7 +408,7 @@
    "last_date": "2026-08-22"
   },
   "FULL SENSE SISU": {
-   "rating": 1515.9,
+   "rating": 1515.8,
    "w": 5,
    "l": 5,
    "last_date": "2026-09-18"
@@ -539,12 +533,6 @@
    "l": 76,
    "last_date": "2026-08-17"
   },
-  "Galatasaray Esports": {
-   "rating": 1442.8,
-   "w": 38,
-   "l": 45,
-   "last_date": "2026-04-28"
-  },
   "Gamax Esports": {
    "rating": 1506.4,
    "w": 25,
@@ -564,7 +552,7 @@
    "last_date": "2026-08-29"
   },
   "Gen.G GC": {
-   "rating": 1635.6,
+   "rating": 1634.7,
    "w": 13,
    "l": 8,
    "last_date": "2026-09-20"
@@ -606,10 +594,10 @@
    "last_date": "2026-09-09"
   },
   "Global Esports": {
-   "rating": 1663.6,
-   "w": 58,
-   "l": 57,
-   "last_date": "2026-09-06"
+   "rating": 1648.8,
+   "w": 59,
+   "l": 59,
+   "last_date": "2026-09-26"
   },
   "HGE Esports": {
    "rating": 1345.4,
@@ -750,10 +738,10 @@
    "last_date": "2026-06-24"
   },
   "LOUD": {
-   "rating": 1635.4,
-   "w": 33,
+   "rating": 1653.0,
+   "w": 35,
    "l": 44,
-   "last_date": "2026-09-06"
+   "last_date": "2026-09-26"
   },
   "LYON": {
    "rating": 1688.5,
@@ -857,12 +845,6 @@
    "l": 65,
    "last_date": "2026-07-11"
   },
-  "Melilla Titans": {
-   "rating": 1341.1,
-   "w": 1,
-   "l": 12,
-   "last_date": "2026-04-28"
-  },
   "Misa Esports": {
    "rating": 1598.9,
    "w": 53,
@@ -881,14 +863,8 @@
    "l": 25,
    "last_date": "2026-07-02"
   },
-  "NOVO Esports": {
-   "rating": 1412.0,
-   "w": 14,
-   "l": 24,
-   "last_date": "2026-04-28"
-  },
   "NPC Team": {
-   "rating": 1488.2,
+   "rating": 1488.1,
    "w": 4,
    "l": 5,
    "last_date": "2026-08-17"
@@ -1098,7 +1074,7 @@
    "last_date": "2026-07-05"
   },
   "Rising Esports GC": {
-   "rating": 1351.0,
+   "rating": 1351.1,
    "w": 0,
    "l": 8,
    "last_date": "2026-09-16"
@@ -1146,7 +1122,7 @@
    "last_date": "2026-08-12"
   },
   "Sasanqua": {
-   "rating": 1363.2,
+   "rating": 1363.4,
    "w": 4,
    "l": 18,
    "last_date": "2026-09-16"
@@ -1188,7 +1164,7 @@
    "last_date": "2026-07-02"
   },
   "Soleil Gaming GC": {
-   "rating": 1410.9,
+   "rating": 1406.9,
    "w": 2,
    "l": 7,
    "last_date": "2026-07-03"
@@ -1254,7 +1230,7 @@
    "last_date": "2026-06-26"
   },
   "Team Falcons VEGA": {
-   "rating": 1601.1,
+   "rating": 1600.6,
    "w": 23,
    "l": 14,
    "last_date": "2026-09-19"
@@ -1302,22 +1278,16 @@
    "last_date": "2026-07-10"
   },
   "Team Vitality": {
-   "rating": 1665.4,
-   "w": 66,
-   "l": 48,
-   "last_date": "2026-08-22"
+   "rating": 1680.2,
+   "w": 68,
+   "l": 49,
+   "last_date": "2026-09-26"
   },
   "Teevee": {
    "rating": 1362.8,
    "w": 11,
    "l": 22,
    "last_date": "2026-05-13"
-  },
-  "Tezcat Gaming": {
-   "rating": 1512.2,
-   "w": 18,
-   "l": 18,
-   "last_date": "2026-04-28"
   },
   "The Rad Syndicate": {
    "rating": 1496.8,
