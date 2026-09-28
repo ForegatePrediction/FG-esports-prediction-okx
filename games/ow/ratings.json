@@ -1,9 +1,9 @@
 {
  "game": "ow",
- "updated": "2026-09-27",
+ "updated": "2026-09-28",
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 69,
+ "n_teams": 64,
  "teams": {
   " ReturnZ": {
    "rating": 1350.7,
@@ -18,10 +18,10 @@
    "last_date": "2026-06-28"
   },
   "99DIVINE": {
-   "rating": 1476.3,
-   "w": 79,
-   "l": 46,
-   "last_date": "2026-06-24"
+   "rating": 1493.4,
+   "w": 80,
+   "l": 49,
+   "last_date": "2026-09-21"
   },
   "Al Qadsiah": {
    "rating": 1652.8,
@@ -96,16 +96,10 @@
    "last_date": "2026-07-02"
   },
   "ENTER FORCE.36": {
-   "rating": 1716.5,
-   "w": 35,
+   "rating": 1753.3,
+   "w": 41,
    "l": 14,
-   "last_date": "2026-06-24"
-  },
-  "FURY": {
-   "rating": 1449.8,
-   "w": 31,
-   "l": 50,
-   "last_date": "2026-04-23"
+   "last_date": "2026-09-22"
   },
   "Falcons": {
    "rating": 1738.7,
@@ -162,10 +156,10 @@
    "last_date": "2026-06-14"
   },
   "Lazuli": {
-   "rating": 1488.6,
+   "rating": 1471.7,
    "w": 60,
-   "l": 63,
-   "last_date": "2026-06-24"
+   "l": 66,
+   "last_date": "2026-09-21"
   },
   "LuneX Gaming": {
    "rating": 1477.6,
@@ -179,17 +173,11 @@
    "l": 15,
    "last_date": "2026-07-02"
   },
-  "MMY": {
-   "rating": 1370.3,
-   "w": 3,
-   "l": 15,
-   "last_date": "2026-04-23"
-  },
   "MURASH GAMING": {
-   "rating": 1604.2,
-   "w": 16,
+   "rating": 1641.1,
+   "w": 19,
    "l": 10,
-   "last_date": "2026-06-24"
+   "last_date": "2026-09-22"
   },
   "Mexico": {
    "rating": 1394.6,
@@ -197,29 +185,11 @@
    "l": 9,
    "last_date": "2026-08-23"
   },
-  "Milk Tea": {
-   "rating": 1386.0,
-   "w": 10,
-   "l": 24,
-   "last_date": "2026-04-18"
-  },
-  "Naive Piggy": {
-   "rating": 1434.7,
-   "w": 14,
-   "l": 22,
-   "last_date": "2026-04-18"
-  },
   "Najdorf": {
    "rating": 1562.2,
    "w": 17,
    "l": 12,
    "last_date": "2026-07-09"
-  },
-  "New Era": {
-   "rating": 1242.0,
-   "w": 10,
-   "l": 50,
-   "last_date": "2026-04-19"
   },
   "O2 Blast": {
    "rating": 1516.9,
@@ -234,10 +204,10 @@
    "last_date": "2026-04-26"
   },
   "Please Not Hero Ban": {
-   "rating": 1612.1,
-   "w": 74,
-   "l": 52,
-   "last_date": "2026-06-24"
+   "rating": 1551.1,
+   "w": 77,
+   "l": 57,
+   "last_date": "2026-09-22"
   },
   "Poker Face": {
    "rating": 1270.9,
@@ -252,10 +222,10 @@
    "last_date": "2026-04-30"
   },
   "REVATI": {
-   "rating": 1344.4,
-   "w": 12,
-   "l": 35,
-   "last_date": "2026-06-24"
+   "rating": 1364.4,
+   "w": 14,
+   "l": 41,
+   "last_date": "2026-09-22"
   },
   "Rankers": {
    "rating": 1587.8,
@@ -378,16 +348,16 @@
    "last_date": "2026-09-13"
   },
   "Uwinks": {
-   "rating": 1543.4,
+   "rating": 1523.6,
    "w": 14,
-   "l": 15,
-   "last_date": "2026-06-24"
+   "l": 18,
+   "last_date": "2026-09-22"
   },
   "VARREL": {
-   "rating": 1899.2,
-   "w": 115,
-   "l": 26,
-   "last_date": "2026-06-24"
+   "rating": 1886.1,
+   "w": 121,
+   "l": 27,
+   "last_date": "2026-09-22"
   },
   "Virtus.pro": {
    "rating": 1858.7,
