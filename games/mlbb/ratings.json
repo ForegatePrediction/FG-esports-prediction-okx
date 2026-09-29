@@ -1,9 +1,9 @@
 {
  "game": "mlbb",
- "updated": "2026-09-28",
+ "updated": "2026-09-29",
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 89,
+ "n_teams": 91,
  "teams": {
   " Vigor Apex": {
    "rating": 1561.7,
@@ -94,6 +94,12 @@
    "w": 15,
    "l": 11,
    "last_date": "2026-09-19"
+  },
+  "Cambodia": {
+   "rating": 1483.3,
+   "w": 4,
+   "l": 5,
+   "last_date": "2026-09-29"
   },
   "Cyber Hero": {
    "rating": 1446.4,
@@ -215,6 +221,12 @@
    "l": 11,
    "last_date": "2026-07-24"
   },
+  "Indonesia": {
+   "rating": 1491.6,
+   "w": 6,
+   "l": 7,
+   "last_date": "2026-09-29"
+  },
   "Invictus Gaming": {
    "rating": 1525.0,
    "w": 38,
@@ -226,12 +238,6 @@
    "w": 29,
    "l": 9,
    "last_date": "2026-09-20"
-  },
-  "Kings Crown": {
-   "rating": 1452.4,
-   "w": 4,
-   "l": 5,
-   "last_date": "2026-05-01"
   },
   "Leon Esports": {
    "rating": 1535.3,
@@ -250,6 +256,12 @@
    "w": 22,
    "l": 49,
    "last_date": "2026-06-16"
+  },
+  "Malaysia": {
+   "rating": 1664.6,
+   "w": 11,
+   "l": 1,
+   "last_date": "2026-09-29"
   },
   "Natus Vincere": {
    "rating": 1651.3,
