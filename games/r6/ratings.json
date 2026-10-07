@@ -1,6 +1,6 @@
 {
  "game": "r6",
- "updated": "2026-10-06",
+ "updated": "2026-10-07",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 73,
@@ -24,7 +24,7 @@
    "last_date": "2026-06-29"
   },
   "7VEN": {
-   "rating": 1504.3,
+   "rating": 1504.2,
    "w": 4,
    "l": 4,
    "last_date": "2026-09-22"
@@ -42,7 +42,7 @@
    "last_date": "2026-10-03"
   },
   "Arcade Esports": {
-   "rating": 1320.4,
+   "rating": 1320.3,
    "w": 0,
    "l": 14,
    "last_date": "2026-09-22"
@@ -84,19 +84,19 @@
    "last_date": "2026-09-22"
   },
   "Circular Spheres": {
-   "rating": 1485.9,
+   "rating": 1485.7,
    "w": 9,
    "l": 12,
    "last_date": "2026-09-22"
   },
   "Cloud9": {
-   "rating": 1555.9,
+   "rating": 1555.8,
    "w": 27,
    "l": 35,
    "last_date": "2026-10-02"
   },
   "DarkZero Esports": {
-   "rating": 1697.7,
+   "rating": 1697.6,
    "w": 85,
    "l": 59,
    "last_date": "2026-10-02"
@@ -120,7 +120,7 @@
    "last_date": "2026-10-04"
   },
   "ENTERPRISE Esports": {
-   "rating": 1684.9,
+   "rating": 1684.8,
    "w": 65,
    "l": 45,
    "last_date": "2026-09-22"
@@ -138,7 +138,7 @@
    "last_date": "2026-09-24"
   },
   "FURIA Esports": {
-   "rating": 1711.8,
+   "rating": 1711.7,
    "w": 113,
    "l": 55,
    "last_date": "2026-10-04"
@@ -162,13 +162,13 @@
    "last_date": "2026-10-01"
   },
   "Five Fears": {
-   "rating": 1556.4,
+   "rating": 1556.3,
    "w": 18,
    "l": 17,
    "last_date": "2026-10-02"
   },
   "Fluxo W7M": {
-   "rating": 1580.8,
+   "rating": 1580.7,
    "w": 30,
    "l": 30,
    "last_date": "2026-10-04"
@@ -180,7 +180,7 @@
    "last_date": "2026-09-30"
   },
   "For Fun Esports": {
-   "rating": 1461.0,
+   "rating": 1460.9,
    "w": 7,
    "l": 15,
    "last_date": "2026-10-02"
@@ -192,7 +192,7 @@
    "last_date": "2026-10-03"
   },
   "Fury": {
-   "rating": 1458.7,
+   "rating": 1458.6,
    "w": 21,
    "l": 29,
    "last_date": "2026-09-30"
@@ -204,10 +204,10 @@
    "last_date": "2026-10-05"
   },
   "Geekay Esports": {
-   "rating": 1609.2,
-   "w": 27,
-   "l": 29,
-   "last_date": "2026-10-05"
+   "rating": 1615.6,
+   "w": 29,
+   "l": 30,
+   "last_date": "2026-10-06"
   },
   "HL tauri Esports": {
    "rating": 1333.5,
@@ -258,7 +258,7 @@
    "last_date": "2026-10-04"
   },
   "LOUD": {
-   "rating": 1465.4,
+   "rating": 1465.3,
    "w": 26,
    "l": 38,
    "last_date": "2026-10-04"
@@ -270,19 +270,19 @@
    "last_date": "2026-10-04"
   },
   "Lucky Five": {
-   "rating": 1474.1,
+   "rating": 1474.0,
    "w": 3,
    "l": 6,
    "last_date": "2026-10-04"
   },
   "M80": {
-   "rating": 1601.6,
+   "rating": 1601.5,
    "w": 84,
    "l": 61,
    "last_date": "2026-10-02"
   },
   "Man eSports LFO": {
-   "rating": 1534.7,
+   "rating": 1534.6,
    "w": 21,
    "l": 22,
    "last_date": "2026-09-22"
@@ -324,7 +324,7 @@
    "last_date": "2026-09-26"
   },
   "Rebels Gaming": {
-   "rating": 1434.1,
+   "rating": 1434.0,
    "w": 10,
    "l": 21,
    "last_date": "2026-09-30"
@@ -342,7 +342,7 @@
    "last_date": "2026-10-01"
   },
   "Shaiikademy": {
-   "rating": 1468.0,
+   "rating": 1467.9,
    "w": 18,
    "l": 20,
    "last_date": "2026-09-22"
@@ -354,25 +354,25 @@
    "last_date": "2026-09-30"
   },
   "Shifters": {
-   "rating": 1531.4,
-   "w": 20,
-   "l": 20,
-   "last_date": "2026-09-30"
+   "rating": 1524.9,
+   "w": 21,
+   "l": 22,
+   "last_date": "2026-10-06"
   },
   "Shopify Rebellion": {
-   "rating": 1670.8,
+   "rating": 1670.7,
    "w": 84,
    "l": 67,
    "last_date": "2026-10-02"
   },
   "Soul's Heart Esport": {
-   "rating": 1540.7,
+   "rating": 1540.6,
    "w": 39,
    "l": 34,
    "last_date": "2026-07-15"
   },
   "Spacestation Gaming": {
-   "rating": 1591.8,
+   "rating": 1591.7,
    "w": 78,
    "l": 63,
    "last_date": "2026-10-02"
@@ -420,16 +420,16 @@
    "last_date": "2026-09-26"
   },
   "Twisted Minds": {
-   "rating": 1555.2,
+   "rating": 1535.5,
    "w": 30,
-   "l": 27,
-   "last_date": "2026-09-30"
+   "l": 29,
+   "last_date": "2026-10-06"
   },
   "Virtus.pro": {
-   "rating": 1652.3,
-   "w": 67,
+   "rating": 1671.9,
+   "w": 69,
    "l": 55,
-   "last_date": "2026-10-05"
+   "last_date": "2026-10-06"
   },
   "Weibo Gaming": {
    "rating": 1794.6,
@@ -438,7 +438,7 @@
    "last_date": "2026-09-30"
   },
   "Wildcard Gaming": {
-   "rating": 1662.7,
+   "rating": 1662.6,
    "w": 81,
    "l": 64,
    "last_date": "2026-10-02"
