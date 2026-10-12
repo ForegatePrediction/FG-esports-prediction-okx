@@ -1,6 +1,6 @@
 {
  "game": "mlbb",
- "updated": "2026-10-11",
+ "updated": "2026-10-12",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 96,
@@ -55,9 +55,9 @@
   },
   "Aurevia Team": {
    "rating": 1685.3,
-   "w": 22,
-   "l": 10,
-   "last_date": "2026-10-10"
+   "w": 23,
+   "l": 13,
+   "last_date": "2026-10-11"
   },
   "Aurora Gaming": {
    "rating": 1709.4,
@@ -72,10 +72,10 @@
    "last_date": "2026-10-11"
   },
   "Bacon Time": {
-   "rating": 1560.5,
-   "w": 26,
+   "rating": 1580.9,
+   "w": 28,
    "l": 15,
-   "last_date": "2026-10-10"
+   "last_date": "2026-10-11"
   },
   "Bigetron MY by VIT": {
    "rating": 1487.1,
@@ -84,19 +84,19 @@
    "last_date": "2026-10-08"
   },
   "Bigetron by Vitality": {
-   "rating": 1570.5,
-   "w": 87,
+   "rating": 1591.2,
+   "w": 89,
    "l": 68,
-   "last_date": "2026-10-08"
+   "last_date": "2026-10-11"
   },
   "Buriram United Esports": {
-   "rating": 1471.4,
-   "w": 19,
+   "rating": 1484.4,
+   "w": 21,
    "l": 19,
-   "last_date": "2026-10-09"
+   "last_date": "2026-10-11"
   },
   "Cambodia": {
-   "rating": 1489.3,
+   "rating": 1483.7,
    "w": 5,
    "l": 7,
    "last_date": "2026-09-29"
@@ -114,10 +114,10 @@
    "last_date": "2026-06-15"
   },
   "Dewa United Esports": {
-   "rating": 1489.4,
+   "rating": 1468.7,
    "w": 69,
-   "l": 86,
-   "last_date": "2026-10-09"
+   "l": 88,
+   "last_date": "2026-10-11"
   },
   "DianFengYaoGuai": {
    "rating": 1499.8,
@@ -210,10 +210,10 @@
    "last_date": "2026-06-16"
   },
   "Hydra Esports": {
-   "rating": 1270.3,
+   "rating": 1257.3,
    "w": 5,
-   "l": 32,
-   "last_date": "2026-10-10"
+   "l": 34,
+   "last_date": "2026-10-11"
   },
   "IGNITE Gaming": {
    "rating": 1428.7,
@@ -222,9 +222,9 @@
    "last_date": "2026-07-24"
   },
   "Indonesia": {
-   "rating": 1539.5,
+   "rating": 1551.8,
    "w": 17,
-   "l": 16,
+   "l": 14,
    "last_date": "2026-10-01"
   },
   "Invictus Gaming": {
@@ -234,16 +234,16 @@
    "last_date": "2026-10-11"
   },
   "Kazakhstan": {
-   "rating": 1431.4,
-   "w": 4,
+   "rating": 1415.2,
+   "w": 2,
    "l": 8,
    "last_date": "2026-09-29"
   },
   "King of Gamers Club": {
-   "rating": 1602.8,
-   "w": 33,
-   "l": 13,
-   "last_date": "2026-10-10"
+   "rating": 1571.3,
+   "w": 34,
+   "l": 15,
+   "last_date": "2026-10-11"
   },
   "Leon Esports": {
    "rating": 1613.8,
@@ -264,19 +264,19 @@
    "last_date": "2026-06-16"
   },
   "Malaysia": {
-   "rating": 1660.8,
-   "w": 22,
-   "l": 7,
+   "rating": 1663.1,
+   "w": 21,
+   "l": 5,
    "last_date": "2026-09-30"
   },
   "Mongolia": {
-   "rating": 1496.1,
-   "w": 6,
-   "l": 7,
+   "rating": 1509.5,
+   "w": 4,
+   "l": 6,
    "last_date": "2026-09-30"
   },
   "Myanmar": {
-   "rating": 1655.2,
+   "rating": 1654.4,
    "w": 12,
    "l": 3,
    "last_date": "2026-10-01"
@@ -300,10 +300,10 @@
    "last_date": "2026-07-03"
   },
   "ONIC": {
-   "rating": 1602.6,
-   "w": 198,
-   "l": 118,
-   "last_date": "2026-10-09"
+   "rating": 1599.9,
+   "w": 200,
+   "l": 119,
+   "last_date": "2026-10-11"
   },
   "ONIC PH": {
    "rating": 1621.8,
@@ -330,28 +330,28 @@
    "last_date": "2026-09-27"
   },
   "Philippines": {
-   "rating": 1582.0,
-   "w": 11,
-   "l": 5,
+   "rating": 1580.3,
+   "w": 9,
+   "l": 4,
    "last_date": "2026-09-30"
   },
   "RRQ Hoshi": {
-   "rating": 1436.0,
-   "w": 113,
-   "l": 125,
-   "last_date": "2026-10-09"
+   "rating": 1438.6,
+   "w": 114,
+   "l": 127,
+   "last_date": "2026-10-11"
   },
   "RRQ Tora": {
-   "rating": 1430.5,
+   "rating": 1415.5,
    "w": 23,
-   "l": 41,
-   "last_date": "2026-10-09"
+   "l": 43,
+   "last_date": "2026-10-11"
   },
   "Rakuzan": {
-   "rating": 1553.5,
+   "rating": 1527.6,
    "w": 17,
-   "l": 15,
-   "last_date": "2026-10-10"
+   "l": 18,
+   "last_date": "2026-10-11"
   },
   "Rune Eaters Esports": {
    "rating": 1414.0,
@@ -366,14 +366,14 @@
    "last_date": "2026-07-16"
   },
   "SOLYX": {
-   "rating": 1445.7,
-   "w": 18,
-   "l": 23,
-   "last_date": "2026-10-09"
+   "rating": 1477.2,
+   "w": 20,
+   "l": 24,
+   "last_date": "2026-10-11"
   },
   "Saudi Arabia": {
-   "rating": 1479.6,
-   "w": 5,
+   "rating": 1449.6,
+   "w": 3,
    "l": 8,
    "last_date": "2026-09-29"
   },
@@ -414,10 +414,10 @@
    "last_date": "2026-07-26"
   },
   "Team Falcons PH": {
-   "rating": 1724.8,
-   "w": 137,
-   "l": 104,
-   "last_date": "2026-10-09"
+   "rating": 1716.1,
+   "w": 138,
+   "l": 106,
+   "last_date": "2026-10-11"
   },
   "Team Flash": {
    "rating": 1398.0,
@@ -444,10 +444,10 @@
    "last_date": "2026-10-09"
   },
   "Team Liquid PH": {
-   "rating": 1782.0,
-   "w": 164,
-   "l": 69,
-   "last_date": "2026-10-09"
+   "rating": 1790.7,
+   "w": 166,
+   "l": 70,
+   "last_date": "2026-10-11"
   },
   "Team RVZ": {
    "rating": 1538.6,
@@ -456,16 +456,16 @@
    "last_date": "2026-09-26"
   },
   "Team Rey": {
-   "rating": 1597.4,
-   "w": 51,
+   "rating": 1612.4,
+   "w": 53,
    "l": 57,
-   "last_date": "2026-10-08"
+   "last_date": "2026-10-11"
   },
   "Team Spirit": {
    "rating": 1897.8,
-   "w": 283,
-   "l": 95,
-   "last_date": "2026-10-10"
+   "w": 286,
+   "l": 96,
+   "last_date": "2026-10-11"
   },
   "Team Spirit Academy White": {
    "rating": 1502.0,
@@ -504,10 +504,10 @@
    "last_date": "2026-09-09"
   },
   "Team Yandex": {
-   "rating": 1675.6,
-   "w": 70,
+   "rating": 1701.6,
+   "w": 73,
    "l": 56,
-   "last_date": "2026-10-10"
+   "last_date": "2026-10-11"
   },
   "Tenacity": {
    "rating": 1626.4,
@@ -546,10 +546,10 @@
    "last_date": "2026-10-11"
   },
   "Valee Thai Esports": {
-   "rating": 1474.9,
+   "rating": 1454.4,
    "w": 18,
-   "l": 22,
-   "last_date": "2026-10-10"
+   "l": 24,
+   "last_date": "2026-10-11"
   },
   "Valhalla": {
    "rating": 1442.4,
