@@ -1,9 +1,9 @@
 {
  "game": "valorant",
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 224,
+ "n_teams": 223,
  "teams": {
   " REBORN": {
    "rating": 1774.0,
@@ -24,7 +24,7 @@
    "last_date": "2026-08-20"
   },
   "555": {
-   "rating": 1657.5,
+   "rating": 1657.3,
    "w": 35,
    "l": 20,
    "last_date": "2026-07-10"
@@ -126,7 +126,7 @@
    "last_date": "2026-09-12"
   },
   "Asterisk": {
-   "rating": 1513.5,
+   "rating": 1510.8,
    "w": 26,
    "l": 22,
    "last_date": "2026-06-26"
@@ -143,17 +143,11 @@
    "l": 29,
    "last_date": "2026-06-28"
   },
-  "BAAM Esports": {
-   "rating": 1511.6,
-   "w": 21,
-   "l": 23,
-   "last_date": "2026-05-14"
-  },
   "BBL Esports": {
-   "rating": 1589.6,
-   "w": 64,
+   "rating": 1632.0,
+   "w": 67,
    "l": 54,
-   "last_date": "2026-10-09"
+   "last_date": "2026-10-12"
   },
   "BERG": {
    "rating": 1511.6,
@@ -168,7 +162,7 @@
    "last_date": "2026-08-22"
   },
   "BOOM Esports": {
-   "rating": 1478.0,
+   "rating": 1477.9,
    "w": 23,
    "l": 30,
    "last_date": "2026-06-11"
@@ -408,13 +402,13 @@
    "last_date": "2026-10-04"
   },
   "Fancy United": {
-   "rating": 1563.4,
+   "rating": 1563.3,
    "w": 37,
    "l": 31,
    "last_date": "2026-07-10"
   },
   "Fennel": {
-   "rating": 1559.1,
+   "rating": 1559.0,
    "w": 45,
    "l": 30,
    "last_date": "2026-07-25"
@@ -582,7 +576,7 @@
    "last_date": "2026-09-09"
   },
   "IGZIST": {
-   "rating": 1459.4,
+   "rating": 1459.2,
    "w": 10,
    "l": 15,
    "last_date": "2026-07-25"
@@ -594,7 +588,7 @@
    "last_date": "2026-06-27"
   },
   "Insomnia": {
-   "rating": 1415.3,
+   "rating": 1415.2,
    "w": 18,
    "l": 25,
    "last_date": "2026-06-28"
@@ -660,7 +654,7 @@
    "last_date": "2026-09-13"
   },
   "Kiwoom DRX": {
-   "rating": 1505.9,
+   "rating": 1505.8,
    "w": 65,
    "l": 72,
    "last_date": "2026-08-28"
@@ -690,7 +684,7 @@
    "last_date": "2026-07-09"
   },
   "Leosun Esports": {
-   "rating": 1312.9,
+   "rating": 1308.9,
    "w": 5,
    "l": 22,
    "last_date": "2026-06-05"
@@ -786,10 +780,10 @@
    "last_date": "2026-07-11"
   },
   "Misa Esports": {
-   "rating": 1622.4,
+   "rating": 1580.0,
    "w": 61,
-   "l": 45,
-   "last_date": "2026-10-09"
+   "l": 48,
+   "last_date": "2026-10-12"
   },
   "Monarch-X GC": {
    "rating": 1427.5,
@@ -840,7 +834,7 @@
    "last_date": "2026-07-09"
   },
   "No Salary Peek": {
-   "rating": 1546.3,
+   "rating": 1544.9,
    "w": 15,
    "l": 17,
    "last_date": "2026-07-08"
@@ -936,7 +930,7 @@
    "last_date": "2026-05-31"
   },
   "QT DIG∞": {
-   "rating": 1562.8,
+   "rating": 1562.7,
    "w": 35,
    "l": 31,
    "last_date": "2026-08-20"
@@ -960,7 +954,7 @@
    "last_date": "2026-07-07"
   },
   "REJECT": {
-   "rating": 1625.9,
+   "rating": 1625.8,
    "w": 34,
    "l": 25,
    "last_date": "2026-07-26"
@@ -990,19 +984,19 @@
    "last_date": "2026-06-02"
   },
   "Revenant XSpark": {
-   "rating": 1622.9,
-   "w": 37,
+   "rating": 1614.3,
+   "w": 35,
    "l": 23,
    "last_date": "2026-06-27"
   },
   "Rex Regum Qeon": {
-   "rating": 1507.6,
+   "rating": 1507.5,
    "w": 65,
    "l": 68,
    "last_date": "2026-08-19"
   },
   "Riddle": {
-   "rating": 1490.8,
+   "rating": 1490.6,
    "w": 35,
    "l": 38,
    "last_date": "2026-07-05"
@@ -1014,7 +1008,7 @@
    "last_date": "2026-09-16"
   },
   "S8UL Esports": {
-   "rating": 1623.0,
+   "rating": 1618.2,
    "w": 47,
    "l": 29,
    "last_date": "2026-06-28"
@@ -1026,7 +1020,7 @@
    "last_date": "2026-08-17"
   },
   "SIGN Esports": {
-   "rating": 1519.2,
+   "rating": 1517.9,
    "w": 10,
    "l": 9,
    "last_date": "2026-06-04"
@@ -1194,7 +1188,7 @@
    "last_date": "2026-10-10"
   },
   "The Rad Syndicate": {
-   "rating": 1494.4,
+   "rating": 1493.3,
    "w": 15,
    "l": 17,
    "last_date": "2026-05-31"
@@ -1296,9 +1290,9 @@
    "last_date": "2026-08-20"
   },
   "XØ Ind": {
-   "rating": 1391.1,
+   "rating": 1399.3,
    "w": 5,
-   "l": 16,
+   "l": 14,
    "last_date": "2026-06-05"
   },
   "YFP Gaming": {
@@ -1320,7 +1314,7 @@
    "last_date": "2026-09-19"
   },
   "Yi-Jing": {
-   "rating": 1516.6,
+   "rating": 1516.4,
    "w": 4,
    "l": 5,
    "last_date": "2026-07-09"
