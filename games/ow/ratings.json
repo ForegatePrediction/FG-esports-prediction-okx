@@ -1,6 +1,6 @@
 {
  "game": "ow",
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 64,
@@ -18,10 +18,10 @@
    "last_date": "2026-10-11"
   },
   "99DIVINE": {
-   "rating": 1621.0,
-   "w": 92,
+   "rating": 1645.7,
+   "w": 95,
    "l": 50,
-   "last_date": "2026-10-12"
+   "last_date": "2026-10-13"
   },
   "Al Qadsiah": {
    "rating": 1656.8,
@@ -216,10 +216,10 @@
    "last_date": "2026-10-11"
   },
   "Please Not Hero Ban": {
-   "rating": 1485.6,
+   "rating": 1460.9,
    "w": 81,
-   "l": 66,
-   "last_date": "2026-10-05"
+   "l": 69,
+   "last_date": "2026-10-13"
   },
   "Poker Face": {
    "rating": 1243.9,

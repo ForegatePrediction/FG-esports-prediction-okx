@@ -1,6 +1,6 @@
 {
  "game": "valorant",
- "updated": "2026-10-13",
+ "updated": "2026-10-14",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 223,
@@ -12,7 +12,7 @@
    "last_date": "2026-07-05"
   },
   "100 Thieves": {
-   "rating": 1758.0,
+   "rating": 1757.9,
    "w": 77,
    "l": 53,
    "last_date": "2026-10-11"
@@ -24,7 +24,7 @@
    "last_date": "2026-08-20"
   },
   "555": {
-   "rating": 1657.3,
+   "rating": 1657.4,
    "w": 35,
    "l": 20,
    "last_date": "2026-07-10"
@@ -126,9 +126,9 @@
    "last_date": "2026-09-12"
   },
   "Asterisk": {
-   "rating": 1510.8,
-   "w": 26,
-   "l": 22,
+   "rating": 1514.0,
+   "w": 24,
+   "l": 21,
    "last_date": "2026-06-26"
   },
   "Axolotl": {
@@ -162,7 +162,7 @@
    "last_date": "2026-08-22"
   },
   "BOOM Esports": {
-   "rating": 1477.9,
+   "rating": 1477.8,
    "w": 23,
    "l": 30,
    "last_date": "2026-06-11"
@@ -228,7 +228,7 @@
    "last_date": "2026-07-29"
   },
   "Crest Gaming Zst": {
-   "rating": 1610.8,
+   "rating": 1610.7,
    "w": 22,
    "l": 11,
    "last_date": "2026-07-05"
@@ -702,7 +702,7 @@
    "last_date": "2026-08-30"
   },
   "Looking For Home": {
-   "rating": 1424.2,
+   "rating": 1424.1,
    "w": 2,
    "l": 6,
    "last_date": "2026-06-11"
@@ -834,7 +834,7 @@
    "last_date": "2026-07-09"
   },
   "No Salary Peek": {
-   "rating": 1544.9,
+   "rating": 1545.7,
    "w": 15,
    "l": 17,
    "last_date": "2026-07-08"
@@ -984,7 +984,7 @@
    "last_date": "2026-06-02"
   },
   "Revenant XSpark": {
-   "rating": 1614.3,
+   "rating": 1615.3,
    "w": 35,
    "l": 23,
    "last_date": "2026-06-27"
@@ -1008,7 +1008,7 @@
    "last_date": "2026-09-16"
   },
   "S8UL Esports": {
-   "rating": 1618.2,
+   "rating": 1619.1,
    "w": 47,
    "l": 29,
    "last_date": "2026-06-28"
@@ -1020,7 +1020,7 @@
    "last_date": "2026-08-17"
   },
   "SIGN Esports": {
-   "rating": 1517.9,
+   "rating": 1518.7,
    "w": 10,
    "l": 9,
    "last_date": "2026-06-04"
@@ -1188,7 +1188,7 @@
    "last_date": "2026-10-10"
   },
   "The Rad Syndicate": {
-   "rating": 1493.3,
+   "rating": 1494.1,
    "w": 15,
    "l": 17,
    "last_date": "2026-05-31"
@@ -1248,7 +1248,7 @@
    "last_date": "2026-09-09"
   },
   "VARREL": {
-   "rating": 1494.3,
+   "rating": 1494.2,
    "w": 19,
    "l": 28,
    "last_date": "2026-09-04"
@@ -1290,7 +1290,7 @@
    "last_date": "2026-08-20"
   },
   "XØ Ind": {
-   "rating": 1399.3,
+   "rating": 1399.9,
    "w": 5,
    "l": 14,
    "last_date": "2026-06-05"
@@ -1314,7 +1314,7 @@
    "last_date": "2026-09-19"
   },
   "Yi-Jing": {
-   "rating": 1516.4,
+   "rating": 1516.5,
    "w": 4,
    "l": 5,
    "last_date": "2026-07-09"
