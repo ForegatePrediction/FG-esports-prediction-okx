@@ -1,6 +1,6 @@
 {
  "game": "ow",
- "updated": "2026-10-14",
+ "updated": "2026-10-15",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 64,
@@ -18,10 +18,10 @@
    "last_date": "2026-10-11"
   },
   "99DIVINE": {
-   "rating": 1645.7,
-   "w": 95,
+   "rating": 1694.4,
+   "w": 98,
    "l": 50,
-   "last_date": "2026-10-13"
+   "last_date": "2026-10-14"
   },
   "Al Qadsiah": {
    "rating": 1656.8,
@@ -102,10 +102,10 @@
    "last_date": "2026-07-02"
   },
   "ENTER FORCE.36": {
-   "rating": 1736.9,
+   "rating": 1688.1,
    "w": 49,
-   "l": 20,
-   "last_date": "2026-10-13"
+   "l": 23,
+   "last_date": "2026-10-14"
   },
   "Falcons": {
    "rating": 1689.9,
@@ -162,10 +162,10 @@
    "last_date": "2026-06-14"
   },
   "Lazuli": {
-   "rating": 1479.3,
-   "w": 67,
+   "rating": 1519.6,
+   "w": 70,
    "l": 77,
-   "last_date": "2026-10-12"
+   "last_date": "2026-10-14"
   },
   "LuneX Gaming": {
    "rating": 1479.8,
@@ -180,10 +180,10 @@
    "last_date": "2026-07-02"
   },
   "MURASH GAMING": {
-   "rating": 1639.6,
-   "w": 28,
+   "rating": 1650.3,
+   "w": 31,
    "l": 18,
-   "last_date": "2026-10-13"
+   "last_date": "2026-10-14"
   },
   "Mexico": {
    "rating": 1394.6,
@@ -216,10 +216,10 @@
    "last_date": "2026-10-11"
   },
   "Please Not Hero Ban": {
-   "rating": 1460.9,
+   "rating": 1455.6,
    "w": 81,
-   "l": 69,
-   "last_date": "2026-10-13"
+   "l": 72,
+   "last_date": "2026-10-14"
   },
   "Poker Face": {
    "rating": 1243.9,
@@ -228,10 +228,10 @@
    "last_date": "2026-10-11"
   },
   "REVATI": {
-   "rating": 1311.2,
+   "rating": 1300.6,
    "w": 15,
-   "l": 53,
-   "last_date": "2026-10-13"
+   "l": 56,
+   "last_date": "2026-10-14"
   },
   "SEIJI ESPORTS": {
    "rating": 1483.6,
@@ -354,16 +354,16 @@
    "last_date": "2026-09-13"
   },
   "Uwinks": {
-   "rating": 1493.4,
+   "rating": 1453.1,
    "w": 21,
-   "l": 30,
-   "last_date": "2026-10-13"
+   "l": 33,
+   "last_date": "2026-10-14"
   },
   "VARREL": {
-   "rating": 1925.3,
-   "w": 133,
+   "rating": 1930.6,
+   "w": 136,
    "l": 28,
-   "last_date": "2026-10-12"
+   "last_date": "2026-10-14"
   },
   "Virtus.pro": {
    "rating": 1783.7,
