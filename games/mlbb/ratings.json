@@ -1,6 +1,6 @@
 {
  "game": "mlbb",
- "updated": "2026-10-15",
+ "updated": "2026-10-16",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 96,
@@ -16,12 +16,6 @@
    "w": 20,
    "l": 43,
    "last_date": "2026-10-11"
-  },
-  "ACT Esports Club": {
-   "rating": 1572.7,
-   "w": 13,
-   "l": 7,
-   "last_date": "2026-05-17"
   },
   "AP.Bren": {
    "rating": 1427.5,
@@ -96,7 +90,7 @@
    "last_date": "2026-10-11"
   },
   "Cambodia": {
-   "rating": 1483.7,
+   "rating": 1481.9,
    "w": 5,
    "l": 7,
    "last_date": "2026-09-29"
@@ -222,7 +216,7 @@
    "last_date": "2026-07-24"
   },
   "Indonesia": {
-   "rating": 1551.8,
+   "rating": 1547.5,
    "w": 17,
    "l": 14,
    "last_date": "2026-10-01"
@@ -234,7 +228,7 @@
    "last_date": "2026-10-11"
   },
   "Kazakhstan": {
-   "rating": 1415.2,
+   "rating": 1415.0,
    "w": 2,
    "l": 8,
    "last_date": "2026-09-29"
@@ -264,19 +258,19 @@
    "last_date": "2026-06-16"
   },
   "Malaysia": {
-   "rating": 1663.1,
-   "w": 21,
+   "rating": 1657.8,
+   "w": 19,
    "l": 5,
    "last_date": "2026-09-30"
   },
   "Mongolia": {
-   "rating": 1509.5,
+   "rating": 1508.4,
    "w": 4,
    "l": 6,
    "last_date": "2026-09-30"
   },
   "Myanmar": {
-   "rating": 1654.4,
+   "rating": 1652.6,
    "w": 12,
    "l": 3,
    "last_date": "2026-10-01"
@@ -330,7 +324,7 @@
    "last_date": "2026-09-27"
   },
   "Philippines": {
-   "rating": 1580.3,
+   "rating": 1577.4,
    "w": 9,
    "l": 4,
    "last_date": "2026-09-30"
@@ -372,7 +366,7 @@
    "last_date": "2026-10-11"
   },
   "Saudi Arabia": {
-   "rating": 1449.6,
+   "rating": 1447.9,
    "w": 3,
    "l": 8,
    "last_date": "2026-09-29"
@@ -400,6 +394,12 @@
    "w": 63,
    "l": 100,
    "last_date": "2026-10-09"
+  },
+  "TNR Esports": {
+   "rating": 1532.6,
+   "w": 5,
+   "l": 5,
+   "last_date": "2026-10-16"
   },
   "Team EvilKing": {
    "rating": 1458.1,
@@ -450,10 +450,10 @@
    "last_date": "2026-10-11"
   },
   "Team RVZ": {
-   "rating": 1538.6,
-   "w": 7,
-   "l": 3,
-   "last_date": "2026-09-26"
+   "rating": 1554.4,
+   "w": 9,
+   "l": 4,
+   "last_date": "2026-10-16"
   },
   "Team Rey": {
    "rating": 1612.4,
