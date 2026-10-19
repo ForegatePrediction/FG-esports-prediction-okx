@@ -1,6 +1,6 @@
 {
  "game": "valorant",
- "updated": "2026-10-18",
+ "updated": "2026-10-19",
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 220,
@@ -90,7 +90,7 @@
    "last_date": "2026-06-17"
   },
   "Akave Esports Black": {
-   "rating": 1684.2,
+   "rating": 1684.1,
    "w": 51,
    "l": 18,
    "last_date": "2026-10-14"
@@ -132,7 +132,7 @@
    "last_date": "2026-06-26"
   },
   "Axolotl": {
-   "rating": 1601.2,
+   "rating": 1601.1,
    "w": 12,
    "l": 8,
    "last_date": "2026-09-03"
@@ -324,7 +324,7 @@
    "last_date": "2026-07-04"
   },
   "Evil Geniuses GC": {
-   "rating": 1590.8,
+   "rating": 1590.7,
    "w": 10,
    "l": 7,
    "last_date": "2026-09-11"
@@ -384,7 +384,7 @@
    "last_date": "2026-06-26"
   },
   "FUSION X": {
-   "rating": 1466.9,
+   "rating": 1466.8,
    "w": 24,
    "l": 33,
    "last_date": "2026-08-25"
@@ -420,7 +420,7 @@
    "last_date": "2026-06-24"
   },
   "FlyQuest RED": {
-   "rating": 1710.1,
+   "rating": 1710.0,
    "w": 55,
    "l": 32,
    "last_date": "2026-10-15"
@@ -456,7 +456,7 @@
    "last_date": "2026-10-16"
   },
   "G2 Gozen": {
-   "rating": 1697.5,
+   "rating": 1697.4,
    "w": 95,
    "l": 48,
    "last_date": "2026-08-30"
@@ -522,7 +522,7 @@
    "last_date": "2026-07-08"
   },
   "Ghost Gaming GC": {
-   "rating": 1520.1,
+   "rating": 1520.0,
    "w": 26,
    "l": 28,
    "last_date": "2026-06-03"
@@ -570,7 +570,7 @@
    "last_date": "2026-07-25"
   },
   "INTZ": {
-   "rating": 1573.7,
+   "rating": 1573.6,
    "w": 30,
    "l": 24,
    "last_date": "2026-06-27"
@@ -660,10 +660,10 @@
    "last_date": "2026-06-24"
   },
   "LOUD": {
-   "rating": 1723.4,
-   "w": 43,
-   "l": 48,
-   "last_date": "2026-10-16"
+   "rating": 1748.4,
+   "w": 46,
+   "l": 49,
+   "last_date": "2026-10-18"
   },
   "LYON": {
    "rating": 1687.3,
@@ -726,7 +726,7 @@
    "last_date": "2026-07-03"
   },
   "MIBR GC": {
-   "rating": 1690.6,
+   "rating": 1690.3,
    "w": 49,
    "l": 26,
    "last_date": "2026-10-15"
@@ -930,7 +930,7 @@
    "last_date": "2026-09-17"
   },
   "RED Canids": {
-   "rating": 1557.5,
+   "rating": 1557.4,
    "w": 39,
    "l": 40,
    "last_date": "2026-07-07"
@@ -1008,7 +1008,7 @@
    "last_date": "2026-06-04"
   },
   "SK Nebula": {
-   "rating": 1624.7,
+   "rating": 1624.6,
    "w": 65,
    "l": 53,
    "last_date": "2026-08-19"
@@ -1146,7 +1146,7 @@
    "last_date": "2026-06-29"
   },
   "Team Liquid Brazil": {
-   "rating": 1605.2,
+   "rating": 1604.9,
    "w": 32,
    "l": 23,
    "last_date": "2026-09-11"
@@ -1164,10 +1164,10 @@
    "last_date": "2026-07-10"
   },
   "Team Vitality": {
-   "rating": 1747.0,
-   "w": 78,
-   "l": 53,
-   "last_date": "2026-10-17"
+   "rating": 1722.0,
+   "w": 79,
+   "l": 56,
+   "last_date": "2026-10-18"
   },
   "The Rad Syndicate": {
    "rating": 1494.1,
@@ -1224,7 +1224,7 @@
    "last_date": "2026-09-12"
   },
   "Ushiras": {
-   "rating": 1494.4,
+   "rating": 1494.3,
    "w": 4,
    "l": 5,
    "last_date": "2026-09-09"
@@ -1242,7 +1242,7 @@
    "last_date": "2026-05-22"
   },
   "Wadadaa": {
-   "rating": 1565.9,
+   "rating": 1565.8,
    "w": 34,
    "l": 27,
    "last_date": "2026-05-30"
@@ -1314,7 +1314,7 @@
    "last_date": "2026-09-03"
   },
   "la Masia": {
-   "rating": 1629.3,
+   "rating": 1629.2,
    "w": 24,
    "l": 15,
    "last_date": "2026-07-12"
