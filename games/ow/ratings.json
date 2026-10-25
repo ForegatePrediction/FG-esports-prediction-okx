@@ -1,39 +1,41 @@
 {
  "game": "ow",
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
+ "last_match_date": "2026-10-25",
+ "source_matches": 4417,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 65,
  "teams": {
   " ReturnZ": {
-   "rating": 1350.8,
+   "rating": 1351.1,
    "w": 0,
    "l": 9,
    "last_date": "2026-06-14"
   },
   "1234": {
-   "rating": 1617.0,
-   "w": 14,
-   "l": 19,
-   "last_date": "2026-10-18"
+   "rating": 1669.1,
+   "w": 17,
+   "l": 20,
+   "last_date": "2026-10-24"
   },
   "99DIVINE": {
-   "rating": 1693.5,
+   "rating": 1694.7,
    "w": 98,
    "l": 50,
    "last_date": "2026-10-14"
   },
   "Al Qadsiah": {
-   "rating": 1655.5,
+   "rating": 1667.9,
    "w": 114,
    "l": 68,
    "last_date": "2026-07-04"
   },
   "All Gamers": {
-   "rating": 1648.9,
-   "w": 69,
-   "l": 47,
-   "last_date": "2026-10-18"
+   "rating": 1692.3,
+   "w": 72,
+   "l": 49,
+   "last_date": "2026-10-24"
   },
   "Australia": {
    "rating": 1462.1,
@@ -42,7 +44,7 @@
    "last_date": "2026-09-12"
   },
   "Black Flag": {
-   "rating": 1375.1,
+   "rating": 1375.5,
    "w": 0,
    "l": 9,
    "last_date": "2026-10-11"
@@ -54,7 +56,7 @@
    "last_date": "2026-08-23"
   },
   "Cheeseburger": {
-   "rating": 1624.7,
+   "rating": 1631.6,
    "w": 44,
    "l": 82,
    "last_date": "2026-10-24"
@@ -72,16 +74,16 @@
    "last_date": "2026-08-23"
   },
   "Crazy Raccoon": {
-   "rating": 1914.9,
-   "w": 212,
-   "l": 80,
+   "rating": 1924.1,
+   "w": 218,
+   "l": 83,
    "last_date": "2026-10-23"
   },
   "Dallas Fuel": {
-   "rating": 1672.5,
-   "w": 48,
+   "rating": 1717.6,
+   "w": 51,
    "l": 24,
-   "last_date": "2026-10-18"
+   "last_date": "2026-10-24"
   },
   "Denmark": {
    "rating": 1442.3,
@@ -90,7 +92,7 @@
    "last_date": "2026-08-23"
   },
   "Disguised": {
-   "rating": 1386.9,
+   "rating": 1389.4,
    "w": 13,
    "l": 37,
    "last_date": "2026-10-18"
@@ -102,19 +104,19 @@
    "last_date": "2026-07-02"
   },
   "ENTER FORCE.36": {
-   "rating": 1687.3,
+   "rating": 1688.4,
    "w": 49,
    "l": 23,
    "last_date": "2026-10-14"
   },
   "Falcons": {
-   "rating": 1702.4,
-   "w": 181,
-   "l": 102,
-   "last_date": "2026-10-23"
+   "rating": 1707.5,
+   "w": 188,
+   "l": 105,
+   "last_date": "2026-10-24"
   },
   "Four Angry Men": {
-   "rating": 1410.4,
+   "rating": 1411.2,
    "w": 11,
    "l": 23,
    "last_date": "2026-06-27"
@@ -126,10 +128,10 @@
    "last_date": "2026-09-13"
   },
   "Geekay Esports": {
-   "rating": 1742.4,
-   "w": 98,
-   "l": 76,
-   "last_date": "2026-10-17"
+   "rating": 1708.0,
+   "w": 99,
+   "l": 79,
+   "last_date": "2026-10-24"
   },
   "Germany": {
    "rating": 1539.7,
@@ -138,16 +140,16 @@
    "last_date": "2026-09-12"
   },
   "HUNENG": {
-   "rating": 1516.7,
-   "w": 22,
-   "l": 39,
-   "last_date": "2026-10-18"
+   "rating": 1548.7,
+   "w": 25,
+   "l": 40,
+   "last_date": "2026-10-24"
   },
   "JD Gaming": {
-   "rating": 1700.1,
-   "w": 60,
-   "l": 35,
-   "last_date": "2026-10-17"
+   "rating": 1671.8,
+   "w": 61,
+   "l": 38,
+   "last_date": "2026-10-24"
   },
   "Japan": {
    "rating": 1342.4,
@@ -156,19 +158,19 @@
    "last_date": "2026-08-22"
   },
   "Kitsune Kage": {
-   "rating": 1356.0,
+   "rating": 1356.6,
    "w": 0,
    "l": 9,
    "last_date": "2026-06-14"
   },
   "Lazuli": {
-   "rating": 1518.9,
+   "rating": 1519.9,
    "w": 70,
    "l": 77,
    "last_date": "2026-10-14"
   },
   "LuneX Gaming": {
-   "rating": 1479.2,
+   "rating": 1481.9,
    "w": 17,
    "l": 31,
    "last_date": "2026-07-04"
@@ -180,7 +182,7 @@
    "last_date": "2026-07-02"
   },
   "MURASH GAMING": {
-   "rating": 1649.5,
+   "rating": 1650.5,
    "w": 31,
    "l": 18,
    "last_date": "2026-10-14"
@@ -192,10 +194,10 @@
    "last_date": "2026-08-23"
   },
   "NTMR": {
-   "rating": 1522.3,
-   "w": 80,
-   "l": 55,
-   "last_date": "2026-10-18"
+   "rating": 1501.0,
+   "w": 101,
+   "l": 69,
+   "last_date": "2026-10-25"
   },
   "Najdorf": {
    "rating": 1562.3,
@@ -204,43 +206,43 @@
    "last_date": "2026-07-09"
   },
   "O2 Blast": {
-   "rating": 1399.8,
+   "rating": 1405.3,
    "w": 23,
    "l": 37,
    "last_date": "2026-10-23"
   },
   "OU Gaming": {
-   "rating": 1685.3,
-   "w": 19,
-   "l": 9,
-   "last_date": "2026-10-18"
+   "rating": 1716.1,
+   "w": 22,
+   "l": 10,
+   "last_date": "2026-10-24"
   },
   "Please Not Hero Ban": {
-   "rating": 1454.8,
+   "rating": 1455.8,
    "w": 81,
    "l": 72,
    "last_date": "2026-10-14"
   },
   "Poker Face": {
-   "rating": 1289.3,
-   "w": 37,
-   "l": 107,
-   "last_date": "2026-10-18"
+   "rating": 1312.6,
+   "w": 41,
+   "l": 113,
+   "last_date": "2026-10-25"
   },
   "REVATI": {
-   "rating": 1300.0,
+   "rating": 1300.8,
    "w": 15,
    "l": 56,
    "last_date": "2026-10-14"
   },
   "SEIJI ESPORTS": {
-   "rating": 1427.3,
-   "w": 4,
-   "l": 19,
-   "last_date": "2026-10-23"
+   "rating": 1426.2,
+   "w": 7,
+   "l": 21,
+   "last_date": "2026-10-24"
   },
   "SHENGSHI Esports": {
-   "rating": 1580.0,
+   "rating": 1580.5,
    "w": 20,
    "l": 11,
    "last_date": "2026-10-11"
@@ -252,10 +254,10 @@
    "last_date": "2026-09-13"
   },
   "Solus Victorem": {
-   "rating": 1538.5,
-   "w": 40,
-   "l": 55,
-   "last_date": "2026-10-17"
+   "rating": 1508.9,
+   "w": 41,
+   "l": 58,
+   "last_date": "2026-10-24"
   },
   "South Korea": {
    "rating": 1640.3,
@@ -264,10 +266,10 @@
    "last_date": "2026-09-13"
   },
   "Spacestation Gaming": {
-   "rating": 1696.1,
-   "w": 130,
-   "l": 70,
-   "last_date": "2026-10-18"
+   "rating": 1658.0,
+   "w": 131,
+   "l": 76,
+   "last_date": "2026-10-24"
   },
   "Spain": {
    "rating": 1557.0,
@@ -276,7 +278,7 @@
    "last_date": "2026-09-12"
   },
   "SuperBad": {
-   "rating": 1307.4,
+   "rating": 1312.0,
    "w": 4,
    "l": 26,
    "last_date": "2026-07-04"
@@ -288,37 +290,37 @@
    "last_date": "2026-09-13"
   },
   "T1": {
-   "rating": 1886.3,
-   "w": 161,
-   "l": 88,
-   "last_date": "2026-10-17"
+   "rating": 1898.3,
+   "w": 164,
+   "l": 89,
+   "last_date": "2026-10-24"
   },
   "Team Liquid": {
-   "rating": 1646.0,
-   "w": 112,
+   "rating": 1675.3,
+   "w": 115,
    "l": 81,
-   "last_date": "2026-10-18"
+   "last_date": "2026-10-25"
   },
   "Team Peps": {
-   "rating": 1562.3,
-   "w": 50,
-   "l": 79,
-   "last_date": "2026-10-17"
+   "rating": 1601.4,
+   "w": 70,
+   "l": 94,
+   "last_date": "2026-10-24"
   },
   "Team Risk": {
-   "rating": 1614.0,
-   "w": 6,
-   "l": 4,
-   "last_date": "2026-10-18"
+   "rating": 1592.9,
+   "w": 8,
+   "l": 7,
+   "last_date": "2026-10-24"
   },
   "Team Secret": {
-   "rating": 1663.0,
+   "rating": 1663.2,
    "w": 29,
    "l": 10,
    "last_date": "2026-07-09"
   },
   "Telacy": {
-   "rating": 1472.0,
+   "rating": 1476.7,
    "w": 3,
    "l": 15,
    "last_date": "2026-06-28"
@@ -330,22 +332,22 @@
    "last_date": "2026-08-23"
   },
   "The Kafe": {
-   "rating": 1501.5,
+   "rating": 1503.8,
    "w": 12,
    "l": 21,
    "last_date": "2026-10-18"
   },
   "Trap12": {
-   "rating": 1411.2,
+   "rating": 1411.3,
    "w": 17,
    "l": 33,
    "last_date": "2026-07-09"
   },
   "Twisted Minds": {
-   "rating": 1815.9,
-   "w": 163,
-   "l": 75,
-   "last_date": "2026-10-18"
+   "rating": 1795.7,
+   "w": 170,
+   "l": 82,
+   "last_date": "2026-10-24"
   },
   "United Kingdom": {
    "rating": 1470.8,
@@ -360,37 +362,37 @@
    "last_date": "2026-09-13"
   },
   "Uwinks": {
-   "rating": 1452.4,
+   "rating": 1453.4,
    "w": 21,
    "l": 33,
    "last_date": "2026-10-14"
   },
   "VARREL": {
-   "rating": 1928.9,
+   "rating": 1931.4,
    "w": 136,
    "l": 28,
    "last_date": "2026-10-14"
   },
   "Virtus.pro": {
-   "rating": 1674.9,
-   "w": 138,
-   "l": 72,
-   "last_date": "2026-10-18"
+   "rating": 1714.7,
+   "w": 172,
+   "l": 82,
+   "last_date": "2026-10-24"
   },
   "Weibo Gaming": {
-   "rating": 1797.7,
-   "w": 86,
-   "l": 36,
-   "last_date": "2026-10-18"
+   "rating": 1758.9,
+   "w": 88,
+   "l": 39,
+   "last_date": "2026-10-24"
   },
   "ZANSIDE GAMING": {
-   "rating": 1466.9,
-   "w": 19,
-   "l": 37,
-   "last_date": "2026-10-23"
+   "rating": 1461.6,
+   "w": 22,
+   "l": 39,
+   "last_date": "2026-10-25"
   },
   "ZETA DIVISION": {
-   "rating": 1925.6,
+   "rating": 1934.3,
    "w": 185,
    "l": 95,
    "last_date": "2026-10-24"

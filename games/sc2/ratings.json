@@ -1,6 +1,8 @@
 {
  "game": "sc2",
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
+ "last_match_date": "2026-10-22",
+ "source_matches": 5178,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 58,

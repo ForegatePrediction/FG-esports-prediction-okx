@@ -1,6 +1,8 @@
 {
  "game": "scbw",
- "updated": "2026-10-24",
+ "updated": "2026-10-25",
+ "last_match_date": "2025-10-26",
+ "source_matches": 478,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 17,
