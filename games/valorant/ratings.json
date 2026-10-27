@@ -1,8 +1,8 @@
 {
  "game": "valorant",
- "updated": "2026-10-26",
- "last_match_date": "2026-10-25",
- "source_matches": 10206,
+ "updated": "2026-10-27",
+ "last_match_date": "2026-10-26",
+ "source_matches": 10210,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 221,
@@ -338,10 +338,10 @@
    "last_date": "2026-06-28"
   },
   "FENNEL Female": {
-   "rating": 1689.9,
+   "rating": 1658.4,
    "w": 39,
-   "l": 12,
-   "last_date": "2026-10-25"
+   "l": 14,
+   "last_date": "2026-10-26"
   },
   "FOKUS": {
    "rating": 1638.9,
@@ -458,10 +458,10 @@
    "last_date": "2026-10-16"
   },
   "G2 Gozen": {
-   "rating": 1674.5,
+   "rating": 1643.9,
    "w": 95,
-   "l": 50,
-   "last_date": "2026-10-24"
+   "l": 52,
+   "last_date": "2026-10-26"
   },
   "GIANTX": {
    "rating": 1441.7,
@@ -1016,10 +1016,10 @@
    "last_date": "2026-06-04"
   },
   "SK Nebula": {
-   "rating": 1630.7,
-   "w": 67,
+   "rating": 1662.1,
+   "w": 69,
    "l": 55,
-   "last_date": "2026-10-24"
+   "last_date": "2026-10-26"
   },
   "STREAMER ARENA": {
    "rating": 1483.5,
@@ -1160,10 +1160,10 @@
    "last_date": "2026-06-29"
   },
   "Team Liquid Brazil": {
-   "rating": 1626.5,
-   "w": 40,
+   "rating": 1657.1,
+   "w": 42,
    "l": 25,
-   "last_date": "2026-10-25"
+   "last_date": "2026-10-26"
   },
   "Team Secret": {
    "rating": 1388.5,
