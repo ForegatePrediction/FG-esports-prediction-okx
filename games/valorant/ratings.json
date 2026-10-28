@@ -1,8 +1,8 @@
 {
  "game": "valorant",
- "updated": "2026-10-27",
- "last_match_date": "2026-10-26",
- "source_matches": 10210,
+ "updated": "2026-10-28",
+ "last_match_date": "2026-10-27",
+ "source_matches": 10219,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 221,
@@ -512,10 +512,10 @@
    "last_date": "2026-08-12"
   },
   "Gentle Mates GC": {
-   "rating": 1694.7,
-   "w": 69,
+   "rating": 1726.3,
+   "w": 71,
    "l": 29,
-   "last_date": "2026-10-23"
+   "last_date": "2026-10-27"
   },
   "Ghools Esports": {
    "rating": 1503.7,
@@ -608,10 +608,10 @@
    "last_date": "2026-08-08"
   },
   "KRÜ Blaze": {
-   "rating": 1630.3,
+   "rating": 1614.3,
    "w": 64,
-   "l": 43,
-   "last_date": "2026-10-23"
+   "l": 45,
+   "last_date": "2026-10-27"
   },
   "KRÜ Esports": {
    "rating": 1494.0,
@@ -728,10 +728,10 @@
    "last_date": "2026-07-03"
   },
   "MIBR GC": {
-   "rating": 1755.1,
+   "rating": 1723.6,
    "w": 56,
-   "l": 28,
-   "last_date": "2026-10-24"
+   "l": 30,
+   "last_date": "2026-10-27"
   },
   "MIBR LOS": {
    "rating": 1535.2,
@@ -1070,10 +1070,10 @@
    "last_date": "2026-07-30"
   },
   "Shopify Rebellion Gold": {
-   "rating": 1782.0,
-   "w": 71,
+   "rating": 1797.9,
+   "w": 73,
    "l": 41,
-   "last_date": "2026-10-24"
+   "last_date": "2026-10-27"
   },
   "So:sweet": {
    "rating": 1383.4,
@@ -1232,10 +1232,10 @@
    "last_date": "2026-07-05"
   },
   "Unsettled Resentment": {
-   "rating": 1439.0,
-   "w": 6,
-   "l": 10,
-   "last_date": "2026-10-23"
+   "rating": 1455.2,
+   "w": 8,
+   "l": 11,
+   "last_date": "2026-10-27"
   },
   "Ushiras": {
    "rating": 1496.1,
@@ -1256,10 +1256,10 @@
    "last_date": "2026-05-30"
   },
   "Wolves Esports": {
-   "rating": 1368.3,
+   "rating": 1344.7,
    "w": 35,
-   "l": 62,
-   "last_date": "2026-10-22"
+   "l": 64,
+   "last_date": "2026-10-27"
   },
   "X-CAST": {
    "rating": 1418.8,

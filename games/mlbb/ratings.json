@@ -1,8 +1,8 @@
 {
  "game": "mlbb",
- "updated": "2026-10-27",
- "last_match_date": "2026-10-25",
- "source_matches": 5276,
+ "updated": "2026-10-28",
+ "last_match_date": "2026-10-28",
+ "source_matches": 5280,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 94,
@@ -410,10 +410,10 @@
    "last_date": "2026-10-25"
   },
   "Team Flash": {
-   "rating": 1403.3,
-   "w": 42,
-   "l": 70,
-   "last_date": "2026-10-17"
+   "rating": 1405.6,
+   "w": 43,
+   "l": 73,
+   "last_date": "2026-10-28"
   },
   "Team Flash KH": {
    "rating": 1494.4,
@@ -470,10 +470,10 @@
    "last_date": "2026-09-08"
   },
   "Team Vamos": {
-   "rating": 1593.8,
-   "w": 102,
-   "l": 80,
-   "last_date": "2026-10-18"
+   "rating": 1591.5,
+   "w": 105,
+   "l": 81,
+   "last_date": "2026-10-28"
   },
   "Team Vitality": {
    "rating": 1589.4,
