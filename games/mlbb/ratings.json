@@ -1,8 +1,8 @@
 {
  "game": "mlbb",
- "updated": "2026-10-28",
- "last_match_date": "2026-10-28",
- "source_matches": 5280,
+ "updated": "2026-10-29",
+ "last_match_date": "2026-10-29",
+ "source_matches": 5287,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 94,
@@ -80,10 +80,10 @@
    "last_date": "2026-10-18"
   },
   "Bigetron MY by VIT": {
-   "rating": 1482.4,
-   "w": 40,
-   "l": 42,
-   "last_date": "2026-10-18"
+   "rating": 1510.9,
+   "w": 43,
+   "l": 43,
+   "last_date": "2026-10-28"
   },
   "Bigetron by Vitality": {
    "rating": 1624.8,
@@ -230,10 +230,10 @@
    "last_date": "2026-10-01"
   },
   "Invictus Gaming": {
-   "rating": 1487.1,
-   "w": 42,
-   "l": 39,
-   "last_date": "2026-10-17"
+   "rating": 1458.6,
+   "w": 43,
+   "l": 42,
+   "last_date": "2026-10-28"
   },
   "King of Gamers Club": {
    "rating": 1531.2,
@@ -446,10 +446,10 @@
    "last_date": "2026-10-25"
   },
   "Team Rey": {
-   "rating": 1575.5,
-   "w": 54,
+   "rating": 1616.0,
+   "w": 57,
    "l": 59,
-   "last_date": "2026-10-17"
+   "last_date": "2026-10-29"
   },
   "Team Spirit": {
    "rating": 1898.2,
@@ -470,10 +470,10 @@
    "last_date": "2026-09-08"
   },
   "Team Vamos": {
-   "rating": 1591.5,
+   "rating": 1551.0,
    "w": 105,
-   "l": 81,
-   "last_date": "2026-10-28"
+   "l": 84,
+   "last_date": "2026-10-29"
   },
   "Team Vitality": {
    "rating": 1589.4,

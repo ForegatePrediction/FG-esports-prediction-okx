@@ -1,17 +1,23 @@
 {
  "game": "dota2",
- "updated": "2026-10-28",
- "last_match_date": "2026-10-28",
- "source_matches": 16406,
+ "updated": "2026-10-29",
+ "last_match_date": "2026-10-29",
+ "source_matches": 16442,
  "scale": 400,
  "shrink": 0.7,
- "n_teams": 185,
+ "n_teams": 186,
  "teams": {
   " Pipsqueak+4": {
    "rating": 1661.4,
    "w": 173,
    "l": 140,
    "last_date": "2026-09-23"
+  },
+  " oveA": {
+   "rating": 1438.0,
+   "w": 3,
+   "l": 6,
+   "last_date": "2026-10-28"
   },
   "1win": {
    "rating": 1717.6,
@@ -50,10 +56,10 @@
    "last_date": "2026-10-11"
   },
   "Astra Invicta": {
-   "rating": 1568.3,
-   "w": 4,
-   "l": 7,
-   "last_date": "2026-10-27"
+   "rating": 1591.8,
+   "w": 5,
+   "l": 9,
+   "last_date": "2026-10-28"
   },
   "Aurora": {
    "rating": 1878.9,
@@ -116,16 +122,16 @@
    "last_date": "2026-09-13"
   },
   "Chandogs": {
-   "rating": 1471.5,
-   "w": 18,
-   "l": 27,
-   "last_date": "2026-10-15"
+   "rating": 1484.1,
+   "w": 20,
+   "l": 28,
+   "last_date": "2026-10-28"
   },
   "Cloud Dawning": {
-   "rating": 1392.9,
+   "rating": 1378.8,
    "w": 30,
-   "l": 66,
-   "last_date": "2026-10-28"
+   "l": 68,
+   "last_date": "2026-10-29"
   },
   "Cloud Rising": {
    "rating": 1504.6,
@@ -272,10 +278,10 @@
    "last_date": "2026-06-17"
   },
   "GamerLegion": {
-   "rating": 1806.8,
-   "w": 115,
-   "l": 115,
-   "last_date": "2026-10-26"
+   "rating": 1802.7,
+   "w": 117,
+   "l": 116,
+   "last_date": "2026-10-28"
   },
   "Gior Dota Team": {
    "rating": 1449.1,
@@ -416,10 +422,10 @@
    "last_date": "2026-08-01"
   },
   "LEGION": {
-   "rating": 1662.4,
-   "w": 17,
-   "l": 13,
-   "last_date": "2026-10-27"
+   "rating": 1666.6,
+   "w": 18,
+   "l": 15,
+   "last_date": "2026-10-28"
   },
   "LFO": {
    "rating": 1491.7,
@@ -464,10 +470,10 @@
    "last_date": "2026-10-07"
   },
   "Mena Warriors": {
-   "rating": 1415.5,
-   "w": 5,
+   "rating": 1446.9,
+   "w": 7,
    "l": 16,
-   "last_date": "2026-10-27"
+   "last_date": "2026-10-28"
   },
   "Mentality Monster": {
    "rating": 1524.2,
@@ -518,10 +524,10 @@
    "last_date": "2026-10-25"
   },
   "New Growth": {
-   "rating": 1460.5,
-   "w": 13,
+   "rating": 1490.0,
+   "w": 15,
    "l": 19,
-   "last_date": "2026-10-14"
+   "last_date": "2026-10-29"
   },
   "Nigma Galaxy": {
    "rating": 1826.1,
@@ -542,16 +548,16 @@
    "last_date": "2026-10-27"
   },
   "OG": {
-   "rating": 1793.6,
-   "w": 176,
-   "l": 218,
-   "last_date": "2026-10-26"
+   "rating": 1829.4,
+   "w": 178,
+   "l": 219,
+   "last_date": "2026-10-28"
   },
   "PARIVISION": {
-   "rating": 2037.2,
-   "w": 317,
-   "l": 154,
-   "last_date": "2026-10-26"
+   "rating": 2025.8,
+   "w": 319,
+   "l": 155,
+   "last_date": "2026-10-28"
   },
   "Phenomenon": {
    "rating": 1477.3,
@@ -620,10 +626,10 @@
    "last_date": "2026-06-18"
   },
   "Resp Gaming": {
-   "rating": 1436.3,
+   "rating": 1428.2,
    "w": 7,
-   "l": 9,
-   "last_date": "2026-10-28"
+   "l": 11,
+   "last_date": "2026-10-29"
   },
   "RisingRage": {
    "rating": 1524.3,
@@ -662,16 +668,16 @@
    "last_date": "2026-09-17"
   },
   "Rottweilas Latam": {
-   "rating": 1551.0,
-   "w": 20,
-   "l": 17,
-   "last_date": "2026-10-27"
+   "rating": 1527.6,
+   "w": 21,
+   "l": 19,
+   "last_date": "2026-10-28"
   },
   "Royal Bear": {
-   "rating": 1735.2,
-   "w": 16,
+   "rating": 1750.8,
+   "w": 20,
    "l": 1,
-   "last_date": "2026-10-27"
+   "last_date": "2026-10-29"
   },
   "Rune Eaters": {
    "rating": 1664.2,
@@ -800,16 +806,16 @@
    "last_date": "2026-08-08"
   },
   "Team Kinetix": {
-   "rating": 1416.7,
+   "rating": 1409.1,
    "w": 21,
-   "l": 33,
-   "last_date": "2026-10-27"
+   "l": 35,
+   "last_date": "2026-10-28"
   },
   "Team Liquid": {
-   "rating": 1805.0,
-   "w": 310,
-   "l": 235,
-   "last_date": "2026-10-26"
+   "rating": 1816.4,
+   "w": 311,
+   "l": 237,
+   "last_date": "2026-10-28"
   },
   "Team Lynx": {
    "rating": 1618.8,
@@ -842,16 +848,16 @@
    "last_date": "2026-10-17"
   },
   "Team Spirit": {
-   "rating": 1999.9,
-   "w": 309,
-   "l": 177,
-   "last_date": "2026-10-26"
+   "rating": 1964.1,
+   "w": 310,
+   "l": 179,
+   "last_date": "2026-10-28"
   },
   "Team Synapse": {
-   "rating": 1642.7,
-   "w": 53,
+   "rating": 1659.0,
+   "w": 55,
    "l": 33,
-   "last_date": "2026-10-24"
+   "last_date": "2026-10-28"
   },
   "Team Syntax": {
    "rating": 1423.2,
@@ -866,10 +872,10 @@
    "last_date": "2026-10-17"
   },
   "Team Yandex": {
-   "rating": 2063.4,
-   "w": 222,
-   "l": 130,
-   "last_date": "2026-10-26"
+   "rating": 2040.0,
+   "w": 224,
+   "l": 131,
+   "last_date": "2026-10-28"
   },
   "TeamDk": {
    "rating": 1497.9,
@@ -1016,16 +1022,16 @@
    "last_date": "2026-10-24"
   },
   "Zenith": {
-   "rating": 1574.7,
-   "w": 11,
+   "rating": 1588.8,
+   "w": 13,
    "l": 7,
-   "last_date": "2026-10-23"
+   "last_date": "2026-10-29"
   },
   "Zero Tenacity": {
-   "rating": 1586.7,
-   "w": 430,
-   "l": 373,
-   "last_date": "2026-10-27"
+   "rating": 1587.4,
+   "w": 432,
+   "l": 374,
+   "last_date": "2026-10-28"
   },
   "Zetta Games": {
    "rating": 1425.7,

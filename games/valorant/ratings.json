@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-10-28",
- "last_match_date": "2026-10-27",
- "source_matches": 10219,
+ "updated": "2026-10-29",
+ "last_match_date": "2026-10-28",
+ "source_matches": 10227,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 221,
+ "n_teams": 220,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -44,10 +44,10 @@
    "last_date": "2026-08-18"
   },
   "A Team": {
-   "rating": 1362.5,
-   "w": 2,
+   "rating": 1394.6,
+   "w": 4,
    "l": 8,
-   "last_date": "2026-10-21"
+   "last_date": "2026-10-28"
   },
   "AB3 Esports": {
    "rating": 1325.2,
@@ -122,10 +122,10 @@
    "last_date": "2026-06-02"
   },
   "Any Questions Gaming": {
-   "rating": 1524.7,
-   "w": 23,
+   "rating": 1552.3,
+   "w": 25,
    "l": 23,
-   "last_date": "2026-10-22"
+   "last_date": "2026-10-28"
   },
   "Asterisk": {
    "rating": 1515.9,
@@ -608,10 +608,10 @@
    "last_date": "2026-08-08"
   },
   "KRÜ Blaze": {
-   "rating": 1614.3,
-   "w": 64,
+   "rating": 1644.5,
+   "w": 66,
    "l": 45,
-   "last_date": "2026-10-27"
+   "last_date": "2026-10-28"
   },
   "KRÜ Esports": {
    "rating": 1494.0,
@@ -728,10 +728,10 @@
    "last_date": "2026-07-03"
   },
   "MIBR GC": {
-   "rating": 1723.6,
-   "w": 56,
+   "rating": 1745.8,
+   "w": 58,
    "l": 30,
-   "last_date": "2026-10-27"
+   "last_date": "2026-10-28"
   },
   "MIBR LOS": {
    "rating": 1535.2,
@@ -866,10 +866,10 @@
    "last_date": "2026-06-18"
   },
   "Octagonal Disposition Gaming": {
-   "rating": 1431.3,
+   "rating": 1399.2,
    "w": 5,
-   "l": 10,
-   "last_date": "2026-10-21"
+   "l": 12,
+   "last_date": "2026-10-28"
   },
   "Olimpo Gold": {
    "rating": 1525.8,
@@ -968,10 +968,10 @@
    "last_date": "2026-06-02"
   },
   "Rare Atom": {
-   "rating": 1534.5,
+   "rating": 1506.9,
    "w": 8,
-   "l": 7,
-   "last_date": "2026-10-21"
+   "l": 9,
+   "last_date": "2026-10-28"
   },
   "Revenant XSpark": {
    "rating": 1627.3,
@@ -1016,10 +1016,10 @@
    "last_date": "2026-06-04"
   },
   "SK Nebula": {
-   "rating": 1662.1,
+   "rating": 1639.9,
    "w": 69,
-   "l": 55,
-   "last_date": "2026-10-26"
+   "l": 57,
+   "last_date": "2026-10-28"
   },
   "STREAMER ARENA": {
    "rating": 1483.5,
@@ -1160,10 +1160,10 @@
    "last_date": "2026-06-29"
   },
   "Team Liquid Brazil": {
-   "rating": 1657.1,
+   "rating": 1626.9,
    "w": 42,
-   "l": 25,
-   "last_date": "2026-10-26"
+   "l": 27,
+   "last_date": "2026-10-28"
   },
   "Team Secret": {
    "rating": 1388.5,
@@ -1248,12 +1248,6 @@
    "w": 19,
    "l": 28,
    "last_date": "2026-09-04"
-  },
-  "Wadadaa": {
-   "rating": 1569.5,
-   "w": 34,
-   "l": 27,
-   "last_date": "2026-05-30"
   },
   "Wolves Esports": {
    "rating": 1344.7,
