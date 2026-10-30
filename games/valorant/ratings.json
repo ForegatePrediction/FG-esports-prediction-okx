@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-10-29",
- "last_match_date": "2026-10-28",
- "source_matches": 10227,
+ "updated": "2026-10-30",
+ "last_match_date": "2026-10-29",
+ "source_matches": 10233,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 220,
+ "n_teams": 219,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -638,10 +638,10 @@
    "last_date": "2026-08-10"
   },
   "KeepBest Gaming": {
-   "rating": 1470.4,
-   "w": 12,
-   "l": 11,
-   "last_date": "2026-10-24"
+   "rating": 1453.6,
+   "w": 13,
+   "l": 13,
+   "last_date": "2026-10-29"
   },
   "Kiwoom DRX": {
    "rating": 1506.0,
@@ -907,12 +907,6 @@
    "l": 42,
    "last_date": "2026-07-10"
   },
-  "Puppy Thieves": {
-   "rating": 1569.2,
-   "w": 10,
-   "l": 8,
-   "last_date": "2026-05-31"
-  },
   "QT DIG∞": {
    "rating": 1563.0,
    "w": 35,
@@ -1112,10 +1106,10 @@
    "last_date": "2026-06-25"
   },
   "TEC Esports": {
-   "rating": 1456.9,
-   "w": 54,
-   "l": 75,
-   "last_date": "2026-10-24"
+   "rating": 1446.3,
+   "w": 55,
+   "l": 77,
+   "last_date": "2026-10-29"
   },
   "TYLOO": {
    "rating": 1573.2,
@@ -1183,12 +1177,6 @@
    "l": 56,
    "last_date": "2026-10-18"
   },
-  "The Rad Syndicate": {
-   "rating": 1496.8,
-   "w": 15,
-   "l": 17,
-   "last_date": "2026-05-31"
-  },
   "The Spiders": {
    "rating": 1578.9,
    "w": 16,
@@ -1232,10 +1220,10 @@
    "last_date": "2026-07-05"
   },
   "Unsettled Resentment": {
-   "rating": 1455.2,
-   "w": 8,
-   "l": 11,
-   "last_date": "2026-10-27"
+   "rating": 1471.9,
+   "w": 10,
+   "l": 12,
+   "last_date": "2026-10-29"
   },
   "Ushiras": {
    "rating": 1496.1,
@@ -1254,6 +1242,12 @@
    "w": 35,
    "l": 64,
    "last_date": "2026-10-27"
+  },
+  "World Sports Invictus Gaming": {
+   "rating": 1477.5,
+   "w": 4,
+   "l": 5,
+   "last_date": "2026-10-29"
   },
   "X-CAST": {
    "rating": 1418.8,

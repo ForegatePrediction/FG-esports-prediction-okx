@@ -1,23 +1,23 @@
 {
  "game": "mlbb",
- "updated": "2026-10-29",
- "last_match_date": "2026-10-29",
- "source_matches": 5287,
+ "updated": "2026-10-30",
+ "last_match_date": "2026-10-30",
+ "source_matches": 5299,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 94,
  "teams": {
   " Evil Eye Esports": {
-   "rating": 1407.9,
+   "rating": 1395.7,
    "w": 4,
-   "l": 10,
-   "last_date": "2026-10-24"
+   "l": 12,
+   "last_date": "2026-10-30"
   },
   " Vigor Apex": {
-   "rating": 1623.3,
-   "w": 14,
+   "rating": 1635.5,
+   "w": 16,
    "l": 4,
-   "last_date": "2026-10-25"
+   "last_date": "2026-10-30"
   },
   "AC Esports": {
    "rating": 1436.8,
@@ -80,10 +80,10 @@
    "last_date": "2026-10-18"
   },
   "Bigetron MY by VIT": {
-   "rating": 1510.9,
-   "w": 43,
-   "l": 43,
-   "last_date": "2026-10-28"
+   "rating": 1473.4,
+   "w": 44,
+   "l": 49,
+   "last_date": "2026-10-30"
   },
   "Bigetron by Vitality": {
    "rating": 1624.8,
@@ -170,10 +170,10 @@
    "last_date": "2026-10-09"
   },
   "Galaxy Legends": {
-   "rating": 1494.4,
-   "w": 48,
-   "l": 35,
-   "last_date": "2026-10-24"
+   "rating": 1490.7,
+   "w": 49,
+   "l": 37,
+   "last_date": "2026-10-30"
   },
   "Galaxy Phoenix FE": {
    "rating": 1373.1,
@@ -368,10 +368,10 @@
    "last_date": "2026-10-25"
   },
   "Selangor Red Giants": {
-   "rating": 1645.4,
-   "w": 94,
+   "rating": 1670.2,
+   "w": 97,
    "l": 50,
-   "last_date": "2026-10-17"
+   "last_date": "2026-10-29"
   },
   "Suplex Team": {
    "rating": 1314.0,
@@ -440,10 +440,10 @@
    "last_date": "2026-10-24"
   },
   "Team RVZ": {
-   "rating": 1559.6,
-   "w": 11,
-   "l": 5,
-   "last_date": "2026-10-25"
+   "rating": 1563.2,
+   "w": 13,
+   "l": 6,
+   "last_date": "2026-10-30"
   },
   "Team Rey": {
    "rating": 1616.0,
@@ -470,10 +470,10 @@
    "last_date": "2026-09-08"
   },
   "Team Vamos": {
-   "rating": 1551.0,
-   "w": 105,
-   "l": 84,
-   "last_date": "2026-10-29"
+   "rating": 1563.8,
+   "w": 108,
+   "l": 85,
+   "last_date": "2026-10-30"
   },
   "Team Vitality": {
    "rating": 1589.4,

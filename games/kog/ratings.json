@@ -1,8 +1,8 @@
 {
  "game": "kog",
- "updated": "2026-10-29",
- "last_match_date": "2026-10-28",
- "source_matches": 8880,
+ "updated": "2026-10-30",
+ "last_match_date": "2026-10-29",
+ "source_matches": 8887,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 72,
@@ -200,10 +200,10 @@
    "last_date": "2026-09-07"
   },
   "Kuaishou Gaming": {
-   "rating": 1721.7,
-   "w": 254,
-   "l": 194,
-   "last_date": "2026-10-18"
+   "rating": 1686.5,
+   "w": 257,
+   "l": 198,
+   "last_date": "2026-10-29"
   },
   "LGD NBW": {
    "rating": 1652.9,
@@ -410,10 +410,10 @@
    "last_date": "2026-09-15"
   },
   "Weibo Gaming": {
-   "rating": 1660.1,
-   "w": 264,
-   "l": 196,
-   "last_date": "2026-10-17"
+   "rating": 1695.3,
+   "w": 268,
+   "l": 199,
+   "last_date": "2026-10-29"
   },
   "Wolves": {
    "rating": 1672.3,
