@@ -1,8 +1,8 @@
 {
  "game": "valorant",
- "updated": "2026-10-30",
- "last_match_date": "2026-10-29",
- "source_matches": 10233,
+ "updated": "2026-10-31",
+ "last_match_date": "2026-10-30",
+ "source_matches": 10244,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 219,
@@ -44,10 +44,10 @@
    "last_date": "2026-08-18"
   },
   "A Team": {
-   "rating": 1394.6,
-   "w": 4,
-   "l": 8,
-   "last_date": "2026-10-28"
+   "rating": 1393.6,
+   "w": 5,
+   "l": 10,
+   "last_date": "2026-10-30"
   },
   "AB3 Esports": {
    "rating": 1325.2,
@@ -122,10 +122,10 @@
    "last_date": "2026-06-02"
   },
   "Any Questions Gaming": {
-   "rating": 1552.3,
-   "w": 25,
-   "l": 23,
-   "last_date": "2026-10-28"
+   "rating": 1557.5,
+   "w": 27,
+   "l": 24,
+   "last_date": "2026-10-30"
   },
   "Asterisk": {
    "rating": 1515.9,
@@ -446,10 +446,10 @@
    "last_date": "2026-07-11"
   },
   "FunPlus Phoenix": {
-   "rating": 1501.3,
-   "w": 65,
-   "l": 65,
-   "last_date": "2026-10-23"
+   "rating": 1496.2,
+   "w": 66,
+   "l": 67,
+   "last_date": "2026-10-30"
   },
   "G2 Esports": {
    "rating": 1684.3,
@@ -512,10 +512,10 @@
    "last_date": "2026-08-12"
   },
   "Gentle Mates GC": {
-   "rating": 1726.3,
-   "w": 71,
-   "l": 29,
-   "last_date": "2026-10-27"
+   "rating": 1744.9,
+   "w": 73,
+   "l": 30,
+   "last_date": "2026-10-30"
   },
   "Ghools Esports": {
    "rating": 1503.7,
@@ -608,10 +608,10 @@
    "last_date": "2026-08-08"
   },
   "KRÜ Blaze": {
-   "rating": 1644.5,
-   "w": 66,
+   "rating": 1679.1,
+   "w": 68,
    "l": 45,
-   "last_date": "2026-10-28"
+   "last_date": "2026-10-30"
   },
   "KRÜ Esports": {
    "rating": 1494.0,
@@ -728,10 +728,10 @@
    "last_date": "2026-07-03"
   },
   "MIBR GC": {
-   "rating": 1745.8,
+   "rating": 1711.2,
    "w": 58,
-   "l": 30,
-   "last_date": "2026-10-28"
+   "l": 32,
+   "last_date": "2026-10-30"
   },
   "MIBR LOS": {
    "rating": 1535.2,
@@ -830,10 +830,10 @@
    "last_date": "2026-10-09"
   },
   "Nova Esports": {
-   "rating": 1523.9,
-   "w": 53,
-   "l": 56,
-   "last_date": "2026-10-25"
+   "rating": 1525.0,
+   "w": 55,
+   "l": 57,
+   "last_date": "2026-10-30"
   },
   "Nova Esports GC": {
    "rating": 1530.1,
@@ -1064,10 +1064,10 @@
    "last_date": "2026-07-30"
   },
   "Shopify Rebellion Gold": {
-   "rating": 1797.9,
-   "w": 73,
-   "l": 41,
-   "last_date": "2026-10-27"
+   "rating": 1779.3,
+   "w": 74,
+   "l": 43,
+   "last_date": "2026-10-30"
   },
   "So:sweet": {
    "rating": 1383.4,

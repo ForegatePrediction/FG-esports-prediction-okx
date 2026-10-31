@@ -1,8 +1,8 @@
 {
  "game": "kog",
- "updated": "2026-10-30",
- "last_match_date": "2026-10-29",
- "source_matches": 8887,
+ "updated": "2026-10-31",
+ "last_match_date": "2026-10-31",
+ "source_matches": 8899,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 72,
@@ -26,10 +26,10 @@
    "last_date": "2026-08-08"
   },
   "ANK Gaming": {
-   "rating": 1622.7,
-   "w": 98,
-   "l": 91,
-   "last_date": "2026-10-17"
+   "rating": 1636.9,
+   "w": 102,
+   "l": 93,
+   "last_date": "2026-10-31"
   },
   "Aurora Gaming": {
    "rating": 1533.1,
@@ -86,10 +86,10 @@
    "last_date": "2026-09-28"
   },
   "Deep Cross Gaming": {
-   "rating": 1617.6,
-   "w": 119,
-   "l": 101,
-   "last_date": "2026-10-18"
+   "rating": 1603.4,
+   "w": 121,
+   "l": 105,
+   "last_date": "2026-10-31"
   },
   "Douyu Gaming": {
    "rating": 1429.4,
@@ -104,10 +104,10 @@
    "last_date": "2026-07-23"
   },
   "EDward Gaming": {
-   "rating": 1774.4,
-   "w": 180,
-   "l": 197,
-   "last_date": "2026-10-18"
+   "rating": 1767.4,
+   "w": 184,
+   "l": 199,
+   "last_date": "2026-10-30"
   },
   "FPT Polytechnic": {
    "rating": 1719.5,
@@ -206,10 +206,10 @@
    "last_date": "2026-10-29"
   },
   "LGD NBW": {
-   "rating": 1652.9,
-   "w": 207,
-   "l": 209,
-   "last_date": "2026-10-22"
+   "rating": 1659.9,
+   "w": 209,
+   "l": 213,
+   "last_date": "2026-10-30"
   },
   "LT Gaming": {
    "rating": 1486.8,

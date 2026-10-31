@@ -1,17 +1,17 @@
 {
  "game": "mlbb",
- "updated": "2026-10-30",
- "last_match_date": "2026-10-30",
- "source_matches": 5299,
+ "updated": "2026-10-31",
+ "last_match_date": "2026-10-31",
+ "source_matches": 5310,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 94,
  "teams": {
   " Evil Eye Esports": {
-   "rating": 1395.7,
-   "w": 4,
-   "l": 12,
-   "last_date": "2026-10-30"
+   "rating": 1401.9,
+   "w": 5,
+   "l": 14,
+   "last_date": "2026-10-31"
   },
   " Vigor Apex": {
    "rating": 1635.5,
@@ -170,10 +170,10 @@
    "last_date": "2026-10-09"
   },
   "Galaxy Legends": {
-   "rating": 1490.7,
-   "w": 49,
+   "rating": 1520.4,
+   "w": 51,
    "l": 37,
-   "last_date": "2026-10-30"
+   "last_date": "2026-10-31"
   },
   "Galaxy Phoenix FE": {
    "rating": 1373.1,
@@ -368,10 +368,10 @@
    "last_date": "2026-10-25"
   },
   "Selangor Red Giants": {
-   "rating": 1670.2,
-   "w": 97,
+   "rating": 1703.0,
+   "w": 100,
    "l": 50,
-   "last_date": "2026-10-29"
+   "last_date": "2026-10-30"
   },
   "Suplex Team": {
    "rating": 1314.0,
@@ -386,10 +386,10 @@
    "last_date": "2026-10-21"
   },
   "TNR Esports": {
-   "rating": 1524.4,
-   "w": 10,
-   "l": 9,
-   "last_date": "2026-10-25"
+   "rating": 1507.8,
+   "w": 11,
+   "l": 11,
+   "last_date": "2026-10-30"
   },
   "Team EvilKing": {
    "rating": 1458.1,
@@ -440,16 +440,16 @@
    "last_date": "2026-10-24"
   },
   "Team RVZ": {
-   "rating": 1563.2,
-   "w": 13,
-   "l": 6,
-   "last_date": "2026-10-30"
+   "rating": 1557.0,
+   "w": 15,
+   "l": 7,
+   "last_date": "2026-10-31"
   },
   "Team Rey": {
-   "rating": 1616.0,
+   "rating": 1583.1,
    "w": 57,
-   "l": 59,
-   "last_date": "2026-10-29"
+   "l": 62,
+   "last_date": "2026-10-30"
   },
   "Team Spirit": {
    "rating": 1898.2,
@@ -542,10 +542,10 @@
    "last_date": "2026-10-16"
   },
   "Valhalla": {
-   "rating": 1510.3,
-   "w": 31,
-   "l": 38,
-   "last_date": "2026-10-23"
+   "rating": 1497.2,
+   "w": 33,
+   "l": 41,
+   "last_date": "2026-10-31"
   },
   "Verso Time": {
    "rating": 1842.8,
