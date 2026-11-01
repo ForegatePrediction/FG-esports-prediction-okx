@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-10-31",
- "last_match_date": "2026-10-30",
- "source_matches": 10244,
+ "updated": "2026-11-01",
+ "last_match_date": "2026-10-31",
+ "source_matches": 10262,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 219,
+ "n_teams": 215,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -48,12 +48,6 @@
    "w": 5,
    "l": 10,
    "last_date": "2026-10-30"
-  },
-  "AB3 Esports": {
-   "rating": 1325.2,
-   "w": 13,
-   "l": 36,
-   "last_date": "2026-06-02"
   },
   "AG.AL International": {
    "rating": 1537.2,
@@ -115,17 +109,11 @@
    "l": 27,
    "last_date": "2026-06-27"
   },
-  "Alter Ego": {
-   "rating": 1417.7,
-   "w": 6,
-   "l": 11,
-   "last_date": "2026-06-02"
-  },
   "Any Questions Gaming": {
-   "rating": 1557.5,
+   "rating": 1528.1,
    "w": 27,
-   "l": 24,
-   "last_date": "2026-10-30"
+   "l": 26,
+   "last_date": "2026-10-31"
   },
   "Asterisk": {
    "rating": 1515.9,
@@ -608,10 +596,10 @@
    "last_date": "2026-08-08"
   },
   "KRÜ Blaze": {
-   "rating": 1679.1,
-   "w": 68,
-   "l": 45,
-   "last_date": "2026-10-30"
+   "rating": 1720.9,
+   "w": 71,
+   "l": 46,
+   "last_date": "2026-10-31"
   },
   "KRÜ Esports": {
    "rating": 1494.0,
@@ -830,10 +818,10 @@
    "last_date": "2026-10-09"
   },
   "Nova Esports": {
-   "rating": 1525.0,
-   "w": 55,
+   "rating": 1554.3,
+   "w": 57,
    "l": 57,
-   "last_date": "2026-10-30"
+   "last_date": "2026-10-31"
   },
   "Nova Esports GC": {
    "rating": 1530.1,
@@ -955,12 +943,6 @@
    "l": 9,
    "last_date": "2026-08-11"
   },
-  "ROY Esports": {
-   "rating": 1310.6,
-   "w": 0,
-   "l": 10,
-   "last_date": "2026-06-02"
-  },
   "Rare Atom": {
    "rating": 1506.9,
    "w": 8,
@@ -1064,10 +1046,10 @@
    "last_date": "2026-07-30"
   },
   "Shopify Rebellion Gold": {
-   "rating": 1779.3,
-   "w": 74,
-   "l": 43,
-   "last_date": "2026-10-30"
+   "rating": 1737.5,
+   "w": 75,
+   "l": 46,
+   "last_date": "2026-10-31"
   },
   "So:sweet": {
    "rating": 1383.4,
@@ -1220,10 +1202,10 @@
    "last_date": "2026-07-05"
   },
   "Unsettled Resentment": {
-   "rating": 1471.9,
-   "w": 10,
-   "l": 12,
-   "last_date": "2026-10-29"
+   "rating": 1483.3,
+   "w": 12,
+   "l": 13,
+   "last_date": "2026-10-31"
   },
   "Ushiras": {
    "rating": 1496.1,
@@ -1244,10 +1226,10 @@
    "last_date": "2026-10-27"
   },
   "World Sports Invictus Gaming": {
-   "rating": 1477.5,
-   "w": 4,
-   "l": 5,
-   "last_date": "2026-10-29"
+   "rating": 1466.2,
+   "w": 5,
+   "l": 7,
+   "last_date": "2026-10-31"
   },
   "X-CAST": {
    "rating": 1418.8,
@@ -1272,12 +1254,6 @@
    "w": 5,
    "l": 16,
    "last_date": "2026-06-05"
-  },
-  "YFP Gaming": {
-   "rating": 1540.4,
-   "w": 30,
-   "l": 29,
-   "last_date": "2026-06-02"
   },
   "YFT Esports": {
    "rating": 1498.7,

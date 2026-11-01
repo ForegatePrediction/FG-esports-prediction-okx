@@ -1,23 +1,23 @@
 {
  "game": "mlbb",
- "updated": "2026-10-31",
- "last_match_date": "2026-10-31",
- "source_matches": 5310,
+ "updated": "2026-11-01",
+ "last_match_date": "2026-11-01",
+ "source_matches": 5332,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 94,
  "teams": {
   " Evil Eye Esports": {
-   "rating": 1401.9,
-   "w": 5,
+   "rating": 1426.6,
+   "w": 7,
    "l": 14,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-01"
   },
   " Vigor Apex": {
-   "rating": 1635.5,
-   "w": 16,
+   "rating": 1645.1,
+   "w": 18,
    "l": 4,
-   "last_date": "2026-10-30"
+   "last_date": "2026-10-31"
   },
   "AC Esports": {
    "rating": 1436.8,
@@ -56,10 +56,10 @@
    "last_date": "2026-06-18"
   },
   "Aurevia Team": {
-   "rating": 1685.7,
-   "w": 23,
-   "l": 13,
-   "last_date": "2026-10-11"
+   "rating": 1670.1,
+   "w": 26,
+   "l": 19,
+   "last_date": "2026-10-31"
   },
   "Aurora Gaming": {
    "rating": 1708.1,
@@ -176,10 +176,10 @@
    "last_date": "2026-10-31"
   },
   "Galaxy Phoenix FE": {
-   "rating": 1373.1,
+   "rating": 1348.4,
    "w": 8,
-   "l": 21,
-   "last_date": "2026-10-24"
+   "l": 23,
+   "last_date": "2026-11-01"
   },
   "Geek Fam ID": {
    "rating": 1480.8,
@@ -362,10 +362,10 @@
    "last_date": "2026-10-11"
   },
   "See You Soon": {
-   "rating": 1366.8,
+   "rating": 1357.2,
    "w": 23,
-   "l": 44,
-   "last_date": "2026-10-25"
+   "l": 46,
+   "last_date": "2026-10-31"
   },
   "Selangor Red Giants": {
    "rating": 1703.0,
@@ -386,10 +386,10 @@
    "last_date": "2026-10-21"
   },
   "TNR Esports": {
-   "rating": 1507.8,
-   "w": 11,
-   "l": 11,
-   "last_date": "2026-10-30"
+   "rating": 1517.0,
+   "w": 13,
+   "l": 12,
+   "last_date": "2026-11-01"
   },
   "Team EvilKing": {
    "rating": 1458.1,
@@ -416,10 +416,10 @@
    "last_date": "2026-10-28"
   },
   "Team Flash KH": {
-   "rating": 1494.4,
-   "w": 25,
-   "l": 34,
-   "last_date": "2026-10-25"
+   "rating": 1485.1,
+   "w": 26,
+   "l": 36,
+   "last_date": "2026-11-01"
   },
   "Team GEASS": {
    "rating": 1562.9,
@@ -446,16 +446,16 @@
    "last_date": "2026-10-31"
   },
   "Team Rey": {
-   "rating": 1583.1,
-   "w": 57,
-   "l": 62,
-   "last_date": "2026-10-30"
+   "rating": 1594.7,
+   "w": 61,
+   "l": 64,
+   "last_date": "2026-10-31"
   },
   "Team Spirit": {
-   "rating": 1898.2,
-   "w": 285,
+   "rating": 1922.5,
+   "w": 289,
    "l": 95,
-   "last_date": "2026-10-11"
+   "last_date": "2026-10-31"
   },
   "Team Spirit Academy White": {
    "rating": 1502.1,
@@ -470,10 +470,10 @@
    "last_date": "2026-09-08"
   },
   "Team Vamos": {
-   "rating": 1563.8,
-   "w": 108,
-   "l": 85,
-   "last_date": "2026-10-30"
+   "rating": 1552.3,
+   "w": 110,
+   "l": 89,
+   "last_date": "2026-10-31"
   },
   "Team Vitality": {
    "rating": 1589.4,
@@ -494,10 +494,10 @@
    "last_date": "2026-09-09"
   },
   "Team Yandex": {
-   "rating": 1702.2,
-   "w": 73,
-   "l": 56,
-   "last_date": "2026-10-11"
+   "rating": 1693.5,
+   "w": 75,
+   "l": 59,
+   "last_date": "2026-10-31"
   },
   "Tenacity": {
    "rating": 1569.3,
