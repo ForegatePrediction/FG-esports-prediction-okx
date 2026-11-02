@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-11-01",
- "last_match_date": "2026-10-31",
- "source_matches": 10262,
+ "updated": "2026-11-02",
+ "last_match_date": "2026-11-01",
+ "source_matches": 10278,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 215,
+ "n_teams": 217,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -500,22 +500,16 @@
    "last_date": "2026-08-12"
   },
   "Gentle Mates GC": {
-   "rating": 1744.9,
-   "w": 73,
-   "l": 30,
-   "last_date": "2026-10-30"
+   "rating": 1723.0,
+   "w": 75,
+   "l": 33,
+   "last_date": "2026-11-01"
   },
   "Ghools Esports": {
    "rating": 1503.7,
    "w": 29,
    "l": 26,
    "last_date": "2026-07-08"
-  },
-  "Ghost Gaming GC": {
-   "rating": 1521.5,
-   "w": 26,
-   "l": 28,
-   "last_date": "2026-06-03"
   },
   "Glacial Guardians": {
    "rating": 1515.4,
@@ -596,10 +590,10 @@
    "last_date": "2026-08-08"
   },
   "KRÜ Blaze": {
-   "rating": 1720.9,
-   "w": 71,
-   "l": 46,
-   "last_date": "2026-10-31"
+   "rating": 1742.8,
+   "w": 74,
+   "l": 48,
+   "last_date": "2026-11-01"
   },
   "KRÜ Esports": {
    "rating": 1494.0,
@@ -818,10 +812,10 @@
    "last_date": "2026-10-09"
   },
   "Nova Esports": {
-   "rating": 1554.3,
-   "w": 57,
+   "rating": 1585.4,
+   "w": 60,
    "l": 57,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-01"
   },
   "Nova Esports GC": {
    "rating": 1530.1,
@@ -1117,6 +1111,12 @@
    "l": 14,
    "last_date": "2026-09-19"
   },
+  "Team GPK": {
+   "rating": 1584.4,
+   "w": 7,
+   "l": 2,
+   "last_date": "2026-11-01"
+  },
   "Team Heretics": {
    "rating": 1598.0,
    "w": 71,
@@ -1141,6 +1141,12 @@
    "l": 27,
    "last_date": "2026-10-28"
   },
+  "Team Samuraj": {
+   "rating": 1513.7,
+   "w": 6,
+   "l": 7,
+   "last_date": "2026-11-01"
+  },
   "Team Secret": {
    "rating": 1388.5,
    "w": 21,
@@ -1158,6 +1164,12 @@
    "w": 79,
    "l": 56,
    "last_date": "2026-10-18"
+  },
+  "Team relaxcis": {
+   "rating": 1495.4,
+   "w": 4,
+   "l": 4,
+   "last_date": "2026-11-01"
   },
   "The Spiders": {
    "rating": 1578.9,
@@ -1202,10 +1214,10 @@
    "last_date": "2026-07-05"
   },
   "Unsettled Resentment": {
-   "rating": 1483.3,
+   "rating": 1452.2,
    "w": 12,
-   "l": 13,
-   "last_date": "2026-10-31"
+   "l": 16,
+   "last_date": "2026-11-01"
   },
   "Ushiras": {
    "rating": 1496.1,

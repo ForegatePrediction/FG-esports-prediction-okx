@@ -1,8 +1,8 @@
 {
  "game": "mlbb",
- "updated": "2026-11-01",
+ "updated": "2026-11-02",
  "last_match_date": "2026-11-01",
- "source_matches": 5332,
+ "source_matches": 5342,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 94,
@@ -320,10 +320,10 @@
    "last_date": "2026-10-04"
   },
   "PRO Esports": {
-   "rating": 1590.4,
-   "w": 47,
-   "l": 43,
-   "last_date": "2026-10-25"
+   "rating": 1571.7,
+   "w": 48,
+   "l": 45,
+   "last_date": "2026-11-01"
   },
   "RRQ Hoshi": {
    "rating": 1463.5,
@@ -368,10 +368,10 @@
    "last_date": "2026-10-31"
   },
   "Selangor Red Giants": {
-   "rating": 1703.0,
-   "w": 100,
-   "l": 50,
-   "last_date": "2026-10-30"
+   "rating": 1680.4,
+   "w": 104,
+   "l": 53,
+   "last_date": "2026-11-01"
   },
   "Suplex Team": {
    "rating": 1314.0,
@@ -440,16 +440,16 @@
    "last_date": "2026-10-24"
   },
   "Team RVZ": {
-   "rating": 1557.0,
-   "w": 15,
-   "l": 7,
-   "last_date": "2026-10-31"
+   "rating": 1575.7,
+   "w": 17,
+   "l": 8,
+   "last_date": "2026-11-01"
   },
   "Team Rey": {
-   "rating": 1594.7,
-   "w": 61,
-   "l": 64,
-   "last_date": "2026-10-31"
+   "rating": 1617.3,
+   "w": 64,
+   "l": 68,
+   "last_date": "2026-11-01"
   },
   "Team Spirit": {
    "rating": 1922.5,

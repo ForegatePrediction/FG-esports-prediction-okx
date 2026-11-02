@@ -1,8 +1,8 @@
 {
  "game": "kog",
- "updated": "2026-11-01",
- "last_match_date": "2026-10-31",
- "source_matches": 8904,
+ "updated": "2026-11-02",
+ "last_match_date": "2026-11-01",
+ "source_matches": 8911,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 72,
@@ -200,16 +200,16 @@
    "last_date": "2026-09-07"
   },
   "Kuaishou Gaming": {
-   "rating": 1686.5,
-   "w": 257,
-   "l": 198,
-   "last_date": "2026-10-29"
+   "rating": 1658.8,
+   "w": 260,
+   "l": 202,
+   "last_date": "2026-11-01"
   },
   "LGD NBW": {
-   "rating": 1659.9,
-   "w": 209,
-   "l": 213,
-   "last_date": "2026-10-30"
+   "rating": 1687.6,
+   "w": 213,
+   "l": 216,
+   "last_date": "2026-11-01"
   },
   "LT Gaming": {
    "rating": 1486.8,

@@ -1,11 +1,11 @@
 {
  "game": "dota2",
- "updated": "2026-11-01",
- "last_match_date": "2026-10-31",
- "source_matches": 16509,
+ "updated": "2026-11-02",
+ "last_match_date": "2026-11-02",
+ "source_matches": 16525,
  "scale": 400,
  "shrink": 0.7,
- "n_teams": 189,
+ "n_teams": 188,
  "teams": {
   " Pipsqueak+4": {
    "rating": 1661.4,
@@ -212,10 +212,10 @@
    "last_date": "2026-10-03"
   },
   "Direborn": {
-   "rating": 1607.8,
-   "w": 65,
+   "rating": 1632.7,
+   "w": 67,
    "l": 47,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-02"
   },
   "Ecuador": {
    "rating": 1595.8,
@@ -680,10 +680,10 @@
    "last_date": "2026-10-29"
   },
   "Royal Bear": {
-   "rating": 1772.6,
-   "w": 24,
+   "rating": 1786.2,
+   "w": 26,
    "l": 1,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-01"
   },
   "Rune Eaters": {
    "rating": 1664.2,
@@ -692,10 +692,10 @@
    "last_date": "2026-08-12"
   },
   "SOLID": {
-   "rating": 1558.6,
+   "rating": 1532.1,
    "w": 6,
-   "l": 3,
-   "last_date": "2026-10-31"
+   "l": 6,
+   "last_date": "2026-11-01"
   },
   "Sadboys": {
    "rating": 1448.1,
@@ -818,10 +818,10 @@
    "last_date": "2026-08-08"
   },
   "Team Kinetix": {
-   "rating": 1379.9,
+   "rating": 1366.2,
    "w": 21,
-   "l": 37,
-   "last_date": "2026-10-31"
+   "l": 39,
+   "last_date": "2026-11-02"
   },
   "Team Liquid": {
    "rating": 1856.7,
@@ -860,16 +860,16 @@
    "last_date": "2026-10-17"
   },
   "Team Spirit": {
-   "rating": 1999.1,
-   "w": 318,
+   "rating": 2045.2,
+   "w": 321,
    "l": 181,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-01"
   },
   "Team Synapse": {
-   "rating": 1674.8,
-   "w": 59,
+   "rating": 1721.0,
+   "w": 64,
    "l": 34,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-01"
   },
   "Team Syntax": {
    "rating": 1423.2,
@@ -884,10 +884,10 @@
    "last_date": "2026-10-17"
   },
   "Team Yandex": {
-   "rating": 2065.3,
+   "rating": 2019.3,
    "w": 228,
-   "l": 132,
-   "last_date": "2026-10-31"
+   "l": 135,
+   "last_date": "2026-11-01"
   },
   "TeamDk": {
    "rating": 1497.9,
@@ -992,10 +992,10 @@
    "last_date": "2026-06-18"
   },
   "Xipto Esports": {
-   "rating": 1637.5,
+   "rating": 1603.8,
    "w": 30,
-   "l": 13,
-   "last_date": "2026-10-31"
+   "l": 15,
+   "last_date": "2026-11-01"
   },
   "Xtreme Gaming": {
    "rating": 1798.8,
@@ -1034,10 +1034,10 @@
    "last_date": "2026-10-24"
   },
   "Zenith": {
-   "rating": 1582.7,
-   "w": 16,
-   "l": 9,
-   "last_date": "2026-10-31"
+   "rating": 1557.8,
+   "w": 18,
+   "l": 13,
+   "last_date": "2026-11-02"
   },
   "Zero Tenacity": {
    "rating": 1587.4,
@@ -1056,12 +1056,6 @@
    "w": 14,
    "l": 15,
    "last_date": "2026-09-27"
-  },
-  "by Owl Club": {
-   "rating": 1494.6,
-   "w": 6,
-   "l": 7,
-   "last_date": "2026-06-03"
   },
   "by Owl Team": {
    "rating": 1484.2,
@@ -1088,10 +1082,10 @@
    "last_date": "2026-10-31"
   },
   "potn9ki": {
-   "rating": 1547.9,
-   "w": 6,
+   "rating": 1581.6,
+   "w": 8,
    "l": 6,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-01"
   },
   "salamit": {
    "rating": 1468.4,
