@@ -1,8 +1,8 @@
 {
  "game": "mlbb",
- "updated": "2026-11-02",
- "last_match_date": "2026-11-01",
- "source_matches": 5342,
+ "updated": "2026-11-03",
+ "last_match_date": "2026-11-02",
+ "source_matches": 5350,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 94,
@@ -50,10 +50,10 @@
    "last_date": "2026-06-16"
   },
   "Aura Farmers": {
-   "rating": 1390.3,
+   "rating": 1382.1,
    "w": 16,
-   "l": 57,
-   "last_date": "2026-06-18"
+   "l": 59,
+   "last_date": "2026-11-02"
   },
   "Aurevia Team": {
    "rating": 1670.1,
@@ -104,16 +104,16 @@
    "last_date": "2026-09-29"
   },
   "Cyber Hero": {
-   "rating": 1448.5,
-   "w": 144,
+   "rating": 1473.9,
+   "w": 146,
    "l": 154,
-   "last_date": "2026-10-09"
+   "last_date": "2026-11-02"
   },
   "Dark Phoenix": {
-   "rating": 1402.7,
+   "rating": 1387.0,
    "w": 17,
-   "l": 32,
-   "last_date": "2026-06-15"
+   "l": 34,
+   "last_date": "2026-11-02"
   },
   "Dewa United Esports": {
    "rating": 1467.7,
@@ -146,10 +146,10 @@
    "last_date": "2026-06-21"
   },
   "FUT Esports": {
-   "rating": 1558.4,
-   "w": 8,
+   "rating": 1574.1,
+   "w": 10,
    "l": 8,
-   "last_date": "2026-08-07"
+   "last_date": "2026-11-02"
   },
   "Falcons Vega": {
    "rating": 1536.5,
@@ -206,10 +206,10 @@
    "last_date": "2026-07-26"
   },
   "HARD GRIND": {
-   "rating": 1470.6,
+   "rating": 1446.3,
    "w": 19,
-   "l": 16,
-   "last_date": "2026-06-16"
+   "l": 18,
+   "last_date": "2026-11-02"
   },
   "Hydra Esports": {
    "rating": 1257.4,
@@ -494,10 +494,10 @@
    "last_date": "2026-09-09"
   },
   "Team Yandex": {
-   "rating": 1693.5,
-   "w": 75,
+   "rating": 1701.7,
+   "w": 77,
    "l": 59,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-02"
   },
   "Tenacity": {
    "rating": 1569.3,

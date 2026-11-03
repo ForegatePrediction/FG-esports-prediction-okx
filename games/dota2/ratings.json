@@ -1,11 +1,11 @@
 {
  "game": "dota2",
- "updated": "2026-11-02",
- "last_match_date": "2026-11-02",
- "source_matches": 16525,
+ "updated": "2026-11-03",
+ "last_match_date": "2026-11-03",
+ "source_matches": 16545,
  "scale": 400,
  "shrink": 0.7,
- "n_teams": 188,
+ "n_teams": 190,
  "teams": {
   " Pipsqueak+4": {
    "rating": 1661.4,
@@ -151,6 +151,12 @@
    "l": 7,
    "last_date": "2026-09-18"
   },
+  "Cooman Team": {
+   "rating": 1524.1,
+   "w": 16,
+   "l": 14,
+   "last_date": "2026-11-02"
+  },
   "Costa Rica": {
    "rating": 1525.7,
    "w": 5,
@@ -170,10 +176,10 @@
    "last_date": "2026-07-01"
   },
   "CyberHero": {
-   "rating": 1636.8,
+   "rating": 1621.9,
    "w": 22,
-   "l": 16,
-   "last_date": "2026-10-25"
+   "l": 18,
+   "last_date": "2026-11-02"
   },
   "D family": {
    "rating": 1378.8,
@@ -206,16 +212,16 @@
    "last_date": "2026-09-19"
   },
   "Daxak Team": {
-   "rating": 1584.9,
+   "rating": 1552.0,
    "w": 19,
-   "l": 12,
-   "last_date": "2026-10-03"
+   "l": 14,
+   "last_date": "2026-11-02"
   },
   "Direborn": {
-   "rating": 1632.7,
-   "w": 67,
+   "rating": 1653.2,
+   "w": 69,
    "l": 47,
-   "last_date": "2026-11-02"
+   "last_date": "2026-11-03"
   },
   "Ecuador": {
    "rating": 1595.8,
@@ -278,10 +284,10 @@
    "last_date": "2026-06-17"
   },
   "GamerLegion": {
-   "rating": 1804.6,
-   "w": 119,
+   "rating": 1819.5,
+   "w": 121,
    "l": 120,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-02"
   },
   "Gior Dota Team": {
    "rating": 1449.1,
@@ -314,10 +320,10 @@
    "last_date": "2026-06-23"
   },
   "HULIGANI": {
-   "rating": 1671.5,
-   "w": 31,
+   "rating": 1697.3,
+   "w": 33,
    "l": 31,
-   "last_date": "2026-10-23"
+   "last_date": "2026-11-02"
   },
   "Habibis": {
    "rating": 1375.7,
@@ -422,10 +428,10 @@
    "last_date": "2026-08-01"
   },
   "LEGION": {
-   "rating": 1658.2,
+   "rating": 1632.3,
    "w": 18,
-   "l": 17,
-   "last_date": "2026-10-29"
+   "l": 19,
+   "last_date": "2026-11-02"
   },
   "LFO": {
    "rating": 1491.7,
@@ -444,6 +450,12 @@
    "w": 6,
    "l": 5,
    "last_date": "2026-07-01"
+  },
+  "LenS Team": {
+   "rating": 1459.1,
+   "w": 4,
+   "l": 8,
+   "last_date": "2026-11-02"
   },
   "Level UP": {
    "rating": 1622.6,
@@ -518,16 +530,16 @@
    "last_date": "2026-09-24"
   },
   "Natus Vincere": {
-   "rating": 1840.0,
-   "w": 236,
+   "rating": 1850.3,
+   "w": 238,
    "l": 171,
-   "last_date": "2026-09-30"
+   "last_date": "2026-11-02"
   },
   "Nemiga Gaming": {
-   "rating": 1587.3,
+   "rating": 1576.9,
    "w": 220,
-   "l": 271,
-   "last_date": "2026-10-25"
+   "l": 273,
+   "last_date": "2026-11-02"
   },
   "New Growth": {
    "rating": 1488.6,
@@ -554,10 +566,10 @@
    "last_date": "2026-10-27"
   },
   "OG": {
-   "rating": 1776.0,
+   "rating": 1747.8,
    "w": 178,
-   "l": 223,
-   "last_date": "2026-10-30"
+   "l": 225,
+   "last_date": "2026-11-02"
   },
   "PARIVISION": {
    "rating": 1996.7,
@@ -674,16 +686,16 @@
    "last_date": "2026-09-17"
   },
   "Rottweilas Latam": {
-   "rating": 1533.0,
+   "rating": 1501.2,
    "w": 23,
-   "l": 20,
-   "last_date": "2026-10-29"
+   "l": 22,
+   "last_date": "2026-11-02"
   },
   "Royal Bear": {
-   "rating": 1786.2,
-   "w": 26,
+   "rating": 1797.7,
+   "w": 28,
    "l": 1,
-   "last_date": "2026-11-01"
+   "last_date": "2026-11-03"
   },
   "Rune Eaters": {
    "rating": 1664.2,
@@ -764,10 +776,10 @@
    "last_date": "2026-09-18"
   },
   "Stray Team": {
-   "rating": 1467.9,
+   "rating": 1438.0,
    "w": 53,
-   "l": 51,
-   "last_date": "2026-10-17"
+   "l": 53,
+   "last_date": "2026-11-02"
   },
   "Switzerland": {
    "rating": 1491.6,
@@ -1022,22 +1034,22 @@
    "last_date": "2026-10-17"
   },
   "Yangon Galacticos": {
-   "rating": 1547.0,
+   "rating": 1526.6,
    "w": 253,
-   "l": 247,
-   "last_date": "2026-10-30"
+   "l": 249,
+   "last_date": "2026-11-03"
   },
   "Yellow Submarine": {
-   "rating": 1758.5,
-   "w": 288,
+   "rating": 1786.7,
+   "w": 290,
    "l": 228,
-   "last_date": "2026-10-24"
+   "last_date": "2026-11-02"
   },
   "Zenith": {
-   "rating": 1557.8,
+   "rating": 1546.2,
    "w": 18,
-   "l": 13,
-   "last_date": "2026-11-02"
+   "l": 15,
+   "last_date": "2026-11-03"
   },
   "Zero Tenacity": {
    "rating": 1587.4,
@@ -1076,10 +1088,10 @@
    "last_date": "2026-09-25"
   },
   "old blood": {
-   "rating": 1469.2,
-   "w": 3,
+   "rating": 1501.0,
+   "w": 5,
    "l": 5,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-02"
   },
   "potn9ki": {
    "rating": 1581.6,
