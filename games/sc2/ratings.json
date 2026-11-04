@@ -1,8 +1,8 @@
 {
  "game": "sc2",
- "updated": "2026-11-03",
- "last_match_date": "2026-10-29",
- "source_matches": 5206,
+ "updated": "2026-11-04",
+ "last_match_date": "2026-11-03",
+ "source_matches": 5222,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 57,
@@ -26,10 +26,10 @@
    "last_date": "2026-10-27"
   },
   "ByuN": {
-   "rating": 1631.2,
-   "w": 209,
-   "l": 256,
-   "last_date": "2026-10-27"
+   "rating": 1637.1,
+   "w": 212,
+   "l": 258,
+   "last_date": "2026-11-03"
   },
   "Cellsidus": {
    "rating": 1354.9,
@@ -38,10 +38,10 @@
    "last_date": "2026-07-04"
   },
   "Classic": {
-   "rating": 1637.1,
-   "w": 287,
-   "l": 225,
-   "last_date": "2026-10-29"
+   "rating": 1624.9,
+   "w": 292,
+   "l": 229,
+   "last_date": "2026-11-03"
   },
   "Clem": {
    "rating": 1773.7,
@@ -80,10 +80,10 @@
    "last_date": "2026-07-04"
   },
   "GgMaChine": {
-   "rating": 1466.0,
+   "rating": 1451.2,
    "w": 6,
-   "l": 16,
-   "last_date": "2026-09-25"
+   "l": 19,
+   "last_date": "2026-11-03"
   },
   "Goblin": {
    "rating": 1471.9,
@@ -176,10 +176,10 @@
    "last_date": "2026-07-12"
   },
   "MaxPax": {
-   "rating": 1724.6,
-   "w": 239,
-   "l": 154,
-   "last_date": "2026-10-27"
+   "rating": 1760.5,
+   "w": 245,
+   "l": 155,
+   "last_date": "2026-11-03"
   },
   "Mixu": {
    "rating": 1381.0,
@@ -224,10 +224,10 @@
    "last_date": "2026-10-22"
   },
   "Rogue": {
-   "rating": 1692.5,
-   "w": 213,
-   "l": 210,
-   "last_date": "2026-10-22"
+   "rating": 1671.3,
+   "w": 214,
+   "l": 213,
+   "last_date": "2026-11-03"
   },
   "SHIN": {
    "rating": 1818.3,
@@ -338,10 +338,10 @@
    "last_date": "2026-09-05"
   },
   "uThermal": {
-   "rating": 1405.5,
-   "w": 34,
-   "l": 44,
-   "last_date": "2026-07-04"
+   "rating": 1411.9,
+   "w": 35,
+   "l": 47,
+   "last_date": "2026-11-03"
   },
   "youngYakov": {
    "rating": 1506.6,

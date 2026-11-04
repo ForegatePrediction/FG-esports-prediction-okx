@@ -1,8 +1,8 @@
 {
  "game": "kog",
- "updated": "2026-11-03",
- "last_match_date": "2026-11-02",
- "source_matches": 8915,
+ "updated": "2026-11-04",
+ "last_match_date": "2026-11-03",
+ "source_matches": 8921,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 72,
@@ -104,10 +104,10 @@
    "last_date": "2026-07-23"
   },
   "EDward Gaming": {
-   "rating": 1767.4,
-   "w": 184,
-   "l": 199,
-   "last_date": "2026-10-30"
+   "rating": 1738.1,
+   "w": 186,
+   "l": 203,
+   "last_date": "2026-11-03"
   },
   "FPT Polytechnic": {
    "rating": 1719.5,
@@ -410,10 +410,10 @@
    "last_date": "2026-09-15"
   },
   "Weibo Gaming": {
-   "rating": 1695.3,
-   "w": 268,
-   "l": 199,
-   "last_date": "2026-10-29"
+   "rating": 1724.6,
+   "w": 272,
+   "l": 201,
+   "last_date": "2026-11-03"
   },
   "Wolves": {
    "rating": 1639.8,

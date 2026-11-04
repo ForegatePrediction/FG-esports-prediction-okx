@@ -1,11 +1,11 @@
 {
  "game": "r6",
- "updated": "2026-11-03",
- "last_match_date": "2026-10-25",
- "source_matches": 3814,
+ "updated": "2026-11-04",
+ "last_match_date": "2026-11-03",
+ "source_matches": 3818,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 73,
+ "n_teams": 74,
  "teams": {
   " Dolphin Esport": {
    "rating": 1398.1,
@@ -318,6 +318,12 @@
    "w": 6,
    "l": 33,
    "last_date": "2026-10-04"
+  },
+  "Pannuhuone": {
+   "rating": 1463.2,
+   "w": 12,
+   "l": 17,
+   "last_date": "2026-11-03"
   },
   "RRX": {
    "rating": 1407.4,

@@ -1,8 +1,8 @@
 {
  "game": "mlbb",
- "updated": "2026-11-03",
- "last_match_date": "2026-11-02",
- "source_matches": 5350,
+ "updated": "2026-11-04",
+ "last_match_date": "2026-11-04",
+ "source_matches": 5364,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 94,
@@ -38,10 +38,10 @@
    "last_date": "2026-08-05"
   },
   "Alter Ego": {
-   "rating": 1598.3,
-   "w": 126,
-   "l": 112,
-   "last_date": "2026-10-18"
+   "rating": 1616.1,
+   "w": 129,
+   "l": 113,
+   "last_date": "2026-11-04"
   },
   "Aterion Esports": {
    "rating": 1478.1,
@@ -56,10 +56,10 @@
    "last_date": "2026-11-02"
   },
   "Aurevia Team": {
-   "rating": 1670.1,
-   "w": 26,
+   "rating": 1684.8,
+   "w": 28,
    "l": 19,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-03"
   },
   "Aurora Gaming": {
    "rating": 1708.1,
@@ -296,10 +296,10 @@
    "last_date": "2026-07-03"
   },
   "ONIC": {
-   "rating": 1570.3,
-   "w": 202,
-   "l": 122,
-   "last_date": "2026-10-18"
+   "rating": 1552.6,
+   "w": 203,
+   "l": 125,
+   "last_date": "2026-11-04"
   },
   "ONIC PH": {
    "rating": 1552.0,
@@ -314,10 +314,10 @@
    "last_date": "2026-10-21"
   },
   "Omnix": {
-   "rating": 1427.7,
-   "w": 27,
+   "rating": 1459.6,
+   "w": 29,
    "l": 32,
-   "last_date": "2026-10-04"
+   "last_date": "2026-11-03"
   },
   "PRO Esports": {
    "rating": 1571.7,
@@ -338,10 +338,10 @@
    "last_date": "2026-10-18"
   },
   "Rakuzan": {
-   "rating": 1528.2,
-   "w": 17,
-   "l": 18,
-   "last_date": "2026-10-11"
+   "rating": 1509.4,
+   "w": 18,
+   "l": 20,
+   "last_date": "2026-11-03"
   },
   "Rune Eaters Esports": {
    "rating": 1415.3,
@@ -518,16 +518,16 @@
    "last_date": "2026-08-05"
   },
   "The Soulless Team": {
-   "rating": 1449.2,
-   "w": 18,
-   "l": 17,
-   "last_date": "2026-06-16"
+   "rating": 1439.3,
+   "w": 19,
+   "l": 19,
+   "last_date": "2026-11-03"
   },
   "The World": {
-   "rating": 1494.2,
-   "w": 22,
-   "l": 23,
-   "last_date": "2026-06-05"
+   "rating": 1513.0,
+   "w": 24,
+   "l": 24,
+   "last_date": "2026-11-03"
   },
   "Twisted Minds PH": {
    "rating": 1331.0,
