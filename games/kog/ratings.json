@@ -1,8 +1,8 @@
 {
  "game": "kog",
- "updated": "2026-11-04",
- "last_match_date": "2026-11-03",
- "source_matches": 8921,
+ "updated": "2026-11-05",
+ "last_match_date": "2026-11-04",
+ "source_matches": 8927,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 72,
@@ -320,10 +320,10 @@
    "last_date": "2026-10-31"
   },
   "Talent Gaming": {
-   "rating": 1753.9,
-   "w": 254,
-   "l": 208,
-   "last_date": "2026-10-31"
+   "rating": 1762.1,
+   "w": 258,
+   "l": 210,
+   "last_date": "2026-11-04"
   },
   "Team Flash": {
    "rating": 1474.8,
@@ -416,10 +416,10 @@
    "last_date": "2026-11-03"
   },
   "Wolves": {
-   "rating": 1639.8,
-   "w": 313,
-   "l": 197,
-   "last_date": "2026-11-02"
+   "rating": 1631.6,
+   "w": 315,
+   "l": 201,
+   "last_date": "2026-11-04"
   },
   "Xianyou Gaming": {
    "rating": 1497.1,

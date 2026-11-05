@@ -1,11 +1,11 @@
 {
  "game": "ow",
- "updated": "2026-11-04",
- "last_match_date": "2026-11-01",
- "source_matches": 4538,
+ "updated": "2026-11-05",
+ "last_match_date": "2026-11-05",
+ "source_matches": 4552,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 65,
+ "n_teams": 67,
  "teams": {
   " ReturnZ": {
    "rating": 1351.1,
@@ -277,6 +277,12 @@
    "l": 6,
    "last_date": "2026-09-12"
   },
+  "Stronghold": {
+   "rating": 1419.5,
+   "w": 6,
+   "l": 17,
+   "last_date": "2026-11-04"
+  },
   "SuperBad": {
    "rating": 1312.0,
    "w": 4,
@@ -330,6 +336,12 @@
    "w": 1,
    "l": 9,
    "last_date": "2026-08-23"
+  },
+  "The Gatos Guapos": {
+   "rating": 1722.7,
+   "w": 60,
+   "l": 20,
+   "last_date": "2026-11-05"
   },
   "The Kafe": {
    "rating": 1497.9,

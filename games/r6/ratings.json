@@ -1,11 +1,11 @@
 {
  "game": "r6",
- "updated": "2026-11-04",
- "last_match_date": "2026-11-03",
- "source_matches": 3818,
+ "updated": "2026-11-05",
+ "last_match_date": "2026-11-04",
+ "source_matches": 3823,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 74,
+ "n_teams": 75,
  "teams": {
   " Dolphin Esport": {
    "rating": 1398.1,
@@ -156,6 +156,12 @@
    "w": 109,
    "l": 70,
    "last_date": "2026-10-13"
+  },
+  "Fans of Attics": {
+   "rating": 1511.8,
+   "w": 5,
+   "l": 4,
+   "last_date": "2026-11-04"
   },
   "FearX": {
    "rating": 1474.0,
@@ -320,10 +326,10 @@
    "last_date": "2026-10-04"
   },
   "Pannuhuone": {
-   "rating": 1463.2,
-   "w": 12,
-   "l": 17,
-   "last_date": "2026-11-03"
+   "rating": 1477.7,
+   "w": 14,
+   "l": 18,
+   "last_date": "2026-11-04"
   },
   "RRX": {
    "rating": 1407.4,
