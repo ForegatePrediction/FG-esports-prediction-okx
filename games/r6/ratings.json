@@ -1,8 +1,8 @@
 {
  "game": "r6",
- "updated": "2026-11-05",
- "last_match_date": "2026-11-04",
- "source_matches": 3823,
+ "updated": "2026-11-06",
+ "last_match_date": "2026-11-06",
+ "source_matches": 3834,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 75,
@@ -38,10 +38,10 @@
    "last_date": "2026-08-05"
   },
   "All Gamers": {
-   "rating": 1697.0,
+   "rating": 1678.5,
    "w": 72,
-   "l": 30,
-   "last_date": "2026-10-18"
+   "l": 31,
+   "last_date": "2026-11-06"
   },
   "Arcade Esports": {
    "rating": 1319.7,
@@ -98,10 +98,10 @@
    "last_date": "2026-10-16"
   },
   "DarkZero Esports": {
-   "rating": 1642.5,
-   "w": 90,
+   "rating": 1676.8,
+   "w": 93,
    "l": 66,
-   "last_date": "2026-10-15"
+   "last_date": "2026-11-06"
   },
   "Daystar": {
    "rating": 1571.0,
@@ -110,10 +110,10 @@
    "last_date": "2026-09-24"
   },
   "Dplus": {
-   "rating": 1661.5,
+   "rating": 1652.0,
    "w": 64,
-   "l": 44,
-   "last_date": "2026-10-24"
+   "l": 45,
+   "last_date": "2026-11-06"
   },
   "EDward Gaming": {
    "rating": 1793.8,
@@ -158,10 +158,10 @@
    "last_date": "2026-10-13"
   },
   "Fans of Attics": {
-   "rating": 1511.8,
+   "rating": 1482.3,
    "w": 5,
-   "l": 4,
-   "last_date": "2026-11-04"
+   "l": 6,
+   "last_date": "2026-11-05"
   },
   "FearX": {
    "rating": 1474.0,
@@ -242,10 +242,10 @@
    "last_date": "2026-10-24"
   },
   "KINGZERO eSports": {
-   "rating": 1567.4,
+   "rating": 1556.5,
    "w": 49,
-   "l": 39,
-   "last_date": "2026-10-17"
+   "l": 40,
+   "last_date": "2026-11-06"
   },
   "KINOTROPE gaming": {
    "rating": 1458.8,
@@ -260,10 +260,10 @@
    "last_date": "2026-10-11"
   },
   "LOS": {
-   "rating": 1580.5,
-   "w": 33,
-   "l": 47,
-   "last_date": "2026-10-24"
+   "rating": 1576.3,
+   "w": 34,
+   "l": 49,
+   "last_date": "2026-11-06"
   },
   "LOUD": {
    "rating": 1472.0,
@@ -326,10 +326,10 @@
    "last_date": "2026-10-04"
   },
   "Pannuhuone": {
-   "rating": 1477.7,
-   "w": 14,
+   "rating": 1507.2,
+   "w": 16,
    "l": 18,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-05"
   },
   "RRX": {
    "rating": 1407.4,
@@ -392,10 +392,10 @@
    "last_date": "2026-10-13"
   },
   "TYLOO": {
-   "rating": 1583.3,
+   "rating": 1571.7,
    "w": 49,
-   "l": 40,
-   "last_date": "2026-10-18"
+   "l": 41,
+   "last_date": "2026-11-06"
   },
   "Team Anios": {
    "rating": 1501.1,
@@ -440,16 +440,16 @@
    "last_date": "2026-10-06"
   },
   "Virtus.pro": {
-   "rating": 1645.6,
-   "w": 74,
-   "l": 61,
-   "last_date": "2026-10-12"
+   "rating": 1685.3,
+   "w": 77,
+   "l": 62,
+   "last_date": "2026-11-06"
   },
   "Weibo Gaming": {
-   "rating": 1776.3,
-   "w": 96,
-   "l": 41,
-   "last_date": "2026-10-23"
+   "rating": 1757.0,
+   "w": 98,
+   "l": 43,
+   "last_date": "2026-11-06"
   },
   "Wildcard Gaming": {
    "rating": 1667.7,

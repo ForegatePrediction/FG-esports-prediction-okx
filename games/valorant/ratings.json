@@ -1,8 +1,8 @@
 {
  "game": "valorant",
- "updated": "2026-11-05",
- "last_match_date": "2026-11-05",
- "source_matches": 10286,
+ "updated": "2026-11-06",
+ "last_match_date": "2026-11-06",
+ "source_matches": 10291,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 214,
@@ -386,10 +386,10 @@
    "last_date": "2026-10-24"
   },
   "Fancy United": {
-   "rating": 1563.9,
-   "w": 37,
+   "rating": 1587.3,
+   "w": 39,
    "l": 31,
-   "last_date": "2026-07-10"
+   "last_date": "2026-11-05"
   },
   "Fennel": {
    "rating": 1559.4,

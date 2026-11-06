@@ -1,11 +1,11 @@
 {
  "game": "dota2",
- "updated": "2026-11-05",
- "last_match_date": "2026-11-05",
- "source_matches": 16618,
+ "updated": "2026-11-06",
+ "last_match_date": "2026-11-06",
+ "source_matches": 16644,
  "scale": 400,
  "shrink": 0.7,
- "n_teams": 191,
+ "n_teams": 192,
  "teams": {
   " Pipsqueak+4": {
    "rating": 1661.4,
@@ -14,10 +14,10 @@
    "last_date": "2026-09-23"
   },
   " iLTW TEAM": {
-   "rating": 1497.3,
-   "w": 4,
+   "rating": 1517.0,
+   "w": 6,
    "l": 4,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-05"
   },
   " oveA": {
    "rating": 1438.0,
@@ -26,10 +26,10 @@
    "last_date": "2026-10-28"
   },
   "1win": {
-   "rating": 1717.6,
+   "rating": 1724.2,
    "w": 293,
-   "l": 231,
-   "last_date": "2026-10-25"
+   "l": 229,
+   "last_date": "2026-10-24"
   },
   "4 Anchors and Ilmeria": {
    "rating": 1583.4,
@@ -62,7 +62,7 @@
    "last_date": "2026-10-11"
   },
   "Astra Invicta": {
-   "rating": 1580.0,
+   "rating": 1579.9,
    "w": 5,
    "l": 11,
    "last_date": "2026-10-29"
@@ -158,10 +158,10 @@
    "last_date": "2026-09-18"
   },
   "Cooman Team": {
-   "rating": 1555.4,
+   "rating": 1522.7,
    "w": 20,
-   "l": 15,
-   "last_date": "2026-11-04"
+   "l": 17,
+   "last_date": "2026-11-05"
   },
   "Costa Rica": {
    "rating": 1525.7,
@@ -218,16 +218,16 @@
    "last_date": "2026-09-19"
   },
   "Daxak Team": {
-   "rating": 1576.1,
-   "w": 23,
-   "l": 15,
-   "last_date": "2026-11-04"
+   "rating": 1552.3,
+   "w": 24,
+   "l": 17,
+   "last_date": "2026-11-05"
   },
   "Direborn": {
-   "rating": 1683.5,
-   "w": 71,
+   "rating": 1732.8,
+   "w": 74,
    "l": 48,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-06"
   },
   "Ecuador": {
    "rating": 1595.8,
@@ -290,10 +290,10 @@
    "last_date": "2026-06-17"
   },
   "GamerLegion": {
-   "rating": 1837.6,
-   "w": 125,
-   "l": 122,
-   "last_date": "2026-11-04"
+   "rating": 1830.5,
+   "w": 128,
+   "l": 126,
+   "last_date": "2026-11-05"
   },
   "Gior Dota Team": {
    "rating": 1449.1,
@@ -368,10 +368,10 @@
    "last_date": "2026-08-10"
   },
   "Inner Circle x Insanity": {
-   "rating": 1586.8,
-   "w": 148,
-   "l": 165,
-   "last_date": "2026-11-04"
+   "rating": 1573.9,
+   "w": 149,
+   "l": 167,
+   "last_date": "2026-11-05"
   },
   "InterActive Philippines": {
    "rating": 1565.5,
@@ -458,10 +458,10 @@
    "last_date": "2026-07-01"
   },
   "LenS Team": {
-   "rating": 1479.5,
-   "w": 7,
+   "rating": 1512.2,
+   "w": 9,
    "l": 10,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-05"
   },
   "Level UP": {
    "rating": 1622.6,
@@ -536,16 +536,16 @@
    "last_date": "2026-09-24"
   },
   "Natus Vincere": {
-   "rating": 1895.5,
-   "w": 242,
-   "l": 171,
-   "last_date": "2026-11-04"
+   "rating": 1910.2,
+   "w": 245,
+   "l": 172,
+   "last_date": "2026-11-05"
   },
   "Nemiga Gaming": {
-   "rating": 1566.9,
-   "w": 221,
-   "l": 275,
-   "last_date": "2026-11-03"
+   "rating": 1579.8,
+   "w": 223,
+   "l": 276,
+   "last_date": "2026-11-05"
   },
   "New Growth": {
    "rating": 1488.6,
@@ -578,7 +578,7 @@
    "last_date": "2026-11-04"
   },
   "PARIVISION": {
-   "rating": 1996.7,
+   "rating": 1996.3,
    "w": 321,
    "l": 159,
    "last_date": "2026-10-30"
@@ -698,10 +698,10 @@
    "last_date": "2026-11-02"
   },
   "Royal Bear": {
-   "rating": 1779.8,
+   "rating": 1730.5,
    "w": 31,
-   "l": 3,
-   "last_date": "2026-11-05"
+   "l": 6,
+   "last_date": "2026-11-06"
   },
   "Rune Eaters": {
    "rating": 1664.2,
@@ -758,10 +758,10 @@
    "last_date": "2026-09-25"
   },
   "Spirit Academy": {
-   "rating": 1508.9,
+   "rating": 1489.1,
    "w": 112,
-   "l": 167,
-   "last_date": "2026-11-04"
+   "l": 169,
+   "last_date": "2026-11-05"
   },
   "Stariy Bog Club": {
    "rating": 1499.4,
@@ -782,10 +782,10 @@
    "last_date": "2026-09-18"
   },
   "Stray Team": {
-   "rating": 1401.4,
+   "rating": 1381.7,
    "w": 53,
-   "l": 57,
-   "last_date": "2026-11-04"
+   "l": 59,
+   "last_date": "2026-11-05"
   },
   "Switzerland": {
    "rating": 1491.6,
@@ -836,16 +836,16 @@
    "last_date": "2026-11-02"
   },
   "Team Liquid": {
-   "rating": 1856.7,
+   "rating": 1856.5,
    "w": 316,
    "l": 239,
    "last_date": "2026-10-30"
   },
   "Team Lynx": {
-   "rating": 1621.5,
-   "w": 243,
+   "rating": 1639.1,
+   "w": 245,
    "l": 237,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-05"
   },
   "Team Nemesis": {
    "rating": 1730.6,
@@ -872,7 +872,7 @@
    "last_date": "2026-10-17"
   },
   "Team Spirit": {
-   "rating": 2045.2,
+   "rating": 2044.7,
    "w": 321,
    "l": 181,
    "last_date": "2026-11-01"
@@ -896,7 +896,7 @@
    "last_date": "2026-10-17"
   },
   "Team Yandex": {
-   "rating": 2019.3,
+   "rating": 2016.1,
    "w": 228,
    "l": 135,
    "last_date": "2026-11-01"
@@ -1004,10 +1004,10 @@
    "last_date": "2026-06-18"
   },
   "Xipto Esports": {
-   "rating": 1556.9,
-   "w": 33,
+   "rating": 1584.0,
+   "w": 35,
    "l": 20,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-05"
   },
   "Xtreme Gaming": {
    "rating": 1798.8,
@@ -1040,10 +1040,10 @@
    "last_date": "2026-11-05"
   },
   "Yellow Submarine": {
-   "rating": 1771.3,
-   "w": 292,
-   "l": 231,
-   "last_date": "2026-11-04"
+   "rating": 1763.6,
+   "w": 293,
+   "l": 233,
+   "last_date": "2026-11-05"
   },
   "Zenith": {
    "rating": 1532.1,
@@ -1052,10 +1052,10 @@
    "last_date": "2026-11-05"
   },
   "Zero Tenacity": {
-   "rating": 1559.6,
+   "rating": 1532.5,
    "w": 432,
-   "l": 376,
-   "last_date": "2026-11-04"
+   "l": 378,
+   "last_date": "2026-11-05"
   },
   "Zetta Games": {
    "rating": 1425.7,
@@ -1064,10 +1064,10 @@
    "last_date": "2026-06-12"
   },
   "angry birds": {
-   "rating": 1603.5,
-   "w": 9,
+   "rating": 1623.3,
+   "w": 11,
    "l": 3,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-05"
   },
   "avice Team": {
    "rating": 1502.0,
@@ -1104,6 +1104,12 @@
    "w": 10,
    "l": 7,
    "last_date": "2026-11-03"
+  },
+  "rostikfacekid TEAM": {
+   "rating": 1483.6,
+   "w": 4,
+   "l": 6,
+   "last_date": "2026-11-05"
   },
   "salamit": {
    "rating": 1468.4,

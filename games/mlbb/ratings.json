@@ -1,11 +1,11 @@
 {
  "game": "mlbb",
- "updated": "2026-11-05",
- "last_match_date": "2026-11-05",
- "source_matches": 5382,
+ "updated": "2026-11-06",
+ "last_match_date": "2026-11-06",
+ "source_matches": 5399,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 94,
+ "n_teams": 95,
  "teams": {
   " Evil Eye Esports": {
    "rating": 1426.6,
@@ -38,10 +38,10 @@
    "last_date": "2026-08-05"
   },
   "Alter Ego": {
-   "rating": 1597.5,
-   "w": 130,
-   "l": 116,
-   "last_date": "2026-11-05"
+   "rating": 1580.5,
+   "w": 132,
+   "l": 119,
+   "last_date": "2026-11-06"
   },
   "Aterion Esports": {
    "rating": 1478.1,
@@ -50,10 +50,10 @@
    "last_date": "2026-06-16"
   },
   "Aura Farmers": {
-   "rating": 1382.1,
-   "w": 16,
+   "rating": 1418.8,
+   "w": 18,
    "l": 59,
-   "last_date": "2026-11-02"
+   "last_date": "2026-11-05"
   },
   "Aurevia Team": {
    "rating": 1649.5,
@@ -86,16 +86,22 @@
    "last_date": "2026-10-30"
   },
   "Bigetron by Vitality": {
-   "rating": 1617.6,
-   "w": 96,
-   "l": 71,
-   "last_date": "2026-11-04"
+   "rating": 1619.4,
+   "w": 100,
+   "l": 76,
+   "last_date": "2026-11-06"
   },
   "Buriram United Esports": {
    "rating": 1464.9,
    "w": 21,
    "l": 21,
    "last_date": "2026-10-16"
+  },
+  "Bushido Wildcats": {
+   "rating": 1361.2,
+   "w": 0,
+   "l": 8,
+   "last_date": "2026-11-05"
   },
   "Cambodia": {
    "rating": 1480.8,
@@ -110,10 +116,10 @@
    "last_date": "2026-11-04"
   },
   "Dark Phoenix": {
-   "rating": 1387.0,
+   "rating": 1367.0,
    "w": 17,
-   "l": 34,
-   "last_date": "2026-11-02"
+   "l": 36,
+   "last_date": "2026-11-05"
   },
   "Dewa United Esports": {
    "rating": 1467.7,
@@ -206,10 +212,10 @@
    "last_date": "2026-07-26"
   },
   "HARD GRIND": {
-   "rating": 1446.3,
-   "w": 19,
+   "rating": 1472.7,
+   "w": 21,
    "l": 18,
-   "last_date": "2026-11-02"
+   "last_date": "2026-11-05"
   },
   "Hydra Esports": {
    "rating": 1257.4,
@@ -428,10 +434,10 @@
    "last_date": "2026-09-09"
   },
   "Team Liquid ID": {
-   "rating": 1664.7,
-   "w": 133,
-   "l": 111,
-   "last_date": "2026-10-18"
+   "rating": 1679.8,
+   "w": 136,
+   "l": 112,
+   "last_date": "2026-11-05"
   },
   "Team Liquid PH": {
    "rating": 1741.7,
@@ -524,10 +530,10 @@
    "last_date": "2026-11-04"
   },
   "The World": {
-   "rating": 1513.0,
+   "rating": 1476.3,
    "w": 24,
-   "l": 24,
-   "last_date": "2026-11-03"
+   "l": 26,
+   "last_date": "2026-11-05"
   },
   "Twisted Minds PH": {
    "rating": 1331.0,

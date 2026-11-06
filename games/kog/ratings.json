@@ -1,8 +1,8 @@
 {
  "game": "kog",
- "updated": "2026-11-05",
- "last_match_date": "2026-11-04",
- "source_matches": 8927,
+ "updated": "2026-11-06",
+ "last_match_date": "2026-11-05",
+ "source_matches": 8934,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 72,
@@ -104,10 +104,10 @@
    "last_date": "2026-07-23"
   },
   "EDward Gaming": {
-   "rating": 1738.1,
-   "w": 186,
-   "l": 203,
-   "last_date": "2026-11-03"
+   "rating": 1705.2,
+   "w": 189,
+   "l": 207,
+   "last_date": "2026-11-05"
   },
   "FPT Polytechnic": {
    "rating": 1719.5,
@@ -206,10 +206,10 @@
    "last_date": "2026-11-01"
   },
   "LGD NBW": {
-   "rating": 1687.6,
-   "w": 213,
-   "l": 216,
-   "last_date": "2026-11-01"
+   "rating": 1720.4,
+   "w": 217,
+   "l": 219,
+   "last_date": "2026-11-05"
   },
   "LT Gaming": {
    "rating": 1486.8,
