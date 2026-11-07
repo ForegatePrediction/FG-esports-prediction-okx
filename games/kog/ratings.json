@@ -1,8 +1,8 @@
 {
  "game": "kog",
- "updated": "2026-11-06",
- "last_match_date": "2026-11-05",
- "source_matches": 8934,
+ "updated": "2026-11-07",
+ "last_match_date": "2026-11-07",
+ "source_matches": 8946,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 72,
@@ -38,10 +38,10 @@
    "last_date": "2026-08-06"
   },
   "BOOM Esports": {
-   "rating": 1490.7,
-   "w": 37,
-   "l": 48,
-   "last_date": "2026-10-25"
+   "rating": 1548.9,
+   "w": 41,
+   "l": 50,
+   "last_date": "2026-11-07"
   },
   "BOOM Esports VN": {
    "rating": 1530.9,
@@ -176,10 +176,10 @@
    "last_date": "2026-08-29"
   },
   "JD Gaming": {
-   "rating": 1834.7,
-   "w": 225,
-   "l": 192,
-   "last_date": "2026-11-02"
+   "rating": 1829.6,
+   "w": 229,
+   "l": 194,
+   "last_date": "2026-11-06"
   },
   "JLY": {
    "rating": 1305.3,
@@ -302,10 +302,10 @@
    "last_date": "2026-09-19"
   },
   "Saigon Phantom": {
-   "rating": 1638.0,
-   "w": 173,
-   "l": 119,
-   "last_date": "2026-10-25"
+   "rating": 1579.8,
+   "w": 175,
+   "l": 123,
+   "last_date": "2026-11-07"
   },
   "Super Club": {
    "rating": 1429.5,
@@ -410,10 +410,10 @@
    "last_date": "2026-09-15"
   },
   "Weibo Gaming": {
-   "rating": 1724.6,
-   "w": 272,
-   "l": 201,
-   "last_date": "2026-11-03"
+   "rating": 1729.7,
+   "w": 274,
+   "l": 205,
+   "last_date": "2026-11-06"
   },
   "Wolves": {
    "rating": 1631.6,

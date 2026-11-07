@@ -1,8 +1,8 @@
 {
  "game": "mlbb",
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "last_match_date": "2026-11-06",
- "source_matches": 5399,
+ "source_matches": 5412,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 95,
@@ -110,10 +110,10 @@
    "last_date": "2026-09-29"
   },
   "Cyber Hero": {
-   "rating": 1498.1,
-   "w": 148,
+   "rating": 1528.3,
+   "w": 150,
    "l": 154,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-06"
   },
   "Dark Phoenix": {
    "rating": 1367.0,
@@ -152,10 +152,10 @@
    "last_date": "2026-06-21"
   },
   "FUT Esports": {
-   "rating": 1609.3,
-   "w": 12,
+   "rating": 1628.5,
+   "w": 14,
    "l": 8,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-06"
   },
   "Falcons Vega": {
    "rating": 1536.5,
@@ -284,10 +284,10 @@
    "last_date": "2026-10-01"
   },
   "Natus Vincere": {
-   "rating": 1656.6,
-   "w": 69,
-   "l": 92,
-   "last_date": "2026-11-05"
+   "rating": 1666.4,
+   "w": 72,
+   "l": 94,
+   "last_date": "2026-11-06"
   },
   "Natus Vincere FE PH": {
    "rating": 1577.6,
@@ -434,10 +434,10 @@
    "last_date": "2026-09-09"
   },
   "Team Liquid ID": {
-   "rating": 1679.8,
-   "w": 136,
-   "l": 112,
-   "last_date": "2026-11-05"
+   "rating": 1670.0,
+   "w": 138,
+   "l": 115,
+   "last_date": "2026-11-06"
   },
   "Team Liquid PH": {
    "rating": 1741.7,
@@ -500,10 +500,10 @@
    "last_date": "2026-09-09"
   },
   "Team Yandex": {
-   "rating": 1715.2,
-   "w": 79,
+   "rating": 1726.2,
+   "w": 81,
    "l": 59,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-06"
   },
   "Tenacity": {
    "rating": 1569.3,
@@ -530,10 +530,10 @@
    "last_date": "2026-11-04"
   },
   "The World": {
-   "rating": 1476.3,
+   "rating": 1465.3,
    "w": 24,
-   "l": 26,
-   "last_date": "2026-11-05"
+   "l": 28,
+   "last_date": "2026-11-06"
   },
   "Twisted Minds PH": {
    "rating": 1331.0,

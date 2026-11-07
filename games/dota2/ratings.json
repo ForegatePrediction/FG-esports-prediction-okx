@@ -1,8 +1,8 @@
 {
  "game": "dota2",
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "last_match_date": "2026-11-06",
- "source_matches": 16644,
+ "source_matches": 16661,
  "scale": 400,
  "shrink": 0.7,
  "n_teams": 192,
@@ -14,16 +14,16 @@
    "last_date": "2026-09-23"
   },
   " iLTW TEAM": {
-   "rating": 1517.0,
+   "rating": 1489.8,
    "w": 6,
-   "l": 4,
-   "last_date": "2026-11-05"
+   "l": 6,
+   "last_date": "2026-11-06"
   },
   " oveA": {
-   "rating": 1438.0,
+   "rating": 1421.7,
    "w": 3,
-   "l": 6,
-   "last_date": "2026-10-28"
+   "l": 8,
+   "last_date": "2026-11-06"
   },
   "1win": {
    "rating": 1724.2,
@@ -158,10 +158,10 @@
    "last_date": "2026-09-18"
   },
   "Cooman Team": {
-   "rating": 1522.7,
-   "w": 20,
+   "rating": 1551.8,
+   "w": 22,
    "l": 17,
-   "last_date": "2026-11-05"
+   "last_date": "2026-11-06"
   },
   "Costa Rica": {
    "rating": 1525.7,
@@ -218,10 +218,10 @@
    "last_date": "2026-09-19"
   },
   "Daxak Team": {
-   "rating": 1552.3,
+   "rating": 1523.1,
    "w": 24,
-   "l": 17,
-   "last_date": "2026-11-05"
+   "l": 19,
+   "last_date": "2026-11-06"
   },
   "Direborn": {
    "rating": 1732.8,
@@ -344,10 +344,10 @@
    "last_date": "2026-07-09"
   },
   "Hokori": {
-   "rating": 1465.8,
+   "rating": 1448.7,
    "w": 36,
-   "l": 49,
-   "last_date": "2026-10-31"
+   "l": 51,
+   "last_date": "2026-11-06"
   },
   "Hungary": {
    "rating": 1555.4,
@@ -458,10 +458,10 @@
    "last_date": "2026-07-01"
   },
   "LenS Team": {
-   "rating": 1512.2,
-   "w": 9,
+   "rating": 1539.5,
+   "w": 11,
    "l": 10,
-   "last_date": "2026-11-05"
+   "last_date": "2026-11-06"
   },
   "Level UP": {
    "rating": 1622.6,
@@ -470,10 +470,10 @@
    "last_date": "2026-09-30"
   },
   "Level Up Academy": {
-   "rating": 1505.3,
+   "rating": 1486.7,
    "w": 6,
-   "l": 7,
-   "last_date": "2026-10-31"
+   "l": 9,
+   "last_date": "2026-11-06"
   },
   "Lindorfitos": {
    "rating": 1511.7,
@@ -542,10 +542,10 @@
    "last_date": "2026-11-05"
   },
   "Nemiga Gaming": {
-   "rating": 1579.8,
-   "w": 223,
-   "l": 276,
-   "last_date": "2026-11-05"
+   "rating": 1569.6,
+   "w": 224,
+   "l": 278,
+   "last_date": "2026-11-06"
   },
   "New Growth": {
    "rating": 1488.6,
@@ -614,10 +614,10 @@
    "last_date": "2026-10-21"
   },
   "PuckChamp": {
-   "rating": 1419.4,
+   "rating": 1407.1,
    "w": 32,
-   "l": 69,
-   "last_date": "2026-11-04"
+   "l": 71,
+   "last_date": "2026-11-06"
   },
   "RE.Arise": {
    "rating": 1512.0,
@@ -782,10 +782,10 @@
    "last_date": "2026-09-18"
   },
   "Stray Team": {
-   "rating": 1381.7,
+   "rating": 1362.4,
    "w": 53,
-   "l": 59,
-   "last_date": "2026-11-05"
+   "l": 61,
+   "last_date": "2026-11-06"
   },
   "Switzerland": {
    "rating": 1491.6,
@@ -1004,10 +1004,10 @@
    "last_date": "2026-06-18"
   },
   "Xipto Esports": {
-   "rating": 1584.0,
-   "w": 35,
+   "rating": 1636.0,
+   "w": 41,
    "l": 20,
-   "last_date": "2026-11-05"
+   "last_date": "2026-11-06"
   },
   "Xtreme Gaming": {
    "rating": 1798.8,
@@ -1064,10 +1064,10 @@
    "last_date": "2026-06-12"
   },
   "angry birds": {
-   "rating": 1623.3,
-   "w": 11,
-   "l": 3,
-   "last_date": "2026-11-05"
+   "rating": 1645.8,
+   "w": 15,
+   "l": 4,
+   "last_date": "2026-11-06"
   },
   "avice Team": {
    "rating": 1502.0,
@@ -1106,10 +1106,10 @@
    "last_date": "2026-11-03"
   },
   "rostikfacekid TEAM": {
-   "rating": 1483.6,
-   "w": 4,
+   "rating": 1502.9,
+   "w": 6,
    "l": 6,
-   "last_date": "2026-11-05"
+   "last_date": "2026-11-06"
   },
   "salamit": {
    "rating": 1468.4,

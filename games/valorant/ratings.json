@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-11-06",
- "last_match_date": "2026-11-06",
- "source_matches": 10291,
+ "updated": "2026-11-07",
+ "last_match_date": "2026-11-07",
+ "source_matches": 10321,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 214,
+ "n_teams": 215,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -1218,6 +1218,12 @@
    "w": 19,
    "l": 28,
    "last_date": "2026-09-04"
+  },
+  "WEC C": {
+   "rating": 1433.7,
+   "w": 4,
+   "l": 10,
+   "last_date": "2026-11-07"
   },
   "Wolves Esports": {
    "rating": 1344.7,
