@@ -1,8 +1,8 @@
 {
  "game": "kog",
- "updated": "2026-11-07",
+ "updated": "2026-11-08",
  "last_match_date": "2026-11-07",
- "source_matches": 8946,
+ "source_matches": 8956,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 72,
@@ -38,9 +38,9 @@
    "last_date": "2026-08-06"
   },
   "BOOM Esports": {
-   "rating": 1548.9,
-   "w": 41,
-   "l": 50,
+   "rating": 1563.8,
+   "w": 43,
+   "l": 54,
    "last_date": "2026-11-07"
   },
   "BOOM Esports VN": {
@@ -110,10 +110,10 @@
    "last_date": "2026-11-05"
   },
   "FPT Polytechnic": {
-   "rating": 1719.5,
-   "w": 127,
-   "l": 122,
-   "last_date": "2026-10-25"
+   "rating": 1704.6,
+   "w": 131,
+   "l": 124,
+   "last_date": "2026-11-07"
   },
   "FULL SENSE": {
    "rating": 1614.1,
@@ -206,10 +206,10 @@
    "last_date": "2026-11-01"
   },
   "LGD NBW": {
-   "rating": 1720.4,
+   "rating": 1676.6,
    "w": 217,
-   "l": 219,
-   "last_date": "2026-11-05"
+   "l": 223,
+   "last_date": "2026-11-07"
   },
   "LT Gaming": {
    "rating": 1486.8,
@@ -320,10 +320,10 @@
    "last_date": "2026-10-31"
   },
   "Talent Gaming": {
-   "rating": 1762.1,
-   "w": 258,
+   "rating": 1806.0,
+   "w": 262,
    "l": 210,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-07"
   },
   "Team Flash": {
    "rating": 1474.8,

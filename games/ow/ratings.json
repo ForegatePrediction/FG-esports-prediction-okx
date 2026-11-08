@@ -1,8 +1,8 @@
 {
  "game": "ow",
- "updated": "2026-11-07",
- "last_match_date": "2026-11-07",
- "source_matches": 4575,
+ "updated": "2026-11-08",
+ "last_match_date": "2026-11-08",
+ "source_matches": 4599,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 71,
@@ -32,10 +32,10 @@
    "last_date": "2026-07-04"
   },
   "All Gamers": {
-   "rating": 1739.9,
-   "w": 78,
-   "l": 49,
-   "last_date": "2026-11-01"
+   "rating": 1728.8,
+   "w": 81,
+   "l": 53,
+   "last_date": "2026-11-08"
   },
   "Australia": {
    "rating": 1462.1,
@@ -56,10 +56,10 @@
    "last_date": "2026-08-23"
   },
   "CantHear": {
-   "rating": 1341.4,
-   "w": 0,
-   "l": 9,
-   "last_date": "2026-11-06"
+   "rating": 1345.7,
+   "w": 1,
+   "l": 12,
+   "last_date": "2026-11-07"
   },
   "Cheeseburger": {
    "rating": 1593.0,
@@ -146,9 +146,9 @@
    "last_date": "2026-09-12"
   },
   "HUNENG": {
-   "rating": 1592.1,
-   "w": 30,
-   "l": 47,
+   "rating": 1591.2,
+   "w": 31,
+   "l": 50,
    "last_date": "2026-11-07"
   },
   "JD Gaming": {
@@ -218,10 +218,10 @@
    "last_date": "2026-10-31"
   },
   "OU Gaming": {
-   "rating": 1686.8,
-   "w": 29,
-   "l": 16,
-   "last_date": "2026-11-07"
+   "rating": 1661.4,
+   "w": 30,
+   "l": 19,
+   "last_date": "2026-11-08"
   },
   "Please Not Hero Ban": {
    "rating": 1455.8,
@@ -260,10 +260,10 @@
    "last_date": "2026-09-13"
   },
   "SeijiKING": {
-   "rating": 1551.4,
-   "w": 9,
-   "l": 3,
-   "last_date": "2026-11-06"
+   "rating": 1547.1,
+   "w": 12,
+   "l": 4,
+   "last_date": "2026-11-07"
   },
   "Solus Victorem": {
    "rating": 1534.2,
@@ -290,10 +290,10 @@
    "last_date": "2026-09-12"
   },
   "Stronghold": {
-   "rating": 1444.4,
-   "w": 10,
-   "l": 20,
-   "last_date": "2026-11-06"
+   "rating": 1454.2,
+   "w": 11,
+   "l": 23,
+   "last_date": "2026-11-07"
   },
   "SuperBad": {
    "rating": 1312.0,
@@ -314,10 +314,10 @@
    "last_date": "2026-11-01"
   },
   "Team Benxxn": {
-   "rating": 1465.9,
-   "w": 3,
-   "l": 6,
-   "last_date": "2026-11-06"
+   "rating": 1479.9,
+   "w": 6,
+   "l": 8,
+   "last_date": "2026-11-07"
   },
   "Team Liquid": {
    "rating": 1704.2,
@@ -356,10 +356,10 @@
    "last_date": "2026-08-23"
   },
   "The Gatos Guapos": {
-   "rating": 1715.3,
-   "w": 63,
-   "l": 21,
-   "last_date": "2026-11-06"
+   "rating": 1705.5,
+   "w": 66,
+   "l": 22,
+   "last_date": "2026-11-07"
   },
   "The Kafe": {
    "rating": 1497.9,
@@ -410,10 +410,10 @@
    "last_date": "2026-10-24"
   },
   "Weibo Gaming": {
-   "rating": 1759.7,
-   "w": 93,
-   "l": 42,
-   "last_date": "2026-11-01"
+   "rating": 1797.2,
+   "w": 99,
+   "l": 43,
+   "last_date": "2026-11-07"
   },
   "ZANSIDE GAMING": {
    "rating": 1482.1,
@@ -428,10 +428,10 @@
    "last_date": "2026-11-01"
   },
   "junjilopzfx0764": {
-   "rating": 1443.4,
-   "w": 5,
-   "l": 9,
-   "last_date": "2026-11-06"
+   "rating": 1429.5,
+   "w": 7,
+   "l": 12,
+   "last_date": "2026-11-07"
   }
  }
 }

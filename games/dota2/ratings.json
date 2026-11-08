@@ -1,8 +1,8 @@
 {
  "game": "dota2",
- "updated": "2026-11-07",
- "last_match_date": "2026-11-06",
- "source_matches": 16661,
+ "updated": "2026-11-08",
+ "last_match_date": "2026-11-07",
+ "source_matches": 16715,
  "scale": 400,
  "shrink": 0.7,
  "n_teams": 192,
@@ -20,10 +20,10 @@
    "last_date": "2026-11-06"
   },
   " oveA": {
-   "rating": 1421.7,
-   "w": 3,
+   "rating": 1450.5,
+   "w": 5,
    "l": 8,
-   "last_date": "2026-11-06"
+   "last_date": "2026-11-07"
   },
   "1win": {
    "rating": 1724.2,
@@ -50,10 +50,10 @@
    "last_date": "2026-10-18"
   },
   "Amaru Gaming": {
-   "rating": 1591.2,
-   "w": 54,
-   "l": 59,
-   "last_date": "2026-10-15"
+   "rating": 1586.9,
+   "w": 57,
+   "l": 62,
+   "last_date": "2026-11-07"
   },
   "Argentina": {
    "rating": 1453.8,
@@ -182,10 +182,10 @@
    "last_date": "2026-07-01"
   },
   "CyberHero": {
-   "rating": 1609.6,
-   "w": 24,
-   "l": 21,
-   "last_date": "2026-11-04"
+   "rating": 1612.8,
+   "w": 27,
+   "l": 23,
+   "last_date": "2026-11-07"
   },
   "D family": {
    "rating": 1378.8,
@@ -326,10 +326,10 @@
    "last_date": "2026-06-23"
   },
   "HULIGANI": {
-   "rating": 1695.3,
-   "w": 36,
-   "l": 35,
-   "last_date": "2026-11-04"
+   "rating": 1673.3,
+   "w": 40,
+   "l": 39,
+   "last_date": "2026-11-07"
   },
   "Habibis": {
    "rating": 1375.7,
@@ -344,10 +344,10 @@
    "last_date": "2026-07-09"
   },
   "Hokori": {
-   "rating": 1448.7,
-   "w": 36,
-   "l": 51,
-   "last_date": "2026-11-06"
+   "rating": 1411.0,
+   "w": 37,
+   "l": 55,
+   "last_date": "2026-11-07"
   },
   "Hungary": {
    "rating": 1555.4,
@@ -368,16 +368,16 @@
    "last_date": "2026-08-10"
   },
   "Inner Circle x Insanity": {
-   "rating": 1573.9,
-   "w": 149,
-   "l": 167,
-   "last_date": "2026-11-05"
+   "rating": 1555.1,
+   "w": 151,
+   "l": 170,
+   "last_date": "2026-11-07"
   },
   "InterActive Philippines": {
-   "rating": 1565.5,
-   "w": 196,
-   "l": 235,
-   "last_date": "2026-10-17"
+   "rating": 1522.0,
+   "w": 198,
+   "l": 239,
+   "last_date": "2026-11-07"
   },
   "Invision": {
    "rating": 1459.3,
@@ -434,10 +434,10 @@
    "last_date": "2026-08-01"
   },
   "LEGION": {
-   "rating": 1629.9,
-   "w": 19,
-   "l": 21,
-   "last_date": "2026-11-03"
+   "rating": 1653.7,
+   "w": 21,
+   "l": 22,
+   "last_date": "2026-11-07"
   },
   "LFO": {
    "rating": 1491.7,
@@ -494,10 +494,10 @@
    "last_date": "2026-10-07"
   },
   "Mena Warriors": {
-   "rating": 1446.9,
-   "w": 7,
-   "l": 16,
-   "last_date": "2026-10-28"
+   "rating": 1446.6,
+   "w": 9,
+   "l": 18,
+   "last_date": "2026-11-07"
   },
   "Mentality Monster": {
    "rating": 1524.2,
@@ -542,10 +542,10 @@
    "last_date": "2026-11-05"
   },
   "Nemiga Gaming": {
-   "rating": 1569.6,
-   "w": 224,
-   "l": 278,
-   "last_date": "2026-11-06"
+   "rating": 1571.5,
+   "w": 227,
+   "l": 280,
+   "last_date": "2026-11-07"
   },
   "New Growth": {
    "rating": 1488.6,
@@ -596,10 +596,10 @@
    "last_date": "2026-10-27"
   },
   "PlayTime": {
-   "rating": 1646.7,
-   "w": 69,
-   "l": 63,
-   "last_date": "2026-10-15"
+   "rating": 1676.0,
+   "w": 73,
+   "l": 65,
+   "last_date": "2026-11-07"
   },
   "Poor Rangers": {
    "rating": 1522.9,
@@ -608,16 +608,16 @@
    "last_date": "2026-07-11"
   },
   "Power Rangers": {
-   "rating": 1513.5,
-   "w": 137,
-   "l": 108,
-   "last_date": "2026-10-21"
+   "rating": 1523.1,
+   "w": 139,
+   "l": 110,
+   "last_date": "2026-11-07"
   },
   "PuckChamp": {
-   "rating": 1407.1,
-   "w": 32,
-   "l": 71,
-   "last_date": "2026-11-06"
+   "rating": 1464.2,
+   "w": 36,
+   "l": 73,
+   "last_date": "2026-11-07"
   },
   "RE.Arise": {
    "rating": 1512.0,
@@ -692,10 +692,10 @@
    "last_date": "2026-09-17"
   },
   "Rottweilas Latam": {
-   "rating": 1501.2,
-   "w": 23,
-   "l": 22,
-   "last_date": "2026-11-02"
+   "rating": 1510.4,
+   "w": 25,
+   "l": 23,
+   "last_date": "2026-11-07"
   },
   "Royal Bear": {
    "rating": 1730.5,
@@ -758,10 +758,10 @@
    "last_date": "2026-09-25"
   },
   "Spirit Academy": {
-   "rating": 1489.1,
-   "w": 112,
+   "rating": 1522.5,
+   "w": 114,
    "l": 169,
-   "last_date": "2026-11-05"
+   "last_date": "2026-11-07"
   },
   "Stariy Bog Club": {
    "rating": 1499.4,
@@ -878,10 +878,10 @@
    "last_date": "2026-11-01"
   },
   "Team Synapse": {
-   "rating": 1738.7,
-   "w": 66,
-   "l": 34,
-   "last_date": "2026-11-04"
+   "rating": 1734.3,
+   "w": 68,
+   "l": 35,
+   "last_date": "2026-11-07"
   },
   "Team Syntax": {
    "rating": 1423.2,
@@ -1004,10 +1004,10 @@
    "last_date": "2026-06-18"
   },
   "Xipto Esports": {
-   "rating": 1636.0,
-   "w": 41,
-   "l": 20,
-   "last_date": "2026-11-06"
+   "rating": 1638.0,
+   "w": 44,
+   "l": 22,
+   "last_date": "2026-11-07"
   },
   "Xtreme Gaming": {
    "rating": 1798.8,
@@ -1028,10 +1028,10 @@
    "last_date": "2026-09-27"
   },
   "Yakult Brothers": {
-   "rating": 1646.5,
-   "w": 193,
-   "l": 210,
-   "last_date": "2026-10-17"
+   "rating": 1597.3,
+   "w": 194,
+   "l": 214,
+   "last_date": "2026-11-07"
   },
   "Yangon Galacticos": {
    "rating": 1542.3,
@@ -1046,16 +1046,16 @@
    "last_date": "2026-11-05"
   },
   "Zenith": {
-   "rating": 1532.1,
+   "rating": 1475.7,
    "w": 21,
-   "l": 18,
-   "last_date": "2026-11-05"
+   "l": 22,
+   "last_date": "2026-11-07"
   },
   "Zero Tenacity": {
-   "rating": 1532.5,
-   "w": 432,
-   "l": 378,
-   "last_date": "2026-11-05"
+   "rating": 1542.6,
+   "w": 434,
+   "l": 381,
+   "last_date": "2026-11-07"
   },
   "Zetta Games": {
    "rating": 1425.7,
@@ -1064,10 +1064,10 @@
    "last_date": "2026-06-12"
   },
   "angry birds": {
-   "rating": 1645.8,
-   "w": 15,
-   "l": 4,
-   "last_date": "2026-11-06"
+   "rating": 1625.9,
+   "w": 16,
+   "l": 6,
+   "last_date": "2026-11-07"
   },
   "avice Team": {
    "rating": 1502.0,
@@ -1100,10 +1100,10 @@
    "last_date": "2026-11-03"
   },
   "potn9ki": {
-   "rating": 1582.8,
-   "w": 10,
-   "l": 7,
-   "last_date": "2026-11-03"
+   "rating": 1557.2,
+   "w": 11,
+   "l": 11,
+   "last_date": "2026-11-07"
   },
   "rostikfacekid TEAM": {
    "rating": 1502.9,

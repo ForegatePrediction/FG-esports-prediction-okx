@@ -1,8 +1,8 @@
 {
  "game": "mlbb",
- "updated": "2026-11-07",
- "last_match_date": "2026-11-06",
- "source_matches": 5412,
+ "updated": "2026-11-08",
+ "last_match_date": "2026-11-07",
+ "source_matches": 5427,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 95,
@@ -50,16 +50,16 @@
    "last_date": "2026-06-16"
   },
   "Aura Farmers": {
-   "rating": 1418.8,
+   "rating": 1397.8,
    "w": 18,
-   "l": 59,
-   "last_date": "2026-11-05"
+   "l": 61,
+   "last_date": "2026-11-07"
   },
   "Aurevia Team": {
-   "rating": 1649.5,
-   "w": 28,
+   "rating": 1658.5,
+   "w": 30,
    "l": 21,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-07"
   },
   "Aurora Gaming": {
    "rating": 1708.1,
@@ -86,10 +86,10 @@
    "last_date": "2026-10-30"
   },
   "Bigetron by Vitality": {
-   "rating": 1619.4,
-   "w": 100,
-   "l": 76,
-   "last_date": "2026-11-06"
+   "rating": 1652.3,
+   "w": 104,
+   "l": 79,
+   "last_date": "2026-11-07"
   },
   "Buriram United Esports": {
    "rating": 1464.9,
@@ -98,10 +98,10 @@
    "last_date": "2026-10-16"
   },
   "Bushido Wildcats": {
-   "rating": 1361.2,
-   "w": 0,
+   "rating": 1392.2,
+   "w": 2,
    "l": 8,
-   "last_date": "2026-11-05"
+   "last_date": "2026-11-07"
   },
   "Cambodia": {
    "rating": 1480.8,
@@ -116,10 +116,10 @@
    "last_date": "2026-11-06"
   },
   "Dark Phoenix": {
-   "rating": 1367.0,
+   "rating": 1358.0,
    "w": 17,
-   "l": 36,
-   "last_date": "2026-11-05"
+   "l": 38,
+   "last_date": "2026-11-07"
   },
   "Dewa United Esports": {
    "rating": 1467.7,
@@ -212,10 +212,10 @@
    "last_date": "2026-07-26"
   },
   "HARD GRIND": {
-   "rating": 1472.7,
+   "rating": 1444.7,
    "w": 21,
-   "l": 18,
-   "last_date": "2026-11-05"
+   "l": 20,
+   "last_date": "2026-11-07"
   },
   "Hydra Esports": {
    "rating": 1257.4,
@@ -320,10 +320,10 @@
    "last_date": "2026-10-21"
   },
   "Omnix": {
-   "rating": 1458.4,
-   "w": 30,
+   "rating": 1486.4,
+   "w": 32,
    "l": 34,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-07"
   },
   "PRO Esports": {
    "rating": 1571.7,
@@ -344,10 +344,10 @@
    "last_date": "2026-10-18"
   },
   "Rakuzan": {
-   "rating": 1495.9,
-   "w": 18,
+   "rating": 1516.9,
+   "w": 20,
    "l": 22,
-   "last_date": "2026-11-04"
+   "last_date": "2026-11-07"
   },
   "Rune Eaters Esports": {
    "rating": 1415.3,
@@ -434,10 +434,10 @@
    "last_date": "2026-09-09"
   },
   "Team Liquid ID": {
-   "rating": 1670.0,
-   "w": 138,
-   "l": 115,
-   "last_date": "2026-11-06"
+   "rating": 1637.1,
+   "w": 141,
+   "l": 119,
+   "last_date": "2026-11-07"
   },
   "Team Liquid PH": {
    "rating": 1741.7,
@@ -524,10 +524,10 @@
    "last_date": "2026-08-05"
   },
   "The Soulless Team": {
-   "rating": 1415.1,
+   "rating": 1384.1,
    "w": 19,
-   "l": 21,
-   "last_date": "2026-11-04"
+   "l": 23,
+   "last_date": "2026-11-07"
   },
   "The World": {
    "rating": 1465.3,

@@ -1,8 +1,8 @@
 {
  "game": "sc2",
- "updated": "2026-11-07",
- "last_match_date": "2026-11-03",
- "source_matches": 5222,
+ "updated": "2026-11-08",
+ "last_match_date": "2026-11-07",
+ "source_matches": 5238,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 57,
@@ -26,10 +26,10 @@
    "last_date": "2026-10-27"
   },
   "ByuN": {
-   "rating": 1637.1,
-   "w": 212,
-   "l": 258,
-   "last_date": "2026-11-03"
+   "rating": 1659.0,
+   "w": 214,
+   "l": 261,
+   "last_date": "2026-11-07"
   },
   "Cellsidus": {
    "rating": 1354.9,
@@ -44,10 +44,10 @@
    "last_date": "2026-11-03"
   },
   "Clem": {
-   "rating": 1773.7,
-   "w": 430,
-   "l": 212,
-   "last_date": "2026-10-29"
+   "rating": 1750.2,
+   "w": 431,
+   "l": 215,
+   "last_date": "2026-11-07"
   },
   "Cure": {
    "rating": 1625.1,
@@ -176,10 +176,10 @@
    "last_date": "2026-07-12"
   },
   "MaxPax": {
-   "rating": 1760.5,
-   "w": 245,
-   "l": 155,
-   "last_date": "2026-11-03"
+   "rating": 1784.0,
+   "w": 248,
+   "l": 156,
+   "last_date": "2026-11-07"
   },
   "Mixu": {
    "rating": 1381.0,
@@ -218,22 +218,22 @@
    "last_date": "2026-10-20"
   },
   "Reynor": {
-   "rating": 1774.6,
+   "rating": 1732.3,
    "w": 228,
-   "l": 174,
-   "last_date": "2026-10-22"
+   "l": 177,
+   "last_date": "2026-11-07"
   },
   "Rogue": {
-   "rating": 1671.3,
-   "w": 214,
-   "l": 213,
-   "last_date": "2026-11-03"
+   "rating": 1650.1,
+   "w": 215,
+   "l": 216,
+   "last_date": "2026-11-07"
   },
   "SHIN": {
-   "rating": 1818.3,
-   "w": 264,
-   "l": 254,
-   "last_date": "2026-10-29"
+   "rating": 1796.4,
+   "w": 267,
+   "l": 256,
+   "last_date": "2026-11-07"
   },
   "SKillous": {
    "rating": 1571.0,
@@ -272,10 +272,10 @@
    "last_date": "2026-07-03"
   },
   "Solar": {
-   "rating": 1741.7,
-   "w": 231,
+   "rating": 1784.1,
+   "w": 234,
    "l": 210,
-   "last_date": "2026-10-20"
+   "last_date": "2026-11-07"
   },
   "Spirit": {
    "rating": 1517.8,
@@ -308,10 +308,10 @@
    "last_date": "2026-10-22"
   },
   "herO": {
-   "rating": 1674.7,
-   "w": 377,
-   "l": 236,
-   "last_date": "2026-10-20"
+   "rating": 1695.9,
+   "w": 380,
+   "l": 237,
+   "last_date": "2026-11-07"
   },
   "sOs": {
    "rating": 1437.4,

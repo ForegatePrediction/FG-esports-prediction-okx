@@ -1,8 +1,8 @@
 {
  "game": "valorant",
- "updated": "2026-11-07",
- "last_match_date": "2026-11-07",
- "source_matches": 10321,
+ "updated": "2026-11-08",
+ "last_match_date": "2026-11-08",
+ "source_matches": 10337,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 215,
@@ -386,10 +386,10 @@
    "last_date": "2026-10-24"
   },
   "Fancy United": {
-   "rating": 1587.3,
-   "w": 39,
+   "rating": 1610.8,
+   "w": 41,
    "l": 31,
-   "last_date": "2026-11-05"
+   "last_date": "2026-11-07"
   },
   "Fennel": {
    "rating": 1559.4,
@@ -836,10 +836,10 @@
    "last_date": "2026-06-24"
   },
   "Oasis Gaming": {
-   "rating": 1496.8,
-   "w": 21,
+   "rating": 1523.5,
+   "w": 23,
    "l": 22,
-   "last_date": "2026-06-18"
+   "last_date": "2026-11-07"
   },
   "Octagonal Disposition Gaming": {
    "rating": 1399.2,
