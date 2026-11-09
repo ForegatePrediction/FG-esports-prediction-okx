@@ -1,8 +1,8 @@
 {
  "game": "ow",
- "updated": "2026-11-08",
- "last_match_date": "2026-11-08",
- "source_matches": 4599,
+ "updated": "2026-11-09",
+ "last_match_date": "2026-11-09",
+ "source_matches": 4615,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 71,
@@ -32,8 +32,8 @@
    "last_date": "2026-07-04"
   },
   "All Gamers": {
-   "rating": 1728.8,
-   "w": 81,
+   "rating": 1753.3,
+   "w": 84,
    "l": 53,
    "last_date": "2026-11-08"
   },
@@ -56,10 +56,10 @@
    "last_date": "2026-08-23"
   },
   "CantHear": {
-   "rating": 1345.7,
+   "rating": 1316.0,
    "w": 1,
-   "l": 12,
-   "last_date": "2026-11-07"
+   "l": 15,
+   "last_date": "2026-11-08"
   },
   "Cheeseburger": {
    "rating": 1593.0,
@@ -146,10 +146,10 @@
    "last_date": "2026-09-12"
   },
   "HUNENG": {
-   "rating": 1591.2,
+   "rating": 1566.7,
    "w": 31,
-   "l": 50,
-   "last_date": "2026-11-07"
+   "l": 53,
+   "last_date": "2026-11-08"
   },
   "JD Gaming": {
    "rating": 1584.0,
@@ -260,10 +260,10 @@
    "last_date": "2026-09-13"
   },
   "SeijiKING": {
-   "rating": 1547.1,
-   "w": 12,
-   "l": 4,
-   "last_date": "2026-11-07"
+   "rating": 1540.8,
+   "w": 13,
+   "l": 7,
+   "last_date": "2026-11-08"
   },
   "Solus Victorem": {
    "rating": 1534.2,
@@ -290,10 +290,10 @@
    "last_date": "2026-09-12"
   },
   "Stronghold": {
-   "rating": 1454.2,
+   "rating": 1405.8,
    "w": 11,
-   "l": 23,
-   "last_date": "2026-11-07"
+   "l": 29,
+   "last_date": "2026-11-09"
   },
   "SuperBad": {
    "rating": 1312.0,
@@ -314,10 +314,10 @@
    "last_date": "2026-11-01"
   },
   "Team Benxxn": {
-   "rating": 1479.9,
-   "w": 6,
+   "rating": 1515.8,
+   "w": 9,
    "l": 8,
-   "last_date": "2026-11-07"
+   "last_date": "2026-11-08"
   },
   "Team Liquid": {
    "rating": 1704.2,
@@ -356,10 +356,10 @@
    "last_date": "2026-08-23"
   },
   "The Gatos Guapos": {
-   "rating": 1705.5,
-   "w": 66,
-   "l": 22,
-   "last_date": "2026-11-07"
+   "rating": 1724.4,
+   "w": 72,
+   "l": 23,
+   "last_date": "2026-11-09"
   },
   "The Kafe": {
    "rating": 1497.9,
@@ -428,10 +428,10 @@
    "last_date": "2026-11-01"
   },
   "junjilopzfx0764": {
-   "rating": 1429.5,
-   "w": 7,
+   "rating": 1459.2,
+   "w": 10,
    "l": 12,
-   "last_date": "2026-11-07"
+   "last_date": "2026-11-08"
   }
  }
 }

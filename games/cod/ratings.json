@@ -1,8 +1,8 @@
 {
  "game": "cod",
- "updated": "2026-11-08",
- "last_match_date": "2026-11-07",
- "source_matches": 2863,
+ "updated": "2026-11-09",
+ "last_match_date": "2026-11-08",
+ "source_matches": 2880,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 29,
@@ -32,10 +32,10 @@
    "last_date": "2026-08-07"
   },
   "Cloud9 New York": {
-   "rating": 1503.6,
-   "w": 107,
-   "l": 190,
-   "last_date": "2026-11-07"
+   "rating": 1541.9,
+   "w": 111,
+   "l": 194,
+   "last_date": "2026-11-08"
   },
   "FaZe Clan": {
    "rating": 1482.8,
@@ -110,16 +110,16 @@
    "last_date": "2026-08-09"
   },
   "OpTic Texas": {
-   "rating": 1666.2,
-   "w": 284,
-   "l": 192,
-   "last_date": "2026-11-07"
+   "rating": 1621.9,
+   "w": 285,
+   "l": 195,
+   "last_date": "2026-11-08"
   },
   "Paris Gentle Mates": {
-   "rating": 1693.6,
-   "w": 130,
-   "l": 110,
-   "last_date": "2026-11-07"
+   "rating": 1642.8,
+   "w": 135,
+   "l": 118,
+   "last_date": "2026-11-08"
   },
   "Project Notorious": {
    "rating": 1502.3,
@@ -170,10 +170,10 @@
    "last_date": "2026-08-07"
   },
   "Toronto KOI": {
-   "rating": 1657.2,
-   "w": 112,
-   "l": 92,
-   "last_date": "2026-11-07"
+   "rating": 1713.9,
+   "w": 119,
+   "l": 94,
+   "last_date": "2026-11-08"
   },
   "Vancouver Surge": {
    "rating": 1397.5,

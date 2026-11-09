@@ -1,8 +1,8 @@
 {
  "game": "sc2",
- "updated": "2026-11-08",
- "last_match_date": "2026-11-07",
- "source_matches": 5238,
+ "updated": "2026-11-09",
+ "last_match_date": "2026-11-08",
+ "source_matches": 5253,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 57,
@@ -176,10 +176,10 @@
    "last_date": "2026-07-12"
   },
   "MaxPax": {
-   "rating": 1784.0,
-   "w": 248,
-   "l": 156,
-   "last_date": "2026-11-07"
+   "rating": 1756.5,
+   "w": 250,
+   "l": 160,
+   "last_date": "2026-11-08"
   },
   "Mixu": {
    "rating": 1381.0,
@@ -230,10 +230,10 @@
    "last_date": "2026-11-07"
   },
   "SHIN": {
-   "rating": 1796.4,
-   "w": 267,
-   "l": 256,
-   "last_date": "2026-11-07"
+   "rating": 1779.2,
+   "w": 272,
+   "l": 262,
+   "last_date": "2026-11-08"
   },
   "SKillous": {
    "rating": 1571.0,
@@ -272,10 +272,10 @@
    "last_date": "2026-07-03"
   },
   "Solar": {
-   "rating": 1784.1,
+   "rating": 1723.2,
    "w": 234,
-   "l": 210,
-   "last_date": "2026-11-07"
+   "l": 214,
+   "last_date": "2026-11-08"
   },
   "Spirit": {
    "rating": 1517.8,
@@ -308,10 +308,10 @@
    "last_date": "2026-10-22"
   },
   "herO": {
-   "rating": 1695.9,
-   "w": 380,
-   "l": 237,
-   "last_date": "2026-11-07"
+   "rating": 1801.5,
+   "w": 388,
+   "l": 238,
+   "last_date": "2026-11-08"
   },
   "sOs": {
    "rating": 1437.4,

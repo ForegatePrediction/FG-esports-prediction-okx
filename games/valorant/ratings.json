@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-11-08",
+ "updated": "2026-11-09",
  "last_match_date": "2026-11-08",
- "source_matches": 10337,
+ "source_matches": 10348,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 215,
+ "n_teams": 217,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -140,10 +140,10 @@
    "last_date": "2026-10-25"
   },
   "BERG": {
-   "rating": 1504.9,
+   "rating": 1494.7,
    "w": 5,
-   "l": 6,
-   "last_date": "2026-11-04"
+   "l": 8,
+   "last_date": "2026-11-08"
   },
   "BESTIA": {
    "rating": 1639.6,
@@ -182,10 +182,10 @@
    "last_date": "2026-09-09"
   },
   "CGN Esports": {
-   "rating": 1761.2,
-   "w": 98,
+   "rating": 1771.3,
+   "w": 100,
    "l": 50,
-   "last_date": "2026-10-24"
+   "last_date": "2026-11-08"
   },
   "Catboys": {
    "rating": 1476.5,
@@ -342,6 +342,12 @@
    "w": 29,
    "l": 31,
    "last_date": "2026-08-18"
+  },
+  "FRG": {
+   "rating": 1455.2,
+   "w": 14,
+   "l": 19,
+   "last_date": "2026-11-08"
   },
   "FULL SENSE": {
    "rating": 1502.7,
@@ -542,10 +548,10 @@
    "last_date": "2026-09-20"
   },
   "HooK Esport": {
-   "rating": 1555.3,
+   "rating": 1524.6,
    "w": 8,
-   "l": 5,
-   "last_date": "2026-11-04"
+   "l": 7,
+   "last_date": "2026-11-08"
   },
   "IGZIST": {
    "rating": 1460.4,
@@ -972,6 +978,12 @@
    "w": 18,
    "l": 18,
    "last_date": "2026-08-17"
+  },
+  "SGE Vision": {
+   "rating": 1550.8,
+   "w": 6,
+   "l": 3,
+   "last_date": "2026-11-08"
   },
   "SK Nebula": {
    "rating": 1639.9,
