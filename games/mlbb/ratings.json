@@ -1,11 +1,11 @@
 {
  "game": "mlbb",
- "updated": "2026-11-09",
- "last_match_date": "2026-11-08",
- "source_matches": 5443,
+ "updated": "2026-11-10",
+ "last_match_date": "2026-11-09",
+ "source_matches": 5451,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 96,
+ "n_teams": 99,
  "teams": {
   " Evil Eye Esports": {
    "rating": 1426.6,
@@ -56,10 +56,10 @@
    "last_date": "2026-11-08"
   },
   "Aurevia Team": {
-   "rating": 1658.5,
-   "w": 30,
+   "rating": 1672.4,
+   "w": 32,
    "l": 21,
-   "last_date": "2026-11-07"
+   "last_date": "2026-11-09"
   },
   "Aurora Gaming": {
    "rating": 1708.1,
@@ -108,6 +108,12 @@
    "w": 5,
    "l": 7,
    "last_date": "2026-09-29"
+  },
+  "Chempiki": {
+   "rating": 1520.1,
+   "w": 6,
+   "l": 3,
+   "last_date": "2026-11-09"
   },
   "Cyber Hero": {
    "rating": 1528.6,
@@ -295,6 +301,12 @@
    "l": 7,
    "last_date": "2026-07-18"
   },
+  "Never maind": {
+   "rating": 1432.4,
+   "w": 2,
+   "l": 6,
+   "last_date": "2026-11-09"
+  },
   "Nice Try": {
    "rating": 1595.0,
    "w": 8,
@@ -326,10 +338,10 @@
    "last_date": "2026-10-21"
   },
   "Omnix": {
-   "rating": 1486.4,
+   "rating": 1451.4,
    "w": 32,
-   "l": 34,
-   "last_date": "2026-11-07"
+   "l": 36,
+   "last_date": "2026-11-09"
   },
   "PRO Esports": {
    "rating": 1571.7,
@@ -350,10 +362,10 @@
    "last_date": "2026-10-18"
   },
   "Rakuzan": {
-   "rating": 1516.9,
-   "w": 20,
+   "rating": 1539.9,
+   "w": 22,
    "l": 22,
-   "last_date": "2026-11-07"
+   "last_date": "2026-11-09"
   },
   "Rune Eaters Esports": {
    "rating": 1415.3,
@@ -451,6 +463,12 @@
    "l": 77,
    "last_date": "2026-10-24"
   },
+  "Team Oblivion": {
+   "rating": 1452.5,
+   "w": 2,
+   "l": 6,
+   "last_date": "2026-11-09"
+  },
   "Team RVZ": {
    "rating": 1575.7,
    "w": 17,
@@ -530,16 +548,16 @@
    "last_date": "2026-08-05"
   },
   "The Soulless Team": {
-   "rating": 1384.1,
+   "rating": 1365.6,
    "w": 19,
-   "l": 23,
-   "last_date": "2026-11-07"
+   "l": 25,
+   "last_date": "2026-11-09"
   },
   "The World": {
-   "rating": 1465.3,
+   "rating": 1442.4,
    "w": 24,
-   "l": 28,
-   "last_date": "2026-11-06"
+   "l": 30,
+   "last_date": "2026-11-09"
   },
   "Twisted Minds PH": {
    "rating": 1331.0,

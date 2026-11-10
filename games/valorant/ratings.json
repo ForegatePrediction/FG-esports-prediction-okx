@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-11-09",
- "last_match_date": "2026-11-08",
- "source_matches": 10348,
+ "updated": "2026-11-10",
+ "last_match_date": "2026-11-09",
+ "source_matches": 10351,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 217,
+ "n_teams": 215,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -150,12 +150,6 @@
    "w": 26,
    "l": 14,
    "last_date": "2026-08-22"
-  },
-  "BOOM Esports": {
-   "rating": 1478.4,
-   "w": 23,
-   "l": 30,
-   "last_date": "2026-06-11"
   },
   "Barça eSports": {
    "rating": 1611.3,
@@ -672,12 +666,6 @@
    "w": 72,
    "l": 53,
    "last_date": "2026-08-30"
-  },
-  "Looking For Home": {
-   "rating": 1424.3,
-   "w": 2,
-   "l": 6,
-   "last_date": "2026-06-11"
   },
   "Looking For Laburo": {
    "rating": 1492.6,

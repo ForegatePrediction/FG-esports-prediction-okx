@@ -1,8 +1,8 @@
 {
  "game": "ow",
- "updated": "2026-11-09",
+ "updated": "2026-11-10",
  "last_match_date": "2026-11-09",
- "source_matches": 4615,
+ "source_matches": 4624,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 71,
@@ -260,10 +260,10 @@
    "last_date": "2026-09-13"
   },
   "SeijiKING": {
-   "rating": 1540.8,
-   "w": 13,
-   "l": 7,
-   "last_date": "2026-11-08"
+   "rating": 1542.5,
+   "w": 16,
+   "l": 9,
+   "last_date": "2026-11-09"
   },
   "Solus Victorem": {
    "rating": 1534.2,
@@ -290,9 +290,9 @@
    "last_date": "2026-09-12"
   },
   "Stronghold": {
-   "rating": 1405.8,
-   "w": 11,
-   "l": 29,
+   "rating": 1393.0,
+   "w": 12,
+   "l": 32,
    "last_date": "2026-11-09"
   },
   "SuperBad": {
@@ -314,10 +314,10 @@
    "last_date": "2026-11-01"
   },
   "Team Benxxn": {
-   "rating": 1515.8,
-   "w": 9,
-   "l": 8,
-   "last_date": "2026-11-08"
+   "rating": 1526.8,
+   "w": 14,
+   "l": 12,
+   "last_date": "2026-11-09"
   },
   "Team Liquid": {
    "rating": 1704.2,

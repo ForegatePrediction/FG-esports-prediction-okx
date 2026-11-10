@@ -1,8 +1,8 @@
 {
  "game": "r6",
- "updated": "2026-11-09",
- "last_match_date": "2026-11-09",
- "source_matches": 3873,
+ "updated": "2026-11-10",
+ "last_match_date": "2026-11-10",
+ "source_matches": 3885,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 75,
@@ -14,10 +14,10 @@
    "last_date": "2026-09-24"
   },
   "100 Thieves": {
-   "rating": 1651.9,
-   "w": 22,
+   "rating": 1676.6,
+   "w": 24,
    "l": 17,
-   "last_date": "2026-11-09"
+   "last_date": "2026-11-10"
   },
   "6Targets Esports": {
    "rating": 1481.4,
@@ -92,16 +92,16 @@
    "last_date": "2026-09-22"
   },
   "Cloud9": {
-   "rating": 1567.1,
+   "rating": 1553.4,
    "w": 31,
-   "l": 41,
-   "last_date": "2026-11-09"
+   "l": 43,
+   "last_date": "2026-11-10"
   },
   "DarkZero Esports": {
-   "rating": 1666.7,
-   "w": 94,
+   "rating": 1691.5,
+   "w": 96,
    "l": 68,
-   "last_date": "2026-11-09"
+   "last_date": "2026-11-10"
   },
   "Daystar": {
    "rating": 1571.0,
@@ -146,10 +146,10 @@
    "last_date": "2026-10-25"
   },
   "FaZe Clan": {
-   "rating": 1807.4,
-   "w": 149,
+   "rating": 1821.3,
+   "w": 151,
    "l": 72,
-   "last_date": "2026-11-09"
+   "last_date": "2026-11-10"
   },
   "Falcons Esport": {
    "rating": 1809.1,
@@ -176,10 +176,10 @@
    "last_date": "2026-10-02"
   },
   "Fluxo W7M": {
-   "rating": 1623.4,
+   "rating": 1598.7,
    "w": 40,
-   "l": 38,
-   "last_date": "2026-11-09"
+   "l": 40,
+   "last_date": "2026-11-10"
   },
   "Fnatic": {
    "rating": 1538.5,
@@ -206,16 +206,16 @@
    "last_date": "2026-10-16"
   },
   "G2 Esports": {
-   "rating": 1729.4,
-   "w": 113,
+   "rating": 1752.7,
+   "w": 115,
    "l": 64,
-   "last_date": "2026-11-09"
+   "last_date": "2026-11-10"
   },
   "Geekay Esports": {
-   "rating": 1682.6,
+   "rating": 1659.3,
    "w": 36,
-   "l": 35,
-   "last_date": "2026-11-09"
+   "l": 37,
+   "last_date": "2026-11-10"
   },
   "HL tauri Esports": {
    "rating": 1332.7,
@@ -260,10 +260,10 @@
    "last_date": "2026-10-11"
   },
   "LOS": {
-   "rating": 1622.5,
+   "rating": 1608.6,
    "w": 38,
-   "l": 50,
-   "last_date": "2026-11-09"
+   "l": 52,
+   "last_date": "2026-11-10"
   },
   "LOUD": {
    "rating": 1472.0,
@@ -284,10 +284,10 @@
    "last_date": "2026-10-22"
   },
   "M80": {
-   "rating": 1677.7,
+   "rating": 1652.3,
    "w": 93,
-   "l": 65,
-   "last_date": "2026-11-09"
+   "l": 67,
+   "last_date": "2026-11-10"
   },
   "Man eSports LFO": {
    "rating": 1504.2,
@@ -362,10 +362,10 @@
    "last_date": "2026-09-22"
   },
   "Sharper Esport": {
-   "rating": 1640.2,
+   "rating": 1615.4,
    "w": 13,
-   "l": 7,
-   "last_date": "2026-11-09"
+   "l": 9,
+   "last_date": "2026-11-10"
   },
   "Shifters": {
    "rating": 1528.3,
@@ -440,16 +440,16 @@
    "last_date": "2026-10-06"
   },
   "Virtus.pro": {
-   "rating": 1696.7,
-   "w": 79,
+   "rating": 1722.1,
+   "w": 81,
    "l": 63,
-   "last_date": "2026-11-09"
+   "last_date": "2026-11-10"
   },
   "Weibo Gaming": {
-   "rating": 1756.7,
-   "w": 101,
+   "rating": 1770.3,
+   "w": 103,
    "l": 45,
-   "last_date": "2026-11-09"
+   "last_date": "2026-11-10"
   },
   "Wildcard Gaming": {
    "rating": 1667.7,
