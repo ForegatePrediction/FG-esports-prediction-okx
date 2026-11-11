@@ -1,8 +1,8 @@
 {
  "game": "r6",
- "updated": "2026-11-10",
- "last_match_date": "2026-11-10",
- "source_matches": 3885,
+ "updated": "2026-11-11",
+ "last_match_date": "2026-11-11",
+ "source_matches": 3892,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 75,
@@ -14,10 +14,10 @@
    "last_date": "2026-09-24"
   },
   "100 Thieves": {
-   "rating": 1676.6,
-   "w": 24,
-   "l": 17,
-   "last_date": "2026-11-10"
+   "rating": 1658.9,
+   "w": 25,
+   "l": 19,
+   "last_date": "2026-11-11"
   },
   "6Targets Esports": {
    "rating": 1481.4,
@@ -98,10 +98,10 @@
    "last_date": "2026-11-10"
   },
   "DarkZero Esports": {
-   "rating": 1691.5,
-   "w": 96,
+   "rating": 1724.4,
+   "w": 98,
    "l": 68,
-   "last_date": "2026-11-10"
+   "last_date": "2026-11-11"
   },
   "Daystar": {
    "rating": 1571.0,
@@ -212,10 +212,10 @@
    "last_date": "2026-11-10"
   },
   "Geekay Esports": {
-   "rating": 1659.3,
-   "w": 36,
+   "rating": 1682.3,
+   "w": 38,
    "l": 37,
-   "last_date": "2026-11-10"
+   "last_date": "2026-11-11"
   },
   "HL tauri Esports": {
    "rating": 1332.7,
@@ -260,10 +260,10 @@
    "last_date": "2026-10-11"
   },
   "LOS": {
-   "rating": 1608.6,
+   "rating": 1585.6,
    "w": 38,
-   "l": 52,
-   "last_date": "2026-11-10"
+   "l": 54,
+   "last_date": "2026-11-11"
   },
   "LOUD": {
    "rating": 1472.0,
@@ -284,10 +284,10 @@
    "last_date": "2026-10-22"
   },
   "M80": {
-   "rating": 1652.3,
-   "w": 93,
-   "l": 67,
-   "last_date": "2026-11-10"
+   "rating": 1670.0,
+   "w": 95,
+   "l": 68,
+   "last_date": "2026-11-11"
   },
   "Man eSports LFO": {
    "rating": 1504.2,
@@ -446,10 +446,10 @@
    "last_date": "2026-11-10"
   },
   "Weibo Gaming": {
-   "rating": 1770.3,
+   "rating": 1737.4,
    "w": 103,
-   "l": 45,
-   "last_date": "2026-11-10"
+   "l": 47,
+   "last_date": "2026-11-11"
   },
   "Wildcard Gaming": {
    "rating": 1667.7,

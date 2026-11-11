@@ -1,8 +1,8 @@
 {
  "game": "sc2",
- "updated": "2026-11-10",
- "last_match_date": "2026-11-08",
- "source_matches": 5253,
+ "updated": "2026-11-11",
+ "last_match_date": "2026-11-10",
+ "source_matches": 5273,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 57,
@@ -38,10 +38,10 @@
    "last_date": "2026-07-04"
   },
   "Classic": {
-   "rating": 1624.9,
-   "w": 292,
-   "l": 229,
-   "last_date": "2026-11-03"
+   "rating": 1573.7,
+   "w": 293,
+   "l": 232,
+   "last_date": "2026-11-10"
   },
   "Clem": {
    "rating": 1750.2,
@@ -80,10 +80,10 @@
    "last_date": "2026-07-04"
   },
   "GgMaChine": {
-   "rating": 1451.2,
-   "w": 6,
-   "l": 19,
-   "last_date": "2026-11-03"
+   "rating": 1502.4,
+   "w": 9,
+   "l": 20,
+   "last_date": "2026-11-10"
   },
   "Goblin": {
    "rating": 1471.9,
@@ -146,10 +146,10 @@
    "last_date": "2026-10-20"
   },
   "Lambo": {
-   "rating": 1455.5,
-   "w": 96,
-   "l": 102,
-   "last_date": "2026-10-27"
+   "rating": 1486.5,
+   "w": 99,
+   "l": 105,
+   "last_date": "2026-11-10"
   },
   "LetaleX": {
    "rating": 1262.6,
@@ -212,10 +212,10 @@
    "last_date": "2026-06-28"
   },
   "Percival": {
-   "rating": 1618.3,
-   "w": 69,
-   "l": 102,
-   "last_date": "2026-10-20"
+   "rating": 1616.0,
+   "w": 74,
+   "l": 107,
+   "last_date": "2026-11-10"
   },
   "Reynor": {
    "rating": 1732.3,
@@ -230,10 +230,10 @@
    "last_date": "2026-11-07"
   },
   "SHIN": {
-   "rating": 1779.2,
-   "w": 272,
+   "rating": 1792.6,
+   "w": 275,
    "l": 262,
-   "last_date": "2026-11-08"
+   "last_date": "2026-11-10"
   },
   "SKillous": {
    "rating": 1571.0,
@@ -254,10 +254,10 @@
    "last_date": "2026-09-13"
   },
   "Shameless": {
-   "rating": 1481.8,
-   "w": 41,
-   "l": 54,
-   "last_date": "2026-09-22"
+   "rating": 1497.6,
+   "w": 43,
+   "l": 57,
+   "last_date": "2026-11-10"
   },
   "Shino": {
    "rating": 1384.2,
@@ -272,10 +272,10 @@
    "last_date": "2026-07-03"
   },
   "Solar": {
-   "rating": 1723.2,
-   "w": 234,
-   "l": 214,
-   "last_date": "2026-11-08"
+   "rating": 1709.8,
+   "w": 237,
+   "l": 216,
+   "last_date": "2026-11-10"
   },
   "Spirit": {
    "rating": 1517.8,
@@ -344,10 +344,10 @@
    "last_date": "2026-11-03"
   },
   "youngYakov": {
-   "rating": 1506.6,
+   "rating": 1462.2,
    "w": 39,
-   "l": 72,
-   "last_date": "2026-09-22"
+   "l": 75,
+   "last_date": "2026-11-10"
   }
  }
 }

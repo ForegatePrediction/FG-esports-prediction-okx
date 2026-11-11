@@ -1,8 +1,8 @@
 {
  "game": "ow",
- "updated": "2026-11-10",
- "last_match_date": "2026-11-09",
- "source_matches": 4624,
+ "updated": "2026-11-11",
+ "last_match_date": "2026-11-11",
+ "source_matches": 4630,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 71,
@@ -110,10 +110,10 @@
    "last_date": "2026-07-02"
   },
   "ENTER FORCE.36": {
-   "rating": 1688.4,
+   "rating": 1676.4,
    "w": 49,
-   "l": 23,
-   "last_date": "2026-10-14"
+   "l": 26,
+   "last_date": "2026-11-11"
   },
   "Falcons": {
    "rating": 1720.8,
@@ -308,10 +308,10 @@
    "last_date": "2026-09-13"
   },
   "T1": {
-   "rating": 1867.5,
-   "w": 171,
+   "rating": 1891.4,
+   "w": 174,
    "l": 95,
-   "last_date": "2026-11-01"
+   "last_date": "2026-11-11"
   },
   "Team Benxxn": {
    "rating": 1526.8,
@@ -356,10 +356,10 @@
    "last_date": "2026-08-23"
   },
   "The Gatos Guapos": {
-   "rating": 1724.4,
+   "rating": 1700.4,
    "w": 72,
-   "l": 23,
-   "last_date": "2026-11-09"
+   "l": 26,
+   "last_date": "2026-11-11"
   },
   "The Kafe": {
    "rating": 1497.9,
@@ -422,10 +422,10 @@
    "last_date": "2026-11-01"
   },
   "ZETA DIVISION": {
-   "rating": 1991.5,
-   "w": 197,
+   "rating": 2003.5,
+   "w": 200,
    "l": 98,
-   "last_date": "2026-11-01"
+   "last_date": "2026-11-11"
   },
   "junjilopzfx0764": {
    "rating": 1459.2,

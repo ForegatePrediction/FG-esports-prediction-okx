@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-11-10",
- "last_match_date": "2026-11-09",
- "source_matches": 10351,
+ "updated": "2026-11-11",
+ "last_match_date": "2026-11-10",
+ "source_matches": 10377,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 215,
+ "n_teams": 217,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -151,6 +151,12 @@
    "l": 14,
    "last_date": "2026-08-22"
   },
+  "BOOM Esports": {
+   "rating": 1506.5,
+   "w": 25,
+   "l": 30,
+   "last_date": "2026-11-10"
+  },
   "Barça eSports": {
    "rating": 1611.3,
    "w": 46,
@@ -176,10 +182,10 @@
    "last_date": "2026-09-09"
   },
   "CGN Esports": {
-   "rating": 1771.3,
-   "w": 100,
+   "rating": 1778.6,
+   "w": 102,
    "l": 50,
-   "last_date": "2026-11-08"
+   "last_date": "2026-11-10"
   },
   "Catboys": {
    "rating": 1476.5,
@@ -318,6 +324,12 @@
    "w": 20,
    "l": 38,
    "last_date": "2026-06-28"
+  },
+  "F9 EICAR": {
+   "rating": 1458.3,
+   "w": 17,
+   "l": 38,
+   "last_date": "2026-11-10"
   },
   "FENNEL Female": {
    "rating": 1658.4,
@@ -872,10 +884,10 @@
    "last_date": "2026-06-26"
   },
   "Pixel Lumina": {
-   "rating": 1552.3,
+   "rating": 1521.9,
    "w": 40,
-   "l": 42,
-   "last_date": "2026-07-10"
+   "l": 44,
+   "last_date": "2026-11-10"
   },
   "QT DIG∞": {
    "rating": 1563.0,
@@ -1010,10 +1022,10 @@
    "last_date": "2026-08-22"
   },
   "Sharper Esport": {
-   "rating": 1617.2,
-   "w": 43,
+   "rating": 1635.2,
+   "w": 45,
    "l": 32,
-   "last_date": "2026-08-23"
+   "last_date": "2026-11-10"
   },
   "ShindeN": {
    "rating": 1672.8,
@@ -1250,10 +1262,10 @@
    "last_date": "2026-10-01"
   },
   "Xipto Esports": {
-   "rating": 1389.5,
-   "w": 16,
+   "rating": 1424.3,
+   "w": 18,
    "l": 25,
-   "last_date": "2026-08-20"
+   "last_date": "2026-11-10"
   },
   "YFT Esports": {
    "rating": 1498.7,

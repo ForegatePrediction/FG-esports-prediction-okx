@@ -1,8 +1,8 @@
 {
  "game": "mlbb",
- "updated": "2026-11-10",
- "last_match_date": "2026-11-09",
- "source_matches": 5451,
+ "updated": "2026-11-11",
+ "last_match_date": "2026-11-10",
+ "source_matches": 5460,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 99,
@@ -56,10 +56,10 @@
    "last_date": "2026-11-08"
   },
   "Aurevia Team": {
-   "rating": 1672.4,
+   "rating": 1642.9,
    "w": 32,
-   "l": 21,
-   "last_date": "2026-11-09"
+   "l": 23,
+   "last_date": "2026-11-10"
   },
   "Aurora Gaming": {
    "rating": 1708.1,
@@ -116,10 +116,10 @@
    "last_date": "2026-11-09"
   },
   "Cyber Hero": {
-   "rating": 1528.6,
-   "w": 152,
+   "rating": 1543.9,
+   "w": 154,
    "l": 155,
-   "last_date": "2026-11-08"
+   "last_date": "2026-11-10"
   },
   "Dark Phoenix": {
    "rating": 1348.5,
@@ -158,10 +158,10 @@
    "last_date": "2026-06-21"
   },
   "FUT Esports": {
-   "rating": 1638.0,
-   "w": 16,
+   "rating": 1667.5,
+   "w": 18,
    "l": 8,
-   "last_date": "2026-11-08"
+   "last_date": "2026-11-10"
   },
   "Falcons Vega": {
    "rating": 1536.5,
@@ -308,10 +308,10 @@
    "last_date": "2026-11-09"
   },
   "Nice Try": {
-   "rating": 1595.0,
-   "w": 8,
+   "rating": 1611.5,
+   "w": 10,
    "l": 1,
-   "last_date": "2026-11-08"
+   "last_date": "2026-11-10"
   },
   "Niightmare Esports": {
    "rating": 1398.1,
@@ -338,10 +338,10 @@
    "last_date": "2026-10-21"
   },
   "Omnix": {
-   "rating": 1451.4,
+   "rating": 1435.0,
    "w": 32,
-   "l": 36,
-   "last_date": "2026-11-09"
+   "l": 38,
+   "last_date": "2026-11-10"
   },
   "PRO Esports": {
    "rating": 1571.7,
@@ -362,10 +362,10 @@
    "last_date": "2026-10-18"
   },
   "Rakuzan": {
-   "rating": 1539.9,
-   "w": 22,
-   "l": 22,
-   "last_date": "2026-11-09"
+   "rating": 1545.0,
+   "w": 23,
+   "l": 24,
+   "last_date": "2026-11-10"
   },
   "Rune Eaters Esports": {
    "rating": 1415.3,
@@ -524,10 +524,10 @@
    "last_date": "2026-09-09"
   },
   "Team Yandex": {
-   "rating": 1733.4,
-   "w": 83,
-   "l": 59,
-   "last_date": "2026-11-08"
+   "rating": 1728.3,
+   "w": 85,
+   "l": 60,
+   "last_date": "2026-11-10"
   },
   "Tenacity": {
    "rating": 1569.3,
@@ -548,10 +548,10 @@
    "last_date": "2026-08-05"
   },
   "The Soulless Team": {
-   "rating": 1365.6,
+   "rating": 1350.4,
    "w": 19,
-   "l": 25,
-   "last_date": "2026-11-09"
+   "l": 27,
+   "last_date": "2026-11-10"
   },
   "The World": {
    "rating": 1442.4,
