@@ -1,18 +1,12 @@
 {
  "game": "ow",
- "updated": "2026-11-11",
- "last_match_date": "2026-11-11",
- "source_matches": 4630,
+ "updated": "2026-11-12",
+ "last_match_date": "2026-11-12",
+ "source_matches": 4649,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 71,
+ "n_teams": 69,
  "teams": {
-  " ReturnZ": {
-   "rating": 1351.1,
-   "w": 0,
-   "l": 9,
-   "last_date": "2026-06-14"
-  },
   "1234": {
    "rating": 1635.3,
    "w": 22,
@@ -80,10 +74,10 @@
    "last_date": "2026-08-23"
   },
   "Crazy Raccoon": {
-   "rating": 1941.0,
-   "w": 227,
+   "rating": 1990.7,
+   "w": 233,
    "l": 90,
-   "last_date": "2026-11-01"
+   "last_date": "2026-11-12"
   },
   "Dallas Fuel": {
    "rating": 1784.5,
@@ -110,16 +104,16 @@
    "last_date": "2026-07-02"
   },
   "ENTER FORCE.36": {
-   "rating": 1676.4,
+   "rating": 1664.3,
    "w": 49,
-   "l": 26,
-   "last_date": "2026-11-11"
+   "l": 29,
+   "last_date": "2026-11-12"
   },
   "Falcons": {
-   "rating": 1720.8,
-   "w": 191,
-   "l": 105,
-   "last_date": "2026-10-30"
+   "rating": 1766.5,
+   "w": 197,
+   "l": 106,
+   "last_date": "2026-11-12"
   },
   "Four Angry Men": {
    "rating": 1411.2,
@@ -163,12 +157,6 @@
    "l": 9,
    "last_date": "2026-08-22"
   },
-  "Kitsune Kage": {
-   "rating": 1356.6,
-   "w": 0,
-   "l": 9,
-   "last_date": "2026-06-14"
-  },
   "Lazuli": {
    "rating": 1519.9,
    "w": 70,
@@ -188,10 +176,10 @@
    "last_date": "2026-07-02"
   },
   "MURASH GAMING": {
-   "rating": 1650.5,
+   "rating": 1605.5,
    "w": 31,
-   "l": 18,
-   "last_date": "2026-10-14"
+   "l": 24,
+   "last_date": "2026-11-12"
   },
   "Mexico": {
    "rating": 1394.6,
@@ -308,10 +296,10 @@
    "last_date": "2026-09-13"
   },
   "T1": {
-   "rating": 1891.4,
-   "w": 174,
+   "rating": 1905.3,
+   "w": 177,
    "l": 95,
-   "last_date": "2026-11-11"
+   "last_date": "2026-11-12"
   },
   "Team Benxxn": {
    "rating": 1526.8,
@@ -356,10 +344,10 @@
    "last_date": "2026-08-23"
   },
   "The Gatos Guapos": {
-   "rating": 1700.4,
-   "w": 72,
-   "l": 26,
-   "last_date": "2026-11-11"
+   "rating": 1685.9,
+   "w": 73,
+   "l": 29,
+   "last_date": "2026-11-12"
   },
   "The Kafe": {
    "rating": 1497.9,
@@ -398,10 +386,10 @@
    "last_date": "2026-10-14"
   },
   "VARREL": {
-   "rating": 1931.4,
+   "rating": 1866.6,
    "w": 136,
-   "l": 28,
-   "last_date": "2026-10-14"
+   "l": 34,
+   "last_date": "2026-11-12"
   },
   "Virtus.pro": {
    "rating": 1714.7,
@@ -422,10 +410,10 @@
    "last_date": "2026-11-01"
   },
   "ZETA DIVISION": {
-   "rating": 2003.5,
-   "w": 200,
+   "rating": 2030.6,
+   "w": 203,
    "l": 98,
-   "last_date": "2026-11-11"
+   "last_date": "2026-11-12"
   },
   "junjilopzfx0764": {
    "rating": 1459.2,

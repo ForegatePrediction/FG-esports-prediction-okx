@@ -1,8 +1,8 @@
 {
  "game": "mlbb",
- "updated": "2026-11-11",
- "last_match_date": "2026-11-10",
- "source_matches": 5460,
+ "updated": "2026-11-12",
+ "last_match_date": "2026-11-12",
+ "source_matches": 5475,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 99,
@@ -50,10 +50,10 @@
    "last_date": "2026-06-16"
   },
   "Aura Farmers": {
-   "rating": 1390.5,
+   "rating": 1367.6,
    "w": 18,
-   "l": 63,
-   "last_date": "2026-11-08"
+   "l": 65,
+   "last_date": "2026-11-11"
   },
   "Aurevia Team": {
    "rating": 1642.9,
@@ -98,10 +98,10 @@
    "last_date": "2026-10-16"
   },
   "Bushido Wildcats": {
-   "rating": 1391.8,
-   "w": 3,
-   "l": 10,
-   "last_date": "2026-11-08"
+   "rating": 1394.5,
+   "w": 4,
+   "l": 12,
+   "last_date": "2026-11-11"
   },
   "Cambodia": {
    "rating": 1480.8,
@@ -110,10 +110,10 @@
    "last_date": "2026-09-29"
   },
   "Chempiki": {
-   "rating": 1520.1,
-   "w": 6,
-   "l": 3,
-   "last_date": "2026-11-09"
+   "rating": 1517.4,
+   "w": 8,
+   "l": 4,
+   "last_date": "2026-11-11"
   },
   "Cyber Hero": {
    "rating": 1543.9,
@@ -122,10 +122,10 @@
    "last_date": "2026-11-10"
   },
   "Dark Phoenix": {
-   "rating": 1348.5,
-   "w": 17,
-   "l": 40,
-   "last_date": "2026-11-08"
+   "rating": 1348.8,
+   "w": 18,
+   "l": 42,
+   "last_date": "2026-11-11"
   },
   "Dewa United Esports": {
    "rating": 1467.7,
@@ -218,10 +218,10 @@
    "last_date": "2026-07-26"
   },
   "HARD GRIND": {
-   "rating": 1427.4,
-   "w": 21,
+   "rating": 1454.6,
+   "w": 23,
    "l": 22,
-   "last_date": "2026-11-08"
+   "last_date": "2026-11-11"
   },
   "Hydra Esports": {
    "rating": 1257.4,
@@ -302,10 +302,10 @@
    "last_date": "2026-07-18"
   },
   "Never maind": {
-   "rating": 1432.4,
+   "rating": 1405.1,
    "w": 2,
-   "l": 6,
-   "last_date": "2026-11-09"
+   "l": 8,
+   "last_date": "2026-11-11"
   },
   "Nice Try": {
    "rating": 1611.5,
@@ -344,10 +344,10 @@
    "last_date": "2026-11-10"
   },
   "PRO Esports": {
-   "rating": 1571.7,
-   "w": 48,
-   "l": 45,
-   "last_date": "2026-11-01"
+   "rating": 1544.7,
+   "w": 50,
+   "l": 48,
+   "last_date": "2026-11-12"
   },
   "RRQ Hoshi": {
    "rating": 1463.5,
@@ -410,10 +410,10 @@
    "last_date": "2026-10-21"
   },
   "TNR Esports": {
-   "rating": 1517.0,
-   "w": 13,
-   "l": 12,
-   "last_date": "2026-11-01"
+   "rating": 1544.0,
+   "w": 16,
+   "l": 14,
+   "last_date": "2026-11-12"
   },
   "Team EvilKing": {
    "rating": 1458.1,
@@ -464,10 +464,10 @@
    "last_date": "2026-10-24"
   },
   "Team Oblivion": {
-   "rating": 1452.5,
-   "w": 2,
-   "l": 6,
-   "last_date": "2026-11-09"
+   "rating": 1452.2,
+   "w": 4,
+   "l": 7,
+   "last_date": "2026-11-11"
   },
   "Team RVZ": {
    "rating": 1575.7,
@@ -554,10 +554,10 @@
    "last_date": "2026-11-10"
   },
   "The World": {
-   "rating": 1442.4,
-   "w": 24,
+   "rating": 1465.3,
+   "w": 26,
    "l": 30,
-   "last_date": "2026-11-09"
+   "last_date": "2026-11-11"
   },
   "Twisted Minds PH": {
    "rating": 1331.0,
