@@ -1,8 +1,8 @@
 {
  "game": "ow",
- "updated": "2026-11-12",
- "last_match_date": "2026-11-12",
- "source_matches": 4649,
+ "updated": "2026-11-13",
+ "last_match_date": "2026-11-13",
+ "source_matches": 4656,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 69,
@@ -104,10 +104,10 @@
    "last_date": "2026-07-02"
   },
   "ENTER FORCE.36": {
-   "rating": 1664.3,
-   "w": 49,
-   "l": 29,
-   "last_date": "2026-11-12"
+   "rating": 1667.8,
+   "w": 50,
+   "l": 32,
+   "last_date": "2026-11-13"
   },
   "Falcons": {
    "rating": 1766.5,
@@ -176,10 +176,10 @@
    "last_date": "2026-07-02"
   },
   "MURASH GAMING": {
-   "rating": 1605.5,
+   "rating": 1575.4,
    "w": 31,
-   "l": 24,
-   "last_date": "2026-11-12"
+   "l": 27,
+   "last_date": "2026-11-13"
   },
   "Mexico": {
    "rating": 1394.6,
@@ -344,10 +344,10 @@
    "last_date": "2026-08-23"
   },
   "The Gatos Guapos": {
-   "rating": 1685.9,
-   "w": 73,
+   "rating": 1716.0,
+   "w": 76,
    "l": 29,
-   "last_date": "2026-11-12"
+   "last_date": "2026-11-13"
   },
   "The Kafe": {
    "rating": 1497.9,
@@ -386,10 +386,10 @@
    "last_date": "2026-10-14"
   },
   "VARREL": {
-   "rating": 1866.6,
-   "w": 136,
-   "l": 34,
-   "last_date": "2026-11-12"
+   "rating": 1863.1,
+   "w": 139,
+   "l": 35,
+   "last_date": "2026-11-13"
   },
   "Virtus.pro": {
    "rating": 1714.7,

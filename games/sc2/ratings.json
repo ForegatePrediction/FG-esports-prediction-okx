@@ -1,8 +1,8 @@
 {
  "game": "sc2",
- "updated": "2026-11-12",
- "last_match_date": "2026-11-10",
- "source_matches": 5273,
+ "updated": "2026-11-13",
+ "last_match_date": "2026-11-12",
+ "source_matches": 5292,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 57,
@@ -80,10 +80,10 @@
    "last_date": "2026-07-04"
   },
   "GgMaChine": {
-   "rating": 1502.4,
+   "rating": 1464.5,
    "w": 9,
-   "l": 20,
-   "last_date": "2026-11-10"
+   "l": 23,
+   "last_date": "2026-11-12"
   },
   "Goblin": {
    "rating": 1471.9,
@@ -146,10 +146,10 @@
    "last_date": "2026-10-20"
   },
   "Lambo": {
-   "rating": 1486.5,
-   "w": 99,
-   "l": 105,
-   "last_date": "2026-11-10"
+   "rating": 1547.6,
+   "w": 105,
+   "l": 106,
+   "last_date": "2026-11-12"
   },
   "LetaleX": {
    "rating": 1262.6,
@@ -212,10 +212,10 @@
    "last_date": "2026-06-28"
   },
   "Percival": {
-   "rating": 1616.0,
-   "w": 74,
-   "l": 107,
-   "last_date": "2026-11-10"
+   "rating": 1614.8,
+   "w": 78,
+   "l": 110,
+   "last_date": "2026-11-12"
   },
   "Reynor": {
    "rating": 1732.3,
@@ -224,10 +224,10 @@
    "last_date": "2026-11-07"
   },
   "Rogue": {
-   "rating": 1650.1,
-   "w": 215,
-   "l": 216,
-   "last_date": "2026-11-07"
+   "rating": 1645.3,
+   "w": 221,
+   "l": 219,
+   "last_date": "2026-11-12"
   },
   "SHIN": {
    "rating": 1792.6,
@@ -254,10 +254,10 @@
    "last_date": "2026-09-13"
   },
   "Shameless": {
-   "rating": 1497.6,
-   "w": 43,
-   "l": 57,
-   "last_date": "2026-11-10"
+   "rating": 1474.3,
+   "w": 44,
+   "l": 60,
+   "last_date": "2026-11-12"
   },
   "Shino": {
    "rating": 1384.2,
@@ -338,16 +338,16 @@
    "last_date": "2026-09-05"
   },
   "uThermal": {
-   "rating": 1411.9,
-   "w": 35,
-   "l": 47,
-   "last_date": "2026-11-03"
+   "rating": 1440.8,
+   "w": 37,
+   "l": 50,
+   "last_date": "2026-11-12"
   },
   "youngYakov": {
-   "rating": 1462.2,
+   "rating": 1439.2,
    "w": 39,
-   "l": 75,
-   "last_date": "2026-11-10"
+   "l": 78,
+   "last_date": "2026-11-12"
   }
  }
 }

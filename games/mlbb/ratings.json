@@ -1,11 +1,11 @@
 {
  "game": "mlbb",
- "updated": "2026-11-12",
- "last_match_date": "2026-11-12",
- "source_matches": 5475,
+ "updated": "2026-11-13",
+ "last_match_date": "2026-11-13",
+ "source_matches": 5496,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 99,
+ "n_teams": 97,
  "teams": {
   " Evil Eye Esports": {
    "rating": 1426.6,
@@ -14,10 +14,10 @@
    "last_date": "2026-11-01"
   },
   " Vigor Apex": {
-   "rating": 1645.1,
-   "w": 18,
+   "rating": 1673.1,
+   "w": 21,
    "l": 4,
-   "last_date": "2026-10-31"
+   "last_date": "2026-11-13"
   },
   "AC Esports": {
    "rating": 1436.8,
@@ -110,16 +110,16 @@
    "last_date": "2026-09-29"
   },
   "Chempiki": {
-   "rating": 1517.4,
+   "rating": 1492.6,
    "w": 8,
-   "l": 4,
-   "last_date": "2026-11-11"
+   "l": 6,
+   "last_date": "2026-11-12"
   },
   "Cyber Hero": {
-   "rating": 1543.9,
-   "w": 154,
+   "rating": 1568.7,
+   "w": 156,
    "l": 155,
-   "last_date": "2026-11-10"
+   "last_date": "2026-11-12"
   },
   "Dark Phoenix": {
    "rating": 1348.8,
@@ -158,10 +158,10 @@
    "last_date": "2026-06-21"
   },
   "FUT Esports": {
-   "rating": 1667.5,
-   "w": 18,
+   "rating": 1679.8,
+   "w": 20,
    "l": 8,
-   "last_date": "2026-11-10"
+   "last_date": "2026-11-12"
   },
   "Falcons Vega": {
    "rating": 1536.5,
@@ -302,16 +302,16 @@
    "last_date": "2026-07-18"
   },
   "Never maind": {
-   "rating": 1405.1,
-   "w": 2,
-   "l": 8,
-   "last_date": "2026-11-11"
+   "rating": 1411.4,
+   "w": 3,
+   "l": 10,
+   "last_date": "2026-11-12"
   },
   "Nice Try": {
-   "rating": 1611.5,
-   "w": 10,
-   "l": 1,
-   "last_date": "2026-11-10"
+   "rating": 1605.3,
+   "w": 12,
+   "l": 2,
+   "last_date": "2026-11-12"
   },
   "Niightmare Esports": {
    "rating": 1398.1,
@@ -397,12 +397,6 @@
    "l": 53,
    "last_date": "2026-11-01"
   },
-  "Suplex Team": {
-   "rating": 1314.0,
-   "w": 8,
-   "l": 26,
-   "last_date": "2026-06-15"
-  },
   "TNC Pro Team": {
    "rating": 1493.2,
    "w": 65,
@@ -410,10 +404,10 @@
    "last_date": "2026-10-21"
   },
   "TNR Esports": {
-   "rating": 1544.0,
+   "rating": 1516.0,
    "w": 16,
-   "l": 14,
-   "last_date": "2026-11-12"
+   "l": 17,
+   "last_date": "2026-11-13"
   },
   "Team EvilKing": {
    "rating": 1458.1,
@@ -440,10 +434,10 @@
    "last_date": "2026-10-28"
   },
   "Team Flash KH": {
-   "rating": 1485.1,
-   "w": 26,
-   "l": 36,
-   "last_date": "2026-11-01"
+   "rating": 1532.5,
+   "w": 32,
+   "l": 39,
+   "last_date": "2026-11-13"
   },
   "Team GEASS": {
    "rating": 1562.9,
@@ -464,16 +458,16 @@
    "last_date": "2026-10-24"
   },
   "Team Oblivion": {
-   "rating": 1452.2,
+   "rating": 1439.9,
    "w": 4,
-   "l": 7,
-   "last_date": "2026-11-11"
+   "l": 9,
+   "last_date": "2026-11-12"
   },
   "Team RVZ": {
-   "rating": 1575.7,
-   "w": 17,
-   "l": 8,
-   "last_date": "2026-11-01"
+   "rating": 1536.3,
+   "w": 18,
+   "l": 11,
+   "last_date": "2026-11-13"
   },
   "Team Rey": {
    "rating": 1617.3,
@@ -486,12 +480,6 @@
    "w": 289,
    "l": 95,
    "last_date": "2026-10-31"
-  },
-  "Team Spirit Academy White": {
-   "rating": 1502.1,
-   "w": 17,
-   "l": 13,
-   "last_date": "2026-06-15"
   },
   "Team TpaBoMaH": {
    "rating": 1404.1,
@@ -524,10 +512,10 @@
    "last_date": "2026-09-09"
   },
   "Team Yandex": {
-   "rating": 1728.3,
-   "w": 85,
+   "rating": 1738.2,
+   "w": 87,
    "l": 60,
-   "last_date": "2026-11-10"
+   "last_date": "2026-11-12"
   },
   "Tenacity": {
    "rating": 1569.3,
@@ -554,10 +542,10 @@
    "last_date": "2026-11-10"
   },
   "The World": {
-   "rating": 1465.3,
+   "rating": 1455.4,
    "w": 26,
-   "l": 30,
-   "last_date": "2026-11-11"
+   "l": 32,
+   "last_date": "2026-11-12"
   },
   "Twisted Minds PH": {
    "rating": 1331.0,
@@ -572,10 +560,10 @@
    "last_date": "2026-10-16"
   },
   "Valhalla": {
-   "rating": 1497.2,
-   "w": 33,
-   "l": 41,
-   "last_date": "2026-10-31"
+   "rating": 1489.3,
+   "w": 35,
+   "l": 44,
+   "last_date": "2026-11-12"
   },
   "Verso Time": {
    "rating": 1842.8,

@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-11-12",
- "last_match_date": "2026-11-11",
- "source_matches": 10392,
+ "updated": "2026-11-13",
+ "last_match_date": "2026-11-13",
+ "source_matches": 10411,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 217,
+ "n_teams": 218,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -109,6 +109,12 @@
    "l": 27,
    "last_date": "2026-06-27"
   },
+  "Ambitious Legend Gaming": {
+   "rating": 1433.9,
+   "w": 3,
+   "l": 6,
+   "last_date": "2026-11-13"
+  },
   "Any Questions Gaming": {
    "rating": 1528.1,
    "w": 27,
@@ -152,10 +158,10 @@
    "last_date": "2026-08-22"
   },
   "BOOM Esports": {
-   "rating": 1506.5,
-   "w": 25,
+   "rating": 1535.9,
+   "w": 27,
    "l": 30,
-   "last_date": "2026-11-10"
+   "last_date": "2026-11-12"
   },
   "Barça eSports": {
    "rating": 1611.3,
@@ -632,10 +638,10 @@
    "last_date": "2026-08-10"
   },
   "KeepBest Gaming": {
-   "rating": 1453.6,
-   "w": 13,
+   "rating": 1483.6,
+   "w": 15,
    "l": 13,
-   "last_date": "2026-10-29"
+   "last_date": "2026-11-13"
   },
   "Kiwoom DRX": {
    "rating": 1506.0,
@@ -1022,10 +1028,10 @@
    "last_date": "2026-08-22"
   },
   "Sharper Esport": {
-   "rating": 1615.9,
-   "w": 46,
+   "rating": 1632.6,
+   "w": 48,
    "l": 34,
-   "last_date": "2026-11-11"
+   "last_date": "2026-11-12"
   },
   "ShindeN": {
    "rating": 1672.8,
@@ -1082,10 +1088,10 @@
    "last_date": "2026-06-25"
   },
   "TEC Esports": {
-   "rating": 1446.3,
-   "w": 55,
+   "rating": 1474.8,
+   "w": 57,
    "l": 77,
-   "last_date": "2026-10-29"
+   "last_date": "2026-11-13"
   },
   "TYLOO": {
    "rating": 1573.2,

@@ -1,8 +1,8 @@
 {
  "game": "r6",
- "updated": "2026-11-12",
- "last_match_date": "2026-11-11",
- "source_matches": 3892,
+ "updated": "2026-11-13",
+ "last_match_date": "2026-11-13",
+ "source_matches": 3899,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 75,
@@ -98,10 +98,10 @@
    "last_date": "2026-11-10"
   },
   "DarkZero Esports": {
-   "rating": 1724.4,
-   "w": 98,
-   "l": 68,
-   "last_date": "2026-11-11"
+   "rating": 1739.5,
+   "w": 100,
+   "l": 69,
+   "last_date": "2026-11-13"
   },
   "Daystar": {
    "rating": 1571.0,
@@ -152,10 +152,10 @@
    "last_date": "2026-11-10"
   },
   "Falcons Esport": {
-   "rating": 1809.1,
-   "w": 113,
+   "rating": 1826.7,
+   "w": 115,
    "l": 70,
-   "last_date": "2026-11-09"
+   "last_date": "2026-11-13"
   },
   "Fans of Attics": {
    "rating": 1482.3,
@@ -212,10 +212,10 @@
    "last_date": "2026-11-10"
   },
   "Geekay Esports": {
-   "rating": 1682.3,
+   "rating": 1664.7,
    "w": 38,
-   "l": 37,
-   "last_date": "2026-11-11"
+   "l": 39,
+   "last_date": "2026-11-13"
   },
   "HL tauri Esports": {
    "rating": 1332.7,
@@ -284,10 +284,10 @@
    "last_date": "2026-10-22"
   },
   "M80": {
-   "rating": 1670.0,
+   "rating": 1647.1,
    "w": 95,
-   "l": 68,
-   "last_date": "2026-11-11"
+   "l": 70,
+   "last_date": "2026-11-13"
   },
   "Man eSports LFO": {
    "rating": 1504.2,
@@ -404,10 +404,10 @@
    "last_date": "2026-09-22"
   },
   "Team Liquid": {
-   "rating": 1725.2,
-   "w": 72,
-   "l": 66,
-   "last_date": "2026-11-09"
+   "rating": 1710.1,
+   "w": 73,
+   "l": 68,
+   "last_date": "2026-11-13"
   },
   "Team Orchid": {
    "rating": 1542.4,
@@ -440,10 +440,10 @@
    "last_date": "2026-10-06"
   },
   "Virtus.pro": {
-   "rating": 1722.1,
-   "w": 81,
+   "rating": 1745.0,
+   "w": 83,
    "l": 63,
-   "last_date": "2026-11-10"
+   "last_date": "2026-11-13"
   },
   "Weibo Gaming": {
    "rating": 1737.4,
