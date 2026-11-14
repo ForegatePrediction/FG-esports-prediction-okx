@@ -1,8 +1,8 @@
 {
  "game": "ow",
- "updated": "2026-11-13",
+ "updated": "2026-11-14",
  "last_match_date": "2026-11-13",
- "source_matches": 4656,
+ "source_matches": 4664,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 69,
@@ -74,10 +74,10 @@
    "last_date": "2026-08-23"
   },
   "Crazy Raccoon": {
-   "rating": 1990.7,
+   "rating": 1956.3,
    "w": 233,
-   "l": 90,
-   "last_date": "2026-11-12"
+   "l": 93,
+   "last_date": "2026-11-13"
   },
   "Dallas Fuel": {
    "rating": 1784.5,
@@ -110,10 +110,10 @@
    "last_date": "2026-11-13"
   },
   "Falcons": {
-   "rating": 1766.5,
-   "w": 197,
-   "l": 106,
-   "last_date": "2026-11-12"
+   "rating": 1806.9,
+   "w": 200,
+   "l": 108,
+   "last_date": "2026-11-13"
   },
   "Four Angry Men": {
    "rating": 1411.2,
@@ -296,10 +296,10 @@
    "last_date": "2026-09-13"
   },
   "T1": {
-   "rating": 1905.3,
-   "w": 177,
-   "l": 95,
-   "last_date": "2026-11-12"
+   "rating": 1864.9,
+   "w": 179,
+   "l": 98,
+   "last_date": "2026-11-13"
   },
   "Team Benxxn": {
    "rating": 1526.8,
@@ -410,10 +410,10 @@
    "last_date": "2026-11-01"
   },
   "ZETA DIVISION": {
-   "rating": 2030.6,
-   "w": 203,
+   "rating": 2065.0,
+   "w": 206,
    "l": 98,
-   "last_date": "2026-11-12"
+   "last_date": "2026-11-13"
   },
   "junjilopzfx0764": {
    "rating": 1459.2,

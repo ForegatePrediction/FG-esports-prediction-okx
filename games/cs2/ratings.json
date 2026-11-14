@@ -1,11 +1,11 @@
 {
  "game": "cs2",
- "updated": "2026-11-13",
- "last_match_date": "2026-11-13",
- "source_matches": 59032,
+ "updated": "2026-11-14",
+ "last_match_date": "2026-11-14",
+ "source_matches": 59135,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 548,
+ "n_teams": 552,
  "teams": {
   " Gatorian": {
    "rating": 1517.5,
@@ -44,9 +44,9 @@
    "last_date": "2026-08-20"
   },
   "33": {
-   "rating": 1567.9,
-   "w": 4,
-   "l": 6,
+   "rating": 1614.1,
+   "w": 8,
+   "l": 8,
    "last_date": "2026-11-13"
   },
   "3DMAX": {
@@ -74,10 +74,10 @@
    "last_date": "2026-10-14"
   },
   "6yuBoJlbl": {
-   "rating": 1545.4,
-   "w": 15,
-   "l": 14,
-   "last_date": "2026-11-12"
+   "rating": 1539.6,
+   "w": 17,
+   "l": 16,
+   "last_date": "2026-11-13"
   },
   "95 Vikings": {
    "rating": 1346.4,
@@ -200,10 +200,10 @@
    "last_date": "2026-09-29"
   },
   "Al Ahli": {
-   "rating": 1525.9,
+   "rating": 1506.8,
    "w": 12,
-   "l": 7,
-   "last_date": "2026-11-02"
+   "l": 8,
+   "last_date": "2026-11-13"
   },
   "Alianza Lima Esports": {
    "rating": 1394.9,
@@ -212,10 +212,10 @@
    "last_date": "2026-10-21"
   },
   "Alliance": {
-   "rating": 1706.7,
-   "w": 331,
-   "l": 233,
-   "last_date": "2026-11-12"
+   "rating": 1720.3,
+   "w": 335,
+   "l": 234,
+   "last_date": "2026-11-13"
   },
   "Alpha Dominion Nation": {
    "rating": 1474.9,
@@ -290,10 +290,10 @@
    "last_date": "2026-11-04"
   },
   "Aurora Young Blood": {
-   "rating": 1529.6,
+   "rating": 1505.4,
    "w": 164,
-   "l": 137,
-   "last_date": "2026-10-30"
+   "l": 139,
+   "last_date": "2026-11-13"
   },
   "Azuolas": {
    "rating": 1432.0,
@@ -320,10 +320,10 @@
    "last_date": "2026-11-05"
   },
   "BARCA": {
-   "rating": 1610.7,
-   "w": 10,
+   "rating": 1635.3,
+   "w": 12,
    "l": 11,
-   "last_date": "2026-11-01"
+   "last_date": "2026-11-13"
   },
   "BASEMENT BOYS": {
    "rating": 1625.0,
@@ -332,10 +332,10 @@
    "last_date": "2026-11-10"
   },
   "BBL": {
-   "rating": 1753.4,
+   "rating": 1724.4,
    "w": 39,
-   "l": 39,
-   "last_date": "2026-11-12"
+   "l": 41,
+   "last_date": "2026-11-13"
   },
   "BC.Game Esports": {
    "rating": 1723.1,
@@ -386,16 +386,16 @@
    "last_date": "2026-11-12"
   },
   "BORRACHEIROS": {
-   "rating": 1580.8,
+   "rating": 1540.5,
    "w": 56,
-   "l": 50,
-   "last_date": "2026-11-10"
+   "l": 53,
+   "last_date": "2026-11-13"
   },
   "BRUTE SQ": {
-   "rating": 1551.2,
-   "w": 8,
-   "l": 5,
-   "last_date": "2026-11-08"
+   "rating": 1553.4,
+   "w": 10,
+   "l": 6,
+   "last_date": "2026-11-13"
   },
   "Back to Back ": {
    "rating": 1579.9,
@@ -410,16 +410,16 @@
    "last_date": "2026-11-12"
   },
   "BakS eSports": {
-   "rating": 1695.4,
-   "w": 188,
-   "l": 157,
-   "last_date": "2026-11-12"
+   "rating": 1693.8,
+   "w": 189,
+   "l": 159,
+   "last_date": "2026-11-13"
   },
   "Balkan Outlaws": {
-   "rating": 1551.4,
+   "rating": 1518.7,
    "w": 10,
-   "l": 7,
-   "last_date": "2026-11-12"
+   "l": 9,
+   "last_date": "2026-11-13"
   },
   "Banger Gang": {
    "rating": 1510.4,
@@ -530,9 +530,9 @@
    "last_date": "2026-08-09"
   },
   "Butterfly": {
-   "rating": 1697.7,
-   "w": 68,
-   "l": 56,
+   "rating": 1687.5,
+   "w": 69,
+   "l": 58,
    "last_date": "2026-11-13"
   },
   "CHAOS": {
@@ -589,12 +589,6 @@
    "l": 20,
    "last_date": "2026-10-10"
   },
-  "Clutchain": {
-   "rating": 1617.9,
-   "w": 32,
-   "l": 23,
-   "last_date": "2026-06-16"
-  },
   "Clutchain Female": {
    "rating": 1370.4,
    "w": 5,
@@ -619,6 +613,12 @@
    "l": 239,
    "last_date": "2026-11-10"
   },
+  "Curralzinho": {
+   "rating": 1328.1,
+   "w": 5,
+   "l": 15,
+   "last_date": "2026-11-13"
+  },
   "Czech Republic": {
    "rating": 1445.4,
    "w": 3,
@@ -638,10 +638,10 @@
    "last_date": "2026-09-13"
   },
   "DINERO": {
-   "rating": 1409.3,
+   "rating": 1400.0,
    "w": 6,
-   "l": 12,
-   "last_date": "2026-11-05"
+   "l": 13,
+   "last_date": "2026-11-13"
   },
   "DNK": {
    "rating": 1388.9,
@@ -704,10 +704,10 @@
    "last_date": "2026-11-03"
   },
   "Drama eSports": {
-   "rating": 1504.3,
+   "rating": 1480.6,
    "w": 59,
-   "l": 73,
-   "last_date": "2026-11-12"
+   "l": 75,
+   "last_date": "2026-11-13"
   },
   "Drip Too Hard": {
    "rating": 1539.1,
@@ -800,10 +800,10 @@
    "last_date": "2026-10-21"
   },
   "EYEBALLERS": {
-   "rating": 1681.6,
-   "w": 263,
+   "rating": 1711.6,
+   "w": 265,
    "l": 222,
-   "last_date": "2026-11-11"
+   "last_date": "2026-11-14"
   },
   "Elite Klan": {
    "rating": 1303.0,
@@ -890,10 +890,10 @@
    "last_date": "2026-11-09"
   },
   "FORZE Reload": {
-   "rating": 1718.3,
-   "w": 376,
+   "rating": 1735.3,
+   "w": 378,
    "l": 320,
-   "last_date": "2026-11-12"
+   "last_date": "2026-11-14"
   },
   "FRZ Unit": {
    "rating": 1445.9,
@@ -1022,10 +1022,10 @@
    "last_date": "2026-11-12"
   },
   "Four Magic": {
-   "rating": 1477.3,
-   "w": 36,
-   "l": 44,
-   "last_date": "2026-11-12"
+   "rating": 1485.4,
+   "w": 37,
+   "l": 46,
+   "last_date": "2026-11-13"
   },
   "Fraternity": {
    "rating": 1428.2,
@@ -1034,10 +1034,10 @@
    "last_date": "2026-11-05"
   },
   "G2": {
-   "rating": 1844.9,
-   "w": 201,
-   "l": 176,
-   "last_date": "2026-11-12"
+   "rating": 1842.2,
+   "w": 202,
+   "l": 178,
+   "last_date": "2026-11-13"
   },
   "G2 Ares": {
    "rating": 1540.7,
@@ -1052,10 +1052,10 @@
    "last_date": "2026-08-30"
   },
   "Galorys": {
-   "rating": 1656.9,
-   "w": 227,
-   "l": 188,
-   "last_date": "2026-10-31"
+   "rating": 1666.9,
+   "w": 229,
+   "l": 189,
+   "last_date": "2026-11-13"
   },
   "Game Hunters": {
    "rating": 1544.7,
@@ -1082,10 +1082,10 @@
    "last_date": "2026-11-05"
   },
   "GenOne": {
-   "rating": 1557.0,
+   "rating": 1537.0,
    "w": 432,
-   "l": 351,
-   "last_date": "2026-11-12"
+   "l": 353,
+   "last_date": "2026-11-13"
   },
   "Gentle Mates": {
    "rating": 1709.3,
@@ -1106,10 +1106,10 @@
    "last_date": "2026-09-18"
   },
   "Glitchtech Esports": {
-   "rating": 1314.3,
+   "rating": 1305.2,
    "w": 20,
-   "l": 50,
-   "last_date": "2026-11-06"
+   "l": 51,
+   "last_date": "2026-11-13"
   },
   "GoldRashers": {
    "rating": 1390.6,
@@ -1136,10 +1136,10 @@
    "last_date": "2026-10-26"
   },
   "Grêmio Esports": {
-   "rating": 1569.0,
-   "w": 66,
+   "rating": 1574.7,
+   "w": 67,
    "l": 68,
-   "last_date": "2026-11-11"
+   "last_date": "2026-11-13"
   },
   "Guara Esports": {
    "rating": 1303.1,
@@ -1208,10 +1208,10 @@
    "last_date": "2026-11-01"
   },
   "Honvéd": {
-   "rating": 1572.9,
+   "rating": 1552.9,
    "w": 90,
-   "l": 107,
-   "last_date": "2026-11-12"
+   "l": 108,
+   "last_date": "2026-11-13"
   },
   "Hungary": {
    "rating": 1466.3,
@@ -1220,10 +1220,10 @@
    "last_date": "2026-07-18"
   },
   "Hunters Rising": {
-   "rating": 1416.8,
+   "rating": 1408.4,
    "w": 12,
-   "l": 22,
-   "last_date": "2026-10-30"
+   "l": 23,
+   "last_date": "2026-11-11"
   },
   "Huskies eSport": {
    "rating": 1315.8,
@@ -1292,16 +1292,16 @@
    "last_date": "2026-09-05"
   },
   "Infinite": {
-   "rating": 1553.1,
+   "rating": 1534.8,
    "w": 106,
-   "l": 124,
-   "last_date": "2026-10-25"
+   "l": 126,
+   "last_date": "2026-11-14"
   },
   "Inner Circle Academy": {
-   "rating": 1608.5,
-   "w": 124,
-   "l": 110,
-   "last_date": "2026-11-11"
+   "rating": 1598.0,
+   "w": 125,
+   "l": 112,
+   "last_date": "2026-11-13"
   },
   "Inner Circle Esports": {
    "rating": 1773.5,
@@ -1346,10 +1346,10 @@
    "last_date": "2026-08-09"
   },
   "JUMBO TEAM": {
-   "rating": 1441.7,
-   "w": 81,
+   "rating": 1450.8,
+   "w": 82,
    "l": 110,
-   "last_date": "2026-11-02"
+   "last_date": "2026-11-13"
   },
   "JiJieHao": {
    "rating": 1738.7,
@@ -1400,10 +1400,10 @@
    "last_date": "2026-07-29"
   },
   "KAMUI": {
-   "rating": 1564.8,
-   "w": 19,
+   "rating": 1606.2,
+   "w": 23,
    "l": 12,
-   "last_date": "2026-10-22"
+   "last_date": "2026-11-14"
   },
   "KOLESIE": {
    "rating": 1700.4,
@@ -1418,10 +1418,10 @@
    "last_date": "2026-09-10"
   },
   "KUUSAMO.gg": {
-   "rating": 1436.0,
-   "w": 103,
-   "l": 151,
-   "last_date": "2026-11-12"
+   "rating": 1432.6,
+   "w": 104,
+   "l": 153,
+   "last_date": "2026-11-13"
   },
   "KZG": {
    "rating": 1449.2,
@@ -1496,10 +1496,10 @@
    "last_date": "2026-07-18"
   },
   "Lavked": {
-   "rating": 1631.4,
+   "rating": 1609.6,
    "w": 180,
-   "l": 153,
-   "last_date": "2026-11-12"
+   "l": 155,
+   "last_date": "2026-11-13"
   },
   "Lazer Cats": {
    "rating": 1600.2,
@@ -1520,9 +1520,9 @@
    "last_date": "2026-10-08"
   },
   "Leo Team": {
-   "rating": 1575.3,
+   "rating": 1543.4,
    "w": 355,
-   "l": 305,
+   "l": 307,
    "last_date": "2026-11-13"
   },
   "Lilmix": {
@@ -1556,10 +1556,10 @@
    "last_date": "2026-08-08"
   },
   "Los Niños": {
-   "rating": 1512.4,
-   "w": 9,
+   "rating": 1528.2,
+   "w": 10,
    "l": 11,
-   "last_date": "2026-10-24"
+   "last_date": "2026-11-13"
   },
   "Low Cortisol": {
    "rating": 1609.9,
@@ -1616,8 +1616,8 @@
    "last_date": "2026-11-09"
   },
   "MEIA NOITE": {
-   "rating": 1530.6,
-   "w": 53,
+   "rating": 1538.5,
+   "w": 54,
    "l": 55,
    "last_date": "2026-11-12"
   },
@@ -1646,10 +1646,10 @@
    "last_date": "2026-10-29"
   },
   "MOUZ": {
-   "rating": 2122.6,
+   "rating": 2084.4,
    "w": 236,
-   "l": 151,
-   "last_date": "2026-11-13"
+   "l": 153,
+   "last_date": "2026-11-14"
   },
   "MOUZ NXT": {
    "rating": 1516.4,
@@ -1688,10 +1688,10 @@
    "last_date": "2026-10-22"
   },
   "Metizport": {
-   "rating": 1760.5,
-   "w": 209,
-   "l": 197,
-   "last_date": "2026-11-01"
+   "rating": 1766.4,
+   "w": 211,
+   "l": 198,
+   "last_date": "2026-11-13"
   },
   "Millennium Esports": {
    "rating": 1509.8,
@@ -1704,6 +1704,12 @@
    "w": 146,
    "l": 147,
    "last_date": "2026-10-15"
+  },
+  "Mira": {
+   "rating": 1562.1,
+   "w": 5,
+   "l": 3,
+   "last_date": "2026-11-13"
   },
   "Misa Esports": {
    "rating": 1480.1,
@@ -1820,16 +1826,16 @@
    "last_date": "2026-10-01"
   },
   "Nexus": {
-   "rating": 1715.5,
-   "w": 258,
-   "l": 296,
-   "last_date": "2026-11-11"
+   "rating": 1731.3,
+   "w": 261,
+   "l": 298,
+   "last_date": "2026-11-13"
   },
   "Nice Try": {
-   "rating": 1583.6,
+   "rating": 1566.6,
    "w": 25,
-   "l": 25,
-   "last_date": "2026-11-10"
+   "l": 27,
+   "last_date": "2026-11-14"
   },
   "NineFly Esports": {
    "rating": 1435.5,
@@ -1844,10 +1850,10 @@
    "last_date": "2026-11-12"
   },
   "Noir Verse": {
-   "rating": 1556.0,
-   "w": 87,
-   "l": 90,
-   "last_date": "2026-11-12"
+   "rating": 1564.1,
+   "w": 90,
+   "l": 92,
+   "last_date": "2026-11-13"
   },
   "Nordic Partners Gaming ": {
    "rating": 1492.7,
@@ -1934,10 +1940,10 @@
    "last_date": "2026-07-18"
   },
   "Omega": {
-   "rating": 1610.5,
-   "w": 112,
-   "l": 125,
-   "last_date": "2026-10-31"
+   "rating": 1621.0,
+   "w": 114,
+   "l": 126,
+   "last_date": "2026-11-13"
   },
   "Optibet": {
    "rating": 1463.6,
@@ -2006,10 +2012,10 @@
    "last_date": "2026-11-05"
   },
   "PRIVATE": {
-   "rating": 1697.7,
-   "w": 33,
-   "l": 20,
-   "last_date": "2026-11-12"
+   "rating": 1706.2,
+   "w": 35,
+   "l": 21,
+   "last_date": "2026-11-13"
   },
   "PURE": {
    "rating": 1619.9,
@@ -2132,10 +2138,10 @@
    "last_date": "2026-10-25"
   },
   "RED Canids Academy": {
-   "rating": 1650.6,
-   "w": 131,
-   "l": 99,
-   "last_date": "2026-11-11"
+   "rating": 1640.6,
+   "w": 132,
+   "l": 101,
+   "last_date": "2026-11-13"
   },
   "REVENIX": {
    "rating": 1433.7,
@@ -2204,10 +2210,10 @@
    "last_date": "2026-08-29"
   },
   "Regnum4Games": {
-   "rating": 1416.8,
+   "rating": 1405.7,
    "w": 28,
-   "l": 45,
-   "last_date": "2026-11-12"
+   "l": 46,
+   "last_date": "2026-11-13"
   },
   "Reign Above": {
    "rating": 1390.5,
@@ -2228,10 +2234,10 @@
    "last_date": "2026-10-29"
   },
   "Revise": {
-   "rating": 1543.0,
+   "rating": 1507.0,
    "w": 38,
-   "l": 46,
-   "last_date": "2026-11-10"
+   "l": 48,
+   "last_date": "2026-11-13"
   },
   "Rooster": {
    "rating": 1578.8,
@@ -2246,10 +2252,10 @@
    "last_date": "2026-10-22"
   },
   "Rush": {
-   "rating": 1551.5,
-   "w": 31,
-   "l": 33,
-   "last_date": "2026-11-11"
+   "rating": 1548.1,
+   "w": 32,
+   "l": 35,
+   "last_date": "2026-11-13"
   },
   "Ryvex": {
    "rating": 1424.9,
@@ -2282,10 +2288,10 @@
    "last_date": "2026-06-26"
   },
   "SINQU": {
-   "rating": 1376.1,
-   "w": 31,
+   "rating": 1434.1,
+   "w": 34,
    "l": 89,
-   "last_date": "2026-11-12"
+   "last_date": "2026-11-13"
   },
   "SINQU Rehti": {
    "rating": 1347.1,
@@ -2318,16 +2324,16 @@
    "last_date": "2026-10-29"
   },
   "STATE": {
-   "rating": 1726.2,
-   "w": 182,
-   "l": 142,
-   "last_date": "2026-11-12"
+   "rating": 1692.2,
+   "w": 185,
+   "l": 146,
+   "last_date": "2026-11-14"
   },
   "Saint Sinners": {
-   "rating": 1475.1,
-   "w": 53,
-   "l": 64,
-   "last_date": "2026-11-12"
+   "rating": 1486.6,
+   "w": 55,
+   "l": 66,
+   "last_date": "2026-11-13"
   },
   "Sangal": {
    "rating": 1792.5,
@@ -2396,10 +2402,10 @@
    "last_date": "2026-07-18"
   },
   "Spirit": {
-   "rating": 1969.9,
-   "w": 225,
+   "rating": 2008.1,
+   "w": 227,
    "l": 101,
-   "last_date": "2026-11-12"
+   "last_date": "2026-11-14"
   },
   "Spirit Academy": {
    "rating": 1675.7,
@@ -2414,10 +2420,10 @@
    "last_date": "2026-10-30"
   },
   "Spirit Academy Green": {
-   "rating": 1507.7,
+   "rating": 1492.6,
    "w": 29,
-   "l": 29,
-   "last_date": "2026-11-12"
+   "l": 30,
+   "last_date": "2026-11-13"
   },
   "Spirit HU": {
    "rating": 1364.8,
@@ -2516,10 +2522,10 @@
    "last_date": "2026-11-04"
   },
   "Team ACES": {
-   "rating": 1648.5,
-   "w": 28,
+   "rating": 1686.8,
+   "w": 32,
    "l": 21,
-   "last_date": "2026-11-11"
+   "last_date": "2026-11-14"
   },
   "Team Aunkere": {
    "rating": 1531.8,
@@ -2528,10 +2534,10 @@
    "last_date": "2026-07-04"
   },
   "Team Bratishkin": {
-   "rating": 1619.4,
-   "w": 16,
-   "l": 6,
-   "last_date": "2026-11-12"
+   "rating": 1586.6,
+   "w": 17,
+   "l": 8,
+   "last_date": "2026-11-13"
   },
   "Team Burger": {
    "rating": 1472.2,
@@ -2540,10 +2546,10 @@
    "last_date": "2026-07-03"
   },
   "Team Falcons": {
-   "rating": 1958.1,
-   "w": 216,
-   "l": 150,
-   "last_date": "2026-11-12"
+   "rating": 1960.8,
+   "w": 218,
+   "l": 151,
+   "last_date": "2026-11-13"
   },
   "Team LEISURE": {
    "rating": 1397.5,
@@ -2581,11 +2587,17 @@
    "l": 24,
    "last_date": "2026-07-03"
   },
+  "Team PCH3LK1N": {
+   "rating": 1418.7,
+   "w": 6,
+   "l": 11,
+   "last_date": "2026-11-13"
+  },
   "Team Recrent": {
-   "rating": 1447.4,
-   "w": 17,
-   "l": 26,
-   "last_date": "2026-11-12"
+   "rating": 1431.8,
+   "w": 18,
+   "l": 28,
+   "last_date": "2026-11-13"
   },
   "Team StRoGo": {
    "rating": 1435.4,
@@ -2611,6 +2623,12 @@
    "l": 4,
    "last_date": "2026-07-04"
   },
+  "Team korya_mc": {
+   "rating": 1468.2,
+   "w": 3,
+   "l": 5,
+   "last_date": "2026-11-13"
+  },
   "Team shoke": {
    "rating": 1551.9,
    "w": 14,
@@ -2630,10 +2648,10 @@
    "last_date": "2026-11-07"
   },
   "The Chosen Few": {
-   "rating": 1472.2,
-   "w": 10,
-   "l": 12,
-   "last_date": "2026-11-12"
+   "rating": 1469.9,
+   "w": 11,
+   "l": 14,
+   "last_date": "2026-11-13"
   },
   "The Golden Horde": {
    "rating": 1595.7,
@@ -2708,10 +2726,10 @@
    "last_date": "2026-10-25"
   },
   "Turma do Pagode": {
-   "rating": 1619.9,
-   "w": 57,
-   "l": 46,
-   "last_date": "2026-10-31"
+   "rating": 1623.2,
+   "w": 59,
+   "l": 47,
+   "last_date": "2026-11-13"
   },
   "UNO MILLE": {
    "rating": 1526.8,
@@ -2804,10 +2822,10 @@
    "last_date": "2026-11-13"
   },
   "Vitality Academy": {
-   "rating": 1489.5,
-   "w": 30,
+   "rating": 1500.6,
+   "w": 31,
    "l": 36,
-   "last_date": "2026-11-11"
+   "last_date": "2026-11-13"
   },
   "Voca": {
    "rating": 1759.5,
@@ -2935,12 +2953,6 @@
    "l": 310,
    "last_date": "2026-11-09"
   },
-  "Xept": {
-   "rating": 1454.9,
-   "w": 8,
-   "l": 11,
-   "last_date": "2026-06-16"
-  },
   "Yawara Esports": {
    "rating": 1565.6,
    "w": 186,
@@ -2960,10 +2972,10 @@
    "last_date": "2026-10-16"
   },
   "Younglings": {
-   "rating": 1503.3,
+   "rating": 1484.4,
    "w": 30,
-   "l": 37,
-   "last_date": "2026-11-01"
+   "l": 38,
+   "last_date": "2026-11-13"
   },
   "ZOTIX": {
    "rating": 1464.3,
@@ -3008,22 +3020,22 @@
    "last_date": "2026-10-08"
   },
   "banda chuya": {
-   "rating": 1530.0,
-   "w": 31,
+   "rating": 1539.3,
+   "w": 32,
    "l": 33,
-   "last_date": "2026-11-11"
+   "last_date": "2026-11-13"
   },
   "eSuba": {
-   "rating": 1421.9,
-   "w": 60,
-   "l": 65,
-   "last_date": "2026-11-12"
+   "rating": 1440.6,
+   "w": 62,
+   "l": 67,
+   "last_date": "2026-11-14"
   },
   "eternal premium": {
-   "rating": 1482.0,
-   "w": 94,
+   "rating": 1497.0,
+   "w": 95,
    "l": 93,
-   "last_date": "2026-11-06"
+   "last_date": "2026-11-13"
   },
   "ex-6666": {
    "rating": 1527.9,
@@ -3032,10 +3044,16 @@
    "last_date": "2026-10-26"
   },
   "ex-ENCE": {
-   "rating": 1497.6,
-   "w": 5,
-   "l": 4,
-   "last_date": "2026-11-09"
+   "rating": 1519.0,
+   "w": 7,
+   "l": 5,
+   "last_date": "2026-11-13"
+  },
+  "ex-INOX Division": {
+   "rating": 1614.7,
+   "w": 6,
+   "l": 2,
+   "last_date": "2026-11-13"
   },
   "ex-Keyd Stars": {
    "rating": 1579.4,
@@ -3062,10 +3080,10 @@
    "last_date": "2026-09-26"
   },
   "ex-RUSTEC": {
-   "rating": 1639.6,
+   "rating": 1618.1,
    "w": 112,
-   "l": 92,
-   "last_date": "2026-11-12"
+   "l": 94,
+   "last_date": "2026-11-13"
   },
   "ex-Sangal ALTERS": {
    "rating": 1406.7,
@@ -3098,10 +3116,10 @@
    "last_date": "2026-08-04"
   },
   "ex-Zero Tenacity": {
-   "rating": 1780.6,
-   "w": 201,
-   "l": 170,
-   "last_date": "2026-11-11"
+   "rating": 1782.2,
+   "w": 203,
+   "l": 171,
+   "last_date": "2026-11-13"
   },
   "fnatic": {
    "rating": 1871.9,
@@ -3158,10 +3176,10 @@
    "last_date": "2026-08-30"
   },
   "maybe": {
-   "rating": 1539.1,
-   "w": 70,
-   "l": 81,
-   "last_date": "2026-11-12"
+   "rating": 1545.3,
+   "w": 74,
+   "l": 83,
+   "last_date": "2026-11-13"
   },
   "megoshort": {
    "rating": 1505.2,
@@ -3174,6 +3192,12 @@
    "w": 109,
    "l": 81,
    "last_date": "2026-11-05"
+  },
+  "mixLVLT": {
+   "rating": 1467.8,
+   "w": 3,
+   "l": 5,
+   "last_date": "2026-11-13"
   },
   "mokrivskiy Club": {
    "rating": 1564.4,
@@ -3272,10 +3296,10 @@
    "last_date": "2026-09-09"
   },
   "underw0rld": {
-   "rating": 1470.1,
+   "rating": 1459.0,
    "w": 16,
-   "l": 21,
-   "last_date": "2026-11-11"
+   "l": 22,
+   "last_date": "2026-11-13"
   },
   "uust _esports": {
    "rating": 1406.8,
