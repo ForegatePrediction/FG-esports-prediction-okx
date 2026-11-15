@@ -1,8 +1,8 @@
 {
  "game": "kog",
- "updated": "2026-11-14",
- "last_match_date": "2026-11-08",
- "source_matches": 8963,
+ "updated": "2026-11-15",
+ "last_match_date": "2026-11-14",
+ "source_matches": 8970,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 72,
@@ -176,10 +176,10 @@
    "last_date": "2026-08-29"
   },
   "JD Gaming": {
-   "rating": 1829.6,
-   "w": 229,
-   "l": 194,
-   "last_date": "2026-11-06"
+   "rating": 1789.8,
+   "w": 232,
+   "l": 198,
+   "last_date": "2026-11-14"
   },
   "JLY": {
    "rating": 1305.3,
@@ -410,10 +410,10 @@
    "last_date": "2026-09-15"
   },
   "Weibo Gaming": {
-   "rating": 1746.4,
-   "w": 278,
-   "l": 208,
-   "last_date": "2026-11-08"
+   "rating": 1786.2,
+   "w": 282,
+   "l": 211,
+   "last_date": "2026-11-14"
   },
   "Wolves": {
    "rating": 1631.6,

@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-11-14",
- "last_match_date": "2026-11-14",
- "source_matches": 10443,
+ "updated": "2026-11-15",
+ "last_match_date": "2026-11-15",
+ "source_matches": 10469,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 222,
+ "n_teams": 227,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -44,10 +44,10 @@
    "last_date": "2026-08-18"
   },
   "A Team": {
-   "rating": 1417.3,
-   "w": 7,
+   "rating": 1446.4,
+   "w": 9,
    "l": 11,
-   "last_date": "2026-11-13"
+   "last_date": "2026-11-15"
   },
   "AG.AL International": {
    "rating": 1537.2,
@@ -79,12 +79,6 @@
    "l": 29,
    "last_date": "2026-07-15"
   },
-  "Abacatudos": {
-   "rating": 1385.8,
-   "w": 3,
-   "l": 10,
-   "last_date": "2026-06-17"
-  },
   "Akave Esports Black": {
    "rating": 1704.5,
    "w": 55,
@@ -110,22 +104,22 @@
    "last_date": "2026-06-27"
   },
   "Alter Ego x Kertanegara": {
-   "rating": 1526.2,
+   "rating": 1500.8,
    "w": 5,
-   "l": 3,
-   "last_date": "2026-11-13"
+   "l": 5,
+   "last_date": "2026-11-15"
   },
   "Ambitious Legend Gaming": {
-   "rating": 1433.9,
-   "w": 3,
+   "rating": 1461.5,
+   "w": 5,
    "l": 6,
-   "last_date": "2026-11-13"
+   "last_date": "2026-11-14"
   },
   "Any Questions Gaming": {
-   "rating": 1534.8,
-   "w": 29,
+   "rating": 1559.8,
+   "w": 31,
    "l": 27,
-   "last_date": "2026-11-13"
+   "last_date": "2026-11-15"
   },
   "Asterisk": {
    "rating": 1515.9,
@@ -259,12 +253,6 @@
    "l": 72,
    "last_date": "2026-10-25"
   },
-  "Dynamo Esports": {
-   "rating": 1349.8,
-   "w": 1,
-   "l": 8,
-   "last_date": "2026-06-17"
-  },
   "EDward Gaming": {
    "rating": 1475.8,
    "w": 77,
@@ -343,6 +331,12 @@
    "l": 38,
    "last_date": "2026-11-10"
   },
+  "FA CLUB": {
+   "rating": 1519.0,
+   "w": 5,
+   "l": 4,
+   "last_date": "2026-11-15"
+  },
   "FENNEL Female": {
    "rating": 1658.4,
    "w": 39,
@@ -410,10 +404,10 @@
    "last_date": "2026-10-24"
   },
   "Fancy United": {
-   "rating": 1610.8,
-   "w": 41,
+   "rating": 1634.1,
+   "w": 43,
    "l": 31,
-   "last_date": "2026-11-07"
+   "last_date": "2026-11-15"
   },
   "Fennel": {
    "rating": 1559.4,
@@ -464,10 +458,10 @@
    "last_date": "2026-07-11"
   },
   "FunPlus Phoenix": {
-   "rating": 1526.3,
-   "w": 68,
+   "rating": 1549.8,
+   "w": 70,
    "l": 67,
-   "last_date": "2026-11-14"
+   "last_date": "2026-11-15"
   },
   "G2 Esports": {
    "rating": 1684.3,
@@ -565,6 +559,12 @@
    "l": 18,
    "last_date": "2026-10-22"
   },
+  "Havoc & Yonder": {
+   "rating": 1446.6,
+   "w": 3,
+   "l": 5,
+   "last_date": "2026-11-15"
+  },
   "Havoc & Yonder GC": {
    "rating": 1526.9,
    "w": 5,
@@ -650,10 +650,10 @@
    "last_date": "2026-08-10"
   },
   "KeepBest Gaming": {
-   "rating": 1511.3,
-   "w": 17,
+   "rating": 1540.2,
+   "w": 19,
    "l": 13,
-   "last_date": "2026-11-14"
+   "last_date": "2026-11-15"
   },
   "Kiwoom DRX": {
    "rating": 1506.0,
@@ -877,11 +877,11 @@
    "l": 20,
    "last_date": "2026-08-10"
   },
-  "PEEK": {
-   "rating": 1385.3,
-   "w": 16,
-   "l": 31,
-   "last_date": "2026-06-17"
+  "Original Gaming": {
+   "rating": 1536.9,
+   "w": 5,
+   "l": 4,
+   "last_date": "2026-11-15"
   },
   "Paper Rex": {
    "rating": 1629.5,
@@ -998,10 +998,10 @@
    "last_date": "2026-08-17"
   },
   "SGE Vision": {
-   "rating": 1550.8,
-   "w": 6,
+   "rating": 1573.5,
+   "w": 8,
    "l": 3,
-   "last_date": "2026-11-08"
+   "last_date": "2026-11-14"
   },
   "SK Nebula": {
    "rating": 1639.9,
@@ -1044,6 +1044,12 @@
    "w": 64,
    "l": 53,
    "last_date": "2026-08-22"
+  },
+  "Seventh Letter Gaming": {
+   "rating": 1583.4,
+   "w": 6,
+   "l": 2,
+   "last_date": "2026-11-15"
   },
   "Sharper Esport": {
    "rating": 1668.6,
@@ -1171,6 +1177,12 @@
    "l": 27,
    "last_date": "2026-10-28"
   },
+  "Team SEIBI": {
+   "rating": 1573.4,
+   "w": 7,
+   "l": 3,
+   "last_date": "2026-11-15"
+  },
   "Team Samuraj": {
    "rating": 1513.7,
    "w": 6,
@@ -1194,6 +1206,12 @@
    "w": 79,
    "l": 56,
    "last_date": "2026-10-18"
+  },
+  "Team Z": {
+   "rating": 1685.3,
+   "w": 9,
+   "l": 0,
+   "last_date": "2026-11-15"
   },
   "Team relaxcis": {
    "rating": 1495.4,
@@ -1260,6 +1278,12 @@
    "w": 19,
    "l": 28,
    "last_date": "2026-09-04"
+  },
+  "Victory No Limits": {
+   "rating": 1472.6,
+   "w": 4,
+   "l": 4,
+   "last_date": "2026-11-15"
   },
   "WEC C": {
    "rating": 1433.7,
@@ -1338,6 +1362,12 @@
    "w": 8,
    "l": 9,
    "last_date": "2026-07-12"
+  },
+  "雨のち晴れ": {
+   "rating": 1563.1,
+   "w": 6,
+   "l": 4,
+   "last_date": "2026-11-15"
   }
  }
 }

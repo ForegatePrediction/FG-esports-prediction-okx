@@ -1,8 +1,8 @@
 {
  "game": "mlbb",
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "last_match_date": "2026-11-14",
- "source_matches": 5511,
+ "source_matches": 5527,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 95,
@@ -50,10 +50,10 @@
    "last_date": "2026-11-13"
   },
   "Aurevia Team": {
-   "rating": 1642.9,
-   "w": 32,
+   "rating": 1673.7,
+   "w": 35,
    "l": 23,
-   "last_date": "2026-11-10"
+   "last_date": "2026-11-14"
   },
   "Aurora Gaming": {
    "rating": 1708.1,
@@ -104,16 +104,16 @@
    "last_date": "2026-09-29"
   },
   "Chempiki": {
-   "rating": 1492.6,
+   "rating": 1472.5,
    "w": 8,
-   "l": 6,
-   "last_date": "2026-11-12"
+   "l": 9,
+   "last_date": "2026-11-14"
   },
   "Cyber Hero": {
-   "rating": 1568.7,
+   "rating": 1538.0,
    "w": 156,
-   "l": 155,
-   "last_date": "2026-11-12"
+   "l": 158,
+   "last_date": "2026-11-14"
   },
   "Dark Phoenix": {
    "rating": 1348.8,
@@ -152,10 +152,10 @@
    "last_date": "2026-06-21"
   },
   "FUT Esports": {
-   "rating": 1679.8,
-   "w": 20,
+   "rating": 1699.9,
+   "w": 23,
    "l": 8,
-   "last_date": "2026-11-12"
+   "last_date": "2026-11-14"
   },
   "Falcons Vega": {
    "rating": 1536.5,
@@ -296,10 +296,10 @@
    "last_date": "2026-11-12"
   },
   "Nice Try": {
-   "rating": 1605.3,
-   "w": 12,
-   "l": 2,
-   "last_date": "2026-11-12"
+   "rating": 1567.9,
+   "w": 13,
+   "l": 5,
+   "last_date": "2026-11-14"
   },
   "Niightmare Esports": {
    "rating": 1398.1,
@@ -326,10 +326,10 @@
    "last_date": "2026-10-21"
   },
   "Omnix": {
-   "rating": 1422.1,
+   "rating": 1410.8,
    "w": 33,
-   "l": 40,
-   "last_date": "2026-11-13"
+   "l": 43,
+   "last_date": "2026-11-14"
   },
   "PRO Esports": {
    "rating": 1544.7,
@@ -350,10 +350,10 @@
    "last_date": "2026-10-18"
   },
   "Rakuzan": {
-   "rating": 1537.9,
-   "w": 25,
-   "l": 25,
-   "last_date": "2026-11-13"
+   "rating": 1575.2,
+   "w": 28,
+   "l": 26,
+   "last_date": "2026-11-14"
   },
   "Rune Eaters Esports": {
    "rating": 1415.3,
@@ -392,10 +392,10 @@
    "last_date": "2026-10-21"
   },
   "TNR Esports": {
-   "rating": 1540.5,
+   "rating": 1498.3,
    "w": 19,
-   "l": 18,
-   "last_date": "2026-11-13"
+   "l": 21,
+   "last_date": "2026-11-14"
   },
   "Team EvilKing": {
    "rating": 1458.1,
@@ -422,8 +422,8 @@
    "last_date": "2026-10-28"
   },
   "Team Flash KH": {
-   "rating": 1508.3,
-   "w": 32,
+   "rating": 1550.6,
+   "w": 35,
    "l": 42,
    "last_date": "2026-11-14"
   },
@@ -500,10 +500,10 @@
    "last_date": "2026-09-09"
   },
   "Team Yandex": {
-   "rating": 1738.2,
-   "w": 87,
+   "rating": 1749.4,
+   "w": 90,
    "l": 60,
-   "last_date": "2026-11-12"
+   "last_date": "2026-11-14"
   },
   "Tenacity": {
    "rating": 1569.3,

@@ -1,8 +1,8 @@
 {
  "game": "r6",
- "updated": "2026-11-14",
- "last_match_date": "2026-11-14",
- "source_matches": 3907,
+ "updated": "2026-11-15",
+ "last_match_date": "2026-11-15",
+ "source_matches": 3910,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 75,
@@ -98,10 +98,10 @@
    "last_date": "2026-11-10"
   },
   "DarkZero Esports": {
-   "rating": 1750.9,
+   "rating": 1723.2,
    "w": 102,
-   "l": 70,
-   "last_date": "2026-11-14"
+   "l": 73,
+   "last_date": "2026-11-15"
   },
   "Daystar": {
    "rating": 1571.0,
@@ -146,10 +146,10 @@
    "last_date": "2026-10-25"
   },
   "FaZe Clan": {
-   "rating": 1855.5,
-   "w": 155,
+   "rating": 1883.1,
+   "w": 158,
    "l": 73,
-   "last_date": "2026-11-14"
+   "last_date": "2026-11-15"
   },
   "Falcons Esport": {
    "rating": 1800.0,
