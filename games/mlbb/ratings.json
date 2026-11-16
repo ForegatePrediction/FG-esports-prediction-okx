@@ -1,8 +1,8 @@
 {
  "game": "mlbb",
- "updated": "2026-11-15",
- "last_match_date": "2026-11-14",
- "source_matches": 5527,
+ "updated": "2026-11-16",
+ "last_match_date": "2026-11-15",
+ "source_matches": 5548,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 95,
@@ -14,10 +14,10 @@
    "last_date": "2026-11-01"
   },
   " Vigor Apex": {
-   "rating": 1697.3,
-   "w": 24,
-   "l": 4,
-   "last_date": "2026-11-14"
+   "rating": 1686.1,
+   "w": 28,
+   "l": 6,
+   "last_date": "2026-11-15"
   },
   "AC Esports": {
    "rating": 1436.8,
@@ -50,10 +50,10 @@
    "last_date": "2026-11-13"
   },
   "Aurevia Team": {
-   "rating": 1673.7,
-   "w": 35,
-   "l": 23,
-   "last_date": "2026-11-14"
+   "rating": 1658.5,
+   "w": 38,
+   "l": 27,
+   "last_date": "2026-11-15"
   },
   "Aurora Gaming": {
    "rating": 1708.1,
@@ -152,10 +152,10 @@
    "last_date": "2026-06-21"
   },
   "FUT Esports": {
-   "rating": 1699.9,
-   "w": 23,
-   "l": 8,
-   "last_date": "2026-11-14"
+   "rating": 1725.1,
+   "w": 28,
+   "l": 11,
+   "last_date": "2026-11-15"
   },
   "Falcons Vega": {
    "rating": 1536.5,
@@ -350,10 +350,10 @@
    "last_date": "2026-10-18"
   },
   "Rakuzan": {
-   "rating": 1575.2,
+   "rating": 1524.1,
    "w": 28,
-   "l": 26,
-   "last_date": "2026-11-14"
+   "l": 32,
+   "last_date": "2026-11-15"
   },
   "Rune Eaters Esports": {
    "rating": 1415.3,
@@ -422,10 +422,10 @@
    "last_date": "2026-10-28"
   },
   "Team Flash KH": {
-   "rating": 1550.6,
-   "w": 35,
-   "l": 42,
-   "last_date": "2026-11-14"
+   "rating": 1561.8,
+   "w": 37,
+   "l": 46,
+   "last_date": "2026-11-15"
   },
   "Team GEASS": {
    "rating": 1562.9,
@@ -500,10 +500,10 @@
    "last_date": "2026-09-09"
   },
   "Team Yandex": {
-   "rating": 1749.4,
-   "w": 90,
-   "l": 60,
-   "last_date": "2026-11-14"
+   "rating": 1790.5,
+   "w": 97,
+   "l": 62,
+   "last_date": "2026-11-15"
   },
   "Tenacity": {
    "rating": 1569.3,

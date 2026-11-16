@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-11-15",
- "last_match_date": "2026-11-15",
- "source_matches": 10469,
+ "updated": "2026-11-16",
+ "last_match_date": "2026-11-16",
+ "source_matches": 10495,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 227,
+ "n_teams": 225,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -44,10 +44,10 @@
    "last_date": "2026-08-18"
   },
   "A Team": {
-   "rating": 1446.4,
-   "w": 9,
+   "rating": 1476.4,
+   "w": 11,
    "l": 11,
-   "last_date": "2026-11-15"
+   "last_date": "2026-11-16"
   },
   "AG.AL International": {
    "rating": 1537.2,
@@ -110,16 +110,16 @@
    "last_date": "2026-11-15"
   },
   "Ambitious Legend Gaming": {
-   "rating": 1461.5,
+   "rating": 1435.4,
    "w": 5,
-   "l": 6,
-   "last_date": "2026-11-14"
+   "l": 8,
+   "last_date": "2026-11-16"
   },
   "Any Questions Gaming": {
-   "rating": 1559.8,
-   "w": 31,
+   "rating": 1575.9,
+   "w": 33,
    "l": 27,
-   "last_date": "2026-11-15"
+   "last_date": "2026-11-16"
   },
   "Asterisk": {
    "rating": 1515.9,
@@ -146,10 +146,10 @@
    "last_date": "2026-10-25"
   },
   "BERG": {
-   "rating": 1494.7,
-   "w": 5,
-   "l": 8,
-   "last_date": "2026-11-08"
+   "rating": 1503.4,
+   "w": 7,
+   "l": 9,
+   "last_date": "2026-11-15"
   },
   "BESTIA": {
    "rating": 1639.6,
@@ -158,10 +158,10 @@
    "last_date": "2026-08-22"
   },
   "BOOM Esports": {
-   "rating": 1535.9,
-   "w": 27,
+   "rating": 1565.1,
+   "w": 29,
    "l": 30,
-   "last_date": "2026-11-12"
+   "last_date": "2026-11-15"
   },
   "Barça eSports": {
    "rating": 1611.3,
@@ -259,12 +259,6 @@
    "l": 75,
    "last_date": "2026-10-02"
   },
-  "EGO": {
-   "rating": 1489.7,
-   "w": 5,
-   "l": 8,
-   "last_date": "2026-06-18"
-  },
   "EOTO": {
    "rating": 1483.3,
    "w": 12,
@@ -356,10 +350,10 @@
    "last_date": "2026-08-18"
   },
   "FRG": {
-   "rating": 1455.2,
+   "rating": 1433.6,
    "w": 14,
-   "l": 19,
-   "last_date": "2026-11-08"
+   "l": 21,
+   "last_date": "2026-11-15"
   },
   "FULL SENSE": {
    "rating": 1502.7,
@@ -458,10 +452,10 @@
    "last_date": "2026-07-11"
   },
   "FunPlus Phoenix": {
-   "rating": 1549.8,
-   "w": 70,
+   "rating": 1568.4,
+   "w": 72,
    "l": 67,
-   "last_date": "2026-11-15"
+   "last_date": "2026-11-16"
   },
   "G2 Esports": {
    "rating": 1684.3,
@@ -572,10 +566,10 @@
    "last_date": "2026-09-20"
   },
   "HooK Esport": {
-   "rating": 1524.6,
-   "w": 8,
+   "rating": 1546.2,
+   "w": 10,
    "l": 7,
-   "last_date": "2026-11-08"
+   "last_date": "2026-11-15"
   },
   "IGZIST": {
    "rating": 1460.4,
@@ -1118,10 +1112,10 @@
    "last_date": "2026-06-25"
   },
   "TEC Esports": {
-   "rating": 1450.2,
-   "w": 57,
+   "rating": 1473.1,
+   "w": 59,
    "l": 79,
-   "last_date": "2026-11-14"
+   "last_date": "2026-11-16"
   },
   "TYLOO": {
    "rating": 1573.2,
@@ -1231,12 +1225,6 @@
    "l": 67,
    "last_date": "2026-09-04"
   },
-  "TrinitY": {
-   "rating": 1546.9,
-   "w": 15,
-   "l": 12,
-   "last_date": "2026-06-18"
-  },
   "Twisted Minds Orchid": {
    "rating": 1590.5,
    "w": 68,
@@ -1262,10 +1250,10 @@
    "last_date": "2026-07-05"
   },
   "Unsettled Resentment": {
-   "rating": 1475.5,
-   "w": 14,
-   "l": 17,
-   "last_date": "2026-11-14"
+   "rating": 1475.7,
+   "w": 16,
+   "l": 19,
+   "last_date": "2026-11-16"
   },
   "Ushiras": {
    "rating": 1496.1,
@@ -1280,10 +1268,10 @@
    "last_date": "2026-09-04"
   },
   "Victory No Limits": {
-   "rating": 1472.6,
-   "w": 4,
+   "rating": 1498.6,
+   "w": 6,
    "l": 4,
-   "last_date": "2026-11-15"
+   "last_date": "2026-11-16"
   },
   "WEC C": {
    "rating": 1433.7,
