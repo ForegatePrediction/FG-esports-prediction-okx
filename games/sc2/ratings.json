@@ -1,8 +1,8 @@
 {
  "game": "sc2",
- "updated": "2026-11-16",
- "last_match_date": "2026-11-15",
- "source_matches": 5340,
+ "updated": "2026-11-17",
+ "last_match_date": "2026-11-17",
+ "source_matches": 5345,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 57,
@@ -170,10 +170,10 @@
    "last_date": "2026-07-24"
   },
   "Maru": {
-   "rating": 1636.8,
-   "w": 130,
-   "l": 101,
-   "last_date": "2026-07-12"
+   "rating": 1668.8,
+   "w": 134,
+   "l": 102,
+   "last_date": "2026-11-17"
   },
   "MaxPax": {
    "rating": 1698.8,
@@ -224,10 +224,10 @@
    "last_date": "2026-11-07"
   },
   "Rogue": {
-   "rating": 1638.1,
-   "w": 222,
-   "l": 222,
-   "last_date": "2026-11-15"
+   "rating": 1606.1,
+   "w": 223,
+   "l": 226,
+   "last_date": "2026-11-17"
   },
   "SHIN": {
    "rating": 1790.2,
