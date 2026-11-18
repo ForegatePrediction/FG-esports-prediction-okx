@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-11-17",
- "last_match_date": "2026-11-17",
- "source_matches": 10509,
+ "updated": "2026-11-18",
+ "last_match_date": "2026-11-18",
+ "source_matches": 10526,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 230,
+ "n_teams": 232,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -110,10 +110,10 @@
    "last_date": "2026-11-15"
   },
   "Ambitious Legend Gaming": {
-   "rating": 1416.4,
+   "rating": 1391.8,
    "w": 5,
-   "l": 10,
-   "last_date": "2026-11-17"
+   "l": 12,
+   "last_date": "2026-11-18"
   },
   "Any Questions Gaming": {
    "rating": 1587.3,
@@ -146,10 +146,10 @@
    "last_date": "2026-10-25"
   },
   "BERG": {
-   "rating": 1503.4,
-   "w": 7,
-   "l": 9,
-   "last_date": "2026-11-15"
+   "rating": 1489.7,
+   "w": 8,
+   "l": 11,
+   "last_date": "2026-11-17"
   },
   "BESTIA": {
    "rating": 1639.6,
@@ -452,10 +452,10 @@
    "last_date": "2026-07-11"
   },
   "FunPlus Phoenix": {
-   "rating": 1568.4,
-   "w": 72,
+   "rating": 1580.4,
+   "w": 74,
    "l": 67,
-   "last_date": "2026-11-16"
+   "last_date": "2026-11-18"
   },
   "G2 Esports": {
    "rating": 1684.3,
@@ -530,10 +530,10 @@
    "last_date": "2026-07-08"
   },
   "Glacial Guardians": {
-   "rating": 1515.4,
-   "w": 5,
-   "l": 5,
-   "last_date": "2026-09-09"
+   "rating": 1529.1,
+   "w": 7,
+   "l": 6,
+   "last_date": "2026-11-17"
   },
   "Global Esports": {
    "rating": 1634.7,
@@ -554,10 +554,10 @@
    "last_date": "2026-10-22"
   },
   "Havoc & Yonder": {
-   "rating": 1468.5,
+   "rating": 1446.3,
    "w": 5,
-   "l": 5,
-   "last_date": "2026-11-17"
+   "l": 7,
+   "last_date": "2026-11-18"
   },
   "Havoc & Yonder GC": {
    "rating": 1526.9,
@@ -650,10 +650,10 @@
    "last_date": "2026-08-10"
   },
   "KeepBest Gaming": {
-   "rating": 1559.2,
-   "w": 21,
-   "l": 13,
-   "last_date": "2026-11-17"
+   "rating": 1537.7,
+   "w": 22,
+   "l": 15,
+   "last_date": "2026-11-18"
   },
   "Kiwoom DRX": {
    "rating": 1506.0,
@@ -674,10 +674,16 @@
    "last_date": "2026-06-24"
   },
   "LGD Gaming": {
-   "rating": 1347.8,
+   "rating": 1335.8,
    "w": 0,
-   "l": 8,
-   "last_date": "2026-11-17"
+   "l": 10,
+   "last_date": "2026-11-18"
+  },
+  "LNG Esports": {
+   "rating": 1404.3,
+   "w": 2,
+   "l": 6,
+   "last_date": "2026-11-18"
   },
   "LOUD": {
    "rating": 1749.0,
@@ -920,10 +926,10 @@
    "last_date": "2026-08-20"
   },
   "Qian Xing Gaming": {
-   "rating": 1329.4,
+   "rating": 1305.5,
    "w": 0,
-   "l": 8,
-   "last_date": "2026-11-17"
+   "l": 10,
+   "last_date": "2026-11-18"
   },
   "QoR": {
    "rating": 1557.9,
@@ -1003,6 +1009,12 @@
    "l": 29,
    "last_date": "2026-06-28"
   },
+  "SEC": {
+   "rating": 1483.5,
+   "w": 4,
+   "l": 4,
+   "last_date": "2026-11-18"
+  },
   "SEN Otters": {
    "rating": 1503.0,
    "w": 18,
@@ -1064,10 +1076,10 @@
    "last_date": "2026-11-15"
   },
   "Sharper Esport": {
-   "rating": 1668.6,
+   "rating": 1610.0,
    "w": 52,
-   "l": 34,
-   "last_date": "2026-11-13"
+   "l": 37,
+   "last_date": "2026-11-18"
   },
   "ShindeN": {
    "rating": 1672.8,
@@ -1130,10 +1142,10 @@
    "last_date": "2026-06-25"
   },
   "TEC Esports": {
-   "rating": 1460.9,
-   "w": 60,
-   "l": 81,
-   "last_date": "2026-11-17"
+   "rating": 1482.5,
+   "w": 62,
+   "l": 82,
+   "last_date": "2026-11-18"
   },
   "TYLOO": {
    "rating": 1573.2,
@@ -1328,10 +1340,10 @@
    "last_date": "2026-10-01"
   },
   "Xipto Esports": {
-   "rating": 1481.9,
-   "w": 22,
+   "rating": 1540.4,
+   "w": 25,
    "l": 26,
-   "last_date": "2026-11-13"
+   "last_date": "2026-11-18"
   },
   "YFT Esports": {
    "rating": 1498.7,
@@ -1352,10 +1364,10 @@
    "last_date": "2026-07-09"
   },
   "Young Gaming": {
-   "rating": 1529.1,
-   "w": 5,
+   "rating": 1551.4,
+   "w": 7,
    "l": 4,
-   "last_date": "2026-11-17"
+   "last_date": "2026-11-18"
   },
   "ZETA DIVISION": {
    "rating": 1397.1,

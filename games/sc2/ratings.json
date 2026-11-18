@@ -1,8 +1,8 @@
 {
  "game": "sc2",
- "updated": "2026-11-17",
- "last_match_date": "2026-11-17",
- "source_matches": 5345,
+ "updated": "2026-11-18",
+ "last_match_date": "2026-11-18",
+ "source_matches": 5359,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 57,
@@ -44,10 +44,10 @@
    "last_date": "2026-11-10"
   },
   "Clem": {
-   "rating": 1838.4,
-   "w": 440,
-   "l": 217,
-   "last_date": "2026-11-15"
+   "rating": 1804.8,
+   "w": 443,
+   "l": 221,
+   "last_date": "2026-11-17"
   },
   "Cure": {
    "rating": 1625.1,
@@ -170,10 +170,10 @@
    "last_date": "2026-07-24"
   },
   "Maru": {
-   "rating": 1668.8,
-   "w": 134,
-   "l": 102,
-   "last_date": "2026-11-17"
+   "rating": 1701.4,
+   "w": 138,
+   "l": 105,
+   "last_date": "2026-11-18"
   },
   "MaxPax": {
    "rating": 1698.8,
@@ -308,10 +308,10 @@
    "last_date": "2026-10-22"
   },
   "herO": {
-   "rating": 1784.5,
-   "w": 395,
-   "l": 245,
-   "last_date": "2026-11-15"
+   "rating": 1785.4,
+   "w": 402,
+   "l": 252,
+   "last_date": "2026-11-18"
   },
   "sOs": {
    "rating": 1437.4,
