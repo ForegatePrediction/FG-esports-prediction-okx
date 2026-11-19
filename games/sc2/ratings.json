@@ -1,8 +1,8 @@
 {
  "game": "sc2",
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "last_match_date": "2026-11-18",
- "source_matches": 5359,
+ "source_matches": 5362,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 57,
@@ -44,10 +44,10 @@
    "last_date": "2026-11-10"
   },
   "Clem": {
-   "rating": 1804.8,
-   "w": 443,
+   "rating": 1824.0,
+   "w": 446,
    "l": 221,
-   "last_date": "2026-11-17"
+   "last_date": "2026-11-18"
   },
   "Cure": {
    "rating": 1625.1,
@@ -224,10 +224,10 @@
    "last_date": "2026-11-07"
   },
   "Rogue": {
-   "rating": 1606.1,
+   "rating": 1587.0,
    "w": 223,
-   "l": 226,
-   "last_date": "2026-11-17"
+   "l": 229,
+   "last_date": "2026-11-18"
   },
   "SHIN": {
    "rating": 1790.2,
