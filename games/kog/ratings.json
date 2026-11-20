@@ -1,11 +1,11 @@
 {
  "game": "kog",
- "updated": "2026-11-19",
- "last_match_date": "2026-11-14",
- "source_matches": 8970,
+ "updated": "2026-11-20",
+ "last_match_date": "2026-11-20",
+ "source_matches": 8982,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 72,
+ "n_teams": 74,
  "teams": {
   " LIT Team": {
    "rating": 1219.5,
@@ -32,16 +32,16 @@
    "last_date": "2026-10-31"
   },
   "Aurora Gaming": {
-   "rating": 1533.1,
-   "w": 5,
+   "rating": 1561.8,
+   "w": 8,
    "l": 6,
-   "last_date": "2026-08-06"
+   "last_date": "2026-11-20"
   },
   "BOOM Esports": {
-   "rating": 1563.8,
+   "rating": 1528.4,
    "w": 43,
-   "l": 54,
-   "last_date": "2026-11-07"
+   "l": 57,
+   "last_date": "2026-11-20"
   },
   "BOOM Esports VN": {
    "rating": 1530.9,
@@ -84,6 +84,12 @@
    "w": 10,
    "l": 0,
    "last_date": "2026-09-28"
+  },
+  "DOMINATOR by NEMESIS": {
+   "rating": 1459.4,
+   "w": 15,
+   "l": 15,
+   "last_date": "2026-11-20"
   },
   "Deep Cross Gaming": {
    "rating": 1603.4,
@@ -128,10 +134,10 @@
    "last_date": "2026-10-24"
   },
   "Geekay Esports": {
-   "rating": 1594.3,
-   "w": 11,
+   "rating": 1629.7,
+   "w": 14,
    "l": 8,
-   "last_date": "2026-08-08"
+   "last_date": "2026-11-20"
   },
   "Godji Check": {
    "rating": 1364.1,
@@ -140,10 +146,10 @@
    "last_date": "2026-10-10"
   },
   "Hero JiuJing": {
-   "rating": 1526.2,
-   "w": 150,
+   "rating": 1561.5,
+   "w": 153,
    "l": 169,
-   "last_date": "2026-10-22"
+   "last_date": "2026-11-20"
   },
   "Hong Kong": {
    "rating": 1566.9,
@@ -186,6 +192,12 @@
    "w": 143,
    "l": 211,
    "last_date": "2026-08-29"
+  },
+  "Kagendra": {
+   "rating": 1410.0,
+   "w": 15,
+   "l": 28,
+   "last_date": "2026-11-20"
   },
   "King of Gamers Club": {
    "rating": 1517.1,
@@ -278,10 +290,10 @@
    "last_date": "2026-10-17"
   },
   "Rogue Warriors": {
-   "rating": 1518.0,
-   "w": 156,
+   "rating": 1553.7,
+   "w": 159,
    "l": 189,
-   "last_date": "2026-10-17"
+   "last_date": "2026-11-20"
   },
   "Royal Never Give Up": {
    "rating": 1505.5,

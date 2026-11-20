@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-11-19",
- "last_match_date": "2026-11-19",
- "source_matches": 10544,
+ "updated": "2026-11-20",
+ "last_match_date": "2026-11-20",
+ "source_matches": 10556,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 232,
+ "n_teams": 233,
  "teams": {
   " REBORN": {
    "rating": 1774.5,
@@ -44,10 +44,10 @@
    "last_date": "2026-08-18"
   },
   "A Team": {
-   "rating": 1470.9,
-   "w": 13,
+   "rating": 1498.7,
+   "w": 15,
    "l": 13,
-   "last_date": "2026-11-19"
+   "last_date": "2026-11-20"
   },
   "AG.AL International": {
    "rating": 1537.2,
@@ -110,16 +110,16 @@
    "last_date": "2026-11-15"
   },
   "Ambitious Legend Gaming": {
-   "rating": 1391.8,
-   "w": 5,
+   "rating": 1418.1,
+   "w": 7,
    "l": 12,
-   "last_date": "2026-11-18"
+   "last_date": "2026-11-20"
   },
   "Any Questions Gaming": {
-   "rating": 1607.2,
-   "w": 37,
+   "rating": 1632.4,
+   "w": 39,
    "l": 28,
-   "last_date": "2026-11-19"
+   "last_date": "2026-11-20"
   },
   "Asterisk": {
    "rating": 1515.9,
@@ -452,10 +452,10 @@
    "last_date": "2026-07-11"
   },
   "FunPlus Phoenix": {
-   "rating": 1584.9,
+   "rating": 1559.7,
    "w": 76,
-   "l": 68,
-   "last_date": "2026-11-19"
+   "l": 70,
+   "last_date": "2026-11-20"
   },
   "G2 Esports": {
    "rating": 1684.3,
@@ -523,6 +523,12 @@
    "l": 33,
    "last_date": "2026-11-01"
   },
+  "Gesichtenhausen": {
+   "rating": 1567.2,
+   "w": 9,
+   "l": 4,
+   "last_date": "2026-11-19"
+  },
   "Ghools Esports": {
    "rating": 1503.7,
    "w": 29,
@@ -572,10 +578,10 @@
    "last_date": "2026-11-15"
   },
   "Hyper Tide Gaming": {
-   "rating": 1358.1,
+   "rating": 1344.7,
    "w": 1,
-   "l": 10,
-   "last_date": "2026-11-19"
+   "l": 12,
+   "last_date": "2026-11-20"
   },
   "IGZIST": {
    "rating": 1460.4,
@@ -674,16 +680,16 @@
    "last_date": "2026-06-24"
   },
   "LGD Gaming": {
-   "rating": 1335.8,
+   "rating": 1319.0,
    "w": 0,
-   "l": 10,
-   "last_date": "2026-11-18"
+   "l": 12,
+   "last_date": "2026-11-20"
   },
   "LNG Esports": {
-   "rating": 1385.3,
+   "rating": 1358.9,
    "w": 2,
-   "l": 8,
-   "last_date": "2026-11-19"
+   "l": 10,
+   "last_date": "2026-11-20"
   },
   "LOUD": {
    "rating": 1749.0,
@@ -1142,10 +1148,10 @@
    "last_date": "2026-06-25"
   },
   "TEC Esports": {
-   "rating": 1482.5,
+   "rating": 1454.7,
    "w": 62,
-   "l": 82,
-   "last_date": "2026-11-18"
+   "l": 84,
+   "last_date": "2026-11-20"
   },
   "TYLOO": {
    "rating": 1573.2,
@@ -1280,10 +1286,10 @@
    "last_date": "2026-07-05"
   },
   "Unsettled Resentment": {
-   "rating": 1473.8,
-   "w": 18,
+   "rating": 1490.7,
+   "w": 20,
    "l": 22,
-   "last_date": "2026-11-19"
+   "last_date": "2026-11-20"
   },
   "Ushiras": {
    "rating": 1496.1,
@@ -1364,10 +1370,10 @@
    "last_date": "2026-07-09"
   },
   "Young Gaming": {
-   "rating": 1551.4,
-   "w": 7,
+   "rating": 1564.8,
+   "w": 9,
    "l": 4,
-   "last_date": "2026-11-18"
+   "last_date": "2026-11-20"
   },
   "ZETA DIVISION": {
    "rating": 1397.1,
