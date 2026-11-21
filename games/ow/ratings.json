@@ -1,8 +1,8 @@
 {
  "game": "ow",
- "updated": "2026-11-20",
- "last_match_date": "2026-11-20",
- "source_matches": 4674,
+ "updated": "2026-11-21",
+ "last_match_date": "2026-11-21",
+ "source_matches": 4682,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 69,
@@ -74,10 +74,10 @@
    "last_date": "2026-08-23"
   },
   "Crazy Raccoon": {
-   "rating": 1972.3,
-   "w": 236,
+   "rating": 1994.7,
+   "w": 239,
    "l": 93,
-   "last_date": "2026-11-20"
+   "last_date": "2026-11-21"
   },
   "Dallas Fuel": {
    "rating": 1784.5,
@@ -110,10 +110,10 @@
    "last_date": "2026-11-13"
   },
   "Falcons": {
-   "rating": 1811.6,
+   "rating": 1789.3,
    "w": 201,
-   "l": 111,
-   "last_date": "2026-11-20"
+   "l": 114,
+   "last_date": "2026-11-21"
   },
   "Four Angry Men": {
    "rating": 1411.2,
@@ -344,10 +344,10 @@
    "last_date": "2026-08-23"
   },
   "The Gatos Guapos": {
-   "rating": 1699.9,
-   "w": 76,
-   "l": 32,
-   "last_date": "2026-11-20"
+   "rating": 1714.0,
+   "w": 78,
+   "l": 35,
+   "last_date": "2026-11-21"
   },
   "The Kafe": {
    "rating": 1497.9,
@@ -386,10 +386,10 @@
    "last_date": "2026-10-14"
   },
   "VARREL": {
-   "rating": 1824.6,
-   "w": 139,
-   "l": 38,
-   "last_date": "2026-11-20"
+   "rating": 1810.6,
+   "w": 142,
+   "l": 40,
+   "last_date": "2026-11-21"
   },
   "Virtus.pro": {
    "rating": 1714.7,
