@@ -1,11 +1,11 @@
 {
  "game": "sc2",
- "updated": "2026-11-21",
- "last_match_date": "2026-11-18",
- "source_matches": 5362,
+ "updated": "2026-11-22",
+ "last_match_date": "2026-11-21",
+ "source_matches": 5390,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 57,
+ "n_teams": 58,
  "teams": {
   "Arrogfire": {
    "rating": 1455.6,
@@ -44,10 +44,10 @@
    "last_date": "2026-11-10"
   },
   "Clem": {
-   "rating": 1824.0,
-   "w": 446,
-   "l": 221,
-   "last_date": "2026-11-18"
+   "rating": 1834.9,
+   "w": 456,
+   "l": 222,
+   "last_date": "2026-11-21"
   },
   "Cure": {
    "rating": 1625.1,
@@ -72,6 +72,12 @@
    "w": 18,
    "l": 27,
    "last_date": "2026-07-04"
+  },
+  "GamerRichy": {
+   "rating": 1484.9,
+   "w": 3,
+   "l": 5,
+   "last_date": "2026-11-21"
   },
   "Gerald": {
    "rating": 1441.8,
@@ -260,10 +266,10 @@
    "last_date": "2026-11-12"
   },
   "Shino": {
-   "rating": 1384.2,
-   "w": 8,
-   "l": 17,
-   "last_date": "2026-07-03"
+   "rating": 1498.9,
+   "w": 15,
+   "l": 21,
+   "last_date": "2026-11-21"
   },
   "ShoWTimE": {
    "rating": 1570.4,

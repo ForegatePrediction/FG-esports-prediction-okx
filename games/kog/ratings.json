@@ -1,11 +1,11 @@
 {
  "game": "kog",
- "updated": "2026-11-21",
- "last_match_date": "2026-11-21",
- "source_matches": 8992,
+ "updated": "2026-11-22",
+ "last_match_date": "2026-11-22",
+ "source_matches": 9006,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 74,
+ "n_teams": 75,
  "teams": {
   " LIT Team": {
    "rating": 1219.5,
@@ -32,16 +32,16 @@
    "last_date": "2026-10-31"
   },
   "Aurora Gaming": {
-   "rating": 1587.0,
-   "w": 11,
-   "l": 6,
-   "last_date": "2026-11-21"
+   "rating": 1613.5,
+   "w": 14,
+   "l": 7,
+   "last_date": "2026-11-22"
   },
   "BOOM Esports": {
-   "rating": 1528.4,
-   "w": 43,
-   "l": 57,
-   "last_date": "2026-11-20"
+   "rating": 1466.9,
+   "w": 44,
+   "l": 63,
+   "last_date": "2026-11-22"
   },
   "BOOM Esports VN": {
    "rating": 1530.9,
@@ -86,10 +86,10 @@
    "last_date": "2026-09-28"
   },
   "DOMINATOR by NEMESIS": {
-   "rating": 1459.6,
-   "w": 16,
+   "rating": 1504.0,
+   "w": 19,
    "l": 18,
-   "last_date": "2026-11-21"
+   "last_date": "2026-11-22"
   },
   "Deep Cross Gaming": {
    "rating": 1603.4,
@@ -146,10 +146,10 @@
    "last_date": "2026-10-10"
   },
   "Hero JiuJing": {
-   "rating": 1561.5,
-   "w": 153,
-   "l": 169,
-   "last_date": "2026-11-20"
+   "rating": 1578.5,
+   "w": 156,
+   "l": 170,
+   "last_date": "2026-11-21"
   },
   "Hong Kong": {
    "rating": 1566.9,
@@ -187,6 +187,12 @@
    "l": 198,
    "last_date": "2026-11-14"
   },
+  "JGame Esports": {
+   "rating": 1337.5,
+   "w": 0,
+   "l": 9,
+   "last_date": "2026-11-22"
+  },
   "JLY": {
    "rating": 1305.3,
    "w": 143,
@@ -194,10 +200,10 @@
    "last_date": "2026-08-29"
   },
   "Kagendra": {
-   "rating": 1386.1,
-   "w": 15,
+   "rating": 1424.7,
+   "w": 18,
    "l": 31,
-   "last_date": "2026-11-21"
+   "last_date": "2026-11-22"
   },
   "King of Gamers Club": {
    "rating": 1517.1,
@@ -290,10 +296,10 @@
    "last_date": "2026-10-17"
   },
   "Rogue Warriors": {
-   "rating": 1577.6,
-   "w": 162,
-   "l": 189,
-   "last_date": "2026-11-21"
+   "rating": 1551.1,
+   "w": 163,
+   "l": 192,
+   "last_date": "2026-11-22"
   },
   "Royal Never Give Up": {
    "rating": 1505.5,
