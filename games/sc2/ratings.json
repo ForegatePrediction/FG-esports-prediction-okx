@@ -1,8 +1,8 @@
 {
  "game": "sc2",
- "updated": "2026-11-22",
- "last_match_date": "2026-11-21",
- "source_matches": 5390,
+ "updated": "2026-11-23",
+ "last_match_date": "2026-11-22",
+ "source_matches": 5411,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 58,
@@ -44,10 +44,10 @@
    "last_date": "2026-11-10"
   },
   "Clem": {
-   "rating": 1834.9,
-   "w": 456,
-   "l": 222,
-   "last_date": "2026-11-21"
+   "rating": 1775.6,
+   "w": 460,
+   "l": 228,
+   "last_date": "2026-11-22"
   },
   "Cure": {
    "rating": 1625.1,
@@ -230,10 +230,10 @@
    "last_date": "2026-11-07"
   },
   "Rogue": {
-   "rating": 1587.0,
-   "w": 223,
-   "l": 229,
-   "last_date": "2026-11-18"
+   "rating": 1586.6,
+   "w": 225,
+   "l": 237,
+   "last_date": "2026-11-22"
   },
   "SHIN": {
    "rating": 1790.2,
@@ -254,10 +254,10 @@
    "last_date": "2026-07-18"
   },
   "Serral": {
-   "rating": 1945.9,
-   "w": 223,
-   "l": 90,
-   "last_date": "2026-09-13"
+   "rating": 1946.4,
+   "w": 231,
+   "l": 93,
+   "last_date": "2026-11-22"
   },
   "Shameless": {
    "rating": 1474.3,
@@ -314,10 +314,10 @@
    "last_date": "2026-10-22"
   },
   "herO": {
-   "rating": 1785.4,
-   "w": 402,
-   "l": 252,
-   "last_date": "2026-11-18"
+   "rating": 1844.6,
+   "w": 409,
+   "l": 256,
+   "last_date": "2026-11-22"
   },
   "sOs": {
    "rating": 1437.4,

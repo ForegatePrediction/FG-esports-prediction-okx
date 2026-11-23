@@ -1,8 +1,8 @@
 {
  "game": "kog",
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "last_match_date": "2026-11-22",
- "source_matches": 9006,
+ "source_matches": 9011,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 75,
@@ -134,10 +134,10 @@
    "last_date": "2026-10-24"
   },
   "Geekay Esports": {
-   "rating": 1629.6,
-   "w": 17,
-   "l": 9,
-   "last_date": "2026-11-21"
+   "rating": 1638.7,
+   "w": 20,
+   "l": 11,
+   "last_date": "2026-11-22"
   },
   "Godji Check": {
    "rating": 1364.1,
@@ -146,10 +146,10 @@
    "last_date": "2026-10-10"
   },
   "Hero JiuJing": {
-   "rating": 1578.5,
-   "w": 156,
-   "l": 170,
-   "last_date": "2026-11-21"
+   "rating": 1569.4,
+   "w": 158,
+   "l": 173,
+   "last_date": "2026-11-22"
   },
   "Hong Kong": {
    "rating": 1566.9,
