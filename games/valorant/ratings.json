@@ -1,11 +1,11 @@
 {
  "game": "valorant",
- "updated": "2026-11-23",
- "last_match_date": "2026-11-23",
- "source_matches": 10741,
+ "updated": "2026-11-24",
+ "last_match_date": "2026-11-24",
+ "source_matches": 10769,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 242,
+ "n_teams": 239,
  "teams": {
   " Arranca Dreams": {
    "rating": 1463.7,
@@ -38,10 +38,10 @@
    "last_date": "2026-07-10"
   },
   "9z Team": {
-   "rating": 1512.1,
-   "w": 43,
+   "rating": 1534.4,
+   "w": 45,
    "l": 49,
-   "last_date": "2026-11-21"
+   "last_date": "2026-11-23"
   },
   ":3": {
    "rating": 1459.8,
@@ -50,10 +50,10 @@
    "last_date": "2026-08-18"
   },
   "A Team": {
-   "rating": 1547.0,
-   "w": 19,
-   "l": 13,
-   "last_date": "2026-11-23"
+   "rating": 1530.7,
+   "w": 20,
+   "l": 15,
+   "last_date": "2026-11-24"
   },
   "AG.AL International": {
    "rating": 1537.2,
@@ -116,16 +116,10 @@
    "last_date": "2026-11-21"
   },
   "Any Questions Gaming": {
-   "rating": 1647.5,
-   "w": 41,
-   "l": 28,
-   "last_date": "2026-11-21"
-  },
-  "Asterisk": {
-   "rating": 1515.9,
-   "w": 26,
-   "l": 22,
-   "last_date": "2026-06-26"
+   "rating": 1648.0,
+   "w": 45,
+   "l": 30,
+   "last_date": "2026-11-24"
   },
   "Axolotl": {
    "rating": 1601.8,
@@ -385,12 +379,6 @@
    "l": 58,
    "last_date": "2026-08-29"
   },
-  "FUSION": {
-   "rating": 1337.6,
-   "w": 14,
-   "l": 31,
-   "last_date": "2026-06-26"
-  },
   "FUSION X": {
    "rating": 1494.4,
    "w": 26,
@@ -464,10 +452,10 @@
    "last_date": "2026-11-22"
   },
   "FunPlus Phoenix": {
-   "rating": 1500.1,
-   "w": 76,
-   "l": 74,
-   "last_date": "2026-11-23"
+   "rating": 1514.2,
+   "w": 78,
+   "l": 75,
+   "last_date": "2026-11-24"
   },
   "G2 Esports": {
    "rating": 1684.3,
@@ -650,10 +638,10 @@
    "last_date": "2026-08-08"
   },
   "KRÜ Blaze": {
-   "rating": 1703.4,
+   "rating": 1659.9,
    "w": 74,
-   "l": 50,
-   "last_date": "2026-11-21"
+   "l": 52,
+   "last_date": "2026-11-23"
   },
   "KRÜ Esports": {
    "rating": 1494.0,
@@ -680,10 +668,10 @@
    "last_date": "2026-08-10"
   },
   "KeepBest Gaming": {
-   "rating": 1530.5,
-   "w": 26,
-   "l": 19,
-   "last_date": "2026-11-23"
+   "rating": 1516.4,
+   "w": 27,
+   "l": 21,
+   "last_date": "2026-11-24"
   },
   "Kiwoom DRX": {
    "rating": 1506.0,
@@ -943,12 +931,6 @@
    "l": 42,
    "last_date": "2026-10-09"
   },
-  "Pigeons": {
-   "rating": 1434.8,
-   "w": 18,
-   "l": 29,
-   "last_date": "2026-06-26"
-  },
   "Pixel Lumina": {
    "rating": 1521.9,
    "w": 40,
@@ -1010,10 +992,10 @@
    "last_date": "2026-10-28"
   },
   "Revenant XSpark": {
-   "rating": 1627.3,
-   "w": 37,
-   "l": 23,
-   "last_date": "2026-06-27"
+   "rating": 1624.1,
+   "w": 39,
+   "l": 24,
+   "last_date": "2026-11-24"
   },
   "Rex Regum Qeon": {
    "rating": 1507.7,
@@ -1040,10 +1022,10 @@
    "last_date": "2026-06-28"
   },
   "SEC": {
-   "rating": 1507.9,
-   "w": 9,
-   "l": 6,
-   "last_date": "2026-11-22"
+   "rating": 1511.6,
+   "w": 10,
+   "l": 8,
+   "last_date": "2026-11-23"
   },
   "SEN Otters": {
    "rating": 1503.0,
@@ -1056,6 +1038,12 @@
    "w": 10,
    "l": 3,
    "last_date": "2026-11-22"
+  },
+  "SIGN Esports": {
+   "rating": 1546.0,
+   "w": 12,
+   "l": 9,
+   "last_date": "2026-11-23"
   },
   "SK Nebula": {
    "rating": 1639.9,
@@ -1183,12 +1171,6 @@
    "l": 55,
    "last_date": "2026-11-21"
   },
-  "Team Evictix": {
-   "rating": 1443.4,
-   "w": 20,
-   "l": 29,
-   "last_date": "2026-06-26"
-  },
   "Team Falcons VEGA": {
    "rating": 1601.1,
    "w": 23,
@@ -1310,16 +1292,16 @@
    "last_date": "2026-07-09"
   },
   "University War": {
-   "rating": 1611.3,
-   "w": 23,
-   "l": 14,
-   "last_date": "2026-11-21"
+   "rating": 1614.0,
+   "w": 25,
+   "l": 15,
+   "last_date": "2026-11-23"
   },
   "Unsettled Resentment": {
-   "rating": 1535.9,
-   "w": 24,
-   "l": 23,
-   "last_date": "2026-11-23"
+   "rating": 1552.1,
+   "w": 26,
+   "l": 24,
+   "last_date": "2026-11-24"
   },
   "Ushiras": {
    "rating": 1496.1,
@@ -1334,10 +1316,10 @@
    "last_date": "2026-09-04"
   },
   "Victory No Limits": {
-   "rating": 1583.9,
-   "w": 16,
-   "l": 7,
-   "last_date": "2026-11-23"
+   "rating": 1579.7,
+   "w": 17,
+   "l": 9,
+   "last_date": "2026-11-24"
   },
   "WEC C": {
    "rating": 1433.7,
