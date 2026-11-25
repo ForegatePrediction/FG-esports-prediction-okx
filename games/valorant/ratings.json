@@ -1,8 +1,8 @@
 {
  "game": "valorant",
- "updated": "2026-11-24",
- "last_match_date": "2026-11-24",
- "source_matches": 10769,
+ "updated": "2026-11-25",
+ "last_match_date": "2026-11-25",
+ "source_matches": 10801,
  "scale": 400,
  "shrink": 1.0,
  "n_teams": 239,
@@ -50,22 +50,16 @@
    "last_date": "2026-08-18"
   },
   "A Team": {
-   "rating": 1530.7,
-   "w": 20,
-   "l": 15,
-   "last_date": "2026-11-24"
+   "rating": 1519.6,
+   "w": 21,
+   "l": 17,
+   "last_date": "2026-11-25"
   },
   "AG.AL International": {
    "rating": 1537.2,
    "w": 4,
    "l": 4,
    "last_date": "2026-07-07"
-  },
-  "AGELITE": {
-   "rating": 1381.2,
-   "w": 6,
-   "l": 21,
-   "last_date": "2026-06-27"
   },
   "ALTERNATE aTTaX": {
    "rating": 1429.3,
@@ -96,12 +90,6 @@
    "w": 70,
    "l": 57,
    "last_date": "2026-09-06"
-  },
-  "Alliance Guardians": {
-   "rating": 1449.6,
-   "w": 18,
-   "l": 27,
-   "last_date": "2026-06-27"
   },
   "Alter Ego x Kertanegara": {
    "rating": 1500.8,
@@ -187,6 +175,12 @@
    "l": 67,
    "last_date": "2026-09-09"
   },
+  "Bonkers": {
+   "rating": 1618.0,
+   "w": 7,
+   "l": 1,
+   "last_date": "2026-11-25"
+  },
   "CGN Esports": {
    "rating": 1814.5,
    "w": 110,
@@ -200,10 +194,10 @@
    "last_date": "2026-09-07"
   },
   "Chivas Esports": {
-   "rating": 1507.4,
-   "w": 30,
+   "rating": 1533.6,
+   "w": 32,
    "l": 35,
-   "last_date": "2026-11-23"
+   "last_date": "2026-11-24"
   },
   "Cloud9": {
    "rating": 1544.9,
@@ -218,10 +212,10 @@
    "last_date": "2026-09-03"
   },
   "Contra": {
-   "rating": 1547.4,
-   "w": 52,
-   "l": 54,
-   "last_date": "2026-11-22"
+   "rating": 1549.6,
+   "w": 54,
+   "l": 55,
+   "last_date": "2026-11-24"
   },
   "Crest Gaming Zst": {
    "rating": 1611.1,
@@ -277,6 +271,12 @@
    "l": 36,
    "last_date": "2026-11-22"
   },
+  "Enisorail": {
+   "rating": 1525.5,
+   "w": 4,
+   "l": 4,
+   "last_date": "2026-11-24"
+  },
   "Enterprise Esports": {
    "rating": 1775.4,
    "w": 119,
@@ -284,10 +284,10 @@
    "last_date": "2026-08-23"
   },
   "Eternal Fire": {
-   "rating": 1602.7,
-   "w": 85,
+   "rating": 1627.9,
+   "w": 87,
    "l": 60,
-   "last_date": "2026-10-23"
+   "last_date": "2026-11-24"
   },
   "Eternal Focus Amethyst": {
    "rating": 1377.0,
@@ -404,10 +404,10 @@
    "last_date": "2026-07-25"
   },
   "Fire Flux Esports": {
-   "rating": 1635.1,
+   "rating": 1594.5,
    "w": 44,
-   "l": 53,
-   "last_date": "2026-10-25"
+   "l": 55,
+   "last_date": "2026-11-24"
   },
   "Fluxo W7M": {
    "rating": 1514.1,
@@ -452,10 +452,10 @@
    "last_date": "2026-11-22"
   },
   "FunPlus Phoenix": {
-   "rating": 1514.2,
+   "rating": 1492.3,
    "w": 78,
-   "l": 75,
-   "last_date": "2026-11-24"
+   "l": 77,
+   "last_date": "2026-11-25"
   },
   "G2 Esports": {
    "rating": 1684.3,
@@ -600,12 +600,6 @@
    "w": 10,
    "l": 15,
    "last_date": "2026-07-25"
-  },
-  "INTZ": {
-   "rating": 1576.8,
-   "w": 30,
-   "l": 24,
-   "last_date": "2026-06-27"
   },
   "Insomnia": {
    "rating": 1415.7,
@@ -794,10 +788,10 @@
    "last_date": "2026-11-23"
   },
   "Misa Esports": {
-   "rating": 1580.4,
+   "rating": 1555.2,
    "w": 61,
-   "l": 48,
-   "last_date": "2026-10-12"
+   "l": 50,
+   "last_date": "2026-11-24"
   },
   "Mix My Miks": {
    "rating": 1493.7,
@@ -1022,10 +1016,10 @@
    "last_date": "2026-06-28"
   },
   "SEC": {
-   "rating": 1511.6,
-   "w": 10,
-   "l": 8,
-   "last_date": "2026-11-23"
+   "rating": 1501.5,
+   "w": 11,
+   "l": 10,
+   "last_date": "2026-11-24"
   },
   "SEN Otters": {
    "rating": 1503.0,
@@ -1052,10 +1046,10 @@
    "last_date": "2026-10-28"
   },
   "STREAMER ARENA": {
-   "rating": 1467.6,
-   "w": 13,
-   "l": 18,
-   "last_date": "2026-11-23"
+   "rating": 1465.4,
+   "w": 14,
+   "l": 20,
+   "last_date": "2026-11-24"
   },
   "SaD Esports": {
    "rating": 1518.0,
@@ -1267,6 +1261,12 @@
    "l": 67,
    "last_date": "2026-09-04"
   },
+  "Trigon Titans": {
+   "rating": 1492.7,
+   "w": 4,
+   "l": 5,
+   "last_date": "2026-11-24"
+  },
   "Twisted Minds Orchid": {
    "rating": 1590.5,
    "w": 68,
@@ -1280,10 +1280,10 @@
    "last_date": "2026-09-13"
   },
   "TwoFace Gaming": {
-   "rating": 1513.3,
-   "w": 5,
-   "l": 5,
-   "last_date": "2026-11-22"
+   "rating": 1496.1,
+   "w": 6,
+   "l": 7,
+   "last_date": "2026-11-24"
   },
   "UCAM Esports Club": {
    "rating": 1612.3,
@@ -1316,10 +1316,10 @@
    "last_date": "2026-09-04"
   },
   "Victory No Limits": {
-   "rating": 1579.7,
-   "w": 17,
+   "rating": 1601.6,
+   "w": 19,
    "l": 9,
-   "last_date": "2026-11-24"
+   "last_date": "2026-11-25"
   },
   "WEC C": {
    "rating": 1433.7,
@@ -1400,10 +1400,10 @@
    "last_date": "2026-07-09"
   },
   "Young Gaming": {
-   "rating": 1556.1,
-   "w": 11,
-   "l": 6,
-   "last_date": "2026-11-23"
+   "rating": 1577.3,
+   "w": 15,
+   "l": 8,
+   "last_date": "2026-11-25"
   },
   "ZETA DIVISION": {
    "rating": 1397.1,

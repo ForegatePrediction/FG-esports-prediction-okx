@@ -1,11 +1,11 @@
 {
  "game": "sc2",
- "updated": "2026-11-24",
- "last_match_date": "2026-11-24",
- "source_matches": 5424,
+ "updated": "2026-11-25",
+ "last_match_date": "2026-11-25",
+ "source_matches": 5435,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 57,
+ "n_teams": 53,
  "teams": {
   "Arrogfire": {
    "rating": 1455.6,
@@ -44,22 +44,16 @@
    "last_date": "2026-11-24"
   },
   "Clem": {
-   "rating": 1775.6,
-   "w": 460,
-   "l": 228,
-   "last_date": "2026-11-22"
+   "rating": 1758.0,
+   "w": 464,
+   "l": 232,
+   "last_date": "2026-11-25"
   },
   "Cure": {
    "rating": 1625.1,
    "w": 267,
    "l": 243,
    "last_date": "2026-09-25"
-  },
-  "Cyan": {
-   "rating": 1484.2,
-   "w": 16,
-   "l": 20,
-   "last_date": "2026-06-27"
   },
   "Elazer": {
    "rating": 1530.3,
@@ -120,18 +114,6 @@
    "w": 2,
    "l": 19,
    "last_date": "2026-07-03"
-  },
-  "INnoVation": {
-   "rating": 1524.1,
-   "w": 6,
-   "l": 4,
-   "last_date": "2026-06-27"
-  },
-  "Jieshi": {
-   "rating": 1415.9,
-   "w": 10,
-   "l": 19,
-   "last_date": "2026-06-27"
   },
   "Jumy": {
    "rating": 1341.5,
@@ -212,10 +194,10 @@
    "last_date": "2026-06-28"
   },
   "Percival": {
-   "rating": 1614.8,
+   "rating": 1598.0,
    "w": 78,
-   "l": 110,
-   "last_date": "2026-11-12"
+   "l": 113,
+   "last_date": "2026-11-25"
   },
   "Reynor": {
    "rating": 1732.3,
@@ -224,10 +206,10 @@
    "last_date": "2026-11-07"
   },
   "Rogue": {
-   "rating": 1586.6,
-   "w": 225,
-   "l": 237,
-   "last_date": "2026-11-22"
+   "rating": 1588.7,
+   "w": 226,
+   "l": 240,
+   "last_date": "2026-11-25"
   },
   "SHIN": {
    "rating": 1752.7,
@@ -308,10 +290,10 @@
    "last_date": "2026-10-22"
   },
   "herO": {
-   "rating": 1844.6,
-   "w": 409,
-   "l": 256,
-   "last_date": "2026-11-22"
+   "rating": 1876.8,
+   "w": 415,
+   "l": 257,
+   "last_date": "2026-11-25"
   },
   "sOs": {
    "rating": 1437.4,
@@ -324,12 +306,6 @@
    "w": 12,
    "l": 18,
    "last_date": "2026-07-03"
-  },
-  "soO": {
-   "rating": 1538.9,
-   "w": 6,
-   "l": 3,
-   "last_date": "2026-06-27"
   },
   "trigger": {
    "rating": 1524.6,
