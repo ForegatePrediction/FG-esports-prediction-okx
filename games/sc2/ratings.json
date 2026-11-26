@@ -1,11 +1,11 @@
 {
  "game": "sc2",
- "updated": "2026-11-25",
- "last_match_date": "2026-11-25",
- "source_matches": 5435,
+ "updated": "2026-11-26",
+ "last_match_date": "2026-11-26",
+ "source_matches": 5440,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 53,
+ "n_teams": 51,
  "teams": {
   "Arrogfire": {
    "rating": 1455.6,
@@ -38,10 +38,10 @@
    "last_date": "2026-07-04"
   },
   "Classic": {
-   "rating": 1584.7,
-   "w": 295,
-   "l": 235,
-   "last_date": "2026-11-24"
+   "rating": 1644.5,
+   "w": 299,
+   "l": 236,
+   "last_date": "2026-11-26"
   },
   "Clem": {
    "rating": 1758.0,
@@ -187,12 +187,6 @@
    "l": 76,
    "last_date": "2026-08-04"
   },
-  "Oliveira": {
-   "rating": 1521.4,
-   "w": 15,
-   "l": 16,
-   "last_date": "2026-06-28"
-  },
   "Percival": {
    "rating": 1598.0,
    "w": 78,
@@ -212,10 +206,10 @@
    "last_date": "2026-11-25"
   },
   "SHIN": {
-   "rating": 1752.7,
-   "w": 288,
-   "l": 273,
-   "last_date": "2026-11-24"
+   "rating": 1692.9,
+   "w": 289,
+   "l": 277,
+   "last_date": "2026-11-26"
   },
   "SKillous": {
    "rating": 1571.0,
@@ -264,12 +258,6 @@
    "w": 71,
    "l": 82,
    "last_date": "2026-07-31"
-  },
-  "TY": {
-   "rating": 1487.7,
-   "w": 7,
-   "l": 8,
-   "last_date": "2026-06-28"
   },
   "Trap": {
    "rating": 1433.4,

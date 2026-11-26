@@ -1,11 +1,11 @@
 {
  "game": "dota2",
- "updated": "2026-11-25",
- "last_match_date": "2026-11-25",
- "source_matches": 17296,
+ "updated": "2026-11-26",
+ "last_match_date": "2026-11-26",
+ "source_matches": 17316,
  "scale": 400,
  "shrink": 0.7,
- "n_teams": 170,
+ "n_teams": 169,
  "teams": {
   " Pipsqueak+4": {
    "rating": 1661.4,
@@ -38,10 +38,10 @@
    "last_date": "2026-10-24"
   },
   "4ikibamboni": {
-   "rating": 1493.5,
-   "w": 27,
-   "l": 32,
-   "last_date": "2026-11-20"
+   "rating": 1473.4,
+   "w": 28,
+   "l": 34,
+   "last_date": "2026-11-26"
   },
   "ALOHADANCE Team": {
    "rating": 1497.1,
@@ -50,10 +50,10 @@
    "last_date": "2026-10-18"
   },
   "Amaru Gaming": {
-   "rating": 1483.7,
-   "w": 58,
-   "l": 72,
-   "last_date": "2026-11-11"
+   "rating": 1488.9,
+   "w": 60,
+   "l": 74,
+   "last_date": "2026-11-25"
   },
   "Argentina": {
    "rating": 1453.8,
@@ -68,10 +68,10 @@
    "last_date": "2026-11-22"
   },
   "Aurora": {
-   "rating": 1854.4,
+   "rating": 1827.1,
    "w": 342,
-   "l": 233,
-   "last_date": "2026-11-24"
+   "l": 235,
+   "last_date": "2026-11-26"
   },
   "BALU": {
    "rating": 1286.8,
@@ -140,10 +140,10 @@
    "last_date": "2026-11-04"
   },
   "Cloud Rising": {
-   "rating": 1600.5,
-   "w": 39,
+   "rating": 1624.6,
+   "w": 41,
    "l": 50,
-   "last_date": "2026-11-20"
+   "last_date": "2026-11-26"
   },
   "Cloud of Hope": {
    "rating": 1413.5,
@@ -236,10 +236,10 @@
    "last_date": "2026-11-06"
   },
   "Direborn": {
-   "rating": 1731.7,
-   "w": 86,
+   "rating": 1744.8,
+   "w": 88,
    "l": 51,
-   "last_date": "2026-11-23"
+   "last_date": "2026-11-26"
   },
   "Ecuador": {
    "rating": 1595.8,
@@ -254,10 +254,10 @@
    "last_date": "2026-08-01"
   },
   "Execration": {
-   "rating": 1532.0,
+   "rating": 1519.0,
    "w": 179,
-   "l": 165,
-   "last_date": "2026-11-24"
+   "l": 167,
+   "last_date": "2026-11-26"
   },
   "FTS": {
    "rating": 1412.3,
@@ -284,10 +284,10 @@
    "last_date": "2026-08-03"
   },
   "GamerLegion": {
-   "rating": 1848.4,
-   "w": 137,
+   "rating": 1875.8,
+   "w": 139,
    "l": 135,
-   "last_date": "2026-11-24"
+   "last_date": "2026-11-26"
   },
   "Gorgc Team": {
    "rating": 1567.7,
@@ -338,10 +338,10 @@
    "last_date": "2026-08-10"
   },
   "Inner Circle x Insanity": {
-   "rating": 1702.8,
-   "w": 181,
+   "rating": 1719.8,
+   "w": 183,
    "l": 186,
-   "last_date": "2026-11-24"
+   "last_date": "2026-11-25"
   },
   "InterActive Philippines": {
    "rating": 1435.1,
@@ -463,12 +463,6 @@
    "l": 18,
    "last_date": "2026-11-10"
   },
-  "Mentality Monster": {
-   "rating": 1524.2,
-   "w": 25,
-   "l": 26,
-   "last_date": "2026-06-28"
-  },
   "Mexico": {
    "rating": 1480.4,
    "w": 4,
@@ -560,16 +554,16 @@
    "last_date": "2026-07-11"
   },
   "Power Rangers": {
-   "rating": 1578.2,
-   "w": 160,
+   "rating": 1603.8,
+   "w": 162,
    "l": 130,
-   "last_date": "2026-11-24"
+   "last_date": "2026-11-25"
   },
   "PuckChamp": {
-   "rating": 1567.1,
+   "rating": 1550.1,
    "w": 56,
-   "l": 90,
-   "last_date": "2026-11-24"
+   "l": 92,
+   "last_date": "2026-11-25"
   },
   "RE.Arise": {
    "rating": 1512.0,
@@ -692,10 +686,10 @@
    "last_date": "2026-09-25"
   },
   "Spirit Academy": {
-   "rating": 1686.8,
-   "w": 136,
-   "l": 177,
-   "last_date": "2026-11-24"
+   "rating": 1701.9,
+   "w": 138,
+   "l": 178,
+   "last_date": "2026-11-25"
   },
   "Stariy Bog Club": {
    "rating": 1499.4,
@@ -740,10 +734,10 @@
    "last_date": "2026-07-25"
   },
   "Team Allied": {
-   "rating": 1516.2,
-   "w": 12,
+   "rating": 1540.6,
+   "w": 14,
    "l": 16,
-   "last_date": "2026-11-20"
+   "last_date": "2026-11-25"
   },
   "Team Cobra": {
    "rating": 1526.0,
@@ -932,10 +926,10 @@
    "last_date": "2026-11-11"
   },
   "Yangon Galacticos": {
-   "rating": 1565.1,
+   "rating": 1540.9,
    "w": 265,
-   "l": 257,
-   "last_date": "2026-11-24"
+   "l": 259,
+   "last_date": "2026-11-26"
   },
   "Yellow Submarine": {
    "rating": 1700.2,
@@ -950,16 +944,16 @@
    "last_date": "2026-11-10"
   },
   "Zero Tenacity": {
-   "rating": 1561.6,
+   "rating": 1536.0,
    "w": 455,
-   "l": 408,
-   "last_date": "2026-11-24"
+   "l": 410,
+   "last_date": "2026-11-25"
   },
   "angry birds": {
-   "rating": 1726.1,
-   "w": 50,
-   "l": 27,
-   "last_date": "2026-11-24"
+   "rating": 1711.0,
+   "w": 51,
+   "l": 29,
+   "last_date": "2026-11-25"
   },
   "avice Team": {
    "rating": 1502.0,
