@@ -1,11 +1,11 @@
 {
  "game": "kog",
- "updated": "2026-11-27",
- "last_match_date": "2026-11-27",
- "source_matches": 9020,
+ "updated": "2026-11-28",
+ "last_match_date": "2026-11-28",
+ "source_matches": 9027,
  "scale": 400,
  "shrink": 1.0,
- "n_teams": 75,
+ "n_teams": 77,
  "teams": {
   " LIT Team": {
    "rating": 1219.5,
@@ -169,6 +169,12 @@
    "l": 130,
    "last_date": "2026-10-10"
   },
+  "ID Kings Laga": {
+   "rating": 1447.7,
+   "w": 4,
+   "l": 7,
+   "last_date": "2026-11-28"
+  },
   "Influence Rage": {
    "rating": 1535.4,
    "w": 7,
@@ -270,6 +276,12 @@
    "w": 129,
    "l": 114,
    "last_date": "2026-10-18"
+  },
+  "PH Kings League": {
+   "rating": 1443.8,
+   "w": 4,
+   "l": 8,
+   "last_date": "2026-11-28"
   },
   "Philippines": {
    "rating": 1531.0,
